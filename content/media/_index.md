@@ -12,37 +12,37 @@ description: "人类一败涂地精彩截图和视频"
 ### 🔥 搞笑高光时刻
 
 #### 1. 当5位「无骨患者」尝试攀登最高的山峰！
-{{< bilibili BV1f3411t7Ta >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV1f3411t7Ta)
 > 播放：228万 | UP主：萝卜吃米洛
 
 ---
 
 #### 2. 【小潮】笑死我了，我不行了，哈哈哈哈哈哈哈
-{{< bilibili BV1Gb411b7qJ >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV1Gb411b7qJ)
 > 播放：134万 | UP主：小潮院长
 
 ---
 
 #### 3. 【小潮】慎点！笑死你我不管 | 人类一败涂地
-{{< bilibili BV1qW411e7WP >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV1qW411e7WP)
 > 播放：77万 | UP主：小潮院长
 
 ---
 
 #### 4. 【风笑试玩】用双手撑起自己的肉体！
-{{< bilibili BV1gs411X77q >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV1gs411X77q)
 > 播放：56万 | UP主：逆风笑
 
 ---
 
 #### 5. 当三个有趣灵魂的人聚在一起...简直笑到窒息！
-{{< bilibili BV18J411c7Hq >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV18J411c7Hq)
 > 播放：36万 | UP主：KF凯蜂
 
 ---
 
 #### 6. 玩了3000小时的玩家进入萌新房间会发生什么？
-{{< bilibili BV1TM4y1G7oz >}}
+[▶️ 点击观看](https://www.bilibili.com/video/BV1TM4y1G7oz)
 > 播放：22万 | UP主：里逸zZ
 
 ---
