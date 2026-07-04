@@ -1,0 +1,27 @@
+﻿{{ define "main" }}
+    {{- /* 显示 _index.md 的内容（英雄区、特色卡片等） */ -}}
+    <article class="home-content">
+        {{ .Content }}
+    </article>
+
+    {{- /* 文章列表 */ -}}
+    {{- $paginator := partial "helper/paginator.html" . -}}
+
+    {{ if gt (len $paginator.Pages) 0 }}
+    <h2 style="margin-top: 2rem; font-family: 'Orbitron', sans-serif; font-size: 1.5rem; color: #00f5ff; text-align: center; letter-spacing: 2px; text-transform: uppercase; text-shadow: 0 0 10px rgba(0,245,255,0.3);">
+        📝 最新攻略
+    </h2>
+    <section class="article-list">
+        {{ range $index, $element := $paginator.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+    {{ end }}
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
