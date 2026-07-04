@@ -650,6 +650,97 @@ h3 {
   background: var(--game-gradient-hover);
 }
 
+/* 强制文章内容区域所有文本及列表项显色，防止深色背景下因主题重载导致文本发黑 */
+.article-content,
+.article-content p,
+.article-content li,
+.article-content ul,
+.article-content ol,
+.article-content blockquote,
+.article-content span,
+.article-content strong,
+.article-content table,
+.article-content td,
+.article-content th,
+.article-content a:not(.btn-cyber):not(.video-platform-link) {
+  color: var(--game-text) !important;
+}
+
+.article-content strong {
+  color: #ffffff !important;
+  text-shadow: 0 0 10px rgba(0, 245, 255, 0.3) !important;
+}
+
+/* 侧边栏及页脚文字防黑 */
+.sidebar,
+.widget,
+.widget-title,
+.site-description,
+.menu-bottom-section,
+.footer,
+.site-avatar {
+  color: var(--game-text) !important;
+}
+
+/* 动感十足的激光扫描线背景特效 */
+body::before {
+  content: "";
+  position: fixed;
+  top: -5%;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(to bottom, rgba(0, 245, 255, 0), rgba(0, 245, 255, 0.2), rgba(0, 245, 255, 0));
+  animation: scanline 10s linear infinite;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+@keyframes scanline {
+  0% {
+    top: -5%;
+  }
+  100% {
+    top: 105%;
+  }
+}
+
+/* 标题悬停互动扩展特效 */
+h1, h2, h3 {
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+}
+h1:hover, h2:hover, h3:hover {
+  letter-spacing: 2px !important;
+  text-shadow: 0 0 15px var(--game-primary), 0 0 5px var(--game-secondary) !important;
+}
+
+/* 精彩游戏大图悬停倾斜与发光特效 */
+.game-image-container {
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  overflow: hidden;
+}
+.game-image-container:hover {
+  transform: scale(1.01) translateY(-4px);
+  box-shadow: 0 0 25px rgba(0, 245, 255, 0.4), 0 0 10px rgba(255, 0, 228, 0.2) !important;
+  border-color: var(--game-secondary) !important;
+}
+.game-image-container img {
+  transition: all 0.5s ease;
+}
+.game-image-container:hover img {
+  transform: scale(1.03);
+}
+
+/* 关卡与视频卡片悬停悬起双倍发光特效 */
+.level-select-card, .video-card, .feature-card, .widget {
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+}
+.level-select-card:hover, .video-card:hover, .feature-card:hover, .widget:hover {
+  transform: translateY(-8px) scale(1.01);
+  border-color: var(--game-secondary) !important;
+  box-shadow: var(--game-glow-strong) !important;
+}
+
 /* 响应式调整 */
 @media (max-width: 768px) {
   .main-article {
