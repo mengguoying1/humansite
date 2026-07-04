@@ -45,7 +45,7 @@ params:
     avatar: "/img/logo.jpg"
   footer:
     since: 2026
-    customText: "本站与 No Brakes Games 及 Curve Digital 无关，为玩家自发建立的攻略站"
+    customText: "⚡ 本站为玩家自发建立的攻略站 · Human: Fall Flat ® 是 No Brakes Games 的注册商标"
 
 # Google AdSense (后续配置)
 # googleAdSense: ca-pub-xxxxxxxxxxxxxxxx

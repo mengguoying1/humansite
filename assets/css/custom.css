@@ -1,0 +1,224 @@
+﻿/* ============================================
+   人类一败涂地 攻略站 - 自定义样式
+   游戏科技风主题
+   ============================================ */
+
+/* 游戏字体 */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;700;900&display=swap');
+
+:root {
+  --game-primary: #00f5ff;
+  --game-secondary: #ff00e4;
+  --game-accent: #ff6b00;
+  --game-bg: #0a0a1a;
+  --game-card-bg: #12122a;
+  --game-text: #e0e0ff;
+  --game-glow: 0 0 20px rgba(0, 245, 255, 0.3);
+  --game-gradient: linear-gradient(135deg, #00f5ff, #ff00e4);
+  --game-gradient2: linear-gradient(135deg, #00f5ff, #ff6b00);
+}
+
+/* 全局背景 */
+body {
+  font-family: "Noto Sans SC", sans-serif;
+  background: var(--game-bg) !important;
+  color: var(--game-text) !important;
+}
+
+/* 顶部导航 */
+.navbar {
+  background: rgba(10, 10, 26, 0.95) !important;
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0, 245, 255, 0.2);
+}
+
+.navbar .nav-link {
+  color: var(--game-text) !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.navbar .nav-link:hover {
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 10px rgba(0, 245, 255, 0.5);
+}
+
+.navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--game-gradient);
+  transition: width 0.3s ease;
+}
+
+.navbar .nav-link:hover::after {
+  width: 100%;
+}
+
+/* 首页英雄区 */
+.article-list--compact {
+  position: relative;
+}
+
+/* 文章卡片 */
+.article-item {
+  background: var(--game-card-bg) !important;
+  border: 1px solid rgba(0, 245, 255, 0.1);
+  border-radius: 12px !important;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.article-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 2px;
+  background: var(--game-gradient);
+  transition: left 0.5s ease;
+}
+
+.article-item:hover {
+  transform: translateY(-4px);
+  border-color: rgba(0, 245, 255, 0.3);
+  box-shadow: var(--game-glow);
+}
+
+.article-item:hover::before {
+  left: 0;
+}
+
+/* 标题样式 */
+.article-title a {
+  color: var(--game-text) !important;
+  font-weight: 700;
+  transition: color 0.3s ease;
+}
+
+.article-title a:hover {
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 10px rgba(0, 245, 255, 0.3);
+}
+
+/* 侧边栏 */
+.sidebar {
+  background: var(--game-card-bg) !important;
+  border-right: 1px solid rgba(0, 245, 255, 0.1);
+}
+
+.sidebar .site-name a {
+  color: var(--game-text) !important;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: var(--game-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 标签 */
+.widget-tag a {
+  background: rgba(0, 245, 255, 0.1) !important;
+  color: var(--game-primary) !important;
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  border-radius: 20px !important;
+  transition: all 0.3s ease;
+}
+
+.widget-tag a:hover {
+  background: rgba(0, 245, 255, 0.2) !important;
+  box-shadow: 0 0 15px rgba(0, 245, 255, 0.3);
+  transform: scale(1.05);
+}
+
+/* 页脚 */
+.footer {
+  border-top: 1px solid rgba(0, 245, 255, 0.1);
+  color: rgba(224, 224, 255, 0.6);
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--game-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #00f5ff, #ff00e4);
+  border-radius: 4px;
+}
+
+/* 代码块 */
+pre {
+  background: #0d0d2b !important;
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  border-radius: 8px;
+}
+
+code {
+  color: var(--game-primary) !important;
+}
+
+/* 表格 */
+table {
+  border: 1px solid rgba(0, 245, 255, 0.2);
+}
+
+th {
+  background: rgba(0, 245, 255, 0.1);
+  color: var(--game-primary);
+}
+
+td, th {
+  border: 1px solid rgba(0, 245, 255, 0.1);
+}
+
+/* 块引用 */
+blockquote {
+  border-left: 3px solid var(--game-primary);
+  background: rgba(0, 245, 255, 0.05);
+}
+
+/* 游戏特色卡片动画 */
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(0, 245, 255, 0.2); }
+  50% { box-shadow: 0 0 40px rgba(0, 245, 255, 0.4); }
+}
+
+.article-item.featured {
+  animation: glowPulse 3s ease-in-out infinite;
+}
+
+/* 首页标题特殊样式 */
+.home-title {
+  font-family: "Orbitron", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+  background: var(--game-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+  margin: 2rem 0;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 1.8rem;
+  }
+}
