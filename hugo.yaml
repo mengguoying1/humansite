@@ -1,0 +1,76 @@
+﻿baseURL: https://mengguoying1.github.io/humansite/
+locale: zh-cn
+title: 🎮 人类一败涂地 - 攻略站
+theme: stack
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+
+# 菜单导航
+menu:
+  main:
+    - identifier: home
+      name: 首页
+      url: /
+      weight: 1
+    - identifier: gameplay
+      name: 玩法指南
+      url: /gameplay/
+      weight: 2
+    - identifier: guides
+      name: 关卡攻略
+      url: /guides/
+      weight: 3
+    - identifier: multiplayer
+      name: 联机专区
+      url: /multiplayer/
+      weight: 4
+    - identifier: media
+      name: 媒体中心
+      url: /media/
+      weight: 5
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 6
+
+# 主题配置
+params:
+  description: 人类一败涂地（Human: Fall Flat）中文攻略站 - 玩法指南、关卡攻略、联机技巧、精彩视频
+  mainSections:
+    - gameplay
+    - guides
+    - multiplayer
+  sidebar:
+    compact: false
+    subtitle: Human: Fall Flat 中文攻略站
+    avatar:
+      url: /img/logo.jpg
+  footer:
+    since: 2026
+    customText: 本站与 No Brakes Games 及 Curve Digital 无关，为玩家自发建立的攻略站
+
+# Google AdSense (后续配置)
+# googleAdSense: ca-pub-xxxxxxxxxxxxxxxx
+
+# SEO
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# 分页
+paginate: 10
+
+# 输出格式
+outputs:
+  home: [HTML, RSS, JSON]
+  page: [HTML]
+  section: [HTML, RSS]
+
+# Markdown 配置
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: monokai
