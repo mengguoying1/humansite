@@ -12,8 +12,8 @@ description: "人类一败涂地全关卡详细攻略"
 ## 🏗️ 关卡列表
 
 ### 官方关卡
-- [x] [[guides/mansion|🏰 豪宅 (Mansion)]] ✅ 已发布
-- [ ] 工厂 (Factory)
+- [x] [[guides/mansion|🏰 豪宅 (Mansion)]] ✅
+- [x] [[guides/factory|🏭 工厂 (Factory)]] ✅
 - [ ] 火车 (Train)
 - [ ] 汽车 (Car)
 - [ ] 山巅 (Mountain)
@@ -40,7 +40,10 @@ description: "人类一败涂地全关卡详细攻略"
 
 | 日期 | 内容 |
 |:---:|------|
-| 2026-07-04 | 🆕 [[guides/mansion|🏰 豪宅攻略]] 发布 — 多种解法、速通技巧、隐藏要素 |
+| 2026-07-04 | 🆕 [[guides/factory|🏭 工厂攻略]] 发布 — 传送带、吊臂、多种解法 |
+| 2026-07-04 | 🆕 [[gameplay/physics-tips|💪 物理技巧大全]] 发布 — 10大技巧从入门到大神 |
+| 2026-07-04 | 🆕 [[media|🎬 媒体中心]] 更新 — 新增6个B站精选搞笑视频 |
+| 2026-07-04 | 🆕 [[guides/mansion|🏰 豪宅攻略]] 发布 — 多种解法、速通技巧 |
 
 ---
 
