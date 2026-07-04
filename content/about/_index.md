@@ -1,38 +1,28 @@
-﻿---
-title: "ℹ️ 关于本站"
-description: "关于人类一败涂地攻略站"
+---
+title: "👤 About the Portal"
+description: "Human: Fall Flat walkthrough portal introduction and site credits"
 ---
 
-# 关于本站
+# 👤 About the Portal
 
-## 🎯 站点定位
+Welcome to the Human: Fall Flat Walkthrough Portal! This website is a fan-created platform dedicated to compiling, archiving, and sharing the best controls, advanced physics guidelines, and speedrun routes for the official maps of Human: Fall Flat.
 
-**人类一败涂地攻略站** 是一个由玩家自发建立的中文攻略网站，旨在为《人类一败涂地》(Human: Fall Flat) 的玩家提供：
-
-- 📖 全面的玩法指南
-- 🗺️ 详细的关卡攻略
-- 👥 联机技巧与趣事
-- 🎬 精彩截图与视频
-
-## ℹ️ 游戏信息
-
-| 项目 | 内容 |
-|------|------|
-| 游戏名称 | 人类一败涂地 (Human: Fall Flat) |
-| 开发商 | No Brakes Games |
-| 发行商 | Curve Digital |
-| 首发日期 | 2016年7月 |
-| 最新销量 | 5800万+ 份 (2025年12月) |
-| 续作 | Human: Fall Flat 2 (开发中) |
-
-## 📜 免责声明
-
-本站为 **玩家自发建立** 的攻略站，与 No Brakes Games、Curve Digital 及其关联公司 **没有任何关联**。所有游戏内容版权归各自所有者所有。
-
-## 📬 联系方式
-
-- GitHub: [https://github.com/mengguoying1/humansite](https://github.com/mengguoying1/humansite)
+<div class="game-image-container">
+  <img src="/img/cover.jpg" alt="Human: Fall Flat Cover Art">
+  <div class="img-caption">📸 Human: Fall Flat - Where wobbly bodies accomplish extraordinary tasks</div>
+</div>
 
 ---
 
-*感谢你的访问！🎮*
+## 🛠️ Main Features & Modules
+*   **Physics Tutorials** — Clear mappings of wobbly mechanics (swinging, single-hand climbing, launching).
+*   **All-Level Coverage** — Star-ratings, estimated times, and direct "Clearance Secrets" for all 30 official levels.
+*   **Lag-Free Media** — Browser-friendly players embedded in the media tab to view community highlights instantly.
+*   **Bilingual Switcher** — Native support for English and Chinese to cater to wobbly players worldwide.
+
+---
+
+## ⚖️ Disclaimer
+*   *This site is a fan-made, non-profit gaming portal built for educational and strategic sharing.*
+*   *Human: Fall Flat ® is a registered trademark of No Brakes Games / Curve Games. All official images, copyrights, and assets belong to their respective developers.*
+*   *We are preparing this site for the Google AdSense program. If you find our guides helpful, please feel free to share the link with your wobbly friends!*

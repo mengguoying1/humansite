@@ -1,54 +1,8 @@
-﻿baseURL: https://www.mrm777.win/
-locale: zh-cn
-title: "🎮 人类一败涂地 - 攻略站"
+baseURL: https://www.mrm777.win/
 theme: stack
-defaultContentLanguage: zh-cn
 
-# 菜单导航
-menu:
-  main:
-    - identifier: home
-      name: "首页"
-      url: /
-      weight: 1
-    - identifier: gameplay
-      name: "玩法指南"
-      url: /gameplay/
-      weight: 2
-    - identifier: guides
-      name: "关卡攻略"
-      url: /guides/
-      weight: 3
-    - identifier: multiplayer
-      name: "联机专区"
-      url: /multiplayer/
-      weight: 4
-    - identifier: media
-      name: "媒体中心"
-      url: /media/
-      weight: 5
-    - identifier: about
-      name: "关于"
-      url: /about/
-      weight: 6
-
-# 主题配置
-params:
-  description: "人类一败涂地（Human: Fall Flat）中文攻略站 - 玩法指南、关卡攻略、联机技巧、精彩视频"
-  mainSections:
-    - gameplay
-    - guides
-    - multiplayer
-  sidebar:
-    compact: false
-    subtitle: "Human: Fall Flat 中文攻略站"
-    avatar: "/img/logo.jpg"
-  footer:
-    since: 2026
-    customText: "⚡ 本站为玩家自发建立的攻略站 · Human: Fall Flat ® 是 No Brakes Games 的注册商标"
-
-# Google AdSense (后续配置)
-# googleAdSense: ca-pub-xxxxxxxxxxxxxxxx
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 
 # SEO
 enableRobotsTXT: true
@@ -72,3 +26,85 @@ markup:
       unsafe: true
   highlight:
     style: monokai
+
+languages:
+  en:
+    label: English
+    locale: en
+    title: "🎮 Human: Fall Flat - Walkthroughs & Guides"
+    weight: 1
+    params:
+      description: "Human: Fall Flat walkthroughs, gameplay tips, level guides, and multiplayer secrets."
+      sidebar:
+        subtitle: "Human: Fall Flat Walkthrough Portal"
+        avatar: "/img/logo.jpg"
+        compact: false
+        customText: "⚡ Fan-made Guide Site · Human: Fall Flat ® is a registered trademark of No Brakes Games"
+      colorScheme:
+        toggle: false
+    menu:
+      main:
+        - identifier: home
+          name: "Home"
+          url: /
+          weight: 1
+        - identifier: gameplay
+          name: "Gameplay Guide"
+          url: /gameplay/
+          weight: 2
+        - identifier: guides
+          name: "Level Guides"
+          url: /guides/
+          weight: 3
+        - identifier: multiplayer
+          name: "Multiplayer"
+          url: /multiplayer/
+          weight: 4
+        - identifier: media
+          name: "Media Center"
+          url: /media/
+          weight: 5
+        - identifier: about
+          name: "About"
+          url: /about/
+          weight: 6
+  zh-cn:
+    label: 简体中文
+    locale: zh-cn
+    title: "🎮 人类一败涂地 - 中文攻略站"
+    weight: 2
+    params:
+      description: "人类一败涂地（Human: Fall Flat）中文攻略站 - 玩法指南、关卡攻略、联机技巧、精彩视频"
+      sidebar:
+        subtitle: "人类一败涂地 中文攻略站"
+        avatar: "/img/logo.jpg"
+        compact: false
+        customText: "⚡ 本站为玩家自发建立的攻略站 · Human: Fall Flat ® 是 No Brakes Games 的注册商标"
+      colorScheme:
+        toggle: false
+    menu:
+      main:
+        - identifier: home
+          name: "首页"
+          url: /
+          weight: 1
+        - identifier: gameplay
+          name: "玩法指南"
+          url: /gameplay/
+          weight: 2
+        - identifier: guides
+          name: "关卡攻略"
+          url: /guides/
+          weight: 3
+        - identifier: multiplayer
+          name: "联机专区"
+          url: /multiplayer/
+          weight: 4
+        - identifier: media
+          name: "媒体中心"
+          url: /media/
+          weight: 5
+        - identifier: about
+          name: "关于"
+          url: /about/
+          weight: 6

@@ -1,32 +1,41 @@
-﻿---
-title: "👥 联机专区"
-description: "人类一败涂地联机模式介绍与技巧"
+---
+title: "👥 Multiplayer Guide"
+description: "Human: Fall Flat multiplayer mechanics, cooperative tricks, and lobby troubleshooting."
 ---
 
-# 联机专区
+# 👥 Multiplayer Guide
 
-## 🎮 联机模式介绍
+Human: Fall Flat supports up to **8 players** online or split-screen co-op on local networks! Solving puzzles is twice as fun (and twice as wobbly) when you have Bobs pulling, throwing, and launching each other.
 
-人类一败涂地支持最多 **8人** 在线联机或本地分屏合作！
-
-### 联机方式
-- **在线联机** — 通过 Steam 好友或公开房间
-- **本地分屏** — 一台电脑多人玩
-- **远程同乐** — Steam Remote Play Together
-
-### 联机技巧
-1. **分工合作** — 每人负责不同的任务
-2. **互相帮助** — 拉队友一把可以到达更高处
-3. **搞怪玩法** — 把队友扔出去也是乐趣的一部分
-4. **创意解法** — 人多力量大，很多单人过不去的地方多人轻松搞定
-
-### 搞笑时刻
-联机模式最大的乐趣就是各种意外和搞笑瞬间：
-- 把队友推下悬崖
-- 一起荡秋千飞出去
-- 叠罗汉爬高墙
-- 抢着搬同一个物体
+<div class="game-image-container">
+  <img src="/img/multiplayer.jpg" alt="Human: Fall Flat Multiplayer Lobby">
+  <div class="img-caption">📸 Teamwork makes the dream work: Helping each other climb steep barriers</div>
+</div>
 
 ---
 
-*更多联机内容正在建设中...*
+## 🎮 Multiplayer Modes
+*   **Online Lobby** — Join public servers or host a private room for Steam/console friends.
+*   **Local Split-screen** — Play with a friend on a single PC using controllers.
+*   **Remote Play Together** — Invite players who don't own the game to join via Steam's virtual lobby.
+
+---
+
+## 🤝 Cooperative Physics Mappings
+1.  **Human Slingshot (Human Catapult)** — One player grabs a swinging rope or crane hook, a second player grabs the first player's legs, and they swing together. The bottom player releases at the peak angle to achieve double the momentum!
+2.  **Bob Ladder** — When a wall is too high to climb solo, one Bob stands on the ground facing the wall, raising both hands. The second Bob steps on the first Bob's head, and jumps to climb over the edge.
+3.  **Anchoring** — Hold down the grab buttons on heavy objects or platforms while a teammate runs across, preventing the object from shifting or tipping over.
+
+---
+
+## 📊 Funny Team Behaviors & Probability
+
+| Behavior | Probability | In-Game Description |
+| :--- | :--- | :--- |
+| **Pushing Teammate Off Cliff** | 88% | "Purely accidental, I swear!" 😂 |
+| **Fighting For The Same Box** | 75% | Inefficient resource allocation |
+| **Grabbing Teammate Mid-Air** | 60% | Wobbly physics locking system in action |
+
+---
+
+*Network status: Synchronized with the wobbly servers. Share your sandcastle clips in the [Media Center](/media/)!*
