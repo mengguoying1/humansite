@@ -46,14 +46,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🚂 Level 3: Train Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🚂 Level 3: Train" class="level-select-img">
+    <img src="/img/train.jpg" alt="🚂 Level 3: Train" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🚂 Level 3: Train
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Train level guide & secrets</p>
-      <a href="/guides/train/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/train/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐☆☆☆</span>
         <span>Est: 12 Mins</span>
@@ -62,14 +62,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 📦 Level 4: Carry Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="📦 Level 4: Carry" class="level-select-img">
+    <img src="/img/carry.jpg" alt="📦 Level 4: Carry" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         📦 Level 4: Carry
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Carry level guide & secrets</p>
-      <a href="/guides/carry/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/carry/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐☆☆☆</span>
         <span>Est: 10 Mins</span>
@@ -78,14 +78,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⛰️ Level 5: Mountain Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="⛰️ Level 5: Mountain" class="level-select-img">
+    <img src="/img/mountain.jpg" alt="⛰️ Level 5: Mountain" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⛰️ Level 5: Mountain
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Mountain level guide & secrets</p>
-      <a href="/guides/mountain/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/mountain/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 20 Mins</span>
@@ -94,14 +94,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🏗️ Level 6: Demolition Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="🏗️ Level 6: Demolition" class="level-select-img">
+    <img src="/img/demolition.jpg" alt="🏗️ Level 6: Demolition" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🏗️ Level 6: Demolition
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Demolition level guide & secrets</p>
-      <a href="/guides/demolition/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/demolition/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 18 Mins</span>
@@ -110,14 +110,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🏰 Level 7: Castle Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🏰 Level 7: Castle" class="level-select-img">
+    <img src="/img/castle.jpg" alt="🏰 Level 7: Castle" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🏰 Level 7: Castle
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Castle level guide & secrets</p>
-      <a href="/guides/castle/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/castle/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 25 Mins</span>
@@ -126,14 +126,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⛵ Level 8: Water Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="⛵ Level 8: Water" class="level-select-img">
+    <img src="/img/water.jpg" alt="⛵ Level 8: Water" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⛵ Level 8: Water
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Water level guide & secrets</p>
-      <a href="/guides/water/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/water/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 25 Mins</span>
@@ -142,14 +142,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⚡ Level 9: Power Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="⚡ Level 9: Power" class="level-select-img">
+    <img src="/img/power.jpg" alt="⚡ Level 9: Power" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⚡ Level 9: Power
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Power level guide & secrets</p>
-      <a href="/guides/power/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/power/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 30 Mins</span>
@@ -158,14 +158,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🗿 Level 10: Aztec Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🗿 Level 10: Aztec" class="level-select-img">
+    <img src="/img/aztec.jpg" alt="🗿 Level 10: Aztec" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🗿 Level 10: Aztec
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Aztec level guide & secrets</p>
-      <a href="/guides/aztec/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/aztec/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐⭐☆</span>
         <span>Est: 30 Mins</span>

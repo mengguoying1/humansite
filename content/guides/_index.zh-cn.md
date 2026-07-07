@@ -46,14 +46,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🚂 第三关：火车 (Train) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🚂 第三关：火车 (Train)" class="level-select-img">
+    <img src="/img/train.jpg" alt="🚂 第三关：火车 (Train)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🚂 第三关：火车 (Train)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地火车关卡攻略</p>
-      <a href="/guides/train/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/train/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐☆☆☆</span>
         <span>时长：12 分钟</span>
@@ -62,14 +62,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 📦 第四关：搬运 (Carry) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="📦 第四关：搬运 (Carry)" class="level-select-img">
+    <img src="/img/carry.jpg" alt="📦 第四关：搬运 (Carry)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         📦 第四关：搬运 (Carry)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地搬运关卡攻略</p>
-      <a href="/guides/carry/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/carry/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐☆☆☆</span>
         <span>时长：10 分钟</span>
@@ -78,14 +78,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⛰️ 第五关：山巅 (Mountain) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="⛰️ 第五关：山巅 (Mountain)" class="level-select-img">
+    <img src="/img/mountain.jpg" alt="⛰️ 第五关：山巅 (Mountain)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⛰️ 第五关：山巅 (Mountain)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地山巅关卡攻略</p>
-      <a href="/guides/mountain/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/mountain/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：20 分钟</span>
@@ -94,14 +94,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🏗️ 第六关：拆除 (Demolition) Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="🏗️ 第六关：拆除 (Demolition)" class="level-select-img">
+    <img src="/img/demolition.jpg" alt="🏗️ 第六关：拆除 (Demolition)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🏗️ 第六关：拆除 (Demolition)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地拆除关卡攻略</p>
-      <a href="/guides/demolition/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/demolition/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：18 分钟</span>
@@ -110,14 +110,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🏰 第七关：城堡 (Castle) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🏰 第七关：城堡 (Castle)" class="level-select-img">
+    <img src="/img/castle.jpg" alt="🏰 第七关：城堡 (Castle)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🏰 第七关：城堡 (Castle)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地城堡关卡攻略</p>
-      <a href="/guides/castle/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/castle/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：25 分钟</span>
@@ -126,14 +126,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⛵ 第八关：水 (Water) Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="⛵ 第八关：水 (Water)" class="level-select-img">
+    <img src="/img/water.jpg" alt="⛵ 第八关：水 (Water)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⛵ 第八关：水 (Water)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地水关卡攻略</p>
-      <a href="/guides/water/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/water/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：25 分钟</span>
@@ -142,14 +142,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⚡ 第九关：动力 (Power) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="⚡ 第九关：动力 (Power)" class="level-select-img">
+    <img src="/img/power.jpg" alt="⚡ 第九关：动力 (Power)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ⚡ 第九关：动力 (Power)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地动力关卡攻略</p>
-      <a href="/guides/power/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/power/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：30 分钟</span>
@@ -158,14 +158,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🗿 第十关：阿兹特克 (Aztec) Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🗿 第十关：阿兹特克 (Aztec)" class="level-select-img">
+    <img src="/img/aztec.jpg" alt="🗿 第十关：阿兹特克 (Aztec)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🗿 第十关：阿兹特克 (Aztec)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地阿兹特克关卡攻略</p>
-      <a href="/guides/aztec/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/aztec/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">进入关卡档案</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐⭐☆</span>
         <span>时长：30 分钟</span>

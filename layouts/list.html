@@ -1,4 +1,4 @@
-﻿{{ define "main" }}
+{{ define "main" }}
     <header>
         <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}
@@ -19,7 +19,7 @@
         </div>
     </header>
 
-    {{- /* 显示 _index.md 的内容 */ -}}
+    {{- /* 显示 _index.md 的内容（包含自定义 HTML 手工面板） */ -}}
     {{ with .Content }}
         <div class="section-content" style="padding: 1rem 0;">
             {{ . }}
@@ -46,12 +46,50 @@
         </aside>
     {{- end -}}
     
-    {{/* List only pages that are not a subsection */}}
+    {{/* List only pages in a premium responsive 3-column grid layout */}}
     {{ $paginator := partial "helper/paginator.html" . }}
     {{ with $paginator }}
-        <section class="article-list--compact">
+        <section class="guide-grid">
             {{ range .Pages }}
-                {{ partial "article-list/compact" . }}
+                <!-- Custom image fallback resolver (with safe .File check) -->
+                {{ $img := "/img/cover.jpg" }}
+                {{ $name := "" }}
+                {{ if .File }}
+                    {{ $name = .File.TranslationBaseName }}
+                {{ end }}
+                
+                {{ if eq $name "mansion" }}{{ $img = "/img/mansion.jpg" }}
+                {{ else if eq $name "factory" }}{{ $img = "/img/factory.jpg" }}
+                {{ else if or (eq $name "train") (eq $name "mountain") (eq $name "castle") (eq $name "forest") (eq $name "tower") (eq $name "hike") }}{{ $img = "/img/climbing.jpg" }}
+                {{ else if or (eq $name "carry") (eq $name "power") (eq $name "laboratory") (eq $name "lumber") (eq $name "copper-world") (eq $name "test-chamber") }}{{ $img = "/img/factory.jpg" }}
+                {{ else if or (eq $name "demolition") (eq $name "steam") (eq $name "thermal") (eq $name "steampunk-party") }}{{ $img = "/img/swinging.jpg" }}
+                {{ else if or (eq $name "water") (eq $name "golf") (eq $name "underwater") (eq $name "viking") (eq $name "multiplayer") }}{{ $img = "/img/multiplayer.jpg" }}
+                {{ else if or (eq $name "aztec") (eq $name "port") (eq $name "candyland") }}{{ $img = "/img/mansion.jpg" }}
+                {{ else if or (eq $name "city") (eq $name "miniature") }}{{ $img = "/img/hero_banner.jpg" }}
+                {{ else if or (eq $name "dark") (eq $name "ice") }}{{ $img = "/img/cover.jpg" }}
+                {{ end }}
+                
+                <article class="guide-grid-card">
+                    <a href="{{ .RelPermalink }}" class="guide-card-image-link">
+                        <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy">
+                    </a>
+                    <div class="guide-card-content">
+                        <h2 class="guide-card-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </h2>
+                        <p class="guide-card-description">{{ .Description }}</p>
+                        <div class="guide-card-meta">
+                            <span class="guide-card-date">{{ .Date.Format "2006-01-02" }}</span>
+                            {{ if .Params.tags }}
+                            <div class="guide-card-tags">
+                                {{ range first 2 .Params.tags }}
+                                <span class="guide-tag">#{{ . }}</span>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                </article>
             {{ end }}
         </section>
     {{ end }}

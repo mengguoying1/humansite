@@ -1,24 +1,142 @@
-﻿{{ define "main" }}
-    {{- /* 显示 _index.md 的内容（英雄区、特色卡片等） */ -}}
-    <article class="home-content">
+{{ define "main" }}
+    {{ $isZH := eq .Lang "zh-cn" }}
+
+    <!-- 1. Hero Banner Section -->
+    <div class="lobby-hero">
+        <div class="lobby-hero-title">HUMAN: FALL FLAT</div>
+        <div class="lobby-hero-subtitle">
+            {{ if $isZH }}⚡ 中文玩家指令舱 & 技巧解锁站 ⚡{{ else }}⚡ Player Control Center & Trick Unlock Station ⚡{{ end }}
+        </div>
+        <div class="lobby-stats">
+            <div class="lobby-stat-card">
+                <div class="lobby-stat-num">50M+</div>
+                <div class="lobby-stat-label">{{ if $isZH }}全球销量{{ else }}Global Sales{{ end }}</div>
+            </div>
+            <div class="lobby-stat-card">
+                <div class="lobby-stat-num">30+</div>
+                <div class="lobby-stat-label">{{ if $isZH }}官方关卡{{ else }}Official Levels{{ end }}</div>
+            </div>
+            <div class="lobby-stat-card">
+                <div class="lobby-stat-num">9/10</div>
+                <div class="lobby-stat-label">{{ if $isZH }}Steam 好评率{{ else }}Steam Rating{{ end }}</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Grid Navigation Cards -->
+    <div class="lobby-nav-grid">
+        <!-- Card 1: Gameplay -->
+        <div class="lobby-nav-card">
+            <div>
+                <h3 class="lobby-nav-card-title">🕹️ {{ if $isZH }}玩法指南{{ else }}Gameplay Guide{{ end }}</h3>
+                <p class="lobby-nav-card-desc">
+                    {{ if $isZH }}
+                    掌控 Bob 的物理特性。学习基础抓取、挂墙爬墙、抛掷投掷以及键位绑定设置。
+                    {{ else }}
+                    Master Bob's physics movement. Learn basic grabbing, wall climbing, throwing, and controller mapping setups.
+                    {{ end }}
+                </p>
+            </div>
+            <a href="{{ if $isZH }}/zh-cn/gameplay/{{ else }}/gameplay/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}进入终端{{ else }}INITIALIZE LINK{{ end }}
+            </a>
+        </div>
+
+        <!-- Card 2: Level Guides -->
+        <div class="lobby-nav-card">
+            <div>
+                <h3 class="lobby-nav-card-title">📖 {{ if $isZH }}关卡攻略{{ else }}Level Guides{{ end }}</h3>
+                <p class="lobby-nav-card-desc">
+                    {{ if $isZH }}
+                    详尽解析全部 30 个官方关卡，包含各图的关键谜题、隐藏成就和捷径跳法。
+                    {{ else }}
+                    Step-by-step guides for all 30 official levels, packed with map graphics and unique shortcuts.
+                    {{ end }}
+                </p>
+            </div>
+            <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}加载数据{{ else }}ACCESS DATABASE{{ end }}
+            </a>
+        </div>
+
+        <!-- Card 3: Multiplayer -->
+        <div class="lobby-nav-card">
+            <div>
+                <h3 class="lobby-nav-card-title">👥 {{ if $isZH }}联机专区{{ else }}Multiplayer Hub{{ end }}</h3>
+                <p class="lobby-nav-card-desc">
+                    {{ if $isZH }}
+                    联机快乐加倍！学习双人挂接、人肉秋千等协作配合技巧，探索 8 人房间的欢乐脑洞。
+                    {{ else }}
+                    Tired of playing solo? Learn cooperational physics, team shortcuts, and explore funny glitches with 8-player lobbies.
+                    {{ end }}
+                </p>
+            </div>
+            <a href="{{ if $isZH }}/zh-cn/multiplayer/{{ else }}/multiplayer/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}建立连接{{ else }}ESTABLISH LINK{{ end }}
+            </a>
+        </div>
+
+        <!-- Card 4: Media Center -->
+        <div class="lobby-nav-card">
+            <div>
+                <h3 class="lobby-nav-card-title">🎬 {{ if $isZH }}媒体中心{{ else }}Media Center{{ end }}</h3>
+                <p class="lobby-nav-card-desc">
+                    {{ if $isZH }}
+                    海量精彩视频集锦。内置官方预告片、搞笑失误剪辑与速通大神的各种物理跳跃操作。
+                    {{ else }}
+                    Watch highlight videos directly in your browser. Features 9 embedded videos including official trailers and funny clips.
+                    {{ end }}
+                </p>
+            </div>
+            <a href="{{ if $isZH }}/zh-cn/media/{{ else }}/media/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}同步流媒体{{ else }}SYNC FEED{{ end }}
+            </a>
+        </div>
+    </div>
+
+    <!-- 3. Latest News HUD Board -->
+    <div class="hud-board">
+        <div class="hud-board-header">
+            <h2 class="hud-board-title">
+                ⚡ {{ if $isZH }}最新关卡数据库同步{{ else }}LATEST LEVEL DATABASE SYNCS{{ end }}
+            </h2>
+            <div class="hud-board-status blinking">
+                ● {{ if $isZH }}数据流在线{{ else }}STREAM ACTIVE{{ end }}
+            </div>
+        </div>
+        
+        <div class="hud-board-list">
+            <!-- Dynamic fetch of guides pages -->
+            {{ $guides := where .Site.RegularPages "Section" "guides" }}
+            {{ $recentGuides := sort $guides "Date" "desc" }}
+            {{ range first 5 $recentGuides }}
+                <div class="hud-board-item">
+                    <div class="hud-item-main">
+                        <div class="hud-item-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </div>
+                        <div class="hud-item-desc">{{ .Description }}</div>
+                    </div>
+                    <div class="hud-item-meta">
+                        <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
+                        <span class="hud-item-tag">SYS_LOG</span>
+                    </div>
+                </div>
+            {{ else }}
+                <div class="hud-board-item">
+                    <div class="hud-item-main">
+                        <div class="hud-item-title">{{ if $isZH }}暂无数据{{ else }}NO DATABASE LOGS FOUND{{ end }}</div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Render original index.md content below for compatibility/details -->
+    <article class="home-content" style="margin-top: 3rem;">
         {{ .Content }}
     </article>
 
-    {{- /* 文章列表 */ -}}
-    {{- $paginator := partial "helper/paginator.html" . -}}
-
-    {{ if gt (len $paginator.Pages) 0 }}
-    <h2 style="margin-top: 2rem; font-family: 'Orbitron', sans-serif; font-size: 1.5rem; color: #00f5ff; text-align: center; letter-spacing: 2px; text-transform: uppercase; text-shadow: 0 0 10px rgba(0,245,255,0.3);">
-        📝 最新攻略
-    </h2>
-    <section class="article-list">
-        {{ range $index, $element := $paginator.Pages }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
-    </section>
-    {{ end }}
-
-    {{- partial "pagination.html" . -}}
     {{- partial "footer/footer" . -}}
 {{ end }}
 
