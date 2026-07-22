@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>工厂 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E5%B7%A5%E5%8E%82/</link><description>Recent content in 工厂 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E5%B7%A5%E5%8E%82/index.xml" rel="self" type="application/rss+xml"/><item><title>🏭 第二关：工厂 (Factory)</title><link>https://www.mrm777.win/zh-cn/guides/factory/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/factory/</guid><description>&lt;h1 id="-第二关工厂-factory"&gt;🏭 第二关：工厂 (Factory)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过由传送带、齿轮和排风管道组成的自动化车间，跨越深渊大坑熔炉，拉开限流开关安全撤离。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;⭐⭐☆☆☆（新手进阶）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：研究摩擦传送、堆叠箱子以架设杠杆、以及高空拉环滑越。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/factory.jpg" alt="第二关工厂全景"&gt;
+ &lt;div class="img-caption"&gt;📸 工厂车间：工业机器在隆隆作响，传送带是极好的物理位移工具&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一高架入口"&gt;阶段一：高架入口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：你从高空平台落地后会发现自己处于工厂的高架起步点。无需拉闸，直接走到平台边缘，面向车间内部直接跳下。虽然看似落差很大，但 Bob 没有血量机制，不会产生跌落损伤。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二传送带区--核心解谜"&gt;阶段二：传送带区 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;车间中央分布着两个逆向转动的红色工业传送带。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;常规解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在传送带尽头拖动木板或&lt;strong&gt;箱子&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;双手抓住箱子，将其拖曳至高架围栏下方。&lt;/li&gt;
+&lt;li&gt;如果一个箱子高度不够，你可以双手托起第二个箱子，踩在第一只箱子上，&lt;strong&gt;将两个箱子叠起来&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;踩着箱子起跳，抓取栏杆翻越过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁传送带反弹位移】&lt;/strong&gt;&lt;br&gt;
+ 在传送带上运动时，如果你直接逆行，很容易滑落。可以按住跑动键 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; + &lt;span class="kbd-key"&gt;W&lt;/span&gt;，在履带边缘逆向行走，在履带回弹瞬间起跳，能借助附加惯性实现双倍跳跃距离。
+&lt;/div&gt;
+&lt;h3 id="阶段三蒸汽管道长廊"&gt;阶段三：蒸汽管道长廊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：进入排风管道密布的区域。这里的管道是圆形的，表面非常滑。走在上面极易滚落。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要领&lt;/strong&gt;：按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 压低身体重心，横向平移，在管道接头空隙处，注意快速按下起跳键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 跃上安全围栏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大熔炉深渊"&gt;阶段四：大熔炉深渊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解法 A（单杠滑跃）&lt;/strong&gt;：大坑上方悬挂着一个可以移动的吊车横梁。走上跳台，跳跃用双手死死抱住横梁，通过&lt;strong&gt;交替晃动手臂&lt;/strong&gt;，像猴子荡树一样滑跃到大坑对岸的出口高台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解法 B（搭桥邪道）&lt;/strong&gt;：在车间角落搜寻，找到一块较长的废弃铁板。双手将铁板平稳拉扯过来，搭在深渊大坑两端，做成一座桥，即可轻松走过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🗑️ 回收油桶&lt;/strong&gt;：在工厂左侧阴暗的废料仓库中，堆积着数个可以碰撞的黄色废弃油桶。尝试将油桶推入废料炉中，可以触发“垃圾分类”隐藏小游戏。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成就：无动力通关&lt;/strong&gt;：如果你在通过“阶段二”时，全程没有踩中过任何运转的红色传送带（完全依靠爬墙邪道），通关时系统会自动亮起金色的限时隐藏成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;12 - 20 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高空横梁行走极其考验视角的稳定度&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;41.5 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;使用了跳过传送带的空气连跳邪道&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;滑动摩擦与重力杠杆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;叠箱子时一定要对齐中心点，以防倒塌&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往下一站：&lt;a class="link" href="https://www.mrm777.win/guides/" &gt;关卡选择面板&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item></channel></rss>

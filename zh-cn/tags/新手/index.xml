@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>新手 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E6%96%B0%E6%89%8B/</link><description>Recent content in 新手 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E6%96%B0%E6%89%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>🏰 第一关：豪宅 (Mansion)</title><link>https://www.mrm777.win/zh-cn/guides/mansion/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/mansion/</guid><description>&lt;h1 id="-第一关豪宅-mansion"&gt;🏰 第一关：豪宅 (Mansion)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：离开出生庭院，穿过豪宅的四重安全防护区，最后利用吊车秋千到达山顶，跳入直升机完成通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#00ff66; font-weight:bold;"&gt;★☆☆☆☆（新手教学）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：学习伸展双臂吸附、拉扯重物、跳跃攀爬以及物理重力反馈。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/mansion.jpg" alt="第一关豪宅起点"&gt;
+ &lt;div class="img-caption"&gt;📸 梦境起点：你将在此处醒来，开启 Bob 的神奇重力之旅&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一新手激活室"&gt;阶段一：新手激活室
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：熟悉视角和双臂映射。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：从高空跌落入庭院后，通过 &lt;span class="kbd-key"&gt;W&lt;/span&gt;&lt;span class="kbd-key"&gt;A&lt;/span&gt;&lt;span class="kbd-key"&gt;S&lt;/span&gt;&lt;span class="kbd-key"&gt;D&lt;/span&gt; 调节脚步，在空地上练习按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左键/右键&lt;/span&gt; 抓取地上的黑色碎石。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二翻越第一道砖墙"&gt;阶段二：翻越第一道砖墙
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解法 A（常规）&lt;/strong&gt;：走向大砖墙，将视角看天，高举双手起跳抓住墙面边缘，不要松手，低头向下看的同时按住 &lt;span class="kbd-key"&gt;W&lt;/span&gt;，将自己拉上墙头。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解法 B（物理工具）&lt;/strong&gt;：抓取旁边散落的&lt;strong&gt;木板&lt;/strong&gt;，一端搭在地上，另一端架在矮墙边缘，形成斜坡，直接走上去。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三脚手架与平衡木"&gt;阶段三：脚手架与平衡木
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：来到庭院后部，你会看到一个黄色的钢制&lt;strong&gt;脚手架&lt;/strong&gt;。先攀爬上去，接着在狭窄的木梁上保持平衡（按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰可防跌落），通过缝隙跳到对面豪宅的内阳台。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四吊车起重臂--核心解谜"&gt;阶段四：吊车起重臂 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;这是豪宅最关键的考核点，许多新手会卡在这里。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="起重臂荡秋千"&gt;
+ &lt;div class="img-caption"&gt;📸 核心机关：利用挂钩进行重力摆荡，荡向高塔对面的集装箱&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;来到黄色吊车底座，跳起&lt;strong&gt;抓住吊钩&lt;/strong&gt;，按住方向键将吊钩拉扯到豪宅阳台正前方。&lt;/li&gt;
+&lt;li&gt;爬上旁边的箱子并攀登上最高阳台。&lt;/li&gt;
+&lt;li&gt;跳跃抓住被你拉过来的吊钩，利用惯性，&lt;strong&gt;在最前端放手起跳&lt;/strong&gt;，直接荡到集装箱顶。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁秋千物理判定】&lt;/strong&gt;&lt;br&gt;
+ 荡秋千时最忌讳在最低点放手。当 Bob 荡到离心运动的&lt;strong&gt;最远最高端（速度几乎停滞的那一瞬间）&lt;/strong&gt;松手，然后再按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 跳跃，你的动力势能将完全转化为水平动能，实现极限飞跃！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⚽ 世界杯射手&lt;/strong&gt;：在豪宅出生点的门前，藏有一个足球。将双手按在地面上，一路推着或者踢着足球，跨越关卡推入门后的网中，可以触发官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多人骚套路&lt;/strong&gt;：联机状态下，一个人抓住吊车挂钩，另外一个人抓住他的脚，两人可以叠罗汉完成双人超远距离滑跃。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;5 - 12 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;新手熟悉物理模型较慢，不要着急&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;22.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用高强爬墙直接飞跃第四关卡&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;100% 重力惯性反馈&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;攀爬时一定要将头对准边缘&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/factory/" &gt;下一关卡：工厂 (Factory)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item><item><title>🏭 第二关：工厂 (Factory)</title><link>https://www.mrm777.win/zh-cn/guides/factory/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/factory/</guid><description>&lt;h1 id="-第二关工厂-factory"&gt;🏭 第二关：工厂 (Factory)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过由传送带、齿轮和排风管道组成的自动化车间，跨越深渊大坑熔炉，拉开限流开关安全撤离。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;⭐⭐☆☆☆（新手进阶）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：研究摩擦传送、堆叠箱子以架设杠杆、以及高空拉环滑越。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/factory.jpg" alt="第二关工厂全景"&gt;
+ &lt;div class="img-caption"&gt;📸 工厂车间：工业机器在隆隆作响，传送带是极好的物理位移工具&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一高架入口"&gt;阶段一：高架入口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：你从高空平台落地后会发现自己处于工厂的高架起步点。无需拉闸，直接走到平台边缘，面向车间内部直接跳下。虽然看似落差很大，但 Bob 没有血量机制，不会产生跌落损伤。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二传送带区--核心解谜"&gt;阶段二：传送带区 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;车间中央分布着两个逆向转动的红色工业传送带。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;常规解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在传送带尽头拖动木板或&lt;strong&gt;箱子&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;双手抓住箱子，将其拖曳至高架围栏下方。&lt;/li&gt;
+&lt;li&gt;如果一个箱子高度不够，你可以双手托起第二个箱子，踩在第一只箱子上，&lt;strong&gt;将两个箱子叠起来&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;踩着箱子起跳，抓取栏杆翻越过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁传送带反弹位移】&lt;/strong&gt;&lt;br&gt;
+ 在传送带上运动时，如果你直接逆行，很容易滑落。可以按住跑动键 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; + &lt;span class="kbd-key"&gt;W&lt;/span&gt;，在履带边缘逆向行走，在履带回弹瞬间起跳，能借助附加惯性实现双倍跳跃距离。
+&lt;/div&gt;
+&lt;h3 id="阶段三蒸汽管道长廊"&gt;阶段三：蒸汽管道长廊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：进入排风管道密布的区域。这里的管道是圆形的，表面非常滑。走在上面极易滚落。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要领&lt;/strong&gt;：按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 压低身体重心，横向平移，在管道接头空隙处，注意快速按下起跳键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 跃上安全围栏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大熔炉深渊"&gt;阶段四：大熔炉深渊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解法 A（单杠滑跃）&lt;/strong&gt;：大坑上方悬挂着一个可以移动的吊车横梁。走上跳台，跳跃用双手死死抱住横梁，通过&lt;strong&gt;交替晃动手臂&lt;/strong&gt;，像猴子荡树一样滑跃到大坑对岸的出口高台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解法 B（搭桥邪道）&lt;/strong&gt;：在车间角落搜寻，找到一块较长的废弃铁板。双手将铁板平稳拉扯过来，搭在深渊大坑两端，做成一座桥，即可轻松走过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🗑️ 回收油桶&lt;/strong&gt;：在工厂左侧阴暗的废料仓库中，堆积着数个可以碰撞的黄色废弃油桶。尝试将油桶推入废料炉中，可以触发“垃圾分类”隐藏小游戏。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成就：无动力通关&lt;/strong&gt;：如果你在通过“阶段二”时，全程没有踩中过任何运转的红色传送带（完全依靠爬墙邪道），通关时系统会自动亮起金色的限时隐藏成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;12 - 20 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高空横梁行走极其考验视角的稳定度&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;41.5 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;使用了跳过传送带的空气连跳邪道&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;滑动摩擦与重力杠杆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;叠箱子时一定要对齐中心点，以防倒塌&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往下一站：&lt;a class="link" href="https://www.mrm777.win/guides/" &gt;关卡选择面板&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item><item><title>💪 物理技巧大全</title><link>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</guid><description>&lt;h1 id="-物理技巧大全"&gt;💪 物理技巧大全
+&lt;/h1&gt;&lt;p&gt;本控制面板包含从常规位移到违背常理的“重力引擎漏洞”动作。如果你能熟练运用这些，所有官方关卡都将在 10 分钟内被你轻松解决。&lt;/p&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;难度指示：&lt;/strong&gt; &lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt; | &lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt; | &lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt; | &lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-基础技巧与动作"&gt;🟢 基础技巧与动作
+&lt;/h2&gt;&lt;h3 id="1-抓取视角修正"&gt;1. 抓取视角修正
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动作描述&lt;/strong&gt;：双手抓取任何物体时，系统默认会计算受力面积和摩擦系数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：抓取高处边缘时，视角&lt;strong&gt;向上45度&lt;/strong&gt;看最容易触发最大摩擦力判定。松开单侧手键后迅速旋转视角，能够完成“凌空换手”以调整身体重心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-管道与狭窄横梁行走"&gt;2. 管道与狭窄横梁行走
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：在只有单只脚宽度的管道或石梁上行走时，按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰行走。这会拉低 Bob 的物理质心，使其极难滑落。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-中级技巧与动力"&gt;🟡 中级技巧与动力
+&lt;/h2&gt;&lt;h3 id="3-荡秋千-swing-jump"&gt;3. 荡秋千 (Swing Jump)
+&lt;/h3&gt;&lt;p&gt;这是最常用、也最帅气的越障手段！&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="荡秋千技巧演示"&gt;
+ &lt;div class="img-caption"&gt;📸 荡秋千：利用单手或双手抓住悬挂点，摆动到最大仰角时松手飞跃&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;助跑起跳，双手抓住悬挂的绳索或铁链（如豪宅的起重吊钩）。&lt;/li&gt;
+&lt;li&gt;按住前进 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 往前荡，接着按后退 &lt;span class="kbd-key"&gt;S&lt;/span&gt; 往后摆。&lt;/li&gt;
+&lt;li&gt;重复 2-3 次，在&lt;strong&gt;往前荡到最高点（即将下落的瞬间）&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;松开双手鼠标键，并瞬间按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 起跳键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;效果&lt;/strong&gt;：离心力会将 Bob 呈抛物线弹射出去，飞行距离是普通跳跃的 3-5 倍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="4-重物蓄力抛掷"&gt;4. 重物蓄力抛掷
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;双手牢牢抓住地上的箱子或石块。&lt;/li&gt;
+&lt;li&gt;身体做 180 度旋转，以腰部为轴心，快速&lt;strong&gt;甩动鼠标&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;当甩动物体到达最高速度时，松开鼠标左右键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应用&lt;/strong&gt;：能将开关箱子直接扔到 3 米高的平台上，甚至可以用来抛掷联机的好友。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-高级操作-大腿秘籍"&gt;🔴 高级操作 (大腿秘籍)
+&lt;/h2&gt;&lt;h3 id="5-邪道爬墙术-wall-climb"&gt;5. 邪道爬墙术 (Wall Climb)
+&lt;/h3&gt;&lt;p&gt;此动作允许你在没有任何落脚点的垂直光滑墙面上强行爬升，直接跳过 90% 的解谜区。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/climbing.jpg" alt="爬墙邪道演示"&gt;
+ &lt;div class="img-caption"&gt;📸 邪道爬墙：通过交替侧向甩动手臂，并在脱离一侧时向上拉升来贴墙向上移动&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作原理&lt;/strong&gt;：依靠单手吸附力与身体摆动摩擦判定，交替移动手臂。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作节奏&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面朝墙壁，双手按住吸附。&lt;/li&gt;
+&lt;li&gt;松开左手（按住右手不动），按键盘向左转体 &lt;span class="kbd-key"&gt;A&lt;/span&gt;，视角向上甩，左手再次吸附。&lt;/li&gt;
+&lt;li&gt;此时左手位置已经比右手高。接着松开右手（按住左手不动），向右转体 &lt;span class="kbd-key"&gt;D&lt;/span&gt;，视角向上甩，右手再次吸附。&lt;/li&gt;
+&lt;li&gt;如上述动作交替（左右左），Bob 就会像壁虎一样向上移动。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁秘籍：爬墙节奏律动】&lt;/strong&gt;&lt;br&gt;
+ 爬墙时的视角转动不能过快，大约是每秒摆动一个来回。每一次松手并转体时，都要有一个往上托鼠标的动作，借助物理惯性把另一只手送往更高处。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-大神级操作-速通必修"&gt;⚫ 大神级操作 (速通必修)
+&lt;/h2&gt;&lt;h3 id="6-超级跳-super-jump--mega-bounce"&gt;6. 超级跳 (Super Jump / Mega bounce)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原理解析&lt;/strong&gt;：利用引擎中碰撞体积的挤压加速度，在跳起瞬间强行叠加反向重力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;地上面朝一个可移动的铁箱或木板，双手抓住其顶端。&lt;/li&gt;
+&lt;li&gt;把铁箱用力&lt;strong&gt;举过头顶&lt;/strong&gt;，此时 Bob 会因为重心不稳微微后仰。&lt;/li&gt;
+&lt;li&gt;按下跳跃键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt;，并在起跳的千分之一秒内，把鼠标&lt;strong&gt;向下猛甩&lt;/strong&gt;（将箱子砸向地面）。&lt;/li&gt;
+&lt;li&gt;如果物理重合判定成功，箱子撞击地面的反作用力会瞬间挤压 Bob 的脚底，使你的起跳高度达到惊人的 5-8 米。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-实战演练关卡配置"&gt;🧭 实战演练关卡配置
+&lt;/h2&gt;&lt;p&gt;想要磨练这些动作？推荐前往以下关卡进行特定动作的参数调校：&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物理动作技巧&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;推荐练习大关卡&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;实战推荐点位&lt;/th&gt;
+					&lt;th style="text-align: center"&gt;动作难度评价&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;荡秋千越障&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;豪宅 (Mansion)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;吊车起重臂区域&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;重物搬运及投掷&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;工厂 (Factory)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;传送带后大坑熔炉&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;邪道爬墙术&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城堡 (Castle)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;中世纪古堡大门外墙&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;超级重力跳&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城市 (City)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高架保龄球道与大厦废墟&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;版本代码：PHYSICS_V1.2 | 更新：2026-07-04&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

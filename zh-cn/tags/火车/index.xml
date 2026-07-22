@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>火车 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E7%81%AB%E8%BD%A6/</link><description>Recent content in 火车 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E7%81%AB%E8%BD%A6/index.xml" rel="self" type="application/rss+xml"/><item><title>🚂 第三关：火车 (Train) 攻略</title><link>https://www.mrm777.win/zh-cn/guides/train/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/train/</guid><description>&lt;h1 id="-第三关火车-train"&gt;🚂 第三关：火车 (Train)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过铁路主题的障碍区，在轨道上拖拽并调整沉重的火车车厢，利用垃圾桶攀爬高墙，最后跳进红色出口车厢的深渊完成通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★☆☆☆（基础操作）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：水平拉扯物理反馈、车厢轨道摩擦力、高台边缘攀爬吸附与空中惯性。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/train.jpg" alt="火车关卡轨道与车厢"&gt;
+ &lt;div class="img-caption"&gt;📸 铁轨区域：沿着轨道拖拽沉重的车厢，将其作为临时桥梁或移开通路&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一首个车厢路障"&gt;阶段一：首个车厢路障
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：落入关卡后，你会看到一节黄色火车车厢挡住了前方的门洞。走到车厢旁，按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左键/右键&lt;/span&gt; 抓住车厢边缘，然后向后移动拉走车厢。门洞露出来后即可通过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二黄色垃圾桶与越墙捷径"&gt;阶段二：黄色垃圾桶与越墙捷径
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：一个大型黄色垃圾桶挡住了通往下一个房间的门口。用双手抓住拉手，向后拉动即可清理出通道。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;垃圾桶攀爬捷径&lt;/strong&gt;：或者，不要将它彻底拉开，而是将其推到右侧的高砖墙下。爬上垃圾桶，助跑并跳跃抓住高墙边缘，将自己拉上去，可直接跳过下一个房间的解谜。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三翻倒的长椅与平移车厢"&gt;阶段三：翻倒的长椅与平移车厢
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：在此区域，你会看到路边翻倒的木制长椅和一节车厢。
+&lt;ol&gt;
+&lt;li&gt;首先，如果想解锁隐藏成就，请将长椅扶正并对齐墙壁（参见下文说明）。&lt;/li&gt;
+&lt;li&gt;走到火车车厢旁，双手抓住它拉离墙面以创造空间，或者推向高墙。&lt;/li&gt;
+&lt;li&gt;从高台上跳到车厢顶部，再从车厢顶部跳到更高处的通道边缘，拉起身体进入下一关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四轨道车厢重叠对齐--核心解谜"&gt;阶段四：轨道车厢重叠对齐 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入后院，找到红色出口车厢。先爬上楼梯到达高台。&lt;/li&gt;
+&lt;li&gt;你会发现铁轨上有一节黄色车厢，它挡住了上方的去路。&lt;/li&gt;
+&lt;li&gt;跳下高台来到黄色车厢旁。抓住车厢下方的栏杆，向后走将其沿着铁轨滑动，直到它停在高台正下方。&lt;/li&gt;
+&lt;li&gt;重新爬上楼梯，踩在黄色车厢顶部，跳跃并抓住对面的平台边缘，即可到达红色出口车厢。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【车厢顶部极限速通跳过】&lt;/strong&gt;&lt;br&gt;
+ 熟练的玩家不需要平移铁轨上的任何车厢。你可以利用双手抓住第一节火车车厢的侧板，通过身体摆荡（侧向爬墙技术）将身体拉上车顶。站在车顶上，你可以直接踩着车厢顶部跑过去，15秒内即可跳过所有轨道谜题！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🧹 公共服务 (Public Service)&lt;/strong&gt;：在关卡起点处，有 5 块散落的废砖头。将这 5 块砖头一一捡起并放入黄色垃圾桶中即可解锁该成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚗 敞篷车之行 (Convertible Ride)&lt;/strong&gt;：跳进黄色垃圾桶内，双手抓住垃圾桶的内壁，然后朝前方跳跃并移动。垃圾桶会随之在地面滑行。以这种方式移动 50 米即可解锁成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🪑 完美主义者 (Perfectionist)&lt;/strong&gt;：在第三个房间，找到翻倒的长椅。抓住它并将其扶正，使其靠墙放平并对齐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;📡 迷宫低语&lt;/strong&gt;：多人联机模式下，如果把画面阴影调低，在火车铁轨的黑暗角落探索时，可能会听到一段模糊的开发者配音彩蛋。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;8 - 15 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;拖拽重物时，使用双手抓取判定更稳定&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;10.5 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;直接从侧面爬上黄色车厢顶部进行飞跃&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;轨道约束摩擦阻力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;确保车厢对齐，防止起跳时打滑跌落&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/carry/" &gt;下一关卡：搬运 (Carry)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item></channel></rss>

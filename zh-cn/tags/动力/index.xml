@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>动力 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E5%8A%A8%E5%8A%9B/</link><description>Recent content in 动力 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E5%8A%A8%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>⚡ 第九关：动力 (Power) 攻略</title><link>https://www.mrm777.win/zh-cn/guides/power/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/power/</guid><description>&lt;h1 id="-第九关动力-power"&gt;⚡ 第九关：动力 (Power)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：连接彩色电缆构建闭合回路，开动叉车与自卸卡车等工业机械，搬运煤炭填满熔炉发电，最后乘着大型风扇的上升气流飞向出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：电路闭合传导、车辆操作控制、流体阻力与风力、蒸汽压强系统。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/power.jpg" alt="动力关卡配电盘与车辆"&gt;
+ &lt;div class="img-caption"&gt;📸 配电网区域：为配电盘连接电池提供动力，操作大型工业叉车开门&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一电线接线与短路起火"&gt;阶段一：电线接线与短路起火
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：走到起点墙壁上的电线板前。双手拔下红色线头接在红色插孔上，拔下蓝色线头接在蓝色插孔上，以此通电开门。如果你想解锁“电工入门”成就，将红蓝两条线同时短路相连（即用一根蓝色电线连接正负两个电极），这会引发一声巨大的爆炸，将 Bob 炸飞并解锁成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二黄色叉车与雕像上的电池"&gt;阶段二：黄色叉车与雕像上的电池
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入下一个庭院，会有一辆黄色的叉车。踩上驾驶座，双手抓住方向盘驾驶叉车，将车前方的铁叉子插进滑门下方的缝隙中。&lt;/li&gt;
+&lt;li&gt;拉动叉车右侧的杠杆抬起铁叉，将铁门强行顶起。&lt;/li&gt;
+&lt;li&gt;在新庭院中，有一座高大的石雕，其手中握着一枚发光的电池。&lt;/li&gt;
+&lt;li&gt;攀爬石雕的底座并爬上雕像的手臂，双手抓住电池往下拉，将其夺下。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三卡车运煤与熔炉发电--核心解谜"&gt;阶段三：卡车运煤与熔炉发电 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到地上的自卸卡车，开动它并倒车进入阴暗的煤炭矿坑洞穴中。&lt;/li&gt;
+&lt;li&gt;用双手搬起散落在地上的煤块，扔进卡车的后车斗里。至少装载 10 块煤。&lt;/li&gt;
+&lt;li&gt;将卡车开回发电厂，拉动车内的自卸手柄将煤块倒在熔炉前。&lt;/li&gt;
+&lt;li&gt;将煤块一一丢入燃烧的熔炉入口，熔炉燃烧会累积蒸汽压强，启动发电机。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大型气流风扇与飞跃出口"&gt;阶段四：大型气流风扇与飞跃出口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;将关卡中收集到的 3 枚电池（包含从雕像手中抢到的那枚）全部接在发电机插槽上，以启动天花板上的巨型排风扇。&lt;/li&gt;
+&lt;li&gt;走到大风扇的正下方。随着风扇转速加快，风扇产生的上升气流会将 Bob 托起并漂浮到半空中。&lt;/li&gt;
+&lt;li&gt;利用方向键控制 Bob 的漂浮方向，飞越前方的悬崖缺口，平稳落在对面的出口管道前完成通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【叉车跳门与风扇飞跃逃票】&lt;/strong&gt;&lt;br&gt;
+ 你其实完全不需要开叉车。把叉车停在卷扬门下，爬上叉车的防滚架，你就可以直接抓住卷扬门的最上方，翻越过去跳过叉车谜题。此外，在最后一关的大风扇房间，你可以沿着右侧墙壁的管道进行单手爬墙，不用连接电池，直接跳到出风口跳台通关。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⚡ 这是终点？ (The End?)&lt;/strong&gt;：通关第九关“动力”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;💥 电工入门 (Electricity 101)&lt;/strong&gt;：将电线板正负极连在同一根线上，引发爆炸短路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🗿 小偷 (Thief)&lt;/strong&gt;：从小女孩石雕手中强行取走电池。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔋 会被炸吗？ (Will It Fry)&lt;/strong&gt;：用 3 块电池同时为一个家电/插槽通电。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏎️ 车手 (Petrolhead)&lt;/strong&gt;：开着叉车或者卡车在地图上累计行驶距离达到 1 公里。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚚 送货员 (Delivery Boy)&lt;/strong&gt;：驾驶卡车将 10 块煤成功运送到发电炉前并倒出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 35 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;插拔电线电缆时对准卡槽，防止松动断电&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 05 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;踩在叉车防滚护顶架上直接越过滑门&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;电路电路学与热压空气升力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;飞起时伸长双手，以防被风扇吹偏撞到管道&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/aztec/" &gt;下一关卡：阿兹特克 (Aztec)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item></channel></rss>

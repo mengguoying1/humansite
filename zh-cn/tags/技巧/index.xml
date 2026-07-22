@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技巧 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E6%8A%80%E5%B7%A7/</link><description>Recent content in 技巧 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml"/><item><title>💪 物理技巧大全</title><link>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</guid><description>&lt;h1 id="-物理技巧大全"&gt;💪 物理技巧大全
+&lt;/h1&gt;&lt;p&gt;本控制面板包含从常规位移到违背常理的“重力引擎漏洞”动作。如果你能熟练运用这些，所有官方关卡都将在 10 分钟内被你轻松解决。&lt;/p&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;难度指示：&lt;/strong&gt; &lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt; | &lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt; | &lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt; | &lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-基础技巧与动作"&gt;🟢 基础技巧与动作
+&lt;/h2&gt;&lt;h3 id="1-抓取视角修正"&gt;1. 抓取视角修正
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动作描述&lt;/strong&gt;：双手抓取任何物体时，系统默认会计算受力面积和摩擦系数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：抓取高处边缘时，视角&lt;strong&gt;向上45度&lt;/strong&gt;看最容易触发最大摩擦力判定。松开单侧手键后迅速旋转视角，能够完成“凌空换手”以调整身体重心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-管道与狭窄横梁行走"&gt;2. 管道与狭窄横梁行走
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：在只有单只脚宽度的管道或石梁上行走时，按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰行走。这会拉低 Bob 的物理质心，使其极难滑落。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-中级技巧与动力"&gt;🟡 中级技巧与动力
+&lt;/h2&gt;&lt;h3 id="3-荡秋千-swing-jump"&gt;3. 荡秋千 (Swing Jump)
+&lt;/h3&gt;&lt;p&gt;这是最常用、也最帅气的越障手段！&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="荡秋千技巧演示"&gt;
+ &lt;div class="img-caption"&gt;📸 荡秋千：利用单手或双手抓住悬挂点，摆动到最大仰角时松手飞跃&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;助跑起跳，双手抓住悬挂的绳索或铁链（如豪宅的起重吊钩）。&lt;/li&gt;
+&lt;li&gt;按住前进 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 往前荡，接着按后退 &lt;span class="kbd-key"&gt;S&lt;/span&gt; 往后摆。&lt;/li&gt;
+&lt;li&gt;重复 2-3 次，在&lt;strong&gt;往前荡到最高点（即将下落的瞬间）&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;松开双手鼠标键，并瞬间按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 起跳键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;效果&lt;/strong&gt;：离心力会将 Bob 呈抛物线弹射出去，飞行距离是普通跳跃的 3-5 倍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="4-重物蓄力抛掷"&gt;4. 重物蓄力抛掷
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;双手牢牢抓住地上的箱子或石块。&lt;/li&gt;
+&lt;li&gt;身体做 180 度旋转，以腰部为轴心，快速&lt;strong&gt;甩动鼠标&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;当甩动物体到达最高速度时，松开鼠标左右键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应用&lt;/strong&gt;：能将开关箱子直接扔到 3 米高的平台上，甚至可以用来抛掷联机的好友。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-高级操作-大腿秘籍"&gt;🔴 高级操作 (大腿秘籍)
+&lt;/h2&gt;&lt;h3 id="5-邪道爬墙术-wall-climb"&gt;5. 邪道爬墙术 (Wall Climb)
+&lt;/h3&gt;&lt;p&gt;此动作允许你在没有任何落脚点的垂直光滑墙面上强行爬升，直接跳过 90% 的解谜区。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/climbing.jpg" alt="爬墙邪道演示"&gt;
+ &lt;div class="img-caption"&gt;📸 邪道爬墙：通过交替侧向甩动手臂，并在脱离一侧时向上拉升来贴墙向上移动&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作原理&lt;/strong&gt;：依靠单手吸附力与身体摆动摩擦判定，交替移动手臂。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作节奏&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面朝墙壁，双手按住吸附。&lt;/li&gt;
+&lt;li&gt;松开左手（按住右手不动），按键盘向左转体 &lt;span class="kbd-key"&gt;A&lt;/span&gt;，视角向上甩，左手再次吸附。&lt;/li&gt;
+&lt;li&gt;此时左手位置已经比右手高。接着松开右手（按住左手不动），向右转体 &lt;span class="kbd-key"&gt;D&lt;/span&gt;，视角向上甩，右手再次吸附。&lt;/li&gt;
+&lt;li&gt;如上述动作交替（左右左），Bob 就会像壁虎一样向上移动。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁秘籍：爬墙节奏律动】&lt;/strong&gt;&lt;br&gt;
+ 爬墙时的视角转动不能过快，大约是每秒摆动一个来回。每一次松手并转体时，都要有一个往上托鼠标的动作，借助物理惯性把另一只手送往更高处。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-大神级操作-速通必修"&gt;⚫ 大神级操作 (速通必修)
+&lt;/h2&gt;&lt;h3 id="6-超级跳-super-jump--mega-bounce"&gt;6. 超级跳 (Super Jump / Mega bounce)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原理解析&lt;/strong&gt;：利用引擎中碰撞体积的挤压加速度，在跳起瞬间强行叠加反向重力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;地上面朝一个可移动的铁箱或木板，双手抓住其顶端。&lt;/li&gt;
+&lt;li&gt;把铁箱用力&lt;strong&gt;举过头顶&lt;/strong&gt;，此时 Bob 会因为重心不稳微微后仰。&lt;/li&gt;
+&lt;li&gt;按下跳跃键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt;，并在起跳的千分之一秒内，把鼠标&lt;strong&gt;向下猛甩&lt;/strong&gt;（将箱子砸向地面）。&lt;/li&gt;
+&lt;li&gt;如果物理重合判定成功，箱子撞击地面的反作用力会瞬间挤压 Bob 的脚底，使你的起跳高度达到惊人的 5-8 米。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-实战演练关卡配置"&gt;🧭 实战演练关卡配置
+&lt;/h2&gt;&lt;p&gt;想要磨练这些动作？推荐前往以下关卡进行特定动作的参数调校：&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物理动作技巧&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;推荐练习大关卡&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;实战推荐点位&lt;/th&gt;
+					&lt;th style="text-align: center"&gt;动作难度评价&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;荡秋千越障&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;豪宅 (Mansion)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;吊车起重臂区域&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;重物搬运及投掷&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;工厂 (Factory)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;传送带后大坑熔炉&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;邪道爬墙术&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城堡 (Castle)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;中世纪古堡大门外墙&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;超级重力跳&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城市 (City)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高架保龄球道与大厦废墟&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;版本代码：PHYSICS_V1.2 | 更新：2026-07-04&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

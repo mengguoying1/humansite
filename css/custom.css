@@ -1,0 +1,1246 @@
+/* ==========================================================================
+   HUMAN: FALL FLAT WALKTHROUGH SITE - PREMIUM CYBERPUNK CUSTOM CSS
+   A high-fidelity design system incorporating glassmorphism, glowing HUD elements,
+   micro-animations, and responsive gaming grid layouts.
+   ========================================================================== */
+
+/* Game-tech / Cyber Font imports */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;700;900&family=Share+Tech+Mono&display=swap');
+
+:root {
+  /* Premium Design Tokens */
+  --game-primary: #00f5ff;       /* Neon Cyan */
+  --game-secondary: #ff00e4;     /* Neon Magenta */
+  --game-accent: #ff6b00;        /* Molten Orange */
+  --game-success: #00ff66;       /* Energetic Green */
+  --game-warning: #ffcc00;       /* Warning Yellow */
+  --game-bg: #03030c;            /* Ultimate Dark Void */
+  --game-bg-grid: rgba(0, 245, 255, 0.015);
+  --game-card-bg: rgba(8, 8, 24, 0.75); /* High-opacity Glassmorphic base */
+  --game-text: #e2e2fc;          /* High contrast light purple-grey (WCAG AA Compliant) */
+  --game-text-muted: #9595b5;    /* Muted label color */
+  --game-text-bright: #ffffff;   /* Pure white highlights */
+  
+  /* Glowing shadows */
+  --glow-cyan-soft: 0 0 10px rgba(0, 245, 255, 0.25);
+  --glow-cyan-strong: 0 0 20px rgba(0, 245, 255, 0.5), 0 0 8px rgba(0, 245, 255, 0.3);
+  --glow-pink-strong: 0 0 20px rgba(255, 0, 228, 0.5), 0 0 8px rgba(255, 0, 228, 0.3);
+  
+  /* Gradients */
+  --game-gradient: linear-gradient(135deg, var(--game-primary) 0%, var(--game-secondary) 100%);
+  --game-gradient-cyan: linear-gradient(135deg, #00b0ff 0%, #00f5ff 100%);
+  --game-gradient-pink: linear-gradient(135deg, #ff007f 0%, #ff00e4 100%);
+  
+  /* Override Theme Stack Variables directly for seamless theme integration */
+  --body-background: var(--game-bg) !important;
+  --body-text-color: var(--game-text) !important;
+  --accent-color: var(--game-primary) !important;
+  --accent-color-darker: var(--game-secondary) !important;
+  --accent-color-text: #000000 !important;
+
+  --card-background: var(--game-card-bg) !important;
+  --card-background-selected: rgba(0, 245, 255, 0.12) !important;
+  --card-text-color-main: var(--game-text) !important;
+  --card-text-color-secondary: var(--game-text-muted) !important;
+  --card-text-color-tertiary: var(--game-text-muted) !important;
+  --card-separator-color: rgba(0, 245, 255, 0.12) !important;
+  --card-border-radius: 12px !important;
+
+  --blockquote-background-color: rgba(13, 13, 35, 0.65) !important;
+  --code-background-color: rgba(0, 0, 0, 0.5) !important;
+  --code-text-color: var(--game-primary) !important;
+  --table-border-color: rgba(0, 245, 255, 0.25) !important;
+  --tr-even-background-color: rgba(0, 245, 255, 0.05) !important;
+}
+
+/* ==========================================================================
+   GLOBAL LAYOUT & BACKGROUND EFFECTS
+   ========================================================================== */
+
+body {
+  font-family: "Noto Sans SC", -apple-system, sans-serif;
+  background-color: var(--game-bg) !important;
+  background-image: 
+    linear-gradient(var(--game-bg-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--game-bg-grid) 1px, transparent 1px);
+  background-size: 50px 50px;
+  background-attachment: fixed;
+  color: var(--game-text) !important;
+  position: relative;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+/* Base overlay vignette */
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at 50% 40%, rgba(13, 10, 45, 0.3) 0%, transparent 80%);
+  pointer-events: none;
+  z-index: -2;
+}
+
+/* Premium laser scanline overlay */
+body::before {
+  content: "";
+  position: fixed;
+  top: -10%;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, 
+    rgba(0, 245, 255, 0) 0%, 
+    rgba(0, 245, 255, 0.15) 50%, 
+    rgba(0, 245, 255, 0) 100%);
+  animation: laser-scan 12s linear infinite;
+  pointer-events: none;
+  z-index: 999;
+}
+
+@keyframes laser-scan {
+  0% { top: -10%; }
+  100% { top: 110%; }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--game-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--game-primary), var(--game-secondary));
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--game-primary);
+}
+
+/* Typography elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Orbitron", "Noto Sans SC", sans-serif;
+  color: var(--game-text-bright) !important;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 2.2rem;
+  background: var(--game-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  border-bottom: 2px solid rgba(0, 245, 255, 0.2);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-left: 4px solid var(--game-primary);
+  padding-left: 0.8rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: 1.8rem;
+  color: var(--game-primary) !important;
+}
+
+a {
+  color: var(--game-primary);
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+a:hover {
+  color: var(--game-secondary);
+  text-shadow: 0 0 8px rgba(255, 0, 228, 0.5);
+}
+
+/* Ensure post content text is highly readable with premium contrast ratio */
+.article-content,
+.article-content p,
+.article-content li,
+.article-content ul,
+.article-content ol,
+.article-content blockquote,
+.article-content table,
+.article-content td,
+.article-content th,
+.article-content a:not(.btn-cyber) {
+  color: var(--game-text) !important;
+}
+
+.article-content strong {
+  color: var(--game-text-bright) !important;
+  text-shadow: 0 0 5px rgba(0, 245, 255, 0.2);
+}
+
+/* ==========================================================================
+   GLASSMORPHISM DESIGN SYSTEM & HUD BORDERS
+   ========================================================================== */
+
+/* Unified Glassmorphism styling */
+.main-article, 
+.article-page, 
+.card, 
+.widget, 
+.menu, 
+.sidebar, 
+.article-list--compact, 
+.section-card,
+.article-content {
+  background: var(--game-card-bg) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 245, 255, 0.15) !important;
+  box-shadow: inset 0 0 12px rgba(0, 245, 255, 0.05), 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 12px !important;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+/* Glowing Pulsing Neon Border Animation */
+@keyframes neon-border-pulse {
+  0% {
+    border-color: rgba(0, 245, 255, 0.15);
+    box-shadow: inset 0 0 10px rgba(0, 245, 255, 0.03), 0 4px 15px rgba(0, 0, 0, 0.4);
+  }
+  50% {
+    border-color: rgba(255, 0, 228, 0.35);
+    box-shadow: inset 0 0 15px rgba(255, 0, 228, 0.06), 0 4px 20px rgba(255, 0, 228, 0.15);
+  }
+  100% {
+    border-color: rgba(0, 245, 255, 0.15);
+    box-shadow: inset 0 0 10px rgba(0, 245, 255, 0.03), 0 4px 15px rgba(0, 0, 0, 0.4);
+  }
+}
+
+/* Apply pulse animation to primary main-article layout cards */
+.main-article {
+  padding: 2rem !important;
+  animation: neon-border-pulse 8s infinite ease-in-out;
+}
+
+/* ==========================================================================
+   NAVIGATION MENU & SIDEBAR OVERRIDES
+   ========================================================================== */
+
+.sidebar {
+  padding: 1.5rem !important;
+}
+
+.sidebar .site-name a {
+  font-family: "Orbitron", sans-serif !important;
+  font-weight: 900 !important;
+  letter-spacing: 2px !important;
+  background: var(--game-gradient) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  text-shadow: none !important;
+}
+
+.sidebar .site-subtitle {
+  color: var(--game-primary) !important;
+  font-family: "Share Tech Mono", monospace;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+}
+
+.avatar {
+  border: 2px solid var(--game-primary) !important;
+  box-shadow: var(--glow-cyan-soft) !important;
+  transition: all 0.4s ease;
+}
+
+.avatar:hover {
+  transform: rotate(360deg) scale(1.05);
+  border-color: var(--game-secondary) !important;
+  box-shadow: var(--glow-pink-strong) !important;
+}
+
+/* Navigation items */
+.menu#main-menu li {
+  margin-bottom: 0.6rem;
+  border-radius: 8px;
+}
+
+.menu#main-menu li a {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.75rem 1.2rem !important;
+  color: var(--game-text) !important;
+  border: 1px solid rgba(0, 245, 255, 0.1) !important;
+  border-radius: 8px !important;
+  background: rgba(13, 13, 35, 0.4) !important;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Active navigation link */
+.menu#main-menu li.current a {
+  background: linear-gradient(90deg, rgba(0, 245, 255, 0.15) 0%, rgba(255, 0, 228, 0.05) 100%) !important;
+  color: var(--game-primary) !important;
+  border-color: rgba(0, 245, 255, 0.35) !important;
+  font-weight: 700;
+  box-shadow: 0 0 15px rgba(0, 245, 255, 0.15);
+}
+
+.menu#main-menu li a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 3px;
+  background: var(--game-primary);
+  transform: scaleY(0);
+  transition: transform 0.25s ease;
+}
+
+.menu#main-menu li a:hover::before {
+  transform: scaleY(1);
+}
+
+.menu#main-menu li.current a::before {
+  transform: scaleY(1);
+  background: var(--game-secondary);
+}
+
+.menu#main-menu li a:hover {
+  background: rgba(0, 245, 255, 0.08) !important;
+  color: var(--game-primary) !important;
+  border-color: rgba(0, 245, 255, 0.3) !important;
+  transform: translateX(5px);
+}
+
+/* ==========================================================================
+   HOMEPAGE MODERN LOBBY COMPONENTS
+   ========================================================================== */
+
+/* Hero Section */
+.lobby-hero {
+  position: relative;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 2.5rem;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(8, 8, 24, 0.85) 0%, rgba(18, 8, 36, 0.85) 100%);
+  border: 1px solid rgba(0, 245, 255, 0.25);
+  box-shadow: inset 0 0 20px rgba(0, 245, 255, 0.1), 0 10px 30px rgba(0,0,0,0.6);
+  text-align: center;
+}
+
+.lobby-hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    linear-gradient(rgba(0, 245, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 245, 255, 0.03) 1px, transparent 1px);
+  background-size: 20px 20px;
+  pointer-events: none;
+}
+
+.lobby-hero-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  letter-spacing: 6px;
+  background: linear-gradient(to right, #00f5ff, #ff00e4, #ff6b00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.5rem;
+  filter: drop-shadow(0 2px 10px rgba(0, 245, 255, 0.3));
+}
+
+.lobby-hero-subtitle {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.25rem;
+  color: #a2a2f8;
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+}
+
+.lobby-stats {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.lobby-stat-card {
+  padding: 1rem 1.8rem;
+  background: rgba(13, 13, 35, 0.7);
+  border: 1px solid rgba(0, 245, 255, 0.15);
+  border-radius: 12px;
+  min-width: 150px;
+  box-shadow: inset 0 0 10px rgba(0, 245, 255, 0.08);
+  transition: all 0.3s ease;
+}
+
+.lobby-stat-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--game-primary);
+  box-shadow: 0 0 15px rgba(0, 245, 255, 0.2);
+}
+
+.lobby-stat-num {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--game-primary);
+  text-shadow: 0 0 8px rgba(0,245,255,0.4);
+}
+
+.lobby-stat-card:nth-child(2) .lobby-stat-num {
+  color: var(--game-secondary);
+  text-shadow: 0 0 8px rgba(255,0,228,0.4);
+}
+
+.lobby-stat-card:nth-child(3) .lobby-stat-num {
+  color: var(--game-accent);
+  text-shadow: 0 0 8px rgba(255,107,0,0.4);
+}
+
+.lobby-stat-label {
+  font-size: 0.75rem;
+  color: var(--game-text-muted);
+  text-transform: uppercase;
+  margin-top: 0.4rem;
+  letter-spacing: 1px;
+}
+
+/* Grid Navigation Menu */
+.lobby-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+@media (max-width: 768px) {
+  .lobby-nav-grid {
+    grid-template-columns: 1fr;
+  }
+  .lobby-hero-title {
+    font-size: 2.2rem;
+  }
+}
+
+.lobby-nav-card {
+  padding: 1.8rem;
+  background: var(--game-card-bg);
+  border: 1px solid rgba(0, 245, 255, 0.15);
+  border-radius: 12px;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.lobby-nav-card:hover {
+  transform: translateY(-6px) scale(1.01);
+  border-color: var(--game-secondary);
+  box-shadow: var(--glow-pink-strong);
+}
+
+.lobby-nav-card-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 0 0 0.8rem 0 !important;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--game-primary) !important;
+}
+
+.lobby-nav-card-desc {
+  font-size: 0.88rem;
+  color: var(--game-text-muted);
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+/* Latest Updates HUD Board */
+.hud-board {
+  background: rgba(5, 5, 15, 0.9);
+  border: 1px solid rgba(0, 245, 255, 0.25);
+  border-radius: 12px;
+  padding: 1.8rem;
+  margin: 2rem 0;
+  box-shadow: inset 0 0 20px rgba(0, 245, 255, 0.05), 0 8px 30px rgba(0,0,0,0.5);
+  position: relative;
+}
+
+.hud-board-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.15);
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+
+.hud-board-title {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.2rem;
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 8px rgba(0, 245, 255, 0.3);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 !important;
+}
+
+.hud-board-status {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--game-success);
+  letter-spacing: 1px;
+}
+
+.blinking {
+  animation: blink-anim 1.5s infinite;
+}
+
+@keyframes blink-anim {
+  0% { opacity: 0.2; }
+  50% { opacity: 1; }
+  100% { opacity: 0.2; }
+}
+
+.hud-board-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.hud-board-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 1rem;
+  background: rgba(13, 13, 35, 0.5);
+  border: 1px solid rgba(0, 245, 255, 0.08);
+  border-radius: 8px;
+  transition: all 0.25s ease;
+}
+
+.hud-board-item:hover {
+  background: rgba(0, 245, 255, 0.06);
+  border-color: rgba(0, 245, 255, 0.25);
+  transform: translateX(4px);
+}
+
+.hud-item-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.hud-item-title {
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--game-text-bright) !important;
+}
+
+.hud-item-title a:hover {
+  color: var(--game-primary);
+}
+
+.hud-item-desc {
+  font-size: 0.8rem;
+  color: var(--game-text-muted);
+}
+
+.hud-item-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.hud-item-date {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.8rem;
+  color: var(--game-text-muted);
+}
+
+.hud-item-tag {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.7rem;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: rgba(255, 0, 228, 0.12);
+  border: 1px solid rgba(255, 0, 228, 0.3);
+  color: var(--game-secondary);
+}
+
+.hud-board-item:nth-child(even) .hud-item-tag {
+  background: rgba(0, 245, 255, 0.12);
+  border: 1px solid rgba(0, 245, 255, 0.3);
+  color: var(--game-primary);
+}
+
+/* ==========================================================================
+   BUTTONS AND INTERACTIVE ELEMENT STYLING
+   ========================================================================== */
+
+.btn-cyber {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.4rem;
+  background: rgba(0, 245, 255, 0.06);
+  border: 1px solid var(--game-primary);
+  color: var(--game-primary) !important;
+  font-family: "Share Tech Mono", monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 245, 255, 0.1);
+}
+
+.btn-cyber::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 0, 228, 0.2), transparent);
+  transition: left 0.5s ease;
+}
+
+.btn-cyber:hover {
+  background: rgba(0, 245, 255, 0.15);
+  color: #ffffff !important;
+  border-color: var(--game-secondary);
+  box-shadow: 0 0 18px rgba(255, 0, 228, 0.35);
+  transform: translateY(-2px);
+}
+
+.btn-cyber:hover::before {
+  left: 100%;
+}
+
+/* ==========================================================================
+   RESPONSIVE 3-COLUMN GUIDES GRID
+   ========================================================================== */
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2.5rem 0;
+}
+
+@media (max-width: 1100px) {
+  .guide-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .guide-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.guide-grid-card {
+  background: var(--game-card-bg) !important;
+  border: 1px solid rgba(0, 245, 255, 0.15) !important;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.guide-grid-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  border-color: var(--game-secondary) !important;
+  box-shadow: var(--glow-pink-strong) !important;
+}
+
+.guide-card-image-link {
+  display: block;
+  overflow: hidden;
+  height: 170px;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.12);
+  background: #000;
+}
+
+.guide-card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+  opacity: 0.85;
+}
+
+.guide-grid-card:hover .guide-card-image {
+  transform: scale(1.08);
+  opacity: 1;
+}
+
+.guide-card-content {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.guide-card-title {
+  font-family: "Orbitron", "Noto Sans SC", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 0.6rem 0 !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.guide-card-title a {
+  color: var(--game-text-bright) !important;
+}
+
+.guide-card-title a:hover {
+  color: var(--game-primary) !important;
+}
+
+.guide-card-description {
+  font-size: 0.85rem;
+  color: var(--game-text-muted) !important;
+  line-height: 1.4;
+  margin: 0 0 1.2rem 0;
+  flex-grow: 1;
+}
+
+.guide-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+  border-top: 1px dashed rgba(0, 245, 255, 0.12);
+  padding-top: 0.8rem;
+  margin-top: auto;
+}
+
+.guide-card-date {
+  color: var(--game-text-muted);
+  font-family: "Share Tech Mono", monospace;
+}
+
+.guide-card-tags {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.guide-tag {
+  color: var(--game-primary);
+  background: rgba(0, 245, 255, 0.06);
+  padding: 1px 6px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 245, 255, 0.15);
+}
+
+/* ==========================================================================
+   SINGLE GUIDE PAGE BEAUTIFICATION
+   ========================================================================== */
+
+/* HUD Connection details inside layouts/single.html */
+.cyber-single-wrapper {
+  position: relative;
+}
+
+.guide-hud-header {
+  padding: 1.5rem 1.8rem;
+  background: rgba(5, 5, 18, 0.8);
+  border: 1px solid rgba(0, 245, 255, 0.25);
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: inset 0 0 15px rgba(0, 245, 255, 0.05);
+}
+
+.hud-connection {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--game-primary);
+  margin-bottom: 0.6rem;
+  letter-spacing: 1px;
+}
+
+.hud-line {
+  display: inline-block;
+  height: 2px;
+  width: 15px;
+  background: var(--game-primary);
+}
+
+.hud-node {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--game-secondary);
+  box-shadow: 0 0 6px var(--game-secondary);
+}
+
+.hud-title-neon {
+  margin: 0 0 0.8rem 0 !important;
+  font-size: 1.8rem !important;
+  border: none !important;
+  padding: 0 !important;
+  background: linear-gradient(90deg, #fff 0%, var(--game-primary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hud-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  border-top: 1px solid rgba(0, 245, 255, 0.15);
+  padding-top: 0.8rem;
+}
+
+@media (max-width: 576px) {
+  .hud-meta-grid {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+}
+
+.hud-meta-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.hud-meta-label {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--game-text-muted);
+}
+
+.hud-meta-val {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.text-success { color: var(--game-success) !important; }
+.text-primary { color: var(--game-primary) !important; }
+.text-accent { color: var(--game-accent) !important; }
+
+/* KBD neon buttons styling */
+.kbd-key {
+  display: inline-block;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--game-primary);
+  background: rgba(0, 245, 255, 0.08);
+  border: 1px solid rgba(0, 245, 255, 0.3);
+  border-bottom: 3px solid rgba(0, 245, 255, 0.85);
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin: 0 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 5px rgba(0, 245, 255, 0.4);
+  vertical-align: middle;
+  transition: all 0.15s ease;
+}
+
+.kbd-key:hover {
+  transform: translateY(1px);
+  border-bottom-width: 1px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  background: rgba(0, 245, 255, 0.15);
+}
+
+.kbd-key.mouse-key {
+  color: var(--game-secondary);
+  border-color: rgba(255, 0, 228, 0.3);
+  border-bottom-color: rgba(255, 0, 228, 0.85);
+  background: rgba(255, 0, 228, 0.08);
+  text-shadow: 0 0 5px rgba(255, 0, 228, 0.4);
+}
+
+.kbd-key.mouse-key:hover {
+  background: rgba(255, 0, 228, 0.15);
+}
+
+/* Polished Game Image Container styling */
+.game-image-container {
+  position: relative;
+  width: 100%;
+  margin: 2rem 0;
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background: #000;
+}
+
+.game-image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1);
+  opacity: 0.9;
+}
+
+.game-image-container:hover {
+  border-color: var(--game-secondary);
+  box-shadow: var(--glow-pink-strong);
+}
+
+.game-image-container:hover img {
+  transform: scale(1.03);
+  opacity: 1;
+}
+
+.img-caption {
+  padding: 0.6rem 1rem;
+  background: rgba(5, 5, 18, 0.9);
+  border-top: 1px solid rgba(0, 245, 255, 0.15);
+  font-size: 0.85rem;
+  color: var(--game-primary);
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive Image grid helper inside articles */
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Level selection card grids in guide homepage */
+.level-select-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.level-select-card {
+  background: rgba(13, 13, 35, 0.6);
+  border: 1px solid rgba(0, 245, 255, 0.15) !important;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.level-select-card:hover {
+  transform: translateY(-6px) scale(1.01);
+  border-color: var(--game-primary) !important;
+  box-shadow: var(--glow-cyan-strong) !important;
+}
+
+.level-select-img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.level-select-body {
+  padding: 1.2rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.level-select-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--game-text-bright) !important;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.level-select-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: var(--game-text-muted);
+  margin-top: 1.2rem;
+  border-top: 1px dashed rgba(0, 245, 255, 0.12);
+  padding-top: 0.6rem;
+}
+
+/* Unlock skill Tip Boxes */
+.unlock-tip-box {
+  background: rgba(0, 255, 102, 0.05) !important;
+  border: 1px solid var(--game-success) !important;
+  box-shadow: 0 0 15px rgba(0, 255, 102, 0.15) !important;
+  padding: 1.5rem !important;
+  margin: 2.2rem 0;
+  border-radius: 10px;
+  position: relative;
+  color: var(--game-text) !important;
+}
+
+.unlock-tip-box::before {
+  content: "💡 UNLOCK SKILL / 解锁技巧";
+  position: absolute;
+  top: -12px;
+  left: 15px;
+  background: #03030c;
+  border: 1px solid var(--game-success);
+  padding: 2px 10px;
+  font-size: 0.75rem;
+  font-family: "Orbitron", monospace;
+  font-weight: bold;
+  color: var(--game-success);
+  border-radius: 4px;
+}
+
+.unlock-tip-box strong {
+  color: var(--game-success) !important;
+}
+
+/* Video card embedded players */
+.video-card {
+  background: rgba(13, 13, 35, 0.55);
+  border: 1px solid rgba(0, 245, 255, 0.18);
+  border-radius: 12px;
+  padding: 1.2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease;
+}
+
+.video-card:hover {
+  border-color: var(--game-secondary);
+  box-shadow: 0 0 20px rgba(255, 0, 228, 0.2);
+}
+
+.video-title {
+  font-family: "Orbitron", "Noto Sans SC", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--game-text-bright) !important;
+  margin-bottom: 0.8rem;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #000;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.8rem;
+}
+
+.video-author {
+  font-size: 0.85rem;
+  color: var(--game-text-muted);
+}
+
+.video-platform-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--game-secondary) !important;
+  border: 1px solid rgba(255, 0, 228, 0.3);
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  background: rgba(255, 0, 228, 0.05);
+  transition: all 0.3s ease;
+}
+
+.video-platform-link:hover {
+  background: rgba(255, 0, 228, 0.15);
+  border-color: var(--game-secondary);
+  color: #fff !important;
+  box-shadow: 0 0 10px rgba(255, 0, 228, 0.4);
+}
+
+/* ==========================================================================
+   MISC AND UTILITY CLASSES
+   ========================================================================== */
+
+/* Table styles overrides inside post content */
+.article-content table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+  background: rgba(13, 13, 35, 0.4);
+  border: 1px solid rgba(0, 245, 255, 0.15);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.article-content th {
+  background: rgba(0, 245, 255, 0.1);
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-align: left;
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.2);
+}
+
+.article-content td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  font-size: 0.9rem;
+}
+
+.article-content tr:last-child td {
+  border-bottom: none;
+}
+
+/* Related articles footer list */
+.related-contents {
+  background: rgba(13, 13, 35, 0.5) !important;
+  border: 1px solid rgba(0, 245, 255, 0.15) !important;
+  border-radius: 12px;
+  padding: 1.5rem !important;
+}
+
+/* Language switcher and compact lists */
+.language-switcher a {
+  font-family: "Share Tech Mono", monospace;
+  font-size: 0.85rem;
+}
+
+/* ==========================================================================
+   HIGH-CONTRAST COMPONENT ACCESSIBILITY OVERRIDES
+   ========================================================================== */
+
+/* 1. Force high-contrast text and link colors inside widgets, menus, and sidebars */
+.sidebar,
+.sidebar a,
+.sidebar span,
+.sidebar time,
+.site-description,
+.widget,
+.widget a,
+.widget span,
+.widget-title,
+.widget-title a,
+.menu-bottom-section,
+.footer,
+.footer p,
+.footer span,
+.footer a,
+.disclaimer,
+.article-time,
+.article-metadata,
+.article-metadata a,
+.post-info,
+.compact-article-title {
+  color: var(--game-text) !important;
+}
+
+/* 2. Style links inside sidebars and widgets to stand out and glow on hover */
+.sidebar a:hover,
+.widget a:hover,
+.footer a:hover,
+.article-metadata a:hover {
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 8px rgba(0, 245, 255, 0.4) !important;
+}
+
+/* 3. Style tag clouds to look premium and highly visible */
+.tagCloud a {
+  background: rgba(0, 245, 255, 0.08) !important;
+  border: 1px solid rgba(0, 245, 255, 0.3) !important;
+  color: var(--game-primary) !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  font-size: 0.8rem !important;
+  font-family: "Share Tech Mono", monospace !important;
+  transition: all 0.2s ease !important;
+  display: inline-block;
+  margin: 4px !important;
+}
+
+.tagCloud a:hover {
+  background: rgba(255, 0, 228, 0.12) !important;
+  border-color: rgba(255, 0, 228, 0.5) !important;
+  color: var(--game-secondary) !important;
+  box-shadow: 0 0 10px rgba(255, 0, 228, 0.3) !important;
+  transform: translateY(-2px);
+}
+
+/* 4. Overrides for page terms (like tag page headers or count labels) */
+.section-term,
+.section-description,
+.section-count,
+.section-title {
+  color: var(--game-text-bright) !important;
+}
+
+/* 5. Custom styles for bullet lists to ensure bullet points are high-contrast */
+.article-content ul li::before,
+.article-content ol li::before {
+  color: var(--game-primary) !important;
+}

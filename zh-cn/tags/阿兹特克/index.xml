@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>阿兹特克 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B/</link><description>Recent content in 阿兹特克 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>🗿 第十关：阿兹特克 (Aztec) 攻略</title><link>https://www.mrm777.win/zh-cn/guides/aztec/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/aztec/</guid><description>&lt;h1 id="-第十关阿兹特克-aztec"&gt;🗿 第十关：阿兹特克 (Aztec)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：利用木板和石块作为杠杆撬倒巨型石板铺路，操纵摇晃的配重铁笼电梯上升，快速通过晃动的钟摆机关，在滚动的石球上保持平衡，最后跃入神庙深渊通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★★☆（高难度挑战）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：支点杠杆原理、铁笼重力配重、钟摆节奏避让、球体逆向平衡、碰撞箱卡位。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/aztec.jpg" alt="阿兹特克古神庙遗迹"&gt;
+ &lt;div class="img-caption"&gt;📸 玛雅遗迹：利用木棍插入石缝作为杠杆，撬倒巨大的直立石板形成通路&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一杠杆撬动石板桥"&gt;阶段一：杠杆撬动石板桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：在起点房间里，有两根木棍和一块垂直竖立的巨型石板。将其中一根木棍平铺在地上作为支点。将另一根木棍一端插入直立石板下方的缝隙中。双手抓住木棍的另一端向下按，利用杠杆原理撬动石板。石板倾倒后会平铺在深渊上，形成一座通往对面的石桥。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二重力配重铁笼电梯"&gt;阶段二：重力配重铁笼电梯
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;来到挂着两个大铁笼的庭院。&lt;/li&gt;
+&lt;li&gt;跳进第一个铁笼中。由于 Bob 的肉身重力，该铁笼会下沉，同时通过绳索拉起第二个铁笼。&lt;/li&gt;
+&lt;li&gt;从第一个铁笼跳到中间的石墙平台，然后再跳上被拉高的第二个铁笼。&lt;/li&gt;
+&lt;li&gt;从第二个铁笼顶端跳上高处的边缘。如果你想解锁“鸟瞰”成就，可以在此处跳到旁边长着鸟巢的树枝上，并顺着树干爬到树顶。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三致命钟摆障碍赛--核心解谜"&gt;阶段三：致命钟摆障碍赛 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你将进入一条长长的走廊，几枚巨大的石钟摆正在一条狭窄摇晃的石桥上空来回剧烈摆动。&lt;/li&gt;
+&lt;li&gt;观察钟摆摆动的轨迹和节奏。&lt;/li&gt;
+&lt;li&gt;当钟摆荡走时加速跑过去。按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰降低 Bob 的身体高度，以减少被钟摆擦边撞飞入深渊的几率。&lt;/li&gt;
+&lt;li&gt;算好时间跳过桥梁之间的缝隙。若要在 60 秒内通过这道障碍走廊，可以解锁“发条”隐藏成就。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四滚动大石球平衡"&gt;阶段四：滚动大石球平衡
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到斜坡顶端静止的巨大石球。&lt;/li&gt;
+&lt;li&gt;双手推动石球，让它在斜坡上向下滚动。&lt;/li&gt;
+&lt;li&gt;迅速跳到滚动的石球顶部。随着石球滚下，你必须朝着石球滚动的反方向迈步或奔跑，以保持身体在球顶部的重力平衡。&lt;/li&gt;
+&lt;li&gt;保持平衡直到石球滚落入尽头的深坑中，卡死形成一个稳定的落脚石，踩着它跳进神庙入口。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【神庙雕像后门直接出关】&lt;/strong&gt;&lt;br&gt;
+ 你可以跳过整个关卡 90% 的解谜。在阶段二的铁笼区域，利用“回旋爬墙术”顺着神庙外墙上的玛雅人脸浮雕边缘往上爬。爬上神庙的楼顶后，走到后方的几何死角，你会发现一个没有封闭的贴图缝隙。直接钻进这个“漏洞”自由落体，你会直接掉入出口漩涡出关！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🗿 玛雅终点 (The End)&lt;/strong&gt;：通关第十关“阿兹特克”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🦅 鸟瞰 (Bird’s Eye View)&lt;/strong&gt;：爬上配重铁笼庭院中长着鸟巢的大树顶端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⚽ 滚石 (Rollin’)&lt;/strong&gt;：在阶段四中，全程站在滚动的石球顶部随它滑行通过深渊，期间身体没有从球上滑落，也没有碰到两边的墙壁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⏱️ 发条 (Clockwork)&lt;/strong&gt;：在 60 秒内快速穿过阶段三的全部钟摆石桥通道。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 40 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;走过钟摆石桥时，按住 Shift 弯腰能极大提升稳定性&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;44.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用神庙浮雕贴图缝隙直接跳过所有解谜&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;杠杆力矩与动平衡&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;踩在石球上时，视角向下看球心更易保持平衡&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/dark/" &gt;下一关卡：黑暗 (Dark)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item></channel></rss>
