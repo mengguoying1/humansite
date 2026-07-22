@@ -33,6 +33,11 @@
   
   /* Override Theme Stack Variables directly for seamless theme integration */
   --body-background: var(--game-bg) !important;
+  --body-text-color: var(--game-text) !important;
+  --accent-color: var(--game-primary) !important;
+  --accent-color-darker: var(--game-secondary) !important;
+  --accent-color-text: #000000 !important;
+
   --card-background: var(--game-card-bg) !important;
   --card-background-selected: rgba(0, 245, 255, 0.12) !important;
   --card-text-color-main: var(--game-text) !important;
@@ -40,6 +45,12 @@
   --card-text-color-tertiary: var(--game-text-muted) !important;
   --card-separator-color: rgba(0, 245, 255, 0.12) !important;
   --card-border-radius: 12px !important;
+
+  --blockquote-background-color: rgba(13, 13, 35, 0.65) !important;
+  --code-background-color: rgba(0, 0, 0, 0.5) !important;
+  --code-text-color: var(--game-primary) !important;
+  --table-border-color: rgba(0, 245, 255, 0.25) !important;
+  --tr-even-background-color: rgba(0, 245, 255, 0.05) !important;
 }
 
 /* ==========================================================================
@@ -1158,4 +1169,78 @@ a:hover {
 .language-switcher a {
   font-family: "Share Tech Mono", monospace;
   font-size: 0.85rem;
+}
+
+/* ==========================================================================
+   HIGH-CONTRAST COMPONENT ACCESSIBILITY OVERRIDES
+   ========================================================================== */
+
+/* 1. Force high-contrast text and link colors inside widgets, menus, and sidebars */
+.sidebar,
+.sidebar a,
+.sidebar span,
+.sidebar time,
+.site-description,
+.widget,
+.widget a,
+.widget span,
+.widget-title,
+.widget-title a,
+.menu-bottom-section,
+.footer,
+.footer p,
+.footer span,
+.footer a,
+.disclaimer,
+.article-time,
+.article-metadata,
+.article-metadata a,
+.post-info,
+.compact-article-title {
+  color: var(--game-text) !important;
+}
+
+/* 2. Style links inside sidebars and widgets to stand out and glow on hover */
+.sidebar a:hover,
+.widget a:hover,
+.footer a:hover,
+.article-metadata a:hover {
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 8px rgba(0, 245, 255, 0.4) !important;
+}
+
+/* 3. Style tag clouds to look premium and highly visible */
+.tagCloud a {
+  background: rgba(0, 245, 255, 0.08) !important;
+  border: 1px solid rgba(0, 245, 255, 0.3) !important;
+  color: var(--game-primary) !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  font-size: 0.8rem !important;
+  font-family: "Share Tech Mono", monospace !important;
+  transition: all 0.2s ease !important;
+  display: inline-block;
+  margin: 4px !important;
+}
+
+.tagCloud a:hover {
+  background: rgba(255, 0, 228, 0.12) !important;
+  border-color: rgba(255, 0, 228, 0.5) !important;
+  color: var(--game-secondary) !important;
+  box-shadow: 0 0 10px rgba(255, 0, 228, 0.3) !important;
+  transform: translateY(-2px);
+}
+
+/* 4. Overrides for page terms (like tag page headers or count labels) */
+.section-term,
+.section-description,
+.section-count,
+.section-title {
+  color: var(--game-text-bright) !important;
+}
+
+/* 5. Custom styles for bullet lists to ensure bullet points are high-contrast */
+.article-content ul li::before,
+.article-content ol li::before {
+  color: var(--game-primary) !important;
 }
