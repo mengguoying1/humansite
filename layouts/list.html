@@ -53,25 +53,15 @@
             {{ range $index, $page := .Pages }}
                 <!-- Custom image fallback resolver (with safe .File check) -->
                 {{ $img := "/img/cover.jpg" }}
-                {{ $name := "" }}
-                {{ if .File }}
-                    {{ $name = .File.TranslationBaseName }}
-                {{ end }}
-                
-                {{ if eq $name "mansion" }}{{ $img = "/img/mansion.jpg" }}
-                {{ else if eq $name "factory" }}{{ $img = "/img/factory.jpg" }}
-                {{ else if or (eq $name "train") (eq $name "mountain") (eq $name "castle") (eq $name "forest") (eq $name "tower") (eq $name "hike") }}{{ $img = "/img/climbing.jpg" }}
-                {{ else if or (eq $name "carry") (eq $name "power") (eq $name "laboratory") (eq $name "lumber") (eq $name "copper-world") (eq $name "test-chamber") }}{{ $img = "/img/factory.jpg" }}
-                {{ else if or (eq $name "demolition") (eq $name "steam") (eq $name "thermal") (eq $name "steampunk-party") }}{{ $img = "/img/swinging.jpg" }}
-                {{ else if or (eq $name "water") (eq $name "golf") (eq $name "underwater") (eq $name "viking") (eq $name "multiplayer") }}{{ $img = "/img/multiplayer.jpg" }}
-                {{ else if or (eq $name "aztec") (eq $name "port") (eq $name "candyland") }}{{ $img = "/img/mansion.jpg" }}
-                {{ else if or (eq $name "city") (eq $name "miniature") }}{{ $img = "/img/hero_banner.jpg" }}
-                {{ else if or (eq $name "dark") (eq $name "ice") }}{{ $img = "/img/cover.jpg" }}
+                {{ if .Params.image }}
+                    {{ $img = .Params.image }}
+                {{ else if .File }}
+                    {{ $img = printf "/img/%s.jpg" .File.TranslationBaseName }}
                 {{ end }}
                 
                 <article class="guide-grid-card hud-brackets {{ if eq (mod $index 4) 0 }}featured-card{{ end }}">
                     <a href="{{ .RelPermalink }}" class="guide-card-image-link" style="position: relative; display: block;">
-                        <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy">
+                        <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy" onerror="this.src='/img/cover.jpg';">
                         {{ if or .Params.difficulty .Params.duration .Params.complexity }}
                         <div class="level-badges-overlay" style="position: absolute; top: 10px; left: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 10;">
                             {{ if .Params.difficulty }}
