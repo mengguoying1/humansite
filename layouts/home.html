@@ -1,6 +1,28 @@
 {{ define "main" }}
     {{ $isZH := eq .Lang "zh-cn" }}
 
+    <!-- Early check script to bypass welcome screen flash -->
+    <script>
+        (function() {
+            var synced = sessionStorage.getItem('dream_synced');
+            if (synced) {
+                var style = document.createElement('style');
+                style.innerHTML = '.sync-overlay { display: none !important; }';
+                document.head.appendChild(style);
+            }
+        })();
+    </script>
+
+    <!-- Welcome Overlay -->
+    <div class="sync-overlay" id="syncOverlay">
+        <div class="sync-overlay-content">
+            <h2 class="sync-overlay-title">SYSTEM NEURAL SYNC / 脑电波同步系统</h2>
+            <div class="sync-telemetry-terminal" id="telemetryTerminal"></div>
+            <div class="sync-loading-text">⚡ STANDBY / 准备就绪... ⚡</div>
+            <button class="sync-start-btn" id="startSyncBtn">INITIATE NEURAL SYNC / 启动脑电波同步</button>
+        </div>
+    </div>
+
     <!-- 1. Hero Banner Section -->
     <div class="lobby-hero">
         <div class="lobby-hero-title">HUMAN: FALL FLAT</div>
@@ -136,6 +158,188 @@
     <article class="home-content" style="margin-top: 3rem;">
         {{ .Content }}
     </article>
+
+    <!-- 4. Interactive CLI Dream Console -->
+    <div class="dream-console">
+        <div class="dream-console-output" id="consoleOutput">Welcome to Dreamscape CLI.
+Type 'help' to see available commands.</div>
+        <div class="dream-console-input-row">
+            <span class="dream-console-prefix">dreamscape_user@bob-core:~$&nbsp;</span>
+            <input type="text" class="dream-console-input" id="consoleInput" placeholder="Enter command..." autocomplete="off" />
+        </div>
+    </div>
+
+    <!-- Scripts for Sync Sequence and Dream Console CLI -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Welcome Overlay Sequence
+            var overlay = document.getElementById('syncOverlay');
+            if (overlay && !sessionStorage.getItem('dream_synced')) {
+                var lines = [
+                    "[SYS] Initializing Dream-Sync Interface...",
+                    "[SYS] Core: Human-Flat-Physics-Engine-v2.0.4 loaded.",
+                    "[SYS] Checking neural connection... STABLE (30ms).",
+                    "[SYS] Loading dreamscape parameters: Aztec, Castle, Demolition, Golf...",
+                    "[SYS] Safety lock disabled. Gravity constants set to 0.4g (Simulated).",
+                    "[SYS] Console interface initialized. Type 'help' in terminal for assistance.",
+                    "[SYS] READY. Awaiting brainwave synchronization."
+                ];
+                var terminal = document.getElementById('telemetryTerminal');
+                var currentLine = 0;
+
+                function printNextLine() {
+                    if (currentLine < lines.length) {
+                        var p = document.createElement('div');
+                        p.textContent = lines[currentLine];
+                        terminal.appendChild(p);
+                        terminal.scrollTop = terminal.scrollHeight;
+                        currentLine++;
+                        setTimeout(printNextLine, 150 + Math.random() * 150);
+                    }
+                }
+                printNextLine();
+
+                var btn = document.getElementById('startSyncBtn');
+                btn.addEventListener('click', function() {
+                    document.body.classList.add('screen-glitch');
+                    
+                    var p = document.createElement('div');
+                    p.className = 'cli-success';
+                    p.textContent = '[SYS] Brainwave match 100%! Establishing link...';
+                    terminal.appendChild(p);
+                    terminal.scrollTop = terminal.scrollHeight;
+
+                    btn.disabled = true;
+                    btn.textContent = 'CONNECTING / 连接中...';
+
+                    setTimeout(function() {
+                        overlay.classList.add('fade-out');
+                        setTimeout(function() {
+                            document.body.classList.remove('screen-glitch');
+                            overlay.style.display = 'none';
+                            sessionStorage.setItem('dream_synced', 'true');
+                        }, 600);
+                    }, 1500);
+                });
+            } else if (overlay) {
+                overlay.style.display = 'none';
+            }
+
+            // CLI Dream Console Parser
+            var inputEl = document.getElementById('consoleInput');
+            var outputEl = document.getElementById('consoleOutput');
+
+            if (inputEl && outputEl) {
+                inputEl.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter') {
+                        var command = inputEl.value.trim().toLowerCase();
+                        inputEl.value = '';
+                        
+                        var cmdLine = document.createElement('div');
+                        cmdLine.innerHTML = '<span class="dream-console-prefix">dreamscape_user@bob-core:~$&nbsp;</span>' + escapeHTML(command);
+                        outputEl.appendChild(cmdLine);
+                        
+                        var response = executeCommand(command);
+                        if (response) {
+                            var respLine = document.createElement('div');
+                            respLine.innerHTML = response;
+                            outputEl.appendChild(respLine);
+                        }
+                        
+                        outputEl.scrollTop = outputEl.scrollHeight;
+                    }
+                });
+            }
+
+            function escapeHTML(str) {
+                return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            }
+
+            function executeCommand(cmd) {
+                if (cmd === '') return '';
+                
+                switch (cmd) {
+                    case 'help':
+                        return '<span class="cli-info">Available commands:</span>\n' +
+                               '  <span class="cli-success">help</span>    - Show this help list\n' +
+                               '  <span class="cli-success">wobbly</span>  - Toggle wobbly shake effect on level cards\n' +
+                               '  <span class="cli-success">gravity</span> - Toggle low-gravity floating animation on layout content\n' +
+                               '  <span class="cli-success">skin</span>    - Randomize neon visual styles / theme color skin\n' +
+                               '  <span class="cli-success">fall</span>    - Spawn a wobbly falling ASCII Bob from the top';
+                    
+                    case 'wobbly':
+                        var cards = document.querySelectorAll('.level-select-card, .lobby-nav-card');
+                        if (cards.length === 0) {
+                            return '<span class="cli-warning">[WARN] No level cards found. Wobble applied to navigation cards instead.</span>';
+                        }
+                        var toggled = false;
+                        cards.forEach(function(card) {
+                            card.classList.toggle('wobbly-shake');
+                            toggled = card.classList.contains('wobbly-shake');
+                        });
+                        return '<span class="cli-success">[OK] Wobble shake toggled ' + (toggled ? 'ON' : 'OFF') + ' for ' + cards.length + ' elements.</span>';
+                        
+                    case 'gravity':
+                        var items = document.querySelectorAll('article, .home-content, aside, .sidebar');
+                        var toggledGravity = false;
+                        items.forEach(function(item) {
+                            item.classList.toggle('low-gravity-float');
+                            toggledGravity = item.classList.contains('low-gravity-float');
+                        });
+                        return '<span class="cli-success">[OK] Low-gravity float toggled ' + (toggledGravity ? 'ON' : 'OFF') + ' for layout content.</span>';
+                        
+                    case 'skin':
+                        var skins = [
+                            { primary: '#00f5ff', secondary: '#ff00e4' },
+                            { primary: '#00ff66', secondary: '#ffcc00' },
+                            { primary: '#ff6b00', secondary: '#00f5ff' },
+                            { primary: '#ff0055', secondary: '#00ffcc' },
+                            { primary: '#9d00ff', secondary: '#ff00aa' },
+                            { primary: '#00ff9d', secondary: '#9d00ff' }
+                        ];
+                        var currentPrimary = document.documentElement.style.getPropertyValue('--game-primary').trim();
+                        var availableSkins = skins.filter(function(s) { return s.primary !== currentPrimary; });
+                        var selected = availableSkins.length > 0 ? availableSkins[Math.floor(Math.random() * availableSkins.length)] : skins[Math.floor(Math.random() * skins.length)];
+                        
+                        document.documentElement.style.setProperty('--game-primary', selected.primary);
+                        document.documentElement.style.setProperty('--game-secondary', selected.secondary);
+                        
+                        return '<span class="cli-success">[OK] Skin updated. Neon primary: ' + selected.primary + ', secondary: ' + selected.secondary + '</span>';
+                        
+                    case 'fall':
+                        var bob = document.createElement('div');
+                        bob.className = 'wobbly-shake';
+                        bob.style.position = 'fixed';
+                        bob.style.top = '-50px';
+                        bob.style.left = Math.floor(Math.random() * (window.innerWidth - 100)) + 'px';
+                        bob.style.color = 'var(--game-secondary)';
+                        bob.style.fontFamily = 'monospace';
+                        bob.style.whiteSpace = 'pre';
+                        bob.style.zIndex = '999999';
+                        bob.style.fontSize = '20px';
+                        bob.style.pointerEvents = 'none';
+                        bob.style.lineHeight = '1.2';
+                        bob.style.textShadow = '0 0 8px var(--game-secondary)';
+                        bob.innerHTML = "  O\n/|\\\n/ \\";
+                        document.body.appendChild(bob);
+                        
+                        bob.offsetHeight; // Reflow
+                        
+                        bob.style.transition = 'top 3s linear';
+                        bob.style.top = (window.innerHeight + 100) + 'px';
+                        
+                        setTimeout(function() {
+                            bob.remove();
+                        }, 3100);
+                        
+                        return '<span class="cli-success">[OK] Bob spawned! Splat in 3s...</span>';
+                        
+                    default:
+                        return '<span class="cli-warning">[ERROR] Command \'' + escapeHTML(cmd) + '\' not recognized. Type \'help\' for assistance.</span>';
+                }
+            }
+        });
+    </script>
 
     {{- partial "footer/footer" . -}}
 {{ end }}

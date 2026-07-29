@@ -174,14 +174,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🌃 Level 11: Dark Card -->
   <div class="level-select-card">
-    <img src="/img/cover.jpg" alt="🌃 Level 11: Dark" class="level-select-img">
+    <img src="/img/dark.jpg" alt="🌃 Level 11: Dark" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🌃 Level 11: Dark
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Dark level guide & secrets</p>
-      <a href="/guides/dark/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/dark/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐⭐☆</span>
         <span>Est: 30 Mins</span>
@@ -190,14 +190,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 💨 Level 12: Steam Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="💨 Level 12: Steam" class="level-select-img">
+    <img src="/img/steam.jpg" alt="💨 Level 12: Steam" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         💨 Level 12: Steam
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Steam level guide & secrets</p>
-      <a href="/guides/steam/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/steam/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 30 Mins</span>
@@ -206,14 +206,14 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ❄️ Level 13: Ice Card -->
   <div class="level-select-card">
-    <img src="/img/cover.jpg" alt="❄️ Level 13: Ice" class="level-select-img">
+    <img src="/img/ice.jpg" alt="❄️ Level 13: Ice" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ❄️ Level 13: Ice
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">Human: Fall Flat Ice level guide & secrets</p>
-      <a href="/guides/ice/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Get Secret Tip</a>
+      <a href="/guides/ice/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">Open Walkthrough</a>
       <div class="level-select-info">
         <span>Diff: ⭐⭐⭐☆☆</span>
         <span>Est: 25 Mins</span>

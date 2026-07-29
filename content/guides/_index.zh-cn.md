@@ -174,14 +174,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🌃 第十一关：黑暗 (Dark) Card -->
   <div class="level-select-card">
-    <img src="/img/cover.jpg" alt="🌃 第十一关：黑暗 (Dark)" class="level-select-img">
+    <img src="/img/dark.jpg" alt="🌃 第十一关：黑暗 (Dark)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         🌃 第十一关：黑暗 (Dark)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地黑暗关卡攻略</p>
-      <a href="/guides/dark/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/dark/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">开启攻略</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐⭐☆</span>
         <span>时长：30 分钟</span>
@@ -190,14 +190,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 💨 第十二关：蒸汽 (Steam) Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="💨 第十二关：蒸汽 (Steam)" class="level-select-img">
+    <img src="/img/steam.jpg" alt="💨 第十二关：蒸汽 (Steam)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         💨 第十二关：蒸汽 (Steam)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地蒸汽关卡攻略</p>
-      <a href="/guides/steam/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/steam/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">开启攻略</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：30 分钟</span>
@@ -206,14 +206,14 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ❄️ 第十三关：冰 (Ice) Card -->
   <div class="level-select-card">
-    <img src="/img/cover.jpg" alt="❄️ 第十三关：冰 (Ice)" class="level-select-img">
+    <img src="/img/ice.jpg" alt="❄️ 第十三关：冰 (Ice)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
-        <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
+        <span style="color:#00ff66; font-size:0.8rem;">● DONE</span>
         ❄️ 第十三关：冰 (Ice)
       </div>
       <p style="font-size:0.85rem; color:var(--game-text-muted); line-height:1.4; margin:0.5rem 0;">人类一败涂地冰关卡攻略</p>
-      <a href="/guides/ice/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">查看通关秘籍</a>
+      <a href="/guides/ice/" class="btn-cyber" style="padding:0.4rem 1rem; font-size:0.8rem; margin-top:1rem; align-self:flex-start;">开启攻略</a>
       <div class="level-select-info">
         <span>难度：⭐⭐⭐☆☆</span>
         <span>时长：25 分钟</span>
