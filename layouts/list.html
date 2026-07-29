@@ -8,7 +8,7 @@
             {{ end }}
         </h3>
 
-        <div class="section-card">
+        <div class="section-card hud-brackets">
             <div class="section-details">
                 <h3 class="section-count">{{ T "list.page" (len .Pages) }}</h3>
                 <h1 class="section-term">{{ .Title }}</h1>
@@ -19,7 +19,7 @@
         </div>
     </header>
 
-    {{- /* 显示 _index.md 的内容（包含自定义 HTML 手工面板） */ -}}
+    {{- /* 显示 _index.md 的内容 */ -}}
     {{ with .Content }}
         <div class="section-content" style="padding: 1rem 0;">
             {{ . }}
@@ -46,11 +46,11 @@
         </aside>
     {{- end -}}
     
-    {{/* List only pages in a premium responsive 3-column grid layout */}}
+    {{/* List pages in an asymmetrical responsive grid layout */}}
     {{ $paginator := partial "helper/paginator.html" . }}
     {{ with $paginator }}
         <section class="guide-grid">
-            {{ range .Pages }}
+            {{ range $index, $page := .Pages }}
                 <!-- Custom image fallback resolver (with safe .File check) -->
                 {{ $img := "/img/cover.jpg" }}
                 {{ $name := "" }}
@@ -69,9 +69,28 @@
                 {{ else if or (eq $name "dark") (eq $name "ice") }}{{ $img = "/img/cover.jpg" }}
                 {{ end }}
                 
-                <article class="guide-grid-card">
-                    <a href="{{ .RelPermalink }}" class="guide-card-image-link">
+                <article class="guide-grid-card hud-brackets {{ if eq (mod $index 4) 0 }}featured-card{{ end }}">
+                    <a href="{{ .RelPermalink }}" class="guide-card-image-link" style="position: relative; display: block;">
                         <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy">
+                        {{ if or .Params.difficulty .Params.duration .Params.complexity }}
+                        <div class="level-badges-overlay" style="position: absolute; top: 10px; left: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 10;">
+                            {{ if .Params.difficulty }}
+                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-primary); color: var(--game-primary); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(0, 245, 255, 0.3); text-shadow: 0 0 3px var(--game-primary); font-weight: bold; white-space: nowrap;">
+                                {{ .Params.difficulty }}
+                            </span>
+                            {{ end }}
+                            {{ if .Params.duration }}
+                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-secondary); color: var(--game-secondary); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(255, 0, 228, 0.3); text-shadow: 0 0 3px var(--game-secondary); font-weight: bold; white-space: nowrap;">
+                                ⏱️ {{ .Params.duration }}
+                            </span>
+                            {{ end }}
+                            {{ if .Params.complexity }}
+                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-accent); color: var(--game-accent); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(255, 107, 0, 0.3); text-shadow: 0 0 3px var(--game-accent); font-weight: bold; white-space: nowrap;">
+                                ⚙️ {{ .Params.complexity }}
+                            </span>
+                            {{ end }}
+                        </div>
+                        {{ end }}
                     </a>
                     <div class="guide-card-content">
                         <h2 class="guide-card-title">
@@ -97,8 +116,4 @@
     {{- partial "pagination.html" . -}}
 
     {{ partialCached "footer/footer" . }}
-{{ end }}
-
-{{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}

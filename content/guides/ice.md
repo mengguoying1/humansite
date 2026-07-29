@@ -4,6 +4,9 @@ description: "Human: Fall Flat Ice level guide - ice melting puzzles, ski lifts,
 date: 2026-07-04
 tags: [Walkthrough, Level-13, Ice, Winter]
 weight: 13
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "High"
 ---
 
 # ❄️ Level 13: Ice

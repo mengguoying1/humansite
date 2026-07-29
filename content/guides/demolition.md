@@ -4,6 +4,9 @@ description: "Human: Fall Flat Demolition full level guide - wrecking balls, bre
 date: 2026-07-04
 tags: [Walkthrough, Level-6, Demolition, Destruction]
 weight: 6
+difficulty: "★★★☆☆"
+duration: "18 Mins"
+complexity: "Medium"
 ---
 
 # 🏗️ Level 6: Demolition

@@ -4,6 +4,9 @@ description: "人类一败涂地水关卡详细攻略 - 划船、船闸升降控
 date: 2026-07-04
 tags: [攻略, 第八关, 水, 浮力]
 weight: 8
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "High"
 ---
 
 # ⛵ 第八关：水 (Water)

@@ -4,6 +4,9 @@ description: "人类一败涂地蒸汽关卡详细攻略 - 阀门控制、管道
 date: 2026-07-04
 tags: [攻略, 第十二关, 蒸汽, 工业]
 weight: 12
+difficulty: "★★★☆☆"
+duration: "30 Mins"
+complexity: "Medium"
 ---
 
 # 💨 第十二关：蒸汽 (Steam)

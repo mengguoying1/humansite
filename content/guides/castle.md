@@ -4,6 +4,9 @@ description: "Human: Fall Flat Castle full level guide - lock smashing, catapult
 date: 2026-07-04
 tags: [Walkthrough, Level-7, Castle, Medieval]
 weight: 7
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "Medium"
 ---
 
 # 🏰 Level 7: Castle

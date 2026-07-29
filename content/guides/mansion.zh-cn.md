@@ -4,6 +4,9 @@ description: "人类一败涂地第一关豪宅详细攻略 - 多种解法、隐
 date: 2026-07-04
 tags: [攻略, 第一关, 豪宅, 新手]
 weight: 1
+difficulty: "★☆☆☆☆"
+duration: "8 Mins"
+complexity: "Low"
 ---
 
 # 🏰 第一关：豪宅 (Mansion)

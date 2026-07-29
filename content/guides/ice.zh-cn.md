@@ -4,6 +4,9 @@ description: "人类一败涂地冰雪关卡详细攻略 - 冰块融化谜密、
 date: 2026-07-04
 tags: [攻略, 第十三关, 冰雪, 冬季]
 weight: 13
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "High"
 ---
 
 # ❄️ 第十三关：冰 (Ice)

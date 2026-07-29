@@ -4,6 +4,9 @@ description: "Human: Fall Flat Power full level guide - electricity wiring, fork
 date: 2026-07-04
 tags: [Walkthrough, Level-9, Power, Electricity]
 weight: 9
+difficulty: "★★★☆☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # ⚡ Level 9: Power

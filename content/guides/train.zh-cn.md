@@ -4,6 +4,9 @@ description: "人类一败涂地火车关卡详细攻略 - 拖拽车厢、垃圾
 date: 2026-07-04
 tags: [攻略, 第三关, 火车, 机制]
 weight: 3
+difficulty: "★★☆☆☆"
+duration: "12 Mins"
+complexity: "Low"
 ---
 
 # 🚂 第三关：火车 (Train)

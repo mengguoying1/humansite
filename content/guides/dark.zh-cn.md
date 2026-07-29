@@ -4,6 +4,9 @@ description: "人类一败涂地黑暗关卡详细攻略 - 电路接线、时钟
 date: 2026-07-04
 tags: [攻略, 第十一关, 黑暗, 电力]
 weight: 11
+difficulty: "★★★★☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # 🌃 第十一关：黑暗 (Dark)

@@ -4,6 +4,9 @@ description: "Human: Fall Flat Carry full level guide - button pressure puzzles,
 date: 2026-07-04
 tags: [Walkthrough, Level-4, Carry, Physics]
 weight: 4
+difficulty: "★★☆☆☆"
+duration: "10 Mins"
+complexity: "Low"
 ---
 
 # 📦 Level 4: Carry

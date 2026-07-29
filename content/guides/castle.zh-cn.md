@@ -4,6 +4,9 @@ description: "人类一败涂地城堡关卡详细攻略 - 砸锁开门、投石
 date: 2026-07-04
 tags: [攻略, 第七关, 城堡, 中世纪]
 weight: 7
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "Medium"
 ---
 
 # 🏰 第七关：城堡 (Castle)

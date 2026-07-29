@@ -4,6 +4,9 @@ description: "Human: Fall Flat Dark level guide - electrical wiring, clock tower
 date: 2026-07-04
 tags: [Walkthrough, Level-11, Dark, Electricity]
 weight: 11
+difficulty: "★★★★☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # 🌃 Level 11: Dark

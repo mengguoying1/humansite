@@ -4,6 +4,9 @@ description: "人类一败涂地动力关卡详细攻略 - 电路接线、开叉
 date: 2026-07-04
 tags: [攻略, 第九关, 动力, 电力]
 weight: 9
+difficulty: "★★★☆☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # ⚡ 第九关：动力 (Power)

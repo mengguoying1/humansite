@@ -4,6 +4,9 @@ description: "Human: Fall Flat Train full level guide - carriage manipulation, d
 date: 2026-07-04
 tags: [Walkthrough, Level-3, Train, Mechanics]
 weight: 3
+difficulty: "★★☆☆☆"
+duration: "12 Mins"
+complexity: "Low"
 ---
 
 # 🚂 Level 3: Train

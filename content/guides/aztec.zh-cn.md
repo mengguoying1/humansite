@@ -4,6 +4,9 @@ description: "人类一败涂地阿兹特克关卡详细攻略 - 杠杆石板、
 date: 2026-07-04
 tags: [攻略, 第十关, 阿兹特克, 遗迹]
 weight: 10
+difficulty: "★★★★☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # 🗿 第十关：阿兹特克 (Aztec)

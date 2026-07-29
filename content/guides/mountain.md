@@ -4,6 +4,9 @@ description: "Human: Fall Flat Mountain full level guide - stone cliff climbs, c
 date: 2026-07-04
 tags: [Walkthrough, Level-5, Mountain, Climbing]
 weight: 5
+difficulty: "★★★☆☆"
+duration: "20 Mins"
+complexity: "Medium"
 ---
 
 # ⛰️ Level 5: Mountain

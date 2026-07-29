@@ -4,6 +4,9 @@ description: "Human: Fall Flat Aztec full level guide - stone levers, counter-we
 date: 2026-07-04
 tags: [Walkthrough, Level-10, Aztec, Ruins]
 weight: 10
+difficulty: "★★★★☆"
+duration: "30 Mins"
+complexity: "High"
 ---
 
 # 🗿 Level 10: Aztec

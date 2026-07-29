@@ -4,6 +4,9 @@ description: "Human: Fall Flat Water full level guide - boat steering, water can
 date: 2026-07-04
 tags: [Walkthrough, Level-8, Water, Buoyancy]
 weight: 8
+difficulty: "★★★☆☆"
+duration: "25 Mins"
+complexity: "High"
 ---
 
 # ⛵ Level 8: Water

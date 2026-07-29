@@ -4,6 +4,9 @@ description: "Human: Fall Flat Steam level guide - valve mechanics, pipe connect
 date: 2026-07-04
 tags: [Walkthrough, Level-12, Steam, Industrial]
 weight: 12
+difficulty: "★★★☆☆"
+duration: "30 Mins"
+complexity: "Medium"
 ---
 
 # 💨 Level 12: Steam

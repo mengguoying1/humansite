@@ -4,6 +4,9 @@ description: "人类一败涂地第二关工厂详细攻略 - 多种解法、隐
 date: 2026-07-04
 tags: [攻略, 第二关, 工厂, 新手]
 weight: 2
+difficulty: "★★☆☆☆"
+duration: "15 Mins"
+complexity: "Medium"
 ---
 
 # 🏭 第二关：工厂 (Factory)

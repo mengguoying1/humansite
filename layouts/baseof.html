@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale }}" dir="{{ default `ltr` .Language.Direction }}">
+    <head>
+        {{- partial "head/head.html" . -}}
+        {{- block "head" . -}}{{ end }}
+    </head>
+    {{ $isHomeOrList := or .IsHome (or .IsSection (or (eq .Kind "taxonomy") (eq .Kind "term"))) }}
+    <body class="{{ block `body-class` . }}{{ end }}{{ if .IsHome }} homepage-layout{{ end }}{{ if $isHomeOrList }} list-layout{{ end }}">
+        {{- partial "head/colorScheme" . -}}
+
+        <!-- Top Navbar -->
+        <nav class="top-navbar">
+            <div class="navbar-container">
+                <a href="{{ .Site.Home.RelPermalink }}" class="navbar-logo">
+                    <span class="logo-text">HUMAN // CONSOLE</span>
+                </a>
+                
+                <div class="navbar-links">
+                    {{ $isZH := eq .Lang "zh-cn" }}
+                    <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="nav-link">DATABASE</a>
+                    <a href="{{ if $isZH }}/zh-cn/gameplay/{{ else }}/gameplay/{{ end }}" class="nav-link">SPEEDRUN</a>
+                    <a href="{{ if $isZH }}/zh-cn/multiplayer/{{ else }}/multiplayer/{{ end }}" class="nav-link">COMMUNITY</a>
+                </div>
+
+                <div class="navbar-actions">
+                    {{- $currentLanguageCode := .Language.Name -}}
+                    {{ if hugo.IsMultilingual }}
+                        <div class="language-dropdown">
+                            {{ partial "helper/icon" "language" }}
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value" class="language-select">
+                                {{ range .Site.Home.AllTranslations }}
+                                    {{ $target := . }}
+                                    {{ range $.AllTranslations }}
+                                        {{ if eq .Language.Name $target.Language.Name }}
+                                            {{ $target = . }}
+                                        {{ end }}
+                                    {{ end }}
+                                    <option value="{{ $target.RelPermalink }}" {{ if eq $target.Language.Name $currentLanguageCode }}selected{{ end }}>
+                                        {{ .Language.Label }}
+                                    </option>
+                                {{ end }}
+                            </select>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </nav>
+
+        {{/* The container is wider when there's any activated widget */}}
+        {{- $hasWidget := false -}}
+        {{- range .Site.Params.widgets -}}
+            {{- if gt (len .) 0 -}}
+                {{- $hasWidget = true -}}
+            {{- end -}}
+        {{- end -}}
+        
+        <div class="container main-container flex on-phone--column {{ if $hasWidget }}extended{{ else }}compact{{ end }}">
+            {{- if not $isHomeOrList -}}
+                {{- block "left-sidebar" . -}}
+                    {{ partial "sidebar/left.html" . }}
+                {{- end -}}
+            {{- end -}}
+            {{- block "right-sidebar" . -}}{{ end }}
+            <main class="main full-width">
+                {{- block "main" . }}{{- end }}
+            </main>
+        </div>
+        {{ partial "footer/include.html" . }}
+    </body>
+</html>

@@ -4,6 +4,9 @@ description: "人类一败涂地拆除关卡详细攻略 - 铁球撞墙、砸碎
 date: 2026-07-04
 tags: [攻略, 第六关, 拆除, 破坏]
 weight: 6
+difficulty: "★★★☆☆"
+duration: "18 Mins"
+complexity: "Medium"
 ---
 
 # 🏗️ 第六关：拆除 (Demolition)

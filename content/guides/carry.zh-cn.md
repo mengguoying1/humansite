@@ -4,6 +4,9 @@ description: "人类一败涂地搬运关卡详细攻略 - 按钮压力解谜、
 date: 2026-07-04
 tags: [攻略, 第四关, 搬运, 物理]
 weight: 4
+difficulty: "★★☆☆☆"
+duration: "10 Mins"
+complexity: "Low"
 ---
 
 # 📦 第四关：搬运 (Carry)

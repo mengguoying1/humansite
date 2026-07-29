@@ -4,6 +4,9 @@ description: "人类一败涂地山巅关卡详细攻略 - 陡峭石壁攀爬、
 date: 2026-07-04
 tags: [攻略, 第五关, 山巅, 攀爬]
 weight: 5
+difficulty: "★★★☆☆"
+duration: "20 Mins"
+complexity: "Medium"
 ---
 
 # ⛰️ 第五关：山巅 (Mountain)

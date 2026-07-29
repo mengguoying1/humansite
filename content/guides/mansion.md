@@ -4,6 +4,9 @@ description: "Human: Fall Flat Mansion full level guide - detailed solutions, sp
 date: 2026-07-04
 tags: [Walkthrough, Level-1, Mansion, Tutorial]
 weight: 1
+difficulty: "★☆☆☆☆"
+duration: "8 Mins"
+complexity: "Low"
 ---
 
 # 🏰 Level 1: Mansion

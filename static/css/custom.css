@@ -59,16 +59,18 @@
 
 body {
   font-family: "Noto Sans SC", -apple-system, sans-serif;
-  background-color: var(--game-bg) !important;
+  background-color: #020208 !important;
   background-image: 
     linear-gradient(var(--game-bg-grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--game-bg-grid) 1px, transparent 1px);
-  background-size: 50px 50px;
+    linear-gradient(90deg, var(--game-bg-grid) 1px, transparent 1px),
+    linear-gradient(180deg, #020208 0%, #08071a 100%);
+  background-size: 50px 50px, 50px 50px, 100% 100%;
   background-attachment: fixed;
   color: var(--game-text) !important;
   position: relative;
   overflow-x: hidden;
   line-height: 1.6;
+  padding-top: 75px !important;
 }
 
 /* Base overlay vignette */
@@ -1511,5 +1513,235 @@ a:hover {
   color: var(--game-text-bright);
   font-family: 'Share Tech Mono', monospace;
   font-size: 1rem;
+}
+
+/* Sticky top navbar styling */
+.top-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: rgba(8, 8, 24, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 245, 255, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(0, 245, 255, 0.1);
+  padding: 0.75rem 2rem;
+  transition: all 0.3s ease;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-logo {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+  color: #ffffff !important;
+  text-shadow: 0 0 8px var(--game-primary), 0 0 15px var(--game-primary);
+  text-decoration: none;
+}
+
+.navbar-logo:hover {
+  text-shadow: 0 0 12px var(--game-secondary), 0 0 20px var(--game-secondary);
+}
+
+.navbar-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.navbar-links .nav-link {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--game-text-muted) !important;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.navbar-links .nav-link:hover {
+  color: var(--game-primary) !important;
+  background: rgba(0, 245, 255, 0.08);
+  text-shadow: 0 0 8px var(--game-primary);
+  box-shadow: inset 0 0 8px rgba(0, 245, 255, 0.2);
+}
+
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.language-dropdown {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(13, 13, 35, 0.6);
+  border: 1px solid rgba(0, 245, 255, 0.25);
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+  color: var(--game-primary);
+}
+
+.language-dropdown select {
+  background: transparent;
+  border: none;
+  color: var(--game-text);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.85rem;
+  outline: none;
+  cursor: pointer;
+}
+
+.language-dropdown select option {
+  background: #08071a;
+  color: var(--game-text);
+}
+
+/* Corner Brackets for HUD styling */
+.hud-brackets {
+  position: relative;
+}
+.hud-brackets::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+  border: 2px solid transparent;
+  background: 
+    linear-gradient(to right, var(--game-primary) 10px, transparent 10px) 0 0,
+    linear-gradient(to right, var(--game-primary) 10px, transparent 10px) 0 100%,
+    linear-gradient(to left, var(--game-primary) 10px, transparent 10px) 100% 0,
+    linear-gradient(to left, var(--game-primary) 10px, transparent 10px) 100% 100%,
+    linear-gradient(to bottom, var(--game-primary) 10px, transparent 10px) 0 0,
+    linear-gradient(to bottom, var(--game-primary) 10px, transparent 10px) 100% 0,
+    linear-gradient(to top, var(--game-primary) 10px, transparent 10px) 0 100%,
+    linear-gradient(to top, var(--game-primary) 10px, transparent 10px) 100% 100%;
+  background-repeat: no-repeat;
+  background-size: 12px 12px;
+  pointer-events: none;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+.hud-brackets:hover::before {
+  background-size: 15px 15px;
+  filter: drop-shadow(0 0 5px var(--game-secondary));
+  background: 
+    linear-gradient(to right, var(--game-secondary) 12px, transparent 12px) 0 0,
+    linear-gradient(to right, var(--game-secondary) 12px, transparent 12px) 0 100%,
+    linear-gradient(to left, var(--game-secondary) 12px, transparent 12px) 100% 0,
+    linear-gradient(to left, var(--game-secondary) 12px, transparent 12px) 100% 100%,
+    linear-gradient(to bottom, var(--game-secondary) 12px, transparent 12px) 0 0,
+    linear-gradient(to bottom, var(--game-secondary) 12px, transparent 12px) 100% 0,
+    linear-gradient(to top, var(--game-secondary) 12px, transparent 12px) 0 100%,
+    linear-gradient(to top, var(--game-secondary) 12px, transparent 12px) 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* Verlet Physics Sandbox styling */
+.physics-sandbox {
+  background: rgba(4, 4, 12, 0.85);
+  border: 1px solid var(--game-primary);
+  border-radius: 12px;
+  position: relative;
+  padding: 1.5rem;
+  margin: 2.5rem 0;
+  box-shadow: 0 0 25px rgba(0, 245, 255, 0.15), inset 0 0 15px rgba(0, 245, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.physics-sandbox-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.2);
+  padding-bottom: 0.8rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.physics-sandbox-title {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.2rem;
+  color: var(--game-primary) !important;
+  text-shadow: 0 0 8px rgba(0, 245, 255, 0.4);
+  margin: 0 !important;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.physics-sandbox-controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.physics-canvas {
+  width: 100%;
+  max-width: 100%;
+  height: 400px;
+  background: #020206;
+  border: 1px dashed rgba(0, 245, 255, 0.3);
+  border-radius: 8px;
+  cursor: crosshair;
+}
+
+/* Remove default layout limitations for homepage/lists */
+body.homepage-layout .main-container,
+body.list-layout .main-container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem !important;
+  margin: 0 auto !important;
+}
+
+body.homepage-layout .sidebar.left-sidebar,
+body.list-layout .sidebar.left-sidebar {
+  display: none !important;
+}
+
+.sidebar {
+  top: 90px !important;
+}
+
+/* Featured card double width on larger screens */
+@media (min-width: 992px) {
+  .guide-grid-card.featured-card {
+    grid-column: span 2;
+  }
+}
+
+/* Rotating 3D vector-line canvas in background of hero */
+.hero-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+.hero-content-wrapper {
+  position: relative;
+  z-index: 2;
+  width: 100%;
 }
 

@@ -23,32 +23,143 @@
         </div>
     </div>
 
-    <!-- 1. Hero Banner Section -->
+    <!-- 1. Hero Banner Section with 3D Mind Grid -->
     <div class="lobby-hero">
-        <div class="lobby-hero-title">HUMAN: FALL FLAT</div>
-        <div class="lobby-hero-subtitle">
-            {{ if $isZH }}⚡ 中文玩家指令舱 & 技巧解锁站 ⚡{{ else }}⚡ Player Control Center & Trick Unlock Station ⚡{{ end }}
-        </div>
-        <div class="lobby-stats">
-            <div class="lobby-stat-card">
-                <div class="lobby-stat-num">50M+</div>
-                <div class="lobby-stat-label">{{ if $isZH }}全球销量{{ else }}Global Sales{{ end }}</div>
+        <canvas id="bobMindCanvas" class="hero-canvas"></canvas>
+        <div class="hero-content-wrapper">
+            <div class="lobby-hero-title">HUMAN: FALL FLAT</div>
+            <div class="lobby-hero-subtitle">
+                {{ if $isZH }}⚡ 中文玩家指令舱 & 技巧解锁站 ⚡{{ else }}⚡ Player Control Center & Trick Unlock Station ⚡{{ end }}
             </div>
-            <div class="lobby-stat-card">
-                <div class="lobby-stat-num">30+</div>
-                <div class="lobby-stat-label">{{ if $isZH }}官方关卡{{ else }}Official Levels{{ end }}</div>
-            </div>
-            <div class="lobby-stat-card">
-                <div class="lobby-stat-num">9/10</div>
-                <div class="lobby-stat-label">{{ if $isZH }}Steam 好评率{{ else }}Steam Rating{{ end }}</div>
+            <div class="lobby-stats">
+                <div class="lobby-stat-card">
+                    <div class="lobby-stat-num">50M+</div>
+                    <div class="lobby-stat-label">{{ if $isZH }}全球销量{{ else }}Global Sales{{ end }}</div>
+                </div>
+                <div class="lobby-stat-card">
+                    <div class="lobby-stat-num">30+</div>
+                    <div class="lobby-stat-label">{{ if $isZH }}官方关卡{{ else }}Official Levels{{ end }}</div>
+                </div>
+                <div class="lobby-stat-card">
+                    <div class="lobby-stat-num">9/10</div>
+                    <div class="lobby-stat-label">{{ if $isZH }}Steam 好评率{{ else }}Steam Rating{{ end }}</div>
+                </div>
             </div>
         </div>
     </div>
 
+    <!-- 3D Vector-Line Grid Animation Script -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const canvas = document.getElementById('bobMindCanvas');
+            if (!canvas) return;
+            const ctx = canvas.getContext('2d');
+            let points = [];
+            let lines = [];
+
+            // Generate points on a wobbly 3D sphere grid representing Bob's mind grid
+            const rows = 10;
+            const cols = 12;
+            for (let r = 0; r < rows; r++) {
+                for (let c = 0; c < cols; c++) {
+                    let theta = (r / (rows - 1)) * Math.PI;
+                    let phi = (c / cols) * Math.PI * 2;
+                    let radius = 100;
+                    let x = Math.sin(theta) * Math.cos(phi) * radius;
+                    let y = Math.cos(theta) * radius;
+                    let z = Math.sin(theta) * Math.sin(phi) * radius;
+                    points.push({ x, y, z, baseRadius: radius, theta, phi });
+                }
+            }
+
+            // Connect lines
+            for (let r = 0; r < rows; r++) {
+                for (let c = 0; c < cols; c++) {
+                    let i = r * cols + c;
+                    let iRight = r * cols + ((c + 1) % cols);
+                    lines.push([i, iRight]);
+                    if (r < rows - 1) {
+                        let iDown = (r + 1) * cols + c;
+                        lines.push([i, iDown]);
+                    }
+                }
+            }
+
+            let rotX = 0;
+            let rotY = 0;
+
+            function animate() {
+                if (canvas.width !== canvas.clientWidth || canvas.height !== canvas.clientHeight) {
+                    canvas.width = canvas.clientWidth;
+                    canvas.height = canvas.clientHeight;
+                }
+
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                let time = Date.now() * 0.0015;
+                let centerX = canvas.width / 2;
+                let centerY = canvas.height / 2;
+
+                let cosX = Math.cos(rotX), sinX = Math.sin(rotX);
+                let cosY = Math.cos(rotY), sinY = Math.sin(rotY);
+
+                let projected = [];
+                for (let p of points) {
+                    // Wobbly deformation to match wobbly physics theme
+                    let wobble = Math.sin(time + p.theta * 4 + p.phi * 2) * 12;
+                    let r = p.baseRadius + wobble;
+                    let x1 = Math.sin(p.theta) * Math.cos(p.phi) * r;
+                    let y1 = Math.cos(p.theta) * r;
+                    let z1 = Math.sin(p.theta) * Math.sin(p.phi) * r;
+
+                    // Rotate Y
+                    let x2 = x1 * cosY - z1 * sinY;
+                    let z2 = x1 * sinY + z1 * cosY;
+                    // Rotate X
+                    let y3 = y1 * cosX - z2 * sinX;
+                    let z3 = y1 * sinX + z2 * cosX;
+
+                    // Project (Perspective)
+                    let scale = 250 / (250 + z3);
+                    let px = x2 * scale + centerX;
+                    let py = y3 * scale + centerY;
+                    projected.push({ x: px, y: py, z: z3 });
+                }
+
+                // Draw lines
+                ctx.lineWidth = 1;
+                for (let line of lines) {
+                    let p1 = projected[line[0]];
+                    let p2 = projected[line[1]];
+                    let avgZ = (p1.z + p2.z) / 2;
+                    let alpha = Math.max(0.01, Math.min(0.2, 1 - (avgZ + 100) / 200));
+                    ctx.strokeStyle = `rgba(0, 245, 255, ${alpha})`;
+                    ctx.beginPath();
+                    ctx.moveTo(p1.x, p1.y);
+                    ctx.lineTo(p2.x, p2.y);
+                    ctx.stroke();
+                }
+
+                // Draw nodes
+                for (let p of projected) {
+                    let alpha = Math.max(0.01, Math.min(0.3, 1 - (p.z + 100) / 200));
+                    ctx.fillStyle = `rgba(255, 0, 228, ${alpha})`;
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, 2, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+
+                rotX += 0.002;
+                rotY += 0.003;
+                requestAnimationFrame(animate);
+            }
+            animate();
+        });
+    </script>
+
     <!-- 2. Grid Navigation Cards -->
     <div class="lobby-nav-grid">
         <!-- Card 1: Gameplay -->
-        <div class="lobby-nav-card">
+        <div class="lobby-nav-card hud-brackets">
             <div>
                 <h3 class="lobby-nav-card-title">🕹️ {{ if $isZH }}玩法指南{{ else }}Gameplay Guide{{ end }}</h3>
                 <p class="lobby-nav-card-desc">
@@ -65,7 +176,7 @@
         </div>
 
         <!-- Card 2: Level Guides -->
-        <div class="lobby-nav-card">
+        <div class="lobby-nav-card hud-brackets">
             <div>
                 <h3 class="lobby-nav-card-title">📖 {{ if $isZH }}关卡攻略{{ else }}Level Guides{{ end }}</h3>
                 <p class="lobby-nav-card-desc">
@@ -82,7 +193,7 @@
         </div>
 
         <!-- Card 3: Multiplayer -->
-        <div class="lobby-nav-card">
+        <div class="lobby-nav-card hud-brackets">
             <div>
                 <h3 class="lobby-nav-card-title">👥 {{ if $isZH }}联机专区{{ else }}Multiplayer Hub{{ end }}</h3>
                 <p class="lobby-nav-card-desc">
@@ -99,7 +210,7 @@
         </div>
 
         <!-- Card 4: Media Center -->
-        <div class="lobby-nav-card">
+        <div class="lobby-nav-card hud-brackets">
             <div>
                 <h3 class="lobby-nav-card-title">🎬 {{ if $isZH }}媒体中心{{ else }}Media Center{{ end }}</h3>
                 <p class="lobby-nav-card-desc">
@@ -116,8 +227,364 @@
         </div>
     </div>
 
-    <!-- 3. Latest News HUD Board -->
-    <div class="hud-board">
+    <!-- 3. Verlet Physics Canvas Sandbox -->
+    <div class="physics-sandbox hud-brackets">
+        <div class="physics-sandbox-header">
+            <h3 class="physics-sandbox-title">⚡ {{ if $isZH }}物理沙盒 // 软体黏黏球模拟器{{ else }}PHYSICS SANDBOX // SOFT-BODY JELLY BALLS{{ end }}</h3>
+            <div class="physics-sandbox-controls">
+                <button class="btn-cyber" id="spawnJellyBtn">{{ if $isZH }}生成黏球{{ else }}SPAWN JELLY{{ end }}</button>
+                <button class="btn-cyber" id="toggleGravityBtn">{{ if $isZH }}重力: 开启{{ else }}GRAVITY: ON{{ end }}</button>
+                <button class="btn-cyber" id="clearSandboxBtn">{{ if $isZH }}清空{{ else }}CLEAR{{ end }}</button>
+            </div>
+        </div>
+        <canvas id="physicsCanvas" class="physics-canvas"></canvas>
+        <div class="sync-loading-text" style="font-size: 0.85rem; margin: 0.2rem 0 0 0;">
+            {{ if $isZH }}🖱️ 点击沙盒内任意位置生成并抛出软体球！{{ else }}🖱️ Click inside canvas to spawn and toss wobbly jelly balls!{{ end }}
+        </div>
+    </div>
+
+    <!-- Verlet Physics Simulator JavaScript -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const pCanvas = document.getElementById('physicsCanvas');
+            if (!pCanvas) return;
+            const pCtx = pCanvas.getContext('2d');
+            let balls = [];
+            let physicsGravity = 0.35;
+            let isGravityOn = true;
+
+            class Particle {
+                constructor(x, y) {
+                    this.x = x;
+                    this.y = y;
+                    this.px = x;
+                    this.py = y;
+                }
+            }
+
+            class Constraint {
+                constructor(p1, p2, length, stiffness = 0.5) {
+                    this.p1 = p1;
+                    this.p2 = p2;
+                    this.length = length;
+                    this.stiffness = stiffness;
+                }
+
+                resolve() {
+                    let dx = this.p2.x - this.p1.x;
+                    let dy = this.p2.y - this.p1.y;
+                    let dist = Math.sqrt(dx * dx + dy * dy);
+                    if (dist === 0) return;
+                    let diff = this.length - dist;
+                    let percent = (diff / dist) * 0.5 * this.stiffness;
+                    let offsetX = dx * percent;
+                    let offsetY = dy * percent;
+
+                    this.p1.x -= offsetX;
+                    this.p1.y -= offsetY;
+                    this.p2.x += offsetX;
+                    this.p2.y += offsetY;
+                }
+            }
+
+            class JellyBall {
+                constructor(cx, cy, radius, vx, vy) {
+                    this.particles = [];
+                    this.constraints = [];
+                    this.radius = radius;
+
+                    const colors = [
+                        { c1: '#00f5ff', c2: 'rgba(0, 245, 255, 0.45)' },
+                        { c1: '#ff00e4', c2: 'rgba(255, 0, 228, 0.45)' },
+                        { c1: '#00ff66', c2: 'rgba(0, 255, 102, 0.45)' },
+                        { c1: '#ffcc00', c2: 'rgba(255, 204, 0, 0.45)' },
+                        { c1: '#ff6b00', c2: 'rgba(255, 107, 0, 0.45)' }
+                    ];
+                    let col = colors[Math.floor(Math.random() * colors.length)];
+                    this.color1 = col.c1;
+                    this.color2 = col.c2;
+
+                    // Center particle
+                    let center = new Particle(cx, cy);
+                    center.px = cx - vx;
+                    center.py = cy - vy;
+                    this.particles.push(center);
+
+                    // Outer particles ring
+                    let numOuter = 8;
+                    for (let i = 0; i < numOuter; i++) {
+                        let angle = (i / numOuter) * Math.PI * 2;
+                        let px = cx + Math.cos(angle) * radius;
+                        let py = cy + Math.sin(angle) * radius;
+                        let p = new Particle(px, py);
+                        p.px = px - vx;
+                        p.py = py - vy;
+                        this.particles.push(p);
+                    }
+
+                    // Connect center to outer ring (spokes)
+                    for (let i = 1; i <= numOuter; i++) {
+                        this.constraints.push(new Constraint(center, this.particles[i], radius, 0.5));
+                    }
+
+                    // Connect outer ring neighbors
+                    for (let i = 1; i <= numOuter; i++) {
+                        let nextIndex = i === numOuter ? 1 : i + 1;
+                        let dist = Math.sqrt(
+                            Math.pow(this.particles[i].x - this.particles[nextIndex].x, 2) +
+                            Math.pow(this.particles[i].y - this.particles[nextIndex].y, 2)
+                        );
+                        this.constraints.push(new Constraint(this.particles[i], this.particles[nextIndex], dist, 0.5));
+                    }
+
+                    // Cross-bracing to prevent inversion
+                    for (let i = 1; i <= numOuter / 2; i++) {
+                        let oppIndex = i + numOuter / 2;
+                        this.constraints.push(new Constraint(this.particles[i], this.particles[oppIndex], radius * 2, 0.3));
+                    }
+                }
+
+                draw(ctx) {
+                    ctx.beginPath();
+                    let outer = this.particles.slice(1);
+                    let xc = (outer[outer.length - 1].x + outer[0].x) / 2;
+                    let yc = (outer[outer.length - 1].y + outer[0].y) / 2;
+                    ctx.moveTo(xc, yc);
+
+                    for (let i = 0; i < outer.length; i++) {
+                        let next = outer[(i + 1) % outer.length];
+                        let midX = (outer[i].x + next.x) / 2;
+                        let midY = (outer[i].y + next.y) / 2;
+                        ctx.quadraticCurveTo(outer[i].x, outer[i].y, midX, midY);
+                    }
+
+                    let grad = ctx.createRadialGradient(
+                        this.particles[0].x, this.particles[0].y, 2,
+                        this.particles[0].x, this.particles[0].y, this.radius
+                    );
+                    grad.addColorStop(0, '#ffffff');
+                    grad.addColorStop(0.3, this.color1);
+                    grad.addColorStop(1, this.color2);
+
+                    ctx.fillStyle = grad;
+                    ctx.fill();
+
+                    ctx.strokeStyle = this.color1;
+                    ctx.lineWidth = 2.5;
+                    ctx.stroke();
+                }
+            }
+
+            function resizePhysicsCanvas() {
+                pCanvas.width = pCanvas.clientWidth;
+                pCanvas.height = pCanvas.clientHeight;
+            }
+            window.addEventListener('resize', resizePhysicsCanvas);
+            resizePhysicsCanvas();
+
+            // Spawn 3 initial balls
+            setTimeout(function() {
+                balls.push(new JellyBall(pCanvas.width * 0.25, 80, 26, 3, 1));
+                balls.push(new JellyBall(pCanvas.width * 0.5, 60, 32, -2, 2));
+                balls.push(new JellyBall(pCanvas.width * 0.75, 100, 24, 1.5, -2));
+            }, 500);
+
+            function updatePhysics() {
+                // 1. Verlet integration & gravity
+                for (let ball of balls) {
+                    for (let p of ball.particles) {
+                        let vx = (p.x - p.px) * 0.985;
+                        let vy = (p.y - p.py) * 0.985;
+                        p.px = p.x;
+                        p.py = p.y;
+                        p.x += vx;
+                        p.y += vy + (isGravityOn ? physicsGravity : 0);
+                    }
+                }
+
+                // 2. Constraints & Collisions
+                const iterations = 8;
+                for (let step = 0; step < iterations; step++) {
+                    for (let ball of balls) {
+                        for (let c of ball.constraints) {
+                            c.resolve();
+                        }
+                    }
+
+                    // Collisions between balls
+                    for (let i = 0; i < balls.length; i++) {
+                        for (let j = i + 1; j < balls.length; j++) {
+                            let b1 = balls[i];
+                            let b2 = balls[j];
+                            let dx = b2.particles[0].x - b1.particles[0].x;
+                            let dy = b2.particles[0].y - b1.particles[0].y;
+                            let dist = Math.sqrt(dx * dx + dy * dy);
+                            let minDist = b1.radius + b2.radius;
+                            if (dist < minDist + 15) {
+                                for (let p1 of b1.particles) {
+                                    for (let p2 of b2.particles) {
+                                        let pdx = p2.x - p1.x;
+                                        let pdy = p2.y - p1.y;
+                                        let pdist = Math.sqrt(pdx * pdx + pdy * pdy);
+                                        let targetDist = 18;
+                                        if (pdist < targetDist) {
+                                            let overlap = targetDist - pdist;
+                                            let ox = (pdx / pdist) * overlap * 0.5;
+                                            let oy = (pdy / pdist) * overlap * 0.5;
+                                            p1.x -= ox;
+                                            p1.y -= oy;
+                                            p2.x += ox;
+                                            p2.y += oy;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    // Boundary checks
+                    for (let ball of balls) {
+                        for (let p of ball.particles) {
+                            let bounce = 0.65;
+                            if (p.y > pCanvas.height - 10) {
+                                let vy = p.y - p.py;
+                                p.y = pCanvas.height - 10;
+                                p.py = p.y + vy * bounce;
+                            }
+                            if (p.y < 10) {
+                                let vy = p.y - p.py;
+                                p.y = 10;
+                                p.py = p.y + vy * bounce;
+                            }
+                            if (p.x > pCanvas.width - 10) {
+                                let vx = p.x - p.px;
+                                p.x = pCanvas.width - 10;
+                                p.px = p.x + vx * bounce;
+                            }
+                            if (p.x < 10) {
+                                let vx = p.x - p.px;
+                                p.x = 10;
+                                p.px = p.x + vx * bounce;
+                            }
+                        }
+                    }
+                }
+            }
+
+            function drawPhysics() {
+                pCtx.clearRect(0, 0, pCanvas.width, pCanvas.height);
+
+                // Draw background grid lines
+                pCtx.strokeStyle = 'rgba(0, 245, 255, 0.025)';
+                pCtx.lineWidth = 1;
+                const gridSpacing = 40;
+                for (let x = 0; x < pCanvas.width; x += gridSpacing) {
+                    pCtx.beginPath();
+                    pCtx.moveTo(x, 0);
+                    pCtx.lineTo(x, pCanvas.height);
+                    pCtx.stroke();
+                }
+                for (let y = 0; y < pCanvas.height; y += gridSpacing) {
+                    pCtx.beginPath();
+                    pCtx.moveTo(0, y);
+                    pCtx.lineTo(pCanvas.width, y);
+                    pCtx.stroke();
+                }
+
+                // Draw balls
+                for (let ball of balls) {
+                    ball.draw(pCtx);
+                }
+            }
+
+            function loop() {
+                updatePhysics();
+                drawPhysics();
+                requestAnimationFrame(loop);
+            }
+            loop();
+
+            // Spawn button click
+            document.getElementById('spawnJellyBtn').addEventListener('click', function() {
+                let rx = 50 + Math.random() * (pCanvas.width - 100);
+                let ry = 50;
+                let rRad = 20 + Math.random() * 15;
+                let rVx = (Math.random() - 0.5) * 6;
+                let rVy = 2 + Math.random() * 4;
+                balls.push(new JellyBall(rx, ry, rRad, rVx, rVy));
+            });
+
+            // Toggle gravity click
+            const gravBtn = document.getElementById('toggleGravityBtn');
+            gravBtn.addEventListener('click', function() {
+                isGravityOn = !isGravityOn;
+                gravBtn.textContent = isGravityOn ? ({{ if $isZH }}"重力: 开启"{{ else }}"GRAVITY: ON"{{ end }}) : ({{ if $isZH }}"重力: 关闭"{{ else }}"GRAVITY: OFF"{{ end }});
+            });
+
+            // Clear button click
+            document.getElementById('clearSandboxBtn').addEventListener('click', function() {
+                balls = [];
+            });
+
+            // Spawn on canvas click
+            pCanvas.addEventListener('mousedown', function(e) {
+                let rect = pCanvas.getBoundingClientRect();
+                let x = e.clientX - rect.left;
+                let y = e.clientY - rect.top;
+                let rRad = 22 + Math.random() * 14;
+                let rVx = (Math.random() - 0.5) * 10;
+                let rVy = -2 - Math.random() * 6;
+                balls.push(new JellyBall(x, y, rRad, rVx, rVy));
+            });
+        });
+    </script>
+
+    <!-- 4. Telemetry Stats Board -->
+    <div class="hud-board telemetry-board hud-brackets">
+        <div class="hud-board-header">
+            <h2 class="hud-board-title">🛰️ {{ if $isZH }}脑波控制遥测站 // 实系统数据终端{{ else }}TELEMETRY SYSTEM CONSOLE // REAL-TIME SYNAPSE READOUT{{ end }}</h2>
+            <div class="hud-board-status blinking">● {{ if $isZH }}数据链通畅{{ else }}NEURAL FEED STABLE{{ end }}</div>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; font-family: 'Share Tech Mono', monospace; font-size: 0.85rem;">
+            <div>
+                <div class="hud-meta-label">{{ if $isZH }}脑波同步完整度{{ else }}NEURAL SYNC INTEGRITY{{ end }}</div>
+                <div style="font-size: 1.5rem; font-weight: bold; color: var(--game-primary); text-shadow: 0 0 8px var(--game-primary);">99.982%</div>
+                <div style="color: var(--game-text-muted); margin-top: 0.5rem;">COGNITIVE DRIFT: &lt; 0.001ms</div>
+            </div>
+            <div>
+                <div class="hud-meta-label">{{ if $isZH }}Bob 瞬时三维坐标{{ else }}BOB SYSTEM COORDINATES{{ end }}</div>
+                <div id="telemetryCoords" style="font-size: 1.2rem; font-weight: bold; color: var(--game-secondary); text-shadow: 0 0 8px var(--game-secondary);">X: 0.00, Y: 0.00, Z: 0.00</div>
+                <div style="color: var(--game-text-muted); margin-top: 0.5rem;">GRAVITY CONSTANT: 0.40g</div>
+            </div>
+            <div>
+                <div class="hud-meta-label">{{ if $isZH }}活跃物理核心状态{{ else }}ACTIVE SUB-ENGINE MODES{{ end }}</div>
+                <div style="font-size: 1.1rem; font-weight: bold; color: var(--game-success); text-shadow: 0 0 8px var(--game-success); margin-top: 0.2rem;">VERLET_PHYS_ACTIVE</div>
+                <div style="color: var(--game-text-muted); margin-top: 0.5rem;">SOFT_BODY: RESOLVED</div>
+            </div>
+            <div>
+                <div class="hud-meta-label">{{ if $isZH }}内存及数据缓存区块{{ else }}MEMORY SECTOR STATUS{{ end }}</div>
+                <div style="font-size: 1.1rem; font-weight: bold; color: var(--game-accent); text-shadow: 0 0 8px var(--game-accent); margin-top: 0.2rem;">STABLE // CACHE_LOADED</div>
+                <div style="color: var(--game-text-muted); margin-top: 0.5rem;">LATENCY: 14ms (RTT)</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const coordsEl = document.getElementById('telemetryCoords');
+            if (coordsEl) {
+                setInterval(function() {
+                    let x = (Math.sin(Date.now() * 0.001) * 12 + (Math.random() - 0.5) * 0.2).toFixed(2);
+                    let y = (Math.cos(Date.now() * 0.0014) * 6 + 4.5 + (Math.random() - 0.5) * 0.1).toFixed(2);
+                    let z = (Math.sin(Date.now() * 0.0006) * 18 - 14.2).toFixed(2);
+                    coordsEl.textContent = `X: ${x}, Y: ${y}, Z: ${z}`;
+                }, 200);
+            }
+        });
+    </script>
+
+    <!-- 5. Latest News HUD Board -->
+    <div class="hud-board hud-brackets">
         <div class="hud-board-header">
             <h2 class="hud-board-title">
                 ⚡ {{ if $isZH }}最新关卡数据库同步{{ else }}LATEST LEVEL DATABASE SYNCS{{ end }}
@@ -139,9 +606,18 @@
                         </div>
                         <div class="hud-item-desc">{{ .Description }}</div>
                     </div>
-                    <div class="hud-item-meta">
+                    <div class="hud-item-meta" style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
                         <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
                         <span class="hud-item-tag">SYS_LOG</span>
+                        {{ if .Params.difficulty }}
+                        <span class="hud-item-tag" style="border-color: var(--game-primary); color: var(--game-primary); text-shadow: 0 0 4px var(--game-primary); font-weight: bold; background: rgba(0, 245, 255, 0.05);">{{ .Params.difficulty }}</span>
+                        {{ end }}
+                        {{ if .Params.duration }}
+                        <span class="hud-item-tag" style="border-color: var(--game-secondary); color: var(--game-secondary); text-shadow: 0 0 4px var(--game-secondary); font-weight: bold; background: rgba(255, 0, 228, 0.05);">{{ .Params.duration }}</span>
+                        {{ end }}
+                        {{ if .Params.complexity }}
+                        <span class="hud-item-tag" style="border-color: var(--game-accent); color: var(--game-accent); text-shadow: 0 0 4px var(--game-accent); font-weight: bold; background: rgba(255, 107, 0, 0.05);">{{ .Params.complexity }}</span>
+                        {{ end }}
                     </div>
                 </div>
             {{ else }}
@@ -159,7 +635,7 @@
         {{ .Content }}
     </article>
 
-    <!-- 4. Interactive CLI Dream Console -->
+    <!-- 6. Interactive CLI Dream Console -->
     <div class="dream-console">
         <div class="dream-console-output" id="consoleOutput">Welcome to Dreamscape CLI.
 Type 'help' to see available commands.</div>
@@ -268,7 +744,7 @@ Type 'help' to see available commands.</div>
                                '  <span class="cli-success">fall</span>    - Spawn a wobbly falling ASCII Bob from the top';
                     
                     case 'wobbly':
-                        var cards = document.querySelectorAll('.level-select-card, .lobby-nav-card');
+                        var cards = document.querySelectorAll('.level-select-card, .lobby-nav-card, .guide-grid-card');
                         if (cards.length === 0) {
                             return '<span class="cli-warning">[WARN] No level cards found. Wobble applied to navigation cards instead.</span>';
                         }
@@ -280,7 +756,7 @@ Type 'help' to see available commands.</div>
                         return '<span class="cli-success">[OK] Wobble shake toggled ' + (toggled ? 'ON' : 'OFF') + ' for ' + cards.length + ' elements.</span>';
                         
                     case 'gravity':
-                        var items = document.querySelectorAll('article, .home-content, aside, .sidebar');
+                        var items = document.querySelectorAll('article, .home-content, aside, .sidebar, .physics-sandbox, .hud-board');
                         var toggledGravity = false;
                         items.forEach(function(item) {
                             item.classList.toggle('low-gravity-float');
@@ -342,8 +818,4 @@ Type 'help' to see available commands.</div>
     </script>
 
     {{- partial "footer/footer" . -}}
-{{ end }}
-
-{{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}

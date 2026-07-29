@@ -4,6 +4,9 @@ description: "Human: Fall Flat Factory full level guide - conveyor belt rides, h
 date: 2026-07-04
 tags: [Walkthrough, Level-2, Factory, Advanced]
 weight: 2
+difficulty: "★★☆☆☆"
+duration: "15 Mins"
+complexity: "Medium"
 ---
 
 # 🏭 Level 2: Factory
