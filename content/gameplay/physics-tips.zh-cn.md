@@ -31,7 +31,7 @@ weight: 2
 这是最常用、也最帅气的越障手段！
 
 <div class="game-image-container">
-  <img src="/img/swinging.jpg" alt="荡秋千技巧演示">
+  <img src="/img/physics-tips.jpg" alt="荡秋千技巧演示">
   <div class="img-caption">📸 荡秋千：利用单手或双手抓住悬挂点，摆动到最大仰角时松手飞跃</div>
 </div>
 

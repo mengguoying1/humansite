@@ -8,7 +8,7 @@ description: "Human: Fall Flat advanced physics mechanics guide - swinging, thro
 Once you master basic grabs, you can unlock Bob's inertia engine. By combining coordinate rotations and friction limits, you can perform advanced movements that bypass standard puzzles entirely.
 
 <div class="game-image-container">
-  <img src="/img/swinging.jpg" alt="Swinging Physics Jump">
+  <img src="/img/physics-tips.jpg" alt="Swinging Physics Jump">
   <div class="img-caption">📸 Swing Jump: Converting gravitational potential energy into forward speed.</div>
 </div>
 

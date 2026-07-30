@@ -12,7 +12,7 @@ description: "掌握《人类一败涂地》中最先进的社区发现物理机
 ---
 
 <div class="game-image-container">
-  <img src="/img/climbing.jpg" alt="Bob 正在利用物理漏洞爬墙">
+  <img src="/img/physics-glitches.jpg" alt="Bob 正在利用物理漏洞爬墙">
   <div class="img-caption">📸 漏洞攀爬：利用 Bob 的手臂旋转和摩擦力物理机制，彻底无视重力规则。</div>
 </div>
 

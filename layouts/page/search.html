@@ -1,0 +1,40 @@
+{{ define "body-class" }}template-search{{ end }}
+{{ define "head" }}
+    {{- with .OutputFormats.Get "json" -}} 
+        <link rel="preload" href="{{ .RelPermalink }}" as="fetch" crossorigin="anonymous">
+    {{- end -}}
+{{ end }}
+{{ define "main" }}
+<div class="hud-search-container">
+    <div class="hud-search-header">
+        <h1 class="hud-search-title">🔍 {{ if eq .Lang "zh-cn" }}战术数据搜索终端 // SEARCH TERMINAL{{ else }}TACTICAL HUD SEARCH CONSOLE{{ end }}</h1>
+        <div class="hud-search-subtitle">SEARCH_MODE: ACTIVE // SCANNING INDEXED NODES</div>
+    </div>
+
+    <form action="{{ .RelPermalink }}" class="search-form hud-brackets"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
+        <div class="hud-search-input-wrapper">
+            <span class="hud-search-prompt">&gt; QUERY:</span>
+            <input name="keyword" class="hud-search-input" placeholder="{{ if eq .Lang "zh-cn" }}输入关卡名/物理技巧/关键字...{{ else }}{{ T `search.placeholder` }}{{ end }}" autocomplete="off" />
+            <button class="hud-search-btn btn-cyber" title="{{ T `search.title` }}">
+                {{ partial "helper/icon" "search" }}
+                <span>{{ if eq .Lang "zh-cn" }}检索{{ else }}EXECUTE{{ end }}</span>
+            </button>
+        </div>
+    </form>
+
+    <div class="search-result hidden hud-search-result-box">
+        <h3 class="search-result--title section-title hud-result-heading"></h3>
+        <div class="search-result--list article-list--compact hud-brackets"></div>
+    </div>
+</div>
+
+<script>
+    window.searchResultTitleTemplate = "{{ T `search.resultTitle` }}"
+</script>
+
+{{- $opts := dict "minify" hugo.IsProduction "JSXFactory" "createElement" -}}
+{{- $searchScript := resources.Get "ts/search.tsx" | js.Build $opts -}}
+<script type="text/javascript" src="{{ $searchScript.RelPermalink }}" defer></script>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}

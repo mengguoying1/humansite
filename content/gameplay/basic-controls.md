@@ -8,7 +8,7 @@ description: "Human: Fall Flat movement manual - walk, run, grab, and basic clim
 In Human: Fall Flat, Bob's wobbly body has two independently controlled arms. Every keyboard/mouse input is converted into torque output for his wobbly muscles. This guide will help you build muscle memory and master the fundamental movement physics.
 
 <div class="game-image-container">
-  <img src="/img/climbing.jpg" alt="Basic Climbing Demonstration">
+  <img src="/img/basic-controls.jpg" alt="Basic Climbing Demonstration">
   <div class="img-caption">📸 Basic Climb: Grab the ledge with both hands, look down, and pull yourself up.</div>
 </div>
 

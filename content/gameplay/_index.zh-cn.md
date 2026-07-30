@@ -8,7 +8,7 @@ description: "人类一败涂地基础操作、物理技巧和进阶玩法"
 欢迎来到系统操作控制舱！在《人类一败涂地》中，Bob 的双手完全遵从独立的物理运动特性。你需要掌握这些基础运动映射，以此来解锁更为高级的进阶速通邪道。
 
 <div class="game-image-container">
-  <img src="/img/factory.jpg" alt="游戏实机操作演示">
+  <img src="/img/physics-tips.jpg" alt="游戏实机操作演示">
   <div class="img-caption">📸 熟练运用物理惯性，才能在错综复杂的关卡谜题中游刃有余</div>
 </div>
 
@@ -43,8 +43,7 @@ description: "人类一败涂地基础操作、物理技巧和进阶玩法"
 *   **多人协作同步** — 2-8 人联机时的重力分担、拉扯技巧与“人形抛射机”解锁方法。
 
 ### 🔴 终极阶段：邪道指令 (Glitch & Speedrun)
-*   **单手终极爬墙术 (Wall Climb)** — 仅依靠摩擦和交替摆头，攀爬垂直甚至倒扣的无死角高墙。
-*   **超级跳 (Super Jump)** — 踩住物体时，利用特定甩手姿势触发重力引擎反冲，瞬间冲上高空。
+*   **[社区速通与物理漏洞 (Glitch & Speedrun)](/gameplay/physics-glitches/)** — 包含单手终极爬墙术 (Wall Climb) 与超级跳 (Super Jump)。
 
 ---
 

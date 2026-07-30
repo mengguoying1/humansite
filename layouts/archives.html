@@ -1,0 +1,60 @@
+{{ define "body-class" }}template-archives{{ end }}
+{{ define "main" }}
+    <div class="cyber-archives-wrapper">
+        <div class="cyber-archives-header">
+            <h1 class="hud-title-neon">📜 {{ if eq .Lang "zh-cn" }}归档日志 & 分类索引{{ else }}SYSTEM ARCHIVES // CYBER LOG TIMELINE{{ end }}</h1>
+            <p class="hud-connection"><span class="hud-node"></span><span class="hud-line"></span> CHRONOLOGICAL DATA MATRIX // INDEXED</p>
+        </div>
+
+        <!-- Glassmorphism HUD Card for Categories and Tags -->
+        <header class="hud-categories-card hud-brackets">
+            {{- $categoriesTaxonomy := $.Site.GetPage "taxonomyTerm" "categories" -}}
+            {{- $categories := $categoriesTaxonomy.Pages -}}
+            {{ if $categories }}
+            <h2 class="section-title hud-card-title">🗂️ {{ T "widget.categoriesCloud.title" }}</h2>
+            <div class="subsection-list">
+                <div class="article-list--tile">
+                    {{ range $categories }}
+                        {{ partial "article-list/tile" . }}
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            {{- $tagsTaxonomy := $.Site.GetPage "taxonomyTerm" "tags" -}}
+            {{- $tags := $tagsTaxonomy.Pages -}}
+            {{ if $tags }}
+            <div class="hud-tags-cloud-wrapper">
+                <h3 class="section-title hud-card-title" style="font-size: 1.1rem; margin-bottom: 0.8rem;">🏷️ {{ if eq .Lang "zh-cn" }}热门标签矩阵{{ else }}TAG MATRIX{{ end }}</h3>
+                <div class="tagCloud">
+                    {{ range $tags }}
+                    <a href="{{ .RelPermalink }}" class="hud-tag-link">#{{ .Title }} <span class="tag-count">({{ len .Pages }})</span></a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </header>
+
+        <!-- Glowing Cyber Log Timeline grouped by year -->
+        {{ $pages := partial "helper/pages.html" .Site.Home }}
+        <div class="cyber-timeline-container">
+            {{ range $pages.GroupByDate "2006" }}
+            {{ $id := lower (replace .Key " " "-") }}
+            <div class="archives-group cyber-timeline-group" id="{{ $id }}">
+                <div class="cyber-timeline-marker">
+                    <span class="marker-node"></span>
+                    <span class="marker-year"><a href="{{ $.RelPermalink }}#{{ $id }}">{{ .Key }}</a></span>
+                    <span class="marker-tag">LOG_SECTOR</span>
+                </div>
+                <div class="article-list--compact hud-brackets timeline-articles">
+                    {{ range .Pages }}
+                        {{ partial "article-list/compact" . }}
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}

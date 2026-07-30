@@ -12,7 +12,7 @@ This guide details the top four community techniques used to break the game's bo
 ---
 
 <div class="game-image-container">
-  <img src="/img/climbing.jpg" alt="Bob climbing a wall using glitches">
+  <img src="/img/physics-glitches.jpg" alt="Bob climbing a wall using glitches">
   <div class="img-caption">📸 Glitched Climb: Defying gravity by exploiting Bob's arm-rotation friction physics.</div>
 </div>
 

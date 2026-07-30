@@ -8,7 +8,7 @@ description: "人类一败涂地基础操作教学 - 移动、抓取与攀爬基
 在《人类一败涂地》中，小人 Bob 软绵绵的身体拥有两只独立的手臂。你的所有操作最终都会被转换为双臂的力矩输出。本指南将帮助你调试动作，迅速通过前期的肌肉记忆难关。
 
 <div class="game-image-container">
-  <img src="/img/climbing.jpg" alt="游戏基础攀爬演示">
+  <img src="/img/basic-controls.jpg" alt="游戏基础攀爬演示">
   <div class="img-caption">📸 基础操作：使用双手抓取边缘并向上拉升，这是通往终点的第一步</div>
 </div>
 

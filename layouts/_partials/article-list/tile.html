@@ -1,0 +1,38 @@
+{{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) }}
+<article class="tile-article-item hud-brackets {{ if $image }}has-image{{ end }}">
+    <a href="{{ .RelPermalink }}" class="tile-article-link">
+        {{ if $image }}
+        <div class="article-image">
+            {{ partial "helper/thumbnail-image" (dict 
+                "Resource" $image.Resource
+                "Width" 250
+                "Height" 150
+                "Resize" .Site.Params.ImageProcessing.Thumbnail.Enabled
+                "Attributes" (dict
+                    "src" $image.Permalink
+                    "alt" (printf "Featured image of post %s" .Title)
+                    "loading" "lazy"
+                    "width" $image.Width
+                    "height" $image.Height
+                )
+            ) }}
+        </div>
+        {{ end }}
+
+        <div class="article-details"
+            {{- if and $image (reflect.IsImageResourceProcessable $image.Resource) -}}
+                {{- $colors := $image.Resource.Colors -}}
+                {{- if $colors -}}
+                    {{- $vibrant := index $colors 0 -}}
+                    {{- $darkMuted := index $colors 1 | default $vibrant -}}
+                    style="background: linear-gradient(0deg, {{ $darkMuted }}B0 0%, {{ $vibrant }}E0 100%);"
+                {{- end -}}
+            {{- end -}}
+        >
+            <div class="tile-hud-badge">CATEGORY_NODE</div>
+            <h2 class="article-title">
+                {{- .Title -}}
+            </h2>
+        </div>
+    </a>
+</article>

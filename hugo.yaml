@@ -15,7 +15,7 @@ paginate: 10
 
 # 输出格式
 outputs:
-  home: [HTML, RSS]
+  home: [HTML, RSS, JSON]
   page: [HTML]
   section: [HTML, RSS]
 

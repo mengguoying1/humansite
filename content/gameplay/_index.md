@@ -8,7 +8,7 @@ description: "Human: Fall Flat basic controls, physics mechanics, and movement m
 Welcome to the control center! In Human: Fall Flat, Bob's wobbly limbs obey independent physical forces. To unlock advanced glitch movements or speedrun strategies, you must first master the basic control schemas below.
 
 <div class="game-image-container">
-  <img src="/img/factory.jpg" alt="Human: Fall Flat Gameplay Mechanics">
+  <img src="/img/physics-tips.jpg" alt="Human: Fall Flat Gameplay Mechanics">
   <div class="img-caption">📸 Physics Mastery: Coordinating your hands and camera is key to solving puzzles</div>
 </div>
 
@@ -32,4 +32,4 @@ Welcome to the control center! In Human: Fall Flat, Bob's wobbly limbs obey inde
 
 *   **[Basic Climbing & Dragging](/gameplay/basic-controls/)** — Learn how to pull yourself up walls, carry items, and coordinate hands.
 *   **[Core Physics Techniques](/gameplay/physics-tips/)** — Master advanced swings (Swing Jump), throwing speed-ups, and hanging monkey swings.
-*   **Speedrunning Glitches** — Learn how to climb flat walls (Wall Climb) and jump to high altitudes using items (Super Jump).
+*   **[Speedrunning & Physics Glitches](/gameplay/physics-glitches/)** — Learn how to climb flat walls (Wall Climb) and jump to high altitudes using items (Super Jump).
