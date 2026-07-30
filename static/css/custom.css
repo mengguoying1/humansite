@@ -2192,3 +2192,338 @@ body.list-layout .sidebar.left-sidebar {
   text-shadow: 0 0 8px var(--game-primary) !important;
 }
 
+/* ==========================================================================
+   ULTRA-HIGH-END VISUAL & AUDIO ENGINE STYLES
+   ========================================================================== */
+
+/* Fullscreen Constellation Background Canvas */
+#particleCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Custom Neon Ring Cursor */
+.custom-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  margin-left: -12px;
+  border: 2px solid var(--game-primary);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99999;
+  box-shadow: 0 0 12px var(--game-primary), inset 0 0 6px var(--game-primary);
+  transition: transform 0.08s ease-out, width 0.2s ease, height 0.2s ease, margin 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+  backdrop-filter: blur(1px);
+  will-change: transform;
+}
+
+.custom-cursor.cursor-hover {
+  width: 44px;
+  height: 44px;
+  margin-top: -22px;
+  margin-left: -22px;
+  border-color: var(--game-secondary);
+  background-color: rgba(255, 0, 228, 0.12);
+  box-shadow: 0 0 20px var(--game-secondary), inset 0 0 10px var(--game-secondary);
+}
+
+.custom-cursor.cursor-click {
+  transform: scale(0.6) !important;
+  border-color: var(--game-accent);
+  background-color: rgba(255, 107, 0, 0.2);
+}
+
+/* Continuous 360-degree Conic Gradient Animated Border */
+.gradient-border-animated {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.gradient-border-animated::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(
+    from 0deg,
+    transparent 0deg,
+    var(--game-primary) 90deg,
+    var(--game-secondary) 180deg,
+    var(--game-accent) 270deg,
+    transparent 360deg
+  );
+  animation: rotate-border 4s linear infinite;
+  z-index: -2;
+}
+
+.gradient-border-animated::after {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: var(--game-card-bg);
+  border-radius: 10px;
+  z-index: -1;
+}
+
+@keyframes rotate-border {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Global 3D Card Perspective, Mouse Spotlight Overlay & Accessibility Engine */
+.guide-grid-card,
+.hud-board,
+.lobby-nav-card,
+.compact-article-item,
+.tile-article-item,
+.section-card,
+.hud-categories-card,
+.hud-search-container {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  transition: transform 0.2s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s ease;
+  position: relative !important;
+  overflow: hidden !important;
+  background: var(--game-card-bg) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+}
+
+/* Spotlight Glow Overlay Layering (Strictly behind content plane) */
+.guide-grid-card::after,
+.hud-board::after,
+.lobby-nav-card::after,
+.compact-article-item::after,
+.tile-article-item::after,
+.section-card::after,
+.hud-categories-card::after,
+.hud-search-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    500px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+    rgba(0, 245, 255, 0.12),
+    transparent 55%
+  );
+  border-radius: inherit;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 1 !important;
+}
+
+.guide-grid-card:hover::after,
+.hud-board:hover::after,
+.lobby-nav-card:hover::after,
+.compact-article-item:hover::after,
+.tile-article-item:hover::after,
+.section-card:hover::after,
+.hud-categories-card:hover::after,
+.hud-search-container:hover::after {
+  opacity: 1;
+}
+
+/* Ensure Card Content Wrappers Float Above Spotlight Plane */
+.guide-card-content,
+.guide-card-image-link,
+.lobby-nav-card > div,
+.hud-board-header,
+.hud-board-list,
+.compact-article-link,
+.tile-article-link,
+.section-details,
+.hud-categories-card > *,
+.hud-search-header,
+.hud-search-input-wrapper,
+.hud-search-result-box {
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+/* --- Card Title Typography & WCAG AAA Contrast Drop Shadows (>10:1 Ratio) --- */
+.guide-card-title,
+.lobby-nav-card-title,
+.hud-board-title,
+.hud-item-title,
+.compact-article-item .article-title,
+.tile-article-item .article-title,
+.section-term,
+.hud-title-neon,
+.hud-search-title,
+.hud-card-title {
+  font-family: "Orbitron", "Noto Sans SC", sans-serif !important;
+  font-weight: 700 !important;
+  line-height: 1.35 !important;
+  letter-spacing: 0.5px !important;
+}
+
+.guide-card-title a {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95), 0 0 8px rgba(0, 245, 255, 0.35) !important;
+}
+
+.guide-card-title a:hover {
+  color: var(--game-primary) !important;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.95), 0 0 14px var(--game-primary) !important;
+}
+
+.lobby-nav-card-title {
+  color: var(--game-primary) !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 245, 255, 0.4) !important;
+}
+
+.hud-board-title {
+  color: var(--game-primary) !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 245, 255, 0.4) !important;
+}
+
+.hud-item-title a {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95) !important;
+}
+
+.compact-article-item .article-title {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95) !important;
+}
+
+.tile-article-item .article-title {
+  color: #ffffff !important;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.95), 0 0 8px rgba(0, 245, 255, 0.3) !important;
+}
+
+.section-term {
+  color: #ffffff !important;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.95), 0 0 12px rgba(0, 245, 255, 0.4) !important;
+}
+
+.hud-title-neon {
+  color: #ffffff !important;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.95), 0 0 15px rgba(0, 245, 255, 0.5) !important;
+}
+
+/* --- High Contrast Card Description Text --- */
+.guide-card-description,
+.lobby-nav-card-desc,
+.hud-item-desc,
+.compact-article-item .article-description,
+.section-description {
+  color: #d8d8fa !important;
+  font-family: "Noto Sans SC", -apple-system, sans-serif !important;
+  font-size: 0.88rem !important;
+  line-height: 1.5 !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95) !important;
+}
+
+/* --- Badge Overlays & Tag Matrix Contrast Rules --- */
+.level-badges-overlay {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  z-index: 10 !important;
+}
+
+.badge-neon {
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 0.72rem !important;
+  font-weight: 700 !important;
+  padding: 3px 8px !important;
+  border-radius: 4px !important;
+  white-space: nowrap !important;
+  backdrop-filter: blur(6px) !important;
+  -webkit-backdrop-filter: blur(6px) !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.85), 0 0 6px rgba(0, 245, 255, 0.25) !important;
+}
+
+.badge-neon.badge-diff,
+.hud-item-tag.badge-diff {
+  color: var(--game-primary) !important;
+  border: 1px solid var(--game-primary) !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95), 0 0 4px var(--game-primary) !important;
+}
+
+.badge-neon.badge-duration,
+.hud-item-tag.badge-duration {
+  color: var(--game-secondary) !important;
+  border: 1px solid var(--game-secondary) !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95), 0 0 4px var(--game-secondary) !important;
+}
+
+.badge-neon.badge-complexity,
+.hud-item-tag.badge-complexity {
+  color: var(--game-accent) !important;
+  border: 1px solid var(--game-accent) !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95), 0 0 4px var(--game-accent) !important;
+}
+
+.hud-item-tag {
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 0.72rem !important;
+  font-weight: 700 !important;
+  padding: 2px 7px !important;
+  border-radius: 4px !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  border: 1px solid rgba(0, 245, 255, 0.3) !important;
+  color: var(--game-primary) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95) !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7) !important;
+}
+
+.guide-tag {
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 0.75rem !important;
+  color: var(--game-primary) !important;
+  background: rgba(5, 5, 18, 0.92) !important;
+  padding: 2px 7px !important;
+  border-radius: 4px !important;
+  border: 1px solid rgba(0, 245, 255, 0.3) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95) !important;
+}
+
+.tile-hud-badge {
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 0.72rem !important;
+  font-weight: 700 !important;
+  color: var(--game-primary) !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.95), 0 0 6px var(--game-primary) !important;
+}
+
+/* SFX Toggle Button Navbar style */
+.sfx-toggle-btn {
+  font-size: 0.8rem !important;
+  padding: 0.35rem 0.8rem !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  letter-spacing: 1px;
+}
+
+

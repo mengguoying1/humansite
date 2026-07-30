@@ -63,19 +63,19 @@
                     <a href="{{ .RelPermalink }}" class="guide-card-image-link" style="position: relative; display: block;">
                         <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy" onerror="this.src='/img/cover.jpg';">
                         {{ if or .Params.difficulty .Params.duration .Params.complexity }}
-                        <div class="level-badges-overlay" style="position: absolute; top: 10px; left: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 10;">
+                        <div class="level-badges-overlay">
                             {{ if .Params.difficulty }}
-                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-primary); color: var(--game-primary); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(0, 245, 255, 0.3); text-shadow: 0 0 3px var(--game-primary); font-weight: bold; white-space: nowrap;">
+                            <span class="badge-neon badge-diff">
                                 {{ .Params.difficulty }}
                             </span>
                             {{ end }}
                             {{ if .Params.duration }}
-                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-secondary); color: var(--game-secondary); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(255, 0, 228, 0.3); text-shadow: 0 0 3px var(--game-secondary); font-weight: bold; white-space: nowrap;">
+                            <span class="badge-neon badge-duration">
                                 ⏱️ {{ .Params.duration }}
                             </span>
                             {{ end }}
                             {{ if .Params.complexity }}
-                            <span class="badge-neon" style="background: rgba(13, 13, 35, 0.85); border: 1px solid var(--game-accent); color: var(--game-accent); font-family: 'Share Tech Mono', monospace; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; box-shadow: 0 0 6px rgba(255, 107, 0, 0.3); text-shadow: 0 0 3px var(--game-accent); font-weight: bold; white-space: nowrap;">
+                            <span class="badge-neon badge-complexity">
                                 ⚙️ {{ .Params.complexity }}
                             </span>
                             {{ end }}

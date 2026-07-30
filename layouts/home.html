@@ -615,13 +615,13 @@
                         <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
                         <span class="hud-item-tag">SYS_LOG</span>
                         {{ if .Params.difficulty }}
-                        <span class="hud-item-tag" style="border-color: var(--game-primary); color: var(--game-primary); text-shadow: 0 0 4px var(--game-primary); font-weight: bold; background: rgba(0, 245, 255, 0.05);">{{ .Params.difficulty }}</span>
+                        <span class="hud-item-tag badge-diff">{{ .Params.difficulty }}</span>
                         {{ end }}
                         {{ if .Params.duration }}
-                        <span class="hud-item-tag" style="border-color: var(--game-secondary); color: var(--game-secondary); text-shadow: 0 0 4px var(--game-secondary); font-weight: bold; background: rgba(255, 0, 228, 0.05);">{{ .Params.duration }}</span>
+                        <span class="hud-item-tag badge-duration">⏱️ {{ .Params.duration }}</span>
                         {{ end }}
                         {{ if .Params.complexity }}
-                        <span class="hud-item-tag" style="border-color: var(--game-accent); color: var(--game-accent); text-shadow: 0 0 4px var(--game-accent); font-weight: bold; background: rgba(255, 107, 0, 0.05);">{{ .Params.complexity }}</span>
+                        <span class="hud-item-tag badge-complexity">⚙️ {{ .Params.complexity }}</span>
                         {{ end }}
                     </div>
                 </div>
