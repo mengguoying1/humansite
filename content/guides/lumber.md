@@ -1,34 +1,55 @@
 ---
-title: "🪵 Level 19: Lumber"
-description: "Human: Fall Flat Lumber level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
-weight: 19
+title: "Lumber Level Walkthrough & Sawmill Guide"
+description: "Full guide for Human: Fall Flat Lumber level, featuring giant waterwheels, circular saws, log cranes, and lumber achievements."
+date: 2026-08-25T00:00:00Z
+weight: 21
+difficulty: "★★★☆☆"
+duration: "35 Mins"
+complexity: "Medium"
+tags:
+  - Lumber
+  - Sawmill
+  - Waterwheel
+  - Walkthrough
 ---
 
-# 🪵 Level 19: Lumber
+# Lumber Level Walkthrough & Sawmill Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐⭐☆ | Est. Duration 35 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★☆☆ | Est. Duration: 35 Mins | Complexity: Medium
 
----
-
-<div class="game-image-container">
-  <img src="/img/factory.jpg" alt="🪵 Level 19: Lumber Level Overview">
-  <div class="img-caption">📸 🪵 Level 19: Lumber Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  Bind multiple logs together to make a raft, steer the paddle to stay balanced in the center, and you can float directly through the violent rapids.
-</div>
+Full guide for Human: Fall Flat Lumber level, featuring giant waterwheels, circular saws, log cranes, and lumber achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Lumber takes place in a mountain sawmill complex powered by raging river currents, waterwheels, circular saws, and overhead timber trolleys.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: The Waterwheel Power Generator
+Unblock the river logjam so water flows over the waterwheel, powering the main sawmill gears.
+
+### Section 2: Timber Trolley & Sawmill
+Feed logs into the circular saw to cut them into usable planks. Lay planks onto the trolley tracks to bridge the river canyon.
+
+### Section 3: Overhead Timber Crane
+Ride the overhead log crane hook across the waterfall gorge into the lumber storage warehouse exit.
+
+---
+
+## 3. Speedrun Skips
+
+**Log Cannon Launch:** Place a log under the circular saw blade angle, jump onto the log, and let the rotating blade catapult you straight to the crane platform!
+
+---
+
+## 4. Achievements Guide
+
+- **Woodcutter:** Cut 10 logs using the sawmill circular saw.
+- **Waterwheel Surfer:** Complete 3 full rotations while standing on top of the spinning waterwheel.
+
+---
+

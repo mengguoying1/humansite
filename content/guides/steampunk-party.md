@@ -1,34 +1,55 @@
 ---
-title: "⚙️ Level 29: Steampunk Party"
-description: "Human: Fall Flat Steampunk Party level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
-weight: 29
+title: "Steampunk Party Level Walkthrough & Steam Engines Guide"
+description: "Full guide for Human: Fall Flat Steampunk Party, featuring steam brass pipes, pressure valves, airships, and party achievements."
+date: 2026-08-25T00:00:00Z
+weight: 25
+difficulty: "★★★★☆"
+duration: "45 Mins"
+complexity: "High"
+tags:
+  - Steampunk Party
+  - Steam
+  - Airship
+  - Walkthrough
 ---
 
-# ⚙️ Level 29: Steampunk Party
+# Steampunk Party Level Walkthrough & Steam Engines Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐⭐☆ | Est. Duration 35 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★★☆ | Est. Duration: 45 Mins | Complexity: High
 
----
-
-<div class="game-image-container">
-  <img src="/img/swinging.jpg" alt="⚙️ Level 29: Steampunk Party Level Overview">
-  <div class="img-caption">📸 ⚙️ Level 29: Steampunk Party Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  Step on the top of the continuously moving giant piston cylinder, and jump in the opposite direction at its peak height to climb directly onto the steam airship basket.
-</div>
+Full guide for Human: Fall Flat Steampunk Party, featuring steam brass pipes, pressure valves, airships, and party achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Steampunk Party brings Victorian industrial aesthetic to life with brass steam pipes, pressure safety valves, clockwork gears, and flying steam airships.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: Brass Pipe Pressure Balancing
+Connect brass steam pipes between the boiler and pressure regulator to build up 100 PSI of steam power.
+
+### Section 2: Clockwork Gear Tower
+Use high-pressure steam jets to turn giant brass clockwork gears, forming a staircase to the upper airship dock.
+
+### Section 3: Steam Airship Flight
+Board the Victorian steam airship. Turn the furnace valve to inflate the balloon and steer the rudder to fly into the clocktower exit.
+
+---
+
+## 3. Speedrun Steam Jet Skips
+
+**Steam Geyser Rocket:** Stand directly over an open high-pressure steam pipe when opening the main boiler valve to get launched 50 meters into the air onto the airship dock!
+
+---
+
+## 4. Achievements Guide
+
+- **Steam Powered:** Clear the level without venting steam into the open air more than once.
+- **Airship Captain:** Fly the steam airship under all 3 brass bridges.
+
+---
+

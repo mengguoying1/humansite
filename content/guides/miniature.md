@@ -1,34 +1,55 @@
 ---
-title: "🔍 Level 22: Miniature"
-description: "Human: Fall Flat Miniature level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
+title: "Miniature Level Walkthrough & Giant House Guide"
+description: "Complete guide for Human: Fall Flat Miniature level, featuring giant household objects, oversized vacuum cleaners, chessboards, and achievements."
+date: 2026-08-25T00:00:00Z
 weight: 22
+difficulty: "★★★★☆"
+duration: "40 Mins"
+complexity: "High"
+tags:
+  - Miniature
+  - Tiny
+  - Giant House
+  - Walkthrough
 ---
 
-# 🔍 Level 22: Miniature
+# Miniature Level Walkthrough & Giant House Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐☆☆ | Est. Duration 25 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★★☆ | Est. Duration: 40 Mins | Complexity: High
 
----
-
-<div class="game-image-container">
-  <img src="/img/hero_banner.jpg" alt="🔍 Level 22: Miniature Level Overview">
-  <div class="img-caption">📸 🔍 Level 22: Miniature Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  Between the giant microwave and the toy car, step on the trunk of the toy car and jump to use the car's collision box to bounce directly onto the table.
-</div>
+Complete guide for Human: Fall Flat Miniature level, featuring giant household objects, oversized vacuum cleaners, chessboards, and achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Miniature shrinks your ragdoll character to the size of a ant in a giant human house! Climb oversized books, ride giant vacuum hoses, and jump across giant kitchen countertops.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: The Living Room Bookcase
+Stack oversized matchboxes to climb onto the sofa, then balance across the giant curtain rod to reach the table.
+
+### Section 2: Giant Vacuum Cleaner Ride
+Turn on the giant vacuum cleaner switch. Jump into the intake hose to get sucked up and launched onto the high bookshelf.
+
+### Section 3: The Chessboard & Kitchen Sink
+Move the giant Queen chess piece onto the black square to open the cabinet door, then ride the floating sponge across the filled kitchen sink to the exit drain.
+
+---
+
+## 3. Speedrun Skips
+
+**Vacuum Cannon Launch:** Hold onto a matchstick inside the vacuum exhaust nozzle when turning on the motor to rocket straight onto the kitchen counter!
+
+---
+
+## 4. Achievements Guide
+
+- **Checkmate:** Complete the chessboard puzzle in fewer than 3 moves.
+- **Tiny Adventurer:** Clear the Miniature level without falling into the kitchen sink water.
+
+---
+

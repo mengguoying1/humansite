@@ -1,34 +1,55 @@
 ---
-title: "🐳 Level 25: Underwater"
-description: "Human: Fall Flat Underwater level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
-weight: 25
+title: "Underwater Level Walkthrough & Submarine Guide"
+description: "Full guide for Human: Fall Flat Underwater level, featuring yellow submarines, oxygen tanks, buoyancy physics, and achievements."
+date: 2026-08-25T00:00:00Z
+weight: 29
+difficulty: "★★★★☆"
+duration: "45 Mins"
+complexity: "High"
+tags:
+  - Underwater
+  - Ocean
+  - Submarine
+  - Walkthrough
 ---
 
-# 🐳 Level 25: Underwater
+# Underwater Level Walkthrough & Submarine Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐⭐☆ | Est. Duration 35 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★★☆ | Est. Duration: 45 Mins | Complexity: High
 
----
-
-<div class="game-image-container">
-  <img src="/img/multiplayer.jpg" alt="🐳 Level 25: Underwater Level Overview">
-  <div class="img-caption">📸 🐳 Level 25: Underwater Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  When diving, grab the side wing of the underwater scooter and use the thruster's momentum to crash directly through the fragile glass panels at the bottom of the sea.
-</div>
+Full guide for Human: Fall Flat Underwater level, featuring yellow submarines, oxygen tanks, buoyancy physics, and achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Underwater immerses your ragdoll character into a deep sea ocean world with buoyancy physics, yellow exploration submarines, and sunken ruins.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: Oxygen Tank Buoyancy
+Attach floating oxygen tanks to heavy underwater gates to lift them up from the sea floor.
+
+### Section 2: Yellow Submarine Piloting
+Board the yellow exploration submarine. Operate ballast pump levers and propeller thrusters to navigate through underwater caverns.
+
+### Section 3: Sunken Temple Vault
+Solve the trident pressure plate puzzle inside the sunken temple to drain the water lock and drop down into the exit whirlpool.
+
+---
+
+## 3. Speedrun Buoyancy Skips
+
+**Oxygen Balloon Flight:** Hold two inflated oxygen tanks under your arms while under water to float at high speed straight to the temple entrance!
+
+---
+
+## 4. Achievements Guide
+
+- **Deep Sea Diver:** Stay underwater for more than 5 minutes continuously.
+- **Submarine Captain:** Park the yellow submarine inside the drydock without crashing into rocks.
+
+---
+

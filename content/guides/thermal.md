@@ -1,34 +1,55 @@
 ---
-title: "🌋 Level 14: Thermal"
-description: "Human: Fall Flat Thermal level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
-weight: 14
+title: "Thermal Level Walkthrough & Ice Cave Guide"
+description: "Full guide for Human: Fall Flat Thermal level, featuring thermal geysers, ice melting, mining drills, and thermal achievements."
+date: 2026-08-25T00:00:00Z
+weight: 27
+difficulty: "★★★★☆"
+duration: "40 Mins"
+complexity: "High"
+tags:
+  - Thermal
+  - Ice
+  - Geysers
+  - Walkthrough
 ---
 
-# 🌋 Level 14: Thermal
+# Thermal Level Walkthrough & Ice Cave Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐⭐☆ | Est. Duration 35 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★★☆ | Est. Duration: 40 Mins | Complexity: High
 
----
-
-<div class="game-image-container">
-  <img src="/img/swinging.jpg" alt="🌋 Level 14: Thermal Level Overview">
-  <div class="img-caption">📸 🌋 Level 14: Thermal Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  Grab the bottom bar of the hot air balloon. When it reaches its peak height, swing your body sideways and let go to float down directly into the exit cave.
-</div>
+Full guide for Human: Fall Flat Thermal level, featuring thermal geysers, ice melting, mining drills, and thermal achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Thermal combines icy snowcapped peaks with subterranean geothermal hot springs, steam vents, and lava caverns.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: Ice Block Melting
+Push the giant ice block over the hot steam vent. Wait for it to melt down to reveal the key frozen inside.
+
+### Section 2: Geothermal Geyser Surfing
+Step onto the wooden platform resting over the thermal geyser. Time the steam pressure eruption to ride the platform upward.
+
+### Section 3: The Mining Drill & Lava Lake
+Operate the diesel mining drill to breach the rock wall, then swing across the lava lake using hanging mineral buckets into the exit cavern.
+
+---
+
+## 3. Speedrun Geyser Skips
+
+**Geyser Rocket Jump:** Stand directly over the main geyser vent with a wooden plank held above your head to catch maximum steam lift straight to Section 3!
+
+---
+
+## 4. Achievements Guide
+
+- **Hot Spring:** Melt all 3 hidden ice blocks in Section 1.
+- **Lava Surfer:** Swing across the lava lake without touching the liquid rock.
+
+---
+

@@ -1,34 +1,55 @@
 ---
-title: "⚓ Level 24: Port"
-description: "Human: Fall Flat Port level guide & secrets"
-date: 2026-07-04
-tags: [Walkthrough, Level, ComingSoon]
-weight: 24
+title: "Port Level Walkthrough & Container Ship Guide"
+description: "Full guide for Human: Fall Flat Port level, featuring container shipping cranes, tugboats, cargo boxes, and port achievements."
+date: 2026-08-25T00:00:00Z
+weight: 23
+difficulty: "★★★☆☆"
+duration: "35 Mins"
+complexity: "Medium"
+tags:
+  - Port
+  - Ship
+  - Crane
+  - Walkthrough
 ---
 
-# ⚓ Level 24: Port
+# Port Level Walkthrough & Container Ship Guide
 
-> **Current Status**: 📡 Dream signals syncing... To be continued, stay tuned for the latest detailed level guides.
-> **Level Matrix**: Difficulty ⭐⭐⭐⭐☆ | Est. Duration 30 Mins
+> 💡 **Level Snapshot** | Difficulty: ★★★☆☆ | Est. Duration: 35 Mins | Complexity: Medium
 
----
-
-<div class="game-image-container">
-  <img src="/img/mansion.jpg" alt="⚓ Level 24: Port Level Overview">
-  <div class="img-caption">📸 ⚓ Level 24: Port Level Overview - Dreamscape Coordinate Calibration</div>
-</div>
-
----
-
-## 🔑 Level Clearance Secrets (MISSION TIPS)
-
-Every dream level features unique gaps in its physics logic. While our full walkthrough captures are being uploaded, we have unlocked the **Clearance Secret** for you:
-
-<div class="unlock-tip-box" style="background:rgba(0, 245, 255, 0.05) !important; border-color:var(--game-primary) !important; box-shadow:0 0 15px rgba(0, 245, 255, 0.15) !important;">
-  <strong style="color:var(--game-primary);">⚡ Clearance Secret ⚡</strong><br>
-  Use the crane hook to pull the cargo ship closer to the dock, jump onto the ship's mast, and swing directly to the lighthouse on the opposite shore to skip container moving.
-</div>
+Full guide for Human: Fall Flat Port level, featuring container shipping cranes, tugboats, cargo boxes, and port achievements.
 
 ---
 
-*Guides editing... Wobbly Bob telemetry is feeded live from Bobs worldwide. Got a faster route? Submit your highlights to us!*
+## 1. Level Overview
+
+Port takes place in a busy ocean shipping terminal with cargo container ships, harbor cranes, floating docks, and tugboats.
+
+---
+
+## 2. Walkthrough Steps
+
+### Section 1: Harbor Gantry Crane
+Operate the overhead gantry crane controls to swing a 20ft blue shipping container into position, forming a bridge between Pier A and Pier B.
+
+### Section 2: Tugboat Steering
+Board the diesel tugboat. Turn the wheel and throttle lever to steer the ship into the drydock lock gate.
+
+### Section 3: Container Tower Climb
+Climb the stacked shipping containers using wall flapping techniques to reach the cargo ship captain's bridge exit portal.
+
+---
+
+## 3. Speedrun Crane Skips
+
+**Container Sling Launch:** Stand on top of the container while controlling the crane hoist to catapult yourself directly onto the captain's bridge balcony!
+
+---
+
+## 4. Achievements Guide
+
+- **Seafarer:** Drive the tugboat around the entire harbor lighthouse island.
+- **Cargo Master:** Stack 3 shipping containers vertically using the crane.
+
+---
+
