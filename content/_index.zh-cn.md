@@ -73,5 +73,6 @@ description: "Human: Fall Flat 中文攻略站 - 玩法指南、关卡攻略、�
 
 <div class="disclaimer" style="text-align: center; padding: 1.5rem; margin-top: 3rem; background: rgba(0,245,255,0.03); border: 1px solid rgba(0,245,255,0.08); border-radius: 12px; font-size: 0.8rem; color: var(--game-text-muted);">
   ⚡ 本站由《人类一败涂地》粉丝自发建立，旨在为广大玩家提供免费的解锁技巧交流。<br>
-  游戏素材及版权归 No Brakes Games 与 Curve Digital 官方所有。
+  游戏素材及版权归 No Brakes Games 与 Curve Digital 官方所有。<br>
+  站内关卡截图来自 Steam 商店官方宣传素材，仅作非营利的粉丝攻略说明用途。
 </div>

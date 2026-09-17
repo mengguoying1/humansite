@@ -23,5 +23,6 @@ This fan-made portal collects **step-by-step walkthroughs for every official lev
 
 <div class="disclaimer" style="text-align: center; padding: 1.5rem; margin-top: 3rem; background: rgba(0,245,255,0.03); border: 1px solid rgba(0,245,255,0.08); border-radius: 12px; font-size: 0.8rem; color: var(--game-text-muted);">
   ⚡ This is a fan-made guide site for the Human: Fall Flat community.<br>
-  Human: Fall Flat ® and all related assets are trademarks of No Brakes Games / Curve Digital.
+  Human: Fall Flat ® and all related assets are trademarks of No Brakes Games / Curve Digital.<br>
+  Level screenshots on this site are official promotional images sourced from the Steam store, used here for non-commercial fan documentation.
 </div>

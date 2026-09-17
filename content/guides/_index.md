@@ -222,7 +222,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🌋 Level 14: Thermal Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="🌋 Level 14: Thermal" class="level-select-img">
+    <img src="/img/thermal.jpg" alt="🌋 Level 14: Thermal" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -238,7 +238,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⛳ Level 15: Golf Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="⛳ Level 15: Golf" class="level-select-img">
+    <img src="/img/golf.jpg" alt="⛳ Level 15: Golf" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -254,7 +254,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🏙️ Level 16: City Card -->
   <div class="level-select-card">
-    <img src="/img/hero_banner.jpg" alt="🏙️ Level 16: City" class="level-select-img">
+    <img src="/img/city.jpg" alt="🏙️ Level 16: City" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -270,7 +270,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🌲 Level 17: Forest Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🌲 Level 17: Forest" class="level-select-img">
+    <img src="/img/forest.jpg" alt="🌲 Level 17: Forest" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -286,7 +286,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🔬 Level 18: Laboratory Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🔬 Level 18: Laboratory" class="level-select-img">
+    <img src="/img/laboratory.jpg" alt="🔬 Level 18: Laboratory" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -302,7 +302,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🪵 Level 19: Lumber Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🪵 Level 19: Lumber" class="level-select-img">
+    <img src="/img/lumber.jpg" alt="🪵 Level 19: Lumber" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -318,7 +318,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🏜️ Level 20: Red Rock Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🏜️ Level 20: Red Rock" class="level-select-img">
+    <img src="/img/red-rock.jpg" alt="🏜️ Level 20: Red Rock" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -334,7 +334,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🗼 Level 21: Tower Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🗼 Level 21: Tower" class="level-select-img">
+    <img src="/img/tower.jpg" alt="🗼 Level 21: Tower" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -350,7 +350,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🔍 Level 22: Miniature Card -->
   <div class="level-select-card">
-    <img src="/img/hero_banner.jpg" alt="🔍 Level 22: Miniature" class="level-select-img">
+    <img src="/img/miniature.jpg" alt="🔍 Level 22: Miniature" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -366,7 +366,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🪙 Level 23: Copper World Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🪙 Level 23: Copper World" class="level-select-img">
+    <img src="/img/copper-world.jpg" alt="🪙 Level 23: Copper World" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -382,7 +382,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⚓ Level 24: Port Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="⚓ Level 24: Port" class="level-select-img">
+    <img src="/img/port.jpg" alt="⚓ Level 24: Port" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -398,7 +398,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🐳 Level 25: Underwater Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="🐳 Level 25: Underwater" class="level-select-img">
+    <img src="/img/underwater.jpg" alt="🐳 Level 25: Underwater" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -414,7 +414,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🥾 Level 26: Hike Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🥾 Level 26: Hike" class="level-select-img">
+    <img src="/img/hike.jpg" alt="🥾 Level 26: Hike" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -430,7 +430,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🧬 Level 27: Test Chamber Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🧬 Level 27: Test Chamber" class="level-select-img">
+    <img src="/img/test-chamber.jpg" alt="🧬 Level 27: Test Chamber" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -446,7 +446,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🍭 Level 28: Candyland Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🍭 Level 28: Candyland" class="level-select-img">
+    <img src="/img/candyland.jpg" alt="🍭 Level 28: Candyland" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -462,7 +462,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- ⚙️ Level 29: Steampunk Party Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="⚙️ Level 29: Steampunk Party" class="level-select-img">
+    <img src="/img/steampunk.jpg" alt="⚙️ Level 29: Steampunk Party" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -478,7 +478,7 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
   </div>
   <!-- 🪓 Level 30: Viking Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="🪓 Level 30: Viking" class="level-select-img">
+    <img src="/img/viking.jpg" alt="🪓 Level 30: Viking" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>

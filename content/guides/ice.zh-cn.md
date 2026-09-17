@@ -37,7 +37,7 @@ complexity: "High"
 利用光热学原理融化障碍冰块的必修课。
 
 <div class="game-image-container">
-  <img src="/img/cover.jpg" alt="日光放大镜谜题">
+  <img src="/img/ice-2.jpg" alt="日光放大镜谜题">
   <div class="img-caption">📸 放大镜：调节巨大透镜的角度，聚焦阳光光束以融化封堵石门的冰块。</div>
 </div>
 

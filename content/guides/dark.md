@@ -51,7 +51,7 @@ complexity: "High"
 This platforming section requires timing and coordination.
 
 <div class="game-image-container">
-  <img src="/img/cover.jpg" alt="Clock Tower Rotating Gears">
+  <img src="/img/power.jpg" alt="Clock Tower Rotating Gears">
   <div class="img-caption">📸 Clock Gears: Climb the rotating wooden cogs to reach the face of the clock.</div>
 </div>
 

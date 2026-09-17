@@ -57,7 +57,7 @@ weight: 2
 此动作允许你在没有任何落脚点的垂直光滑墙面上强行爬升，直接跳过 90% 的解谜区。
 
 <div class="game-image-container">
-  <img src="/img/climbing.jpg" alt="爬墙邪道演示">
+  <img src="/img/physics-tips.jpg" alt="爬墙邪道演示">
   <div class="img-caption">📸 邪道爬墙：通过交替侧向甩动手臂，并在脱离一侧时向上拉升来贴墙向上移动</div>
 </div>
 

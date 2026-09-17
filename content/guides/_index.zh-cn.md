@@ -222,7 +222,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🌋 第十四关：热能 (Thermal) Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="🌋 第十四关：热能 (Thermal)" class="level-select-img">
+    <img src="/img/thermal.jpg" alt="🌋 第十四关：热能 (Thermal)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -238,7 +238,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⛳ 第十五关：高尔夫 (Golf) Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="⛳ 第十五关：高尔夫 (Golf)" class="level-select-img">
+    <img src="/img/golf.jpg" alt="⛳ 第十五关：高尔夫 (Golf)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -254,7 +254,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🏙️ 第十六关：城市 (City) Card -->
   <div class="level-select-card">
-    <img src="/img/hero_banner.jpg" alt="🏙️ 第十六关：城市 (City)" class="level-select-img">
+    <img src="/img/city.jpg" alt="🏙️ 第十六关：城市 (City)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -270,7 +270,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🌲 第十七关：森林 (Forest) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🌲 第十七关：森林 (Forest)" class="level-select-img">
+    <img src="/img/forest.jpg" alt="🌲 第十七关：森林 (Forest)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -286,7 +286,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🔬 第十八关：实验室 (Laboratory) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🔬 第十八关：实验室 (Laboratory)" class="level-select-img">
+    <img src="/img/laboratory.jpg" alt="🔬 第十八关：实验室 (Laboratory)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -302,7 +302,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🪵 第十九关：木材 (Lumber) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🪵 第十九关：木材 (Lumber)" class="level-select-img">
+    <img src="/img/lumber.jpg" alt="🪵 第十九关：木材 (Lumber)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -318,7 +318,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🏜️ 第二十关：红石 (Red Rock) Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🏜️ 第二十关：红石 (Red Rock)" class="level-select-img">
+    <img src="/img/red-rock.jpg" alt="🏜️ 第二十关：红石 (Red Rock)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -334,7 +334,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🗼 第二十一关：高塔 (Tower) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🗼 第二十一关：高塔 (Tower)" class="level-select-img">
+    <img src="/img/tower.jpg" alt="🗼 第二十一关：高塔 (Tower)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -350,7 +350,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🔍 第二十二关：微观 (Miniature) Card -->
   <div class="level-select-card">
-    <img src="/img/hero_banner.jpg" alt="🔍 第二十二关：微观 (Miniature)" class="level-select-img">
+    <img src="/img/miniature.jpg" alt="🔍 第二十二关：微观 (Miniature)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -366,7 +366,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🪙 第二十三关：铜世界 (Copper World) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🪙 第二十三关：铜世界 (Copper World)" class="level-select-img">
+    <img src="/img/copper-world.jpg" alt="🪙 第二十三关：铜世界 (Copper World)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -382,7 +382,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⚓ 第二十四关：港口 (Port) Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="⚓ 第二十四关：港口 (Port)" class="level-select-img">
+    <img src="/img/port.jpg" alt="⚓ 第二十四关：港口 (Port)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -398,7 +398,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🐳 第二十五关：水下 (Underwater) Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="🐳 第二十五关：水下 (Underwater)" class="level-select-img">
+    <img src="/img/underwater.jpg" alt="🐳 第二十五关：水下 (Underwater)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -414,7 +414,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🥾 第二十六关：徒步 (Hike) Card -->
   <div class="level-select-card">
-    <img src="/img/climbing.jpg" alt="🥾 第二十六关：徒步 (Hike)" class="level-select-img">
+    <img src="/img/hike.jpg" alt="🥾 第二十六关：徒步 (Hike)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -430,7 +430,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🧬 第二十七关：测试室 (Test Chamber) Card -->
   <div class="level-select-card">
-    <img src="/img/factory.jpg" alt="🧬 第二十七关：测试室 (Test Chamber)" class="level-select-img">
+    <img src="/img/test-chamber.jpg" alt="🧬 第二十七关：测试室 (Test Chamber)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -446,7 +446,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🍭 第二十八关：糖果乐园 (Candyland) Card -->
   <div class="level-select-card">
-    <img src="/img/mansion.jpg" alt="🍭 第二十八关：糖果乐园 (Candyland)" class="level-select-img">
+    <img src="/img/candyland.jpg" alt="🍭 第二十八关：糖果乐园 (Candyland)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -462,7 +462,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- ⚙️ 第二十九关：蒸汽朋克派对 (Steampunk Party) Card -->
   <div class="level-select-card">
-    <img src="/img/swinging.jpg" alt="⚙️ 第二十九关：蒸汽朋克派对 (Steampunk Party)" class="level-select-img">
+    <img src="/img/steampunk.jpg" alt="⚙️ 第二十九关：蒸汽朋克派对 (Steampunk Party)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>
@@ -478,7 +478,7 @@ description: "人类一败涂地全关卡详细攻略"
   </div>
   <!-- 🪓 第三十关：维京 (Viking) Card -->
   <div class="level-select-card">
-    <img src="/img/multiplayer.jpg" alt="🪓 第三十关：维京 (Viking)" class="level-select-img">
+    <img src="/img/viking.jpg" alt="🪓 第三十关：维京 (Viking)" class="level-select-img">
     <div class="level-select-body">
       <div class="level-select-title">
         <span style="color:#ffcc00; font-size:0.8rem;">● COMING</span>

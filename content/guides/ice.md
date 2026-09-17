@@ -37,7 +37,7 @@ complexity: "High"
 This puzzle teaches players how to melt ice blocks using thermal focusing.
 
 <div class="game-image-container">
-  <img src="/img/cover.jpg" alt="Sunlight Magnifying Lens Puzzle">
+  <img src="/img/ice-2.jpg" alt="Sunlight Magnifying Lens Puzzle">
   <div class="img-caption">📸 Magnifying Glass: Focus the sunlight beam to melt the block of ice blocking the door.</div>
 </div>
 

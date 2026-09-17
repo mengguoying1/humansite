@@ -51,7 +51,7 @@ complexity: "High"
 本关的平台跳跃难点，需要极高的时机配合。
 
 <div class="game-image-container">
-  <img src="/img/cover.jpg" alt="时钟塔内齿轮">
+  <img src="/img/power.jpg" alt="时钟塔内齿轮">
   <div class="img-caption">📸 时钟齿轮：攀爬不断旋转的巨大木质齿轮以到达塔顶钟面</div>
 </div>
 

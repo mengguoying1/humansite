@@ -41,7 +41,7 @@ description: "人类一败涂地基础操作教学 - 移动、抓取与攀爬基
 4.  **低头拉起**：抓住墙沿后**不要放手**，将视角慢慢**转向正下方**，同时按住前进 <span class="kbd-key">W</span> 键。此时 Bob 的手臂会收缩，身体会因为物理判定被拉上高台。
 
 <div class="game-image-container" style="max-width: 80%; margin: 1.5rem auto;">
-  <img src="/img/mansion.jpg" alt="翻过第一道墙">
+  <img src="/img/basic-controls.jpg" alt="翻过第一道墙">
   <div class="img-caption">📸 熟练使用视角仰俯，可以将身体轻松拉上海拔更高的区域</div>
 </div>
 
