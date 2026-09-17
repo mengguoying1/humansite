@@ -19,9 +19,10 @@
                 
                 <div class="navbar-links">
                     {{ $isZH := eq .Lang "zh-cn" }}
-                    <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="nav-link">DATABASE</a>
-                    <a href="{{ if $isZH }}/zh-cn/gameplay/{{ else }}/gameplay/{{ end }}" class="nav-link">SPEEDRUN</a>
-                    <a href="{{ if $isZH }}/zh-cn/multiplayer/{{ else }}/multiplayer/{{ end }}" class="nav-link">COMMUNITY</a>
+                    <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="nav-link">{{ if $isZH }}关卡攻略{{ else }}GUIDES{{ end }}</a>
+                    <a href="{{ if $isZH }}/zh-cn/gameplay/{{ else }}/gameplay/{{ end }}" class="nav-link">{{ if $isZH }}玩法指南{{ else }}GAMEPLAY{{ end }}</a>
+                    <a href="{{ if $isZH }}/zh-cn/multiplayer/{{ else }}/multiplayer/{{ end }}" class="nav-link">{{ if $isZH }}联机专区{{ else }}MULTIPLAYER{{ end }}</a>
+                    <a href="{{ if $isZH }}/zh-cn/media/{{ else }}/media/{{ end }}" class="nav-link">{{ if $isZH }}视频{{ else }}MEDIA{{ end }}</a>
                 </div>
 
                 <div class="navbar-actions">

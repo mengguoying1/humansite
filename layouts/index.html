@@ -37,7 +37,7 @@
                     <div class="lobby-stat-label">{{ if $isZH }}全球销量{{ else }}Global Sales{{ end }}</div>
                 </div>
                 <div class="lobby-stat-card">
-                    <div class="lobby-stat-num">30+</div>
+                    <div class="lobby-stat-num">20+</div>
                     <div class="lobby-stat-label">{{ if $isZH }}官方关卡{{ else }}Official Levels{{ end }}</div>
                 </div>
                 <div class="lobby-stat-card">
@@ -181,9 +181,9 @@
                 <h3 class="lobby-nav-card-title">📖 {{ if $isZH }}关卡攻略{{ else }}Level Guides{{ end }}</h3>
                 <p class="lobby-nav-card-desc">
                     {{ if $isZH }}
-                    详尽解析全部 30 个官方关卡，包含各图的关键谜题、隐藏成就和捷径跳法。
+                    详尽解析全部官方关卡，包含各图的关键谜题、隐藏成就和捷径跳法。
                     {{ else }}
-                    Step-by-step guides for all 30 official levels, packed with map graphics and unique shortcuts.
+                    Step-by-step guides for every official level, packed with map graphics and unique shortcuts.
                     {{ end }}
                 </p>
             </div>
@@ -615,13 +615,13 @@
                         <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
                         <span class="hud-item-tag">SYS_LOG</span>
                         {{ if .Params.difficulty }}
-                        <span class="hud-item-tag" style="border-color: var(--game-primary); color: var(--game-primary); text-shadow: 0 0 4px var(--game-primary); font-weight: bold; background: rgba(0, 245, 255, 0.05);">{{ .Params.difficulty }}</span>
+                        <span class="hud-item-tag badge-diff">{{ .Params.difficulty }}</span>
                         {{ end }}
                         {{ if .Params.duration }}
-                        <span class="hud-item-tag" style="border-color: var(--game-secondary); color: var(--game-secondary); text-shadow: 0 0 4px var(--game-secondary); font-weight: bold; background: rgba(255, 0, 228, 0.05);">{{ .Params.duration }}</span>
+                        <span class="hud-item-tag badge-duration">⏱️ {{ .Params.duration }}</span>
                         {{ end }}
                         {{ if .Params.complexity }}
-                        <span class="hud-item-tag" style="border-color: var(--game-accent); color: var(--game-accent); text-shadow: 0 0 4px var(--game-accent); font-weight: bold; background: rgba(255, 107, 0, 0.05);">{{ .Params.complexity }}</span>
+                        <span class="hud-item-tag badge-complexity">⚙️ {{ .Params.complexity }}</span>
                         {{ end }}
                     </div>
                 </div>
@@ -632,6 +632,11 @@
                     </div>
                 </div>
             {{ end }}
+        </div>
+        <div style="text-align: center; margin-top: 1.25rem;">
+            <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}📖 查看全部关卡攻略{{ else }}📖 VIEW ALL LEVEL GUIDES{{ end }}
+            </a>
         </div>
     </div>
 
@@ -702,6 +707,9 @@ Type 'help' to see available commands.</div>
                         }, 600);
                     }, 1500);
                 });
+
+                // Auto-enter after the intro sequence finishes; clicking the button still skips instantly.
+                setTimeout(function() { if (!btn.disabled) btn.click(); }, 2600);
             } else if (overlay) {
                 overlay.style.display = 'none';
             }
