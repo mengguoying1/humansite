@@ -1,5 +1,5 @@
 ---
-title: "Test Chamber Level Walkthrough & Portal Laser Guide"
+title: "Human: Fall Flat Test Chamber Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Test Chamber level, featuring portal platforms, laser sensors, gravity chambers, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 26
@@ -53,3 +53,11 @@ Fall from a high ledge into the momentum accelerator portal to gain terminal vel
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Steam Engines Guide Level Walkthrough](/guides/steampunk-party/)
+*   ➡️ **Next:** [& Ice Cave Guide Level Walkthrough](/guides/thermal/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

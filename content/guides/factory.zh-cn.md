@@ -1,6 +1,6 @@
 ---
-title: "🏭 第二关：工厂 (Factory)"
-description: "人类一败涂地第二关工厂详细攻略 - 多种解法、隐藏要素、速通技巧"
+title: "人类一败涂地 第二关：工厂 (Factory) 通关攻略"
+description: "《人类一败涂地》工厂关卡通关攻略：研究摩擦传送、堆叠箱子以架设杠杆、以及高空拉环滑越。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第二关, 工厂, 新手]
 weight: 2
@@ -109,3 +109,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **吊起的箱子乱转**：钩没挂正。落钩时对准箱子顶部的中心点。
 
 > 💡 工厂关是新手接触"工业机械"的第一关，传送带斜走和吊车"先转后降"这两招能一直用到通关。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[豪宅关卡攻略](/zh-cn/guides/mansion/)
+*   ➡️ **下一关：**[火车关卡攻略](/zh-cn/guides/train/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

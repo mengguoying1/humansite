@@ -1,6 +1,6 @@
 ---
-title: "🌃 第十一关：黑暗 (Dark)"
-description: "人类一败涂地黑暗关卡详细攻略 - 电路接线、时钟齿轮解密与发电机滑索飞跃技巧"
+title: "人类一败涂地 第十一关：黑暗 (Dark) 通关攻略"
+description: "《人类一败涂地》黑暗关卡通关攻略：电路接线、重斧砍树劈门、齿轮跳跃、铲煤点火、高空滑索荡漾。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第十一关, 黑暗, 电力]
 weight: 11
@@ -139,3 +139,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **电线滑到一半掉下**：身体散开导致下坠过快。收拢身体、双手抓。
 
 > 💡 黑暗关视野很差，建议先把画面亮度调高，接线段的走位会清楚很多。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[阿兹特克关卡攻略](/zh-cn/guides/aztec/)
+*   ➡️ **下一关：**[蒸汽关卡攻略](/zh-cn/guides/steam/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

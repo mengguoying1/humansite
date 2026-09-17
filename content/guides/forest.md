@@ -1,5 +1,5 @@
 ---
-title: "Forest Level Walkthrough & Heavy Machinery Guide"
+title: "Human: Fall Flat Forest Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Forest level, featuring excavator driving, log flume rides, campfires, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 17
@@ -53,3 +53,11 @@ Light the campfire torch to burn the wooden bridge supports, dropping the bridge
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [Guide & Electric Circuit Puzzles Level Walkthrough](/guides/copper-world/)
+*   ➡️ **Next:** [& Giant Club Guide Level Walkthrough](/guides/golf/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

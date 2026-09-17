@@ -1,5 +1,5 @@
 ---
-title: "🏭 Level 2: Factory Walkthrough"
+title: "Human: Fall Flat Factory Walkthrough - Level 2 Guide"
 description: "Human: Fall Flat Factory full level guide - conveyor belt rides, heavy crane pivots, and shortcut tips."
 date: 2026-07-04
 tags: [Walkthrough, Level-2, Factory, Advanced]
@@ -82,3 +82,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [1 Mansion Level Walkthrough](/guides/mansion/)
+*   ➡️ **Next:** [3 Train Level Walkthrough](/guides/train/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

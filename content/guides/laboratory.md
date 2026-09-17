@@ -1,5 +1,5 @@
 ---
-title: "Laboratory Level Guide & Anti-Gravity Physics"
+title: "Human: Fall Flat Laboratory Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Laboratory level, featuring gravity inversion levers, magnet coils, laser beams, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 20
@@ -53,3 +53,11 @@ Charge the magnetic coils by connecting energy battery cells. Step onto the magn
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Mountain Climbing Guide Level Walkthrough](/guides/hike/)
+*   ➡️ **Next:** [& Sawmill Guide Level Walkthrough](/guides/lumber/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

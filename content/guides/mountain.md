@@ -1,5 +1,5 @@
 ---
-title: "⛰️ Level 5: Mountain Walkthrough"
+title: "Human: Fall Flat Mountain Walkthrough - Level 5 Guide"
 description: "Human: Fall Flat Mountain full level guide - stone cliff climbs, cave gems, rope swings, and swing climbing exploits."
 date: 2026-07-04
 tags: [Walkthrough, Level-5, Mountain, Climbing]
@@ -101,3 +101,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [4 Carry Level Walkthrough](/guides/carry/)
+*   ➡️ **Next:** [6 Demolition Level Walkthrough](/guides/demolition/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

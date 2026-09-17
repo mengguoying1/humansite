@@ -1,5 +1,5 @@
 ---
-title: "City Level Walkthrough & Drones Guide"
+title: "Human: Fall Flat City Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat City level, featuring drone flying mechanics, bowling alleys, rooftop catapults, and city achievements."
 date: 2026-08-25T00:00:00Z
 weight: 15
@@ -53,3 +53,11 @@ Roll 3 bowling balls onto the pressure plate to lower the bridge gate. Mount the
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Secrets Guide Level Walkthrough](/guides/candyland/)
+*   ➡️ **Next:** [Guide & Electric Circuit Puzzles Level Walkthrough](/guides/copper-world/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

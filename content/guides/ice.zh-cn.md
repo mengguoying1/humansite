@@ -1,6 +1,6 @@
 ---
-title: "❄️ 第十三关：冰 (Ice)"
-description: "人类一败涂地冰雪关卡详细攻略 - 冰块融化谜密、滑雪索道缆车操作与雪山滑行技巧"
+title: "人类一败涂地 第十三关：冰 (Ice) 通关攻略"
+description: "《人类一败涂地》冰关卡通关攻略：零摩擦冰面滑行、冰块融化、透镜聚焦折射、缆车抓取、滚雪球。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第十三关, 冰雪, 冬季]
 weight: 13
@@ -137,3 +137,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **雪球推偏**：单手推导致偏航。务必双手推、走直线。
 
 > 💡 冰雪关的滑行手感很有趣，熟练后可以用"滑行跳跃"做出非常漂亮的连续位移，值得练。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[蒸汽关卡攻略](/zh-cn/guides/steam/)
+*   ➡️ **下一关：**[糖果乐园关卡攻略](/zh-cn/guides/candyland/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

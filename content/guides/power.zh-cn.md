@@ -1,5 +1,5 @@
 ---
-title: "⚡ 第九关：动力 (Power) 攻略"
+title: "人类一败涂地 第九关：动力 (Power) 通关攻略"
 description: "人类一败涂地动力关卡详细攻略 - 电路接线、开叉车、卡车运煤、大风扇起飞与跳过关卡捷径技巧。"
 date: 2026-07-04
 tags: [攻略, 第九关, 动力, 电力]
@@ -125,3 +125,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **被气流吹飞**：身体没收拢。接近目标高度时立刻压低视角、收手。
 
 > 💡 电力关是本作后期的大型关卡，流程较长但难度曲线平缓，按"布线 → 叉车 → 锅炉 → 气流"的顺序推进就不会乱。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[水关卡攻略](/zh-cn/guides/water/)
+*   ➡️ **下一关：**[阿兹特克关卡攻略](/zh-cn/guides/aztec/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

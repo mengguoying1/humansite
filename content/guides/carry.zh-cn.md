@@ -1,6 +1,6 @@
 ---
-title: "📦 第四关：搬运 (Carry) 攻略"
-description: "人类一败涂地搬运关卡详细攻略 - 按钮压力解谜、卡门技巧与叠箱子隐藏成就指南。"
+title: "人类一败涂地 第四关：搬运 (Carry) 通关攻略"
+description: "《人类一败涂地》搬运关卡通关攻略：搬运重物物理机制、双手对齐放置、箱子辅助攀爬、门禁卡位。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第四关, 搬运, 物理]
 weight: 4
@@ -122,3 +122,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **玻璃墙爬到顶上不去**：没配合跳跃。最后必须"跳 + 双手抓"同步。
 
 > 💡 搬运关是练习"物体物理"的最佳场所，把这里的搬运手感练熟，后面多个关卡都会轻松很多。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[火车关卡攻略](/zh-cn/guides/train/)
+*   ➡️ **下一关：**[山巅关卡攻略](/zh-cn/guides/mountain/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

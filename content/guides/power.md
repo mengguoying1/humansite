@@ -1,5 +1,5 @@
 ---
-title: "⚡ Level 9: Power Walkthrough"
+title: "Human: Fall Flat Power Walkthrough - Level 9 Guide"
 description: "Human: Fall Flat Power full level guide - electricity wiring, forklifts, dump trucks, coal hauling, and fan jump skips."
 date: 2026-07-04
 tags: [Walkthrough, Level-9, Power, Electricity]
@@ -102,3 +102,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [8 Water Level Walkthrough](/guides/water/)
+*   ➡️ **Next:** [10 Aztec Level Walkthrough](/guides/aztec/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -1,5 +1,5 @@
 ---
-title: "Viking Level Walkthrough & Longship Guide"
+title: "Human: Fall Flat Viking Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Viking level, featuring Viking longships, axes, wooden catapults, horn blowers, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 30
@@ -53,3 +53,11 @@ Blow the giant Viking war horn to trigger an avalanche, then launch yourself fro
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Submarine Guide Level Walkthrough](/guides/underwater/)
+*   ➡️ **Next:** [1 Mansion Level Walkthrough](/guides/mansion/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

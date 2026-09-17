@@ -1,5 +1,5 @@
 ---
-title: "Golf Level Walkthrough & Giant Club Guide"
+title: "Human: Fall Flat Golf Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Golf level, featuring giant golf clubs, wind tunnels, carts, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 18
@@ -53,3 +53,11 @@ Drive the electric golf cart down the fairway, hit the ramp at top speed, and le
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Heavy Machinery Guide Level Walkthrough](/guides/forest/)
+*   ➡️ **Next:** [& Mountain Climbing Guide Level Walkthrough](/guides/hike/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

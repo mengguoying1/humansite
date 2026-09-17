@@ -1,6 +1,6 @@
 ---
-title: "🏰 第一关：豪宅 (Mansion)"
-description: "人类一败涂地第一关豪宅详细攻略 - 多种解法、隐藏要素、速通技巧"
+title: "人类一败涂地 第一关：豪宅 (Mansion) 通关攻略"
+description: "《人类一败涂地》豪宅关卡通关攻略：学习伸展双臂吸附、拉扯重物、跳跃攀爬以及物理重力反馈。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第一关, 豪宅, 新手]
 weight: 1
@@ -118,3 +118,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **吊钩荡不远**：松手太早。至少积累两三个来回，高点再松。
 
 > 💡 豪宅关虽然简单，但这里是唯一会教你所有基础操作的地方。在通关前把"抓取—下压视角—翻身上墙"练到肌肉记忆，后面会轻松非常多。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[维京关卡攻略](/zh-cn/guides/viking/)
+*   ➡️ **下一关：**[工厂关卡攻略](/zh-cn/guides/factory/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

@@ -1,5 +1,5 @@
 ---
-title: "Lumber Level Walkthrough & Sawmill Guide"
+title: "Human: Fall Flat Lumber Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Lumber level, featuring giant waterwheels, circular saws, log cranes, and lumber achievements."
 date: 2026-08-25T00:00:00Z
 weight: 21
@@ -53,3 +53,11 @@ Ride the overhead log crane hook across the waterfall gorge into the lumber stor
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [Guide & Anti-Gravity Physics Level Walkthrough](/guides/laboratory/)
+*   ➡️ **Next:** [& Giant House Guide Level Walkthrough](/guides/miniature/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

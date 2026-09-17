@@ -1,5 +1,5 @@
 ---
-title: "Thermal Level Walkthrough & Ice Cave Guide"
+title: "Human: Fall Flat Thermal Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Thermal level, featuring thermal geysers, ice melting, mining drills, and thermal achievements."
 date: 2026-08-25T00:00:00Z
 weight: 27
@@ -53,3 +53,11 @@ Operate the diesel mining drill to breach the rock wall, then swing across the l
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Portal Laser Guide Level Walkthrough](/guides/test-chamber/)
+*   ➡️ **Next:** [& Spire Climbing Guide Level Walkthrough](/guides/tower/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

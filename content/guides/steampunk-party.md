@@ -1,5 +1,5 @@
 ---
-title: "Steampunk Party Level Walkthrough & Steam Engines Guide"
+title: "Human: Fall Flat Steampunk Party Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Steampunk Party, featuring steam brass pipes, pressure valves, airships, and party achievements."
 date: 2026-08-25T00:00:00Z
 weight: 25
@@ -53,3 +53,11 @@ Board the Victorian steam airship. Turn the furnace valve to inflate the balloon
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Magnet Canyons Guide Level Walkthrough](/guides/red-rock/)
+*   ➡️ **Next:** [& Portal Laser Guide Level Walkthrough](/guides/test-chamber/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -1,5 +1,5 @@
 ---
-title: "🏰 Level 1: Mansion Walkthrough"
+title: "Human: Fall Flat Mansion Walkthrough - Level 1 Guide"
 description: "Human: Fall Flat Mansion full level guide - detailed solutions, speedrun tricks, and soccer easter egg."
 date: 2026-07-04
 tags: [Walkthrough, Level-1, Mansion, Tutorial]
@@ -94,3 +94,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Longship Guide Level Walkthrough](/guides/viking/)
+*   ➡️ **Next:** [2 Factory Level Walkthrough](/guides/factory/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

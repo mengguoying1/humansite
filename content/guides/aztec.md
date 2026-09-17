@@ -1,5 +1,5 @@
 ---
-title: "🗿 Level 10: Aztec Walkthrough"
+title: "Human: Fall Flat Aztec Walkthrough - Level 10 Guide"
 description: "Human: Fall Flat Aztec full level guide - stone levers, counter-weight cages, pendulum courses, rolling ball balance, and statue exploits."
 date: 2026-07-04
 tags: [Walkthrough, Level-10, Aztec, Ruins]
@@ -101,3 +101,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [9 Power Level Walkthrough](/guides/power/)
+*   ➡️ **Next:** [11 Dark Level Walkthrough](/guides/dark/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

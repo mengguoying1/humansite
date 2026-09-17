@@ -1,5 +1,5 @@
 ---
-title: "🏗️ Level 6: Demolition Walkthrough"
+title: "Human: Fall Flat Demolition Walkthrough - Level 6 Guide"
 description: "Human: Fall Flat Demolition full level guide - wrecking balls, breaking glass, avalanche triggers, and wall-skipping shortcuts."
 date: 2026-07-04
 tags: [Walkthrough, Level-6, Demolition, Destruction]
@@ -99,3 +99,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [5 Mountain Level Walkthrough](/guides/mountain/)
+*   ➡️ **Next:** [7 Castle Level Walkthrough](/guides/castle/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

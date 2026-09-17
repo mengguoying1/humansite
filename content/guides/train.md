@@ -1,5 +1,5 @@
 ---
-title: "🚂 Level 3: Train Walkthrough"
+title: "Human: Fall Flat Train Walkthrough - Level 3 Guide"
 description: "Human: Fall Flat Train full level guide - carriage manipulation, dumpster tricks, and key speedrun shortcuts."
 date: 2026-07-04
 tags: [Walkthrough, Level-3, Train, Mechanics]
@@ -97,3 +97,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [2 Factory Level Walkthrough](/guides/factory/)
+*   ➡️ **Next:** [4 Carry Level Walkthrough](/guides/carry/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

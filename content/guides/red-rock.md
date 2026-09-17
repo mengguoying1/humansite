@@ -1,5 +1,5 @@
 ---
-title: "Red Rock Level Walkthrough & Magnet Canyons Guide"
+title: "Human: Fall Flat Red Rock Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Red Rock level, featuring giant magnets, desert canyons, sandstone catapults, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 24
@@ -53,3 +53,11 @@ Hold the magnetic handle against the overhead metal rail. Turn on the magnet to 
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Container Ship Guide Level Walkthrough](/guides/port/)
+*   ➡️ **Next:** [& Steam Engines Guide Level Walkthrough](/guides/steampunk-party/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

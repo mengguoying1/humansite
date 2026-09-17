@@ -1,5 +1,5 @@
 ---
-title: "⛵ Level 8: Water Walkthrough"
+title: "Human: Fall Flat Water Walkthrough - Level 8 Guide"
 description: "Human: Fall Flat Water full level guide - boat steering, water canal locks, lighthouse beacons, and surfing skips."
 date: 2026-07-04
 tags: [Walkthrough, Level-8, Water, Buoyancy]
@@ -102,3 +102,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [7 Castle Level Walkthrough](/guides/castle/)
+*   ➡️ **Next:** [9 Power Level Walkthrough](/guides/power/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

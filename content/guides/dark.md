@@ -1,5 +1,5 @@
 ---
-title: "🌃 Level 11: Dark Walkthrough"
+title: "Human: Fall Flat Dark Walkthrough - Level 11 Guide"
 description: "Human: Fall Flat Dark level guide - electrical wiring, clock tower gears, and generator zipline skips."
 date: 2026-07-04
 tags: [Walkthrough, Level-11, Dark, Electricity]
@@ -116,3 +116,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [10 Aztec Level Walkthrough](/guides/aztec/)
+*   ➡️ **Next:** [12 Steam Level Walkthrough](/guides/steam/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

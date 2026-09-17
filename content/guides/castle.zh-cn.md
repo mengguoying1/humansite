@@ -1,6 +1,6 @@
 ---
-title: "🏰 第七关：城堡 (Castle) 攻略"
-description: "人类一败涂地城堡关卡详细攻略 - 砸锁开门、投石机飞跃、风车大跳与高空滑索成就指南。"
+title: "人类一败涂地 第七关：城堡 (Castle) 通关攻略"
+description: "《人类一败涂地》城堡关卡通关攻略：砸击物理碰撞、杠杆卷扬机构、旋转离心速度、投体弹道惯性。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第七关, 城堡, 中世纪]
 weight: 7
@@ -123,3 +123,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **滑索中途掉落**：单手抓。滑索必须双手抓握。
 
 > 💡 城堡关的投石机段落是全作最经典的场景之一，速通玩家能靠配重调整直接跳过风车段，值得反复练。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[拆除关卡攻略](/zh-cn/guides/demolition/)
+*   ➡️ **下一关：**[水关卡攻略](/zh-cn/guides/water/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

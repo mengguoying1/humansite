@@ -1,6 +1,6 @@
 ---
-title: "🏗️ 第六关：拆除 (Demolition) 攻略"
-description: "人类一败涂地拆除关卡详细攻略 - 铁球撞墙、砸碎玻璃、触发雪崩与窗户攀爬速通捷径。"
+title: "人类一败涂地 第六关：拆除 (Demolition) 通关攻略"
+description: "《人类一败涂地》拆除关卡通关攻略：玻璃碎裂物理系统、砖墙受力坍塌、铁球钟摆惯性、脚手架平衡。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第六关, 拆除, 破坏]
 weight: 6
@@ -122,3 +122,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **跳下来摔伤**：床垫没堆正。确认落点正下方再跳。
 
 > 💡 拆迁关的拆楼球是练习"摆动 + 动量释放"的最佳道具，练熟后速通会快很多。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[山巅关卡攻略](/zh-cn/guides/mountain/)
+*   ➡️ **下一关：**[城堡关卡攻略](/zh-cn/guides/castle/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

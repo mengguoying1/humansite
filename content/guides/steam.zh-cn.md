@@ -1,6 +1,6 @@
 ---
-title: "💨 第十二关：蒸汽 (Steam)"
-description: "人类一败涂地蒸汽关卡详细攻略 - 阀门控制、管道组装谜题与活塞跳跃通关技巧"
+title: "人类一败涂地 第十二关：蒸汽 (Steam) 通关攻略"
+description: "《人类一败涂地》蒸汽关卡通关攻略：阀门旋转、管道拼插、高压喷气飞跃、液压拉杆操作。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第十二关, 蒸汽, 工业]
 weight: 12
@@ -139,3 +139,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **挖掘臂翻车**：同时操作了转臂和铲斗。分两步来。
 
 > 💡 蒸汽关的谜题环环相扣，卡住时按"阀门 → 管道 → 压力"的顺序倒推，比乱试效率高得多。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[黑暗关卡攻略](/zh-cn/guides/dark/)
+*   ➡️ **下一关：**[冰关卡攻略](/zh-cn/guides/ice/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

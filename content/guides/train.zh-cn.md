@@ -1,6 +1,6 @@
 ---
-title: "🚂 第三关：火车 (Train) 攻略"
-description: "人类一败涂地火车关卡详细攻略 - 拖拽车厢、垃圾桶攀爬与速通跳过关卡技巧。"
+title: "人类一败涂地 第三关：火车 (Train) 通关攻略"
+description: "《人类一败涂地》火车关卡通关攻略：水平拉扯物理反馈、车厢轨道摩擦力、高台边缘攀爬吸附与空中惯性。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第三关, 火车, 机制]
 weight: 3
@@ -120,3 +120,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **从车厢缝隙掉下去**：站到了连接处。跨越车厢时一定要跳过去。
 
 > 💡 火车关的横拉机制很特别，习惯之后你会发现它是全作最省力气的搬运方式。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[工厂关卡攻略](/zh-cn/guides/factory/)
+*   ➡️ **下一关：**[搬运关卡攻略](/zh-cn/guides/carry/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

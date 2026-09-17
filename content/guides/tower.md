@@ -1,5 +1,5 @@
 ---
-title: "Tower Level Walkthrough & Spire Climbing Guide"
+title: "Human: Fall Flat Tower Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Tower level, featuring spiral staircases, wind turbines, bell ropes, and tower achievements."
 date: 2026-08-25T00:00:00Z
 weight: 28
@@ -53,3 +53,11 @@ Grab the heavy clapper rope inside the cathedral bell tower. Swing back and fort
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Ice Cave Guide Level Walkthrough](/guides/thermal/)
+*   ➡️ **Next:** [& Submarine Guide Level Walkthrough](/guides/underwater/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

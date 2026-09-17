@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block Hugo-generated internal search/feed endpoints from indexing duplicates
+Disallow: /categories/
+Disallow: /tags/
+
+Sitemap: {{ "sitemap.xml" | absURL }}

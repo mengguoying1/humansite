@@ -1,5 +1,5 @@
 ---
-title: "Miniature Level Walkthrough & Giant House Guide"
+title: "Human: Fall Flat Miniature Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Miniature level, featuring giant household objects, oversized vacuum cleaners, chessboards, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 22
@@ -53,3 +53,11 @@ Move the giant Queen chess piece onto the black square to open the cabinet door,
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Sawmill Guide Level Walkthrough](/guides/lumber/)
+*   ➡️ **Next:** [& Container Ship Guide Level Walkthrough](/guides/port/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

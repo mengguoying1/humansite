@@ -1,5 +1,5 @@
 ---
-title: "Underwater Level Walkthrough & Submarine Guide"
+title: "Human: Fall Flat Underwater Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Underwater level, featuring yellow submarines, oxygen tanks, buoyancy physics, and achievements."
 date: 2026-08-25T00:00:00Z
 weight: 29
@@ -53,3 +53,11 @@ Solve the trident pressure plate puzzle inside the sunken temple to drain the wa
 
 ---
 
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [& Spire Climbing Guide Level Walkthrough](/guides/tower/)
+*   ➡️ **Next:** [& Longship Guide Level Walkthrough](/guides/viking/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

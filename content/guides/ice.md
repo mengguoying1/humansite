@@ -1,5 +1,5 @@
 ---
-title: "❄️ Level 13: Ice Walkthrough"
+title: "Human: Fall Flat Ice Walkthrough - Level 13 Guide"
 description: "Human: Fall Flat Ice level guide - ice melting puzzles, ski lifts, and snowy slope speedruns."
 date: 2026-07-04
 tags: [Walkthrough, Level-13, Ice, Winter]
@@ -114,3 +114,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [12 Steam Level Walkthrough](/guides/steam/)
+*   ➡️ **Next:** [& Secrets Guide Level Walkthrough](/guides/candyland/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -1,6 +1,6 @@
 ---
-title: "⛵ 第八关：水 (Water) 攻略"
-description: "人类一败涂地水关卡详细攻略 - 划船、船闸升降控制、点亮灯塔与水滑梯速通技巧指南。"
+title: "人类一败涂地 第八关：水 (Water) 通关攻略"
+description: "《人类一败涂地》水关卡通关攻略：液体浮力机制、方向盘舵控制、阀门流量力学、水轮离心攀爬、滑动摩擦力。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第八关, 水, 浮力]
 weight: 8
@@ -125,3 +125,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **跳水摔伤**：平着入水。头朝下、视角朝前下方。
 
 > 💡 水域关是流程最长的一关，但难度不高，当成"放松关"来玩即可，重点是熟悉船只惯性。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[城堡关卡攻略](/zh-cn/guides/castle/)
+*   ➡️ **下一关：**[动力关卡攻略](/zh-cn/guides/power/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

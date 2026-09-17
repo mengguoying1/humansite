@@ -1,5 +1,5 @@
 ---
-title: "🗿 第十关：阿兹特克 (Aztec) 攻略"
+title: "人类一败涂地 第十关：阿兹特克 (Aztec) 通关攻略"
 description: "人类一败涂地阿兹特克关卡详细攻略 - 杠杆石板、配重铁笼、避开钟摆、大石球平衡与雕像速通跳关技巧。"
 date: 2026-07-04
 tags: [攻略, 第十关, 阿兹特克, 遗迹]
@@ -124,3 +124,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **从石球上摔下来**：大幅跑动。用小碎步反向微调重心。
 
 > 💡 阿兹特克关的碰撞体积判定比较"黏"，贴墙攀爬时多利用身体撞击产生的位移，能爬上不少看似上不去的墙。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[动力关卡攻略](/zh-cn/guides/power/)
+*   ➡️ **下一关：**[黑暗关卡攻略](/zh-cn/guides/dark/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)

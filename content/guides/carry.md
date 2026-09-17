@@ -1,5 +1,5 @@
 ---
-title: "📦 Level 4: Carry Walkthrough"
+title: "Human: Fall Flat Carry Walkthrough - Level 4 Guide"
 description: "Human: Fall Flat Carry full level guide - button pressure puzzles, box jamming tricks, and box-stacking achievements."
 date: 2026-07-04
 tags: [Walkthrough, Level-4, Carry, Physics]
@@ -99,3 +99,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 ########################################################################################################################
 ########################################################################################################################
 -->
+
+---
+
+## 🔗 Continue Your Run
+
+*   ⬅️ **Previous:** [3 Train Level Walkthrough](/guides/train/)
+*   ➡️ **Next:** [5 Mountain Level Walkthrough](/guides/mountain/)
+*   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
+*   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

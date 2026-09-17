@@ -1,6 +1,6 @@
 ---
-title: "⛰️ 第五关：山巅 (Mountain) 攻略"
-description: "人类一败涂地山巅关卡详细攻略 - 陡峭石壁攀爬、洞穴绿宝石、悬崖荡绳与单手爬墙速通技巧。"
+title: "人类一败涂地 第五关：山巅 (Mountain) 通关攻略"
+description: "《人类一败涂地》山巅关卡通关攻略：边缘引体向上、重物平移、悬挂绳索摆动、黑暗视线校准。含分步解法、隐藏成就与速通路线。"
 date: 2026-07-04
 tags: [攻略, 第五关, 山巅, 攀爬]
 weight: 5
@@ -124,3 +124,12 @@ BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETE
 *   **荡绳距离不够**：松手太早或身体没配合。摆动到最高点再松，身体顺势前倾。
 
 > 💡 山地关的绳索段落是练"摆荡手感"的最佳场所，在这里练熟，后面所有绳索场景都能一次过。
+
+---
+
+## 🔗 继续下一关
+
+*   ⬅️ **上一关：**[搬运关卡攻略](/zh-cn/guides/carry/)
+*   ➡️ **下一关：**[拆除关卡攻略](/zh-cn/guides/demolition/)
+*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
