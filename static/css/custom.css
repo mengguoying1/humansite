@@ -902,11 +902,13 @@ a:hover {
   background: rgba(255, 0, 228, 0.15);
 }
 
-/* Polished Game Image Container styling */
+/* Polished Game Image Container styling
+   宽度限制在 640px 并居中：作为文章插图呈现，避免通栏大图挤压正文 */
 .game-image-container {
   position: relative;
   width: 100%;
-  margin: 2rem 0;
+  max-width: 640px;
+  margin: 1.8rem auto;
   border: 1px solid rgba(0, 245, 255, 0.2);
   border-radius: 12px;
   overflow: hidden;
