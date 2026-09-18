@@ -694,7 +694,9 @@ a:hover {
 .guide-card-image-link {
   display: block;
   overflow: hidden;
-  height: 170px;
+  /* 16:9 与素材一致，卡片等宽时不再出现超宽裁切 */
+  aspect-ratio: 16 / 9;
+  height: auto;
   border-bottom: 1px solid rgba(0, 245, 255, 0.12);
   background: #000;
 }
@@ -1724,12 +1726,8 @@ body.list-layout .sidebar.left-sidebar {
   top: 90px !important;
 }
 
-/* Featured card double width on larger screens */
-@media (min-width: 992px) {
-  .guide-grid-card.featured-card {
-    grid-column: span 2;
-  }
-}
+/* Featured card double width on larger screens
+   (removed: span-2 featured cards caused 4:1 ultra-wide image crops) */
 
 /* Rotating 3D vector-line canvas in background of hero */
 .hero-canvas {

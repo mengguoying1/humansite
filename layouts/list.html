@@ -59,7 +59,7 @@
                     {{ $img = printf "/img/%s.jpg" .File.TranslationBaseName }}
                 {{ end }}
                 
-                <article class="guide-grid-card hud-brackets {{ if eq (mod $index 4) 0 }}featured-card{{ end }}">
+                <article class="guide-grid-card hud-brackets">
                     <a href="{{ .RelPermalink }}" class="guide-card-image-link" style="position: relative; display: block;">
                         <img src="{{ $img }}" alt="{{ .Title }}" class="guide-card-image" loading="lazy" onerror="this.src='/img/cover.jpg';">
                         {{ if or .Params.difficulty .Params.duration .Params.complexity }}
