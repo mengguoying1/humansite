@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🎯 玩法指南 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/gameplay/</link><description>Recent content in 🎯 玩法指南 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/gameplay/index.xml" rel="self" type="application/rss+xml"/><item><title>💪 物理技巧大全</title><link>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/physics-tips/</guid><description>&lt;h1 id="-物理技巧大全"&gt;💪 物理技巧大全
+&lt;/h1&gt;&lt;p&gt;本控制面板包含从常规位移到违背常理的“重力引擎漏洞”动作。如果你能熟练运用这些，所有官方关卡都将在 10 分钟内被你轻松解决。&lt;/p&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;难度指示：&lt;/strong&gt; &lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt; | &lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt; | &lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt; | &lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-基础技巧与动作"&gt;🟢 基础技巧与动作
+&lt;/h2&gt;&lt;h3 id="1-抓取视角修正"&gt;1. 抓取视角修正
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动作描述&lt;/strong&gt;：双手抓取任何物体时，系统默认会计算受力面积和摩擦系数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：抓取高处边缘时，视角&lt;strong&gt;向上45度&lt;/strong&gt;看最容易触发最大摩擦力判定。松开单侧手键后迅速旋转视角，能够完成“凌空换手”以调整身体重心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-管道与狭窄横梁行走"&gt;2. 管道与狭窄横梁行走
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解锁技巧&lt;/strong&gt;：在只有单只脚宽度的管道或石梁上行走时，按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰行走。这会拉低 Bob 的物理质心，使其极难滑落。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-中级技巧与动力"&gt;🟡 中级技巧与动力
+&lt;/h2&gt;&lt;h3 id="3-荡秋千-swing-jump"&gt;3. 荡秋千 (Swing Jump)
+&lt;/h3&gt;&lt;p&gt;这是最常用、也最帅气的越障手段！&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/physics-tips.jpg" alt="荡秋千技巧演示"&gt;
+ &lt;div class="img-caption"&gt;📸 荡秋千：利用单手或双手抓住悬挂点，摆动到最大仰角时松手飞跃&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;助跑起跳，双手抓住悬挂的绳索或铁链（如豪宅的起重吊钩）。&lt;/li&gt;
+&lt;li&gt;按住前进 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 往前荡，接着按后退 &lt;span class="kbd-key"&gt;S&lt;/span&gt; 往后摆。&lt;/li&gt;
+&lt;li&gt;重复 2-3 次，在&lt;strong&gt;往前荡到最高点（即将下落的瞬间）&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;松开双手鼠标键，并瞬间按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 起跳键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;效果&lt;/strong&gt;：离心力会将 Bob 呈抛物线弹射出去，飞行距离是普通跳跃的 3-5 倍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="4-重物蓄力抛掷"&gt;4. 重物蓄力抛掷
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;双手牢牢抓住地上的箱子或石块。&lt;/li&gt;
+&lt;li&gt;身体做 180 度旋转，以腰部为轴心，快速&lt;strong&gt;甩动鼠标&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;当甩动物体到达最高速度时，松开鼠标左右键。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应用&lt;/strong&gt;：能将开关箱子直接扔到 3 米高的平台上，甚至可以用来抛掷联机的好友。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-高级操作-大腿秘籍"&gt;🔴 高级操作 (大腿秘籍)
+&lt;/h2&gt;&lt;h3 id="5-邪道爬墙术-wall-climb"&gt;5. 邪道爬墙术 (Wall Climb)
+&lt;/h3&gt;&lt;p&gt;此动作允许你在没有任何落脚点的垂直光滑墙面上强行爬升，直接跳过 90% 的解谜区。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/physics-tips.jpg" alt="爬墙邪道演示"&gt;
+ &lt;div class="img-caption"&gt;📸 邪道爬墙：通过交替侧向甩动手臂，并在脱离一侧时向上拉升来贴墙向上移动&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;操作原理&lt;/strong&gt;：依靠单手吸附力与身体摆动摩擦判定，交替移动手臂。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作节奏&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面朝墙壁，双手按住吸附。&lt;/li&gt;
+&lt;li&gt;松开左手（按住右手不动），按键盘向左转体 &lt;span class="kbd-key"&gt;A&lt;/span&gt;，视角向上甩，左手再次吸附。&lt;/li&gt;
+&lt;li&gt;此时左手位置已经比右手高。接着松开右手（按住左手不动），向右转体 &lt;span class="kbd-key"&gt;D&lt;/span&gt;，视角向上甩，右手再次吸附。&lt;/li&gt;
+&lt;li&gt;如上述动作交替（左右左），Bob 就会像壁虎一样向上移动。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁秘籍：爬墙节奏律动】&lt;/strong&gt;&lt;br&gt;
+ 爬墙时的视角转动不能过快，大约是每秒摆动一个来回。每一次松手并转体时，都要有一个往上托鼠标的动作，借助物理惯性把另一只手送往更高处。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-大神级操作-速通必修"&gt;⚫ 大神级操作 (速通必修)
+&lt;/h2&gt;&lt;h3 id="6-超级跳-super-jump--mega-bounce"&gt;6. 超级跳 (Super Jump / Mega bounce)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原理解析&lt;/strong&gt;：利用引擎中碰撞体积的挤压加速度，在跳起瞬间强行叠加反向重力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;地上面朝一个可移动的铁箱或木板，双手抓住其顶端。&lt;/li&gt;
+&lt;li&gt;把铁箱用力&lt;strong&gt;举过头顶&lt;/strong&gt;，此时 Bob 会因为重心不稳微微后仰。&lt;/li&gt;
+&lt;li&gt;按下跳跃键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt;，并在起跳的千分之一秒内，把鼠标&lt;strong&gt;向下猛甩&lt;/strong&gt;（将箱子砸向地面）。&lt;/li&gt;
+&lt;li&gt;如果物理重合判定成功，箱子撞击地面的反作用力会瞬间挤压 Bob 的脚底，使你的起跳高度达到惊人的 5-8 米。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-实战演练关卡配置"&gt;🧭 实战演练关卡配置
+&lt;/h2&gt;&lt;p&gt;想要磨练这些动作？推荐前往以下关卡进行特定动作的参数调校：&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物理动作技巧&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;推荐练习大关卡&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;实战推荐点位&lt;/th&gt;
+					&lt;th style="text-align: center"&gt;动作难度评价&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;荡秋千越障&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;豪宅 (Mansion)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;吊车起重臂区域&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00ff66; font-weight:bold;"&gt;🟢 简单&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;重物搬运及投掷&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;工厂 (Factory)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;传送带后大坑熔炉&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ffcc00; font-weight:bold;"&gt;🟡 中等&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;邪道爬墙术&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城堡 (Castle)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;中世纪古堡大门外墙&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#ff00e4; font-weight:bold;"&gt;🔴 困难&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;超级重力跳&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城市 (City)&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高架保龄球道与大厦废墟&lt;/td&gt;
+					&lt;td style="text-align: center"&gt;&lt;span style="color:#00f5ff; font-weight:bold;"&gt;⚫ 大神&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;版本代码：PHYSICS_V1.2 | 更新：2026-07-04&lt;/em&gt;&lt;/p&gt;</description></item><item><title>基础操作指南</title><link>https://www.mrm777.win/zh-cn/gameplay/basic-controls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/basic-controls/</guid><description>&lt;h1 id="-基础操作指南"&gt;🎮 基础操作指南
+&lt;/h1&gt;&lt;p&gt;在《人类一败涂地》中，小人 Bob 软绵绵的身体拥有两只独立的手臂。你的所有操作最终都会被转换为双臂的力矩输出。本指南将帮助你调试动作，迅速通过前期的肌肉记忆难关。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/basic-controls.jpg" alt="游戏基础攀爬演示"&gt;
+ &lt;div class="img-caption"&gt;📸 基础操作：使用双手抓取边缘并向上拉升，这是通往终点的第一步&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-动作映射终端-键盘操作"&gt;⌨️ 动作映射终端 (键盘操作)
+&lt;/h2&gt;&lt;p&gt;熟记以下基本指令集。每次进入关卡，你都可以直接通过它们来控制 Bob。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;前进 / 后退 / 左移 / 右移&lt;/strong&gt;：使用 &lt;span class="kbd-key"&gt;W&lt;/span&gt;&lt;span class="kbd-key"&gt;A&lt;/span&gt;&lt;span class="kbd-key"&gt;S&lt;/span&gt;&lt;span class="kbd-key"&gt;D&lt;/span&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;视角环视&lt;/strong&gt;：滑动 &lt;span class="kbd-key"&gt;鼠标&lt;/span&gt;。控制头部的看天看地，配合抓取。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;左手抓取&lt;/strong&gt;：按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左键&lt;/span&gt;，Bob 会伸出左手吸附前方物体。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;右手抓取&lt;/strong&gt;：按住 &lt;span class="kbd-key mouse-key"&gt;鼠标右键&lt;/span&gt;，Bob 会伸出右手吸附前方物体。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双脚跳跃&lt;/strong&gt;：按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt;。起跳的瞬间会带有往前的物理冲力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;极速奔跑&lt;/strong&gt;：按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 不放，Bob 会弯腰加速奔跑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-核心动作原理图解"&gt;📐 核心动作原理图解
+&lt;/h2&gt;&lt;h3 id="1-抓取与释放机制"&gt;1. 抓取与释放机制
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动作逻辑&lt;/strong&gt;：只要按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左右键&lt;/span&gt;，Bob 的双手就会变成高强度吸盘。任何表面（墙壁、铁箱、队友的屁股）只要被触碰就会牢牢黏住。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要领&lt;/strong&gt;：松开按键即为释放。如果需要推动重物，建议&lt;strong&gt;双手同时抓取&lt;/strong&gt;，然后再按住 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 往前推或按 &lt;span class="kbd-key"&gt;S&lt;/span&gt; 往后拉。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-基础垂直攀爬-翻墙"&gt;2. 基础垂直攀爬 (翻墙)
+&lt;/h3&gt;&lt;p&gt;这是游戏中最基础的翻墙技巧，也是获取后续高级邪道的前提：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;助跑靠近&lt;/strong&gt;：按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; + &lt;span class="kbd-key"&gt;W&lt;/span&gt; 跑向墙面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双手举高&lt;/strong&gt;：将鼠标视角&lt;strong&gt;向上看&lt;/strong&gt;，此时 Bob 会高举双手。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;起跳抓取&lt;/strong&gt;：在贴近墙壁的瞬间，按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 起跳，并同时按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左右键&lt;/span&gt; 抓住墙沿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;低头拉起&lt;/strong&gt;：抓住墙沿后&lt;strong&gt;不要放手&lt;/strong&gt;，将视角慢慢&lt;strong&gt;转向正下方&lt;/strong&gt;，同时按住前进 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 键。此时 Bob 的手臂会收缩，身体会因为物理判定被拉上高台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="game-image-container" style="max-width: 80%; margin: 1.5rem auto;"&gt;
+ &lt;img src="https://www.mrm777.win/img/basic-controls.jpg" alt="翻过第一道墙"&gt;
+ &lt;div class="img-caption"&gt;📸 熟练使用视角仰俯，可以将身体轻松拉上海拔更高的区域&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id="3-摆动跨越"&gt;3. 摆动跨越
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;应用场景&lt;/strong&gt;：当你遇到过宽的深沟，且天花板上垂挂着绳索或铁链时。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解密步骤&lt;/strong&gt;：跳起抓牢垂挂物，按住 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 和 &lt;span class="kbd-key"&gt;S&lt;/span&gt;，让 Bob 像秋千一样在空中做圆周运动。当摆动到弧线的最高点时，松开鼠标键，身体会因离心力被抛射到对面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁技巧：爬墙新手误区】&lt;/strong&gt;&lt;br&gt;
+ 很多新手在把身体拉上墙壁时，会因为急于按前进键而松开鼠标。记住：&lt;strong&gt;在双脚平稳站上墙头之前，鼠标左右键绝对不能松开！&lt;/strong&gt; 视角转到下方后，直到 Bob 抬腿跨越平台，才算攀爬完成。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;更多物理引擎的高阶技巧，已记录在 &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-tips/" &gt;💪 物理技巧大全&lt;/a&gt; 档案中。&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item><item><title>社区速通与物理引擎 Bug 教学指南</title><link>https://www.mrm777.win/zh-cn/gameplay/physics-glitches/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/physics-glitches/</guid><description>&lt;h1 id="-社区速通与物理引擎-bug-教学指南"&gt;🚀 社区速通与物理引擎 Bug 教学指南
+&lt;/h1&gt;&lt;p&gt;虽然开发商最初将《人类一败涂地》设计为一款慢节奏的物理合作解谜游戏，但这个滑稽摇晃的物理引擎中隐藏着速通玩家多年来不断发掘的惊天秘密。通过利用碰撞箱体积溢出、帧率导致的物理计算延迟以及手臂拉伸极限，你可以实现高空飞跃并无限攀爬垂直墙壁。&lt;/p&gt;
+&lt;p&gt;本指南将详细解析社区中用于打破游戏常规难度的四大核心黑科技技巧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/physics-glitches.jpg" alt="Bob 正在利用物理漏洞爬墙"&gt;
+ &lt;div class="img-caption"&gt;📸 漏洞攀爬：利用 Bob 的手臂旋转和摩擦力物理机制，彻底无视重力规则。&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-一左右划水爬墙法-vertical-flap--paddling"&gt;🧗 一、左右划水爬墙法 (Vertical Flap / Paddling)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;难度系数&lt;/strong&gt;：★★★★☆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用场景&lt;/strong&gt;：攀爬没有任何凸起或接缝的平整垂直高墙，可无限向上爬。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理原理&lt;/strong&gt;：当 Bob 抓住墙面并左右转动视角时，其肩关节和手臂会伸展拉长。通过交替左右手抓取墙壁，同时快速摆动视角，可以突破垂直攀爬的高度上限。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;具体操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面朝墙壁站立，双手高举起跳，抓住你能达到的最高点。&lt;/li&gt;
+&lt;li&gt;松开&lt;strong&gt;右手&lt;/strong&gt;鼠标键，左手保持抓住墙面。&lt;/li&gt;
+&lt;li&gt;快速将鼠标向&lt;strong&gt;右侧&lt;/strong&gt;甩动（约 45-60 度），此动作会使 Bob 侧身并将悬空的右手送往更高处。&lt;/li&gt;
+&lt;li&gt;按住鼠标右键，让&lt;strong&gt;右手&lt;/strong&gt;抓住这个全新的高度。&lt;/li&gt;
+&lt;li&gt;松开&lt;strong&gt;左手&lt;/strong&gt;鼠标键，快速将鼠标向&lt;strong&gt;左侧&lt;/strong&gt;甩动。&lt;/li&gt;
+&lt;li&gt;按住鼠标左键，让&lt;strong&gt;左手&lt;/strong&gt;抓住更高的左侧墙面。&lt;/li&gt;
+&lt;li&gt;循环这一节奏：&lt;em&gt;放右手 -&amp;gt; 向右拧身 -&amp;gt; 抓右手 -&amp;gt; 放左手 -&amp;gt; 向左拧身 -&amp;gt; 抓左手&lt;/em&gt;。Bob 在墙上的动作看起来会非常像在空中“划水”或“扑翼”。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-二单手极限摆荡-single-hand-super-swing"&gt;🪂 二、单手极限摆荡 (Single-Hand Super Swing)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;难度系数&lt;/strong&gt;：★★★☆☆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用场景&lt;/strong&gt;：利用单个吊钩、绳索或铁链荡过极宽的深渊，获取双倍的惯性速度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理原理&lt;/strong&gt;：双手齐抓虽然稳妥，但会分散重心并限制摆动幅度。仅使用&lt;strong&gt;一只手&lt;/strong&gt;抓取时，Bob 的身体会像偏心悬挂的钟摆，从而产生极高的旋转扭矩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;具体操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;跳向秋千、绳索或吊环，&lt;strong&gt;只用一只手&lt;/strong&gt;（例如左手）将其抓住。&lt;/li&gt;
+&lt;li&gt;在向前摆动时，按住向前移动键（&lt;span class="kbd-key"&gt;W&lt;/span&gt;）。&lt;/li&gt;
+&lt;li&gt;当摆荡到达最前端的最高点时，先不要放手。迅速将视角转动 90 度偏离运动方向，并按下 &lt;span class="kbd-key"&gt;A&lt;/span&gt; 或 &lt;span class="kbd-key"&gt;D&lt;/span&gt; 键，让 Bob 的身体绕着绳索扭转。&lt;/li&gt;
+&lt;li&gt;往回摆，然后再荡向前。在第二次前摆时，利用刚才身体拧转释放的扭矩。&lt;/li&gt;
+&lt;li&gt;这种扭转动能会完全转化为水平初速度。在第二次荡到最高点的瞬间松手，你将被甩向极远的地方，飞行距离是普通双人秋千的两倍。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-三吊索势能惯性弹射-slingshot-glide"&gt;🏹 三、吊索势能惯性弹射 (Slingshot Glide)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;难度系数&lt;/strong&gt;：★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用场景&lt;/strong&gt;：从滑索、吊绳或铁链上松手的一瞬间将自己发射出去，飞越整张地图。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理原理&lt;/strong&gt;：如果在 Bob 身体被拉伸到极致的瞬间松手，物理引擎会瞬间释放拉伸所积蓄的弹性势能。这会将缆绳的拉力瞬间转化为极高的前向动能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;具体操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;抓住悬挂滑索的手柄或吊绳。&lt;/li&gt;
+&lt;li&gt;随滑索下滑积累速度。在接近滑轨终点时，&lt;strong&gt;按住向后键&lt;/strong&gt;（&lt;span class="kbd-key"&gt;S&lt;/span&gt;），这会让 Bob 的身体拖在吊钩后方，将手臂关节拉到最长。&lt;/li&gt;
+&lt;li&gt;突然松开 &lt;span class="kbd-key"&gt;S&lt;/span&gt; 键并瞬间按下向后前的 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 键，Bob 的身体会像橡皮筋一样猛烈向前反弹。&lt;/li&gt;
+&lt;li&gt;在 Bob 的身体反弹到吊钩正下方的极短一瞬间，松开鼠标左右键。&lt;/li&gt;
+&lt;li&gt;如果时机精准到微秒级，你的惯性速度将翻倍，在空中滑翔数百米直接飞越关卡。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-四帧率调节逃课-fps-checkpoint-skip"&gt;🖥️ 四、帧率调节逃课 (FPS Checkpoint Skip)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;难度系数&lt;/strong&gt;：★★★☆☆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用场景&lt;/strong&gt;：强行穿过紧闭的铁栅栏大门，或强行卡过检查点触发器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理原理&lt;/strong&gt;：《人类一败涂地》的碰撞检测频率与游戏帧率（FPS）强绑定。在极高或极低的帧率下，物理引擎的单帧判定会发生滞后或算力溢出，当 Bob 受到挤压时，其肢体很容易穿透固定的墙壁和门体模型。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;具体操作步骤&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;走到有缝隙的门或铁栅栏前（如“城堡”或“黑暗”关卡的铁栅栏门）。&lt;/li&gt;
+&lt;li&gt;将 Bob 的身体横过来，使劲往大门转轴与石墙交界处的夹角里挤。&lt;/li&gt;
+&lt;li&gt;双手抓住缝隙内部的墙壁，拼命往里拉扯自己。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;调控帧率&lt;/strong&gt;：速通玩家会通过快捷键或显卡设置，将游戏帧率锁定在 15 帧（制造严重的物理延迟）或解锁至 300 帧以上（制造超高频的物理碰撞修正）。&lt;/li&gt;
+&lt;li&gt;快速左右摇晃鼠标视角。物理碰撞求解器在这一瞬间无法及时计算出 Bob 的边界，判定失效，你就会直接被“挤”到大门的另一侧。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-速通黑科技技巧矩阵"&gt;📊 速通黑科技技巧矩阵
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;技巧名称&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;难度系数&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;最佳推荐地图&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;预计节省时间&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;左右划水爬墙&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;★★★★☆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;山顶、阿兹特克、城堡&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;每关节省 3 - 5 分钟&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;单手极限摆荡&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;★★★☆☆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;豪宅、蒸汽、水利&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;每关节省 1 - 2 分钟&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;吊索惯性弹射&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;★★★★★&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;黑暗、热能、港口&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;每关节省 2 - 3 分钟&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;帧率调节逃课&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;★★★☆☆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;城堡、黑暗、电力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;每关节省 4 - 6 分钟&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;div class="unlock-tip-box" style="background:rgba(255,107,0,0.05) !important; border-color:var(--game-accent) !important;"&gt;
+ &lt;strong&gt;⚠️ 警告：&lt;/strong&gt; 物理引擎漏洞和帧率操纵技巧需要大量的练习来培养手感。建议初学者先在&lt;strong&gt;第一关：豪宅&lt;/strong&gt;的出生点前院平整砖墙上练习“左右划水爬墙法”。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;想测试一下你的技巧吗？阅读我们的 &lt;a class="link" href="https://www.mrm777.win/guides/mansion/" &gt;豪宅详细攻略&lt;/a&gt;，或在 &lt;a class="link" href="https://www.mrm777.win/guides/" &gt;关卡指南主页&lt;/a&gt; 中挑选一关来大显身手吧！&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;</description></item></channel></rss>
