@@ -1,28 +1,6 @@
 {{ define "main" }}
     {{ $isZH := eq .Lang "zh-cn" }}
 
-    <!-- Early check script to bypass welcome screen flash -->
-    <script>
-        (function() {
-            var synced = sessionStorage.getItem('dream_synced');
-            if (synced) {
-                var style = document.createElement('style');
-                style.innerHTML = '.sync-overlay { display: none !important; }';
-                document.head.appendChild(style);
-            }
-        })();
-    </script>
-
-    <!-- Welcome Overlay -->
-    <div class="sync-overlay" id="syncOverlay">
-        <div class="sync-overlay-content">
-            <h2 class="sync-overlay-title">SYSTEM NEURAL SYNC / 脑电波同步系统</h2>
-            <div class="sync-telemetry-terminal" id="telemetryTerminal"></div>
-            <div class="sync-loading-text">⚡ STANDBY / 准备就绪... ⚡</div>
-            <button class="sync-start-btn" id="startSyncBtn">INITIATE NEURAL SYNC / 启动脑电波同步</button>
-        </div>
-    </div>
-
     <!-- 1. Hero Banner Section with 3D Mind Grid -->
     <div class="lobby-hero">
         <canvas id="bobMindCanvas" class="hero-canvas"></canvas>
@@ -171,7 +149,7 @@
                 </p>
             </div>
             <a href="{{ if $isZH }}/zh-cn/gameplay/{{ else }}/gameplay/{{ end }}" class="btn-cyber">
-                {{ if $isZH }}进入终端{{ else }}INITIALIZE LINK{{ end }}
+                {{ if $isZH }}开始学习 →{{ else }}START LEARNING →{{ end }}
             </a>
         </div>
 
@@ -188,7 +166,7 @@
                 </p>
             </div>
             <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="btn-cyber">
-                {{ if $isZH }}加载数据{{ else }}ACCESS DATABASE{{ end }}
+                {{ if $isZH }}浏览全部攻略 →{{ else }}BROWSE GUIDES →{{ end }}
             </a>
         </div>
 
@@ -205,7 +183,7 @@
                 </p>
             </div>
             <a href="{{ if $isZH }}/zh-cn/multiplayer/{{ else }}/multiplayer/{{ end }}" class="btn-cyber">
-                {{ if $isZH }}建立连接{{ else }}ESTABLISH LINK{{ end }}
+                {{ if $isZH }}组队联机 →{{ else }}TEAM UP →{{ end }}
             </a>
         </div>
 
@@ -222,10 +200,72 @@
                 </p>
             </div>
             <a href="{{ if $isZH }}/zh-cn/media/{{ else }}/media/{{ end }}" class="btn-cyber">
-                {{ if $isZH }}同步流媒体{{ else }}SYNC FEED{{ end }}
+                {{ if $isZH }}观看视频 →{{ else }}WATCH VIDEOS →{{ end }}
             </a>
         </div>
     </div>
+
+    <!-- 5. Latest News HUD Board -->
+    <div class="hud-board hud-brackets">
+        <div class="hud-board-header">
+            <h2 class="hud-board-title">
+                ⚡ {{ if $isZH }}最新关卡数据库同步{{ else }}LATEST LEVEL DATABASE SYNCS{{ end }}
+            </h2>
+            <div class="hud-board-status blinking">
+                ● {{ if $isZH }}数据流在线{{ else }}STREAM ACTIVE{{ end }}
+            </div>
+        </div>
+        
+        <div class="hud-board-list">
+            <!-- Dynamic fetch of guides pages -->
+            {{ $guides := where .Site.RegularPages "Section" "guides" }}
+            {{ $recentGuides := sort $guides "Date" "desc" }}
+            {{ range first 6 $recentGuides }}
+                <div class="hud-board-item" style="display: flex; gap: 1rem; align-items: center;">
+                    {{ if .File }}
+                    <a href="{{ .RelPermalink }}" style="flex-shrink: 0; display: block; width: 90px; height: 55px; border-radius: 6px; overflow: hidden; border: 1px solid rgba(0, 245, 255, 0.3); box-shadow: 0 0 8px rgba(0, 245, 255, 0.15);">
+                        <img src="/img/{{ .File.TranslationBaseName }}.jpg" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.src='/img/cover.jpg';">
+                    </a>
+                    {{ end }}
+                    <div class="hud-item-main" style="flex-grow: 1;">
+                        <div class="hud-item-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </div>
+                        <div class="hud-item-desc">{{ .Description }}</div>
+                    </div>
+                    <div class="hud-item-meta" style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                        <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
+                        <span class="hud-item-tag">SYS_LOG</span>
+                        {{ if .Params.difficulty }}
+                        <span class="hud-item-tag badge-diff">{{ .Params.difficulty }}</span>
+                        {{ end }}
+                        {{ if .Params.duration }}
+                        <span class="hud-item-tag badge-duration">⏱️ {{ .Params.duration }}</span>
+                        {{ end }}
+                        {{ if .Params.complexity }}
+                        <span class="hud-item-tag badge-complexity">⚙️ {{ .Params.complexity }}</span>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ else }}
+                <div class="hud-board-item">
+                    <div class="hud-item-main">
+                        <div class="hud-item-title">{{ if $isZH }}暂无数据{{ else }}NO DATABASE LOGS FOUND{{ end }}</div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        <div style="text-align: center; margin-top: 1.25rem;">
+            <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="btn-cyber">
+                {{ if $isZH }}📖 查看全部关卡攻略{{ else }}📖 VIEW ALL LEVEL GUIDES{{ end }}
+            </a>
+        </div>
+    </div>
+
+    <!-- Render original index.md content below for compatibility/details -->
+    <article class="home-content" style="margin-top: 3rem;">
+        {{ .Content }}
+    </article>
 
     <!-- 3. Verlet Physics Canvas Sandbox -->
     <div class="physics-sandbox hud-brackets">
@@ -583,68 +623,6 @@
         });
     </script>
 
-    <!-- 5. Latest News HUD Board -->
-    <div class="hud-board hud-brackets">
-        <div class="hud-board-header">
-            <h2 class="hud-board-title">
-                ⚡ {{ if $isZH }}最新关卡数据库同步{{ else }}LATEST LEVEL DATABASE SYNCS{{ end }}
-            </h2>
-            <div class="hud-board-status blinking">
-                ● {{ if $isZH }}数据流在线{{ else }}STREAM ACTIVE{{ end }}
-            </div>
-        </div>
-        
-        <div class="hud-board-list">
-            <!-- Dynamic fetch of guides pages -->
-            {{ $guides := where .Site.RegularPages "Section" "guides" }}
-            {{ $recentGuides := sort $guides "Date" "desc" }}
-            {{ range first 6 $recentGuides }}
-                <div class="hud-board-item" style="display: flex; gap: 1rem; align-items: center;">
-                    {{ if .File }}
-                    <a href="{{ .RelPermalink }}" style="flex-shrink: 0; display: block; width: 90px; height: 55px; border-radius: 6px; overflow: hidden; border: 1px solid rgba(0, 245, 255, 0.3); box-shadow: 0 0 8px rgba(0, 245, 255, 0.15);">
-                        <img src="/img/{{ .File.TranslationBaseName }}.jpg" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.src='/img/cover.jpg';">
-                    </a>
-                    {{ end }}
-                    <div class="hud-item-main" style="flex-grow: 1;">
-                        <div class="hud-item-title">
-                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                        </div>
-                        <div class="hud-item-desc">{{ .Description }}</div>
-                    </div>
-                    <div class="hud-item-meta" style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
-                        <span class="hud-item-date">{{ .Date.Format "2006.01.02" }}</span>
-                        <span class="hud-item-tag">SYS_LOG</span>
-                        {{ if .Params.difficulty }}
-                        <span class="hud-item-tag badge-diff">{{ .Params.difficulty }}</span>
-                        {{ end }}
-                        {{ if .Params.duration }}
-                        <span class="hud-item-tag badge-duration">⏱️ {{ .Params.duration }}</span>
-                        {{ end }}
-                        {{ if .Params.complexity }}
-                        <span class="hud-item-tag badge-complexity">⚙️ {{ .Params.complexity }}</span>
-                        {{ end }}
-                    </div>
-                </div>
-            {{ else }}
-                <div class="hud-board-item">
-                    <div class="hud-item-main">
-                        <div class="hud-item-title">{{ if $isZH }}暂无数据{{ else }}NO DATABASE LOGS FOUND{{ end }}</div>
-                    </div>
-                </div>
-            {{ end }}
-        </div>
-        <div style="text-align: center; margin-top: 1.25rem;">
-            <a href="{{ if $isZH }}/zh-cn/guides/{{ else }}/guides/{{ end }}" class="btn-cyber">
-                {{ if $isZH }}📖 查看全部关卡攻略{{ else }}📖 VIEW ALL LEVEL GUIDES{{ end }}
-            </a>
-        </div>
-    </div>
-
-    <!-- Render original index.md content below for compatibility/details -->
-    <article class="home-content" style="margin-top: 3rem;">
-        {{ .Content }}
-    </article>
-
     <!-- 6. Interactive CLI Dream Console -->
     <div class="dream-console">
         <div class="dream-console-output" id="consoleOutput">Welcome to Dreamscape CLI.
@@ -658,62 +636,6 @@ Type 'help' to see available commands.</div>
     <!-- Scripts for Sync Sequence and Dream Console CLI -->
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            // Welcome Overlay Sequence
-            var overlay = document.getElementById('syncOverlay');
-            if (overlay && !sessionStorage.getItem('dream_synced')) {
-                var lines = [
-                    "[SYS] Initializing Dream-Sync Interface...",
-                    "[SYS] Core: Human-Flat-Physics-Engine-v2.0.4 loaded.",
-                    "[SYS] Checking neural connection... STABLE (30ms).",
-                    "[SYS] Loading dreamscape parameters: Aztec, Castle, Demolition, Golf...",
-                    "[SYS] Safety lock disabled. Gravity constants set to 0.4g (Simulated).",
-                    "[SYS] Console interface initialized. Type 'help' in terminal for assistance.",
-                    "[SYS] READY. Awaiting brainwave synchronization."
-                ];
-                var terminal = document.getElementById('telemetryTerminal');
-                var currentLine = 0;
-
-                function printNextLine() {
-                    if (currentLine < lines.length) {
-                        var p = document.createElement('div');
-                        p.textContent = lines[currentLine];
-                        terminal.appendChild(p);
-                        terminal.scrollTop = terminal.scrollHeight;
-                        currentLine++;
-                        setTimeout(printNextLine, 150 + Math.random() * 150);
-                    }
-                }
-                printNextLine();
-
-                var btn = document.getElementById('startSyncBtn');
-                btn.addEventListener('click', function() {
-                    document.body.classList.add('screen-glitch');
-                    
-                    var p = document.createElement('div');
-                    p.className = 'cli-success';
-                    p.textContent = '[SYS] Brainwave match 100%! Establishing link...';
-                    terminal.appendChild(p);
-                    terminal.scrollTop = terminal.scrollHeight;
-
-                    btn.disabled = true;
-                    btn.textContent = 'CONNECTING / 连接中...';
-
-                    setTimeout(function() {
-                        overlay.classList.add('fade-out');
-                        setTimeout(function() {
-                            document.body.classList.remove('screen-glitch');
-                            overlay.style.display = 'none';
-                            sessionStorage.setItem('dream_synced', 'true');
-                        }, 600);
-                    }, 1500);
-                });
-
-                // Auto-enter after the intro sequence finishes; clicking the button still skips instantly.
-                setTimeout(function() { if (!btn.disabled) btn.click(); }, 2600);
-            } else if (overlay) {
-                overlay.style.display = 'none';
-            }
-
             // CLI Dream Console Parser
             var inputEl = document.getElementById('consoleInput');
             var outputEl = document.getElementById('consoleOutput');

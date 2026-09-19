@@ -1,0 +1,16 @@
+<div class="footer-links" style="text-align: center; padding: 1rem 0 0.5rem; font-size: 0.85rem;">
+    {{ $isZH := eq .Lang "zh-cn" }}
+    <a href="{{ if $isZH }}/zh-cn/privacy/{{ else }}/privacy/{{ end }}" style="color: var(--game-text-muted, #888); margin: 0 0.75rem;">
+        {{ if $isZH }}隐私政策{{ else }}Privacy Policy{{ end }}
+    </a>
+    <span style="color: var(--game-text-muted, #555);">|</span>
+    <a href="{{ if $isZH }}/zh-cn/about/{{ else }}/about/{{ end }}" style="color: var(--game-text-muted, #888); margin: 0 0.75rem;">
+        {{ if $isZH }}关于本站{{ else }}About{{ end }}
+    </a>
+    <span style="color: var(--game-text-muted, #555);">|</span>
+    <a href="{{ if $isZH }}/zh-cn/contact/{{ else }}/contact/{{ end }}" style="color: var(--game-text-muted, #888); margin: 0 0.75rem;">
+        {{ if $isZH }}联系我们{{ else }}Contact{{ end }}
+    </a>
+    <span style="color: var(--game-text-muted, #555);">|</span>
+    <a href="/sitemap.xml" style="color: var(--game-text-muted, #888); margin: 0 0.75rem;">Sitemap</a>
+</div>
