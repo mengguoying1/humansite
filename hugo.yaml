@@ -23,6 +23,8 @@ outputs:
 # 缺失此配置时 helper/pages 在首页取不到任何页面，导致 index.json 输出 []、RSS 无条目
 params:
   mainSections: ["guides", "gameplay", "multiplayer"]
+  # 浏览器标签页图标：主题 head.html 读取 params.favicon 输出 shortcut icon
+  favicon: "/favicon.ico"
 
 # Markdown 配置
 markup:
