@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>入门 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E5%85%A5%E9%97%A8/</link><description>Recent content in 入门 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E5%85%A5%E9%97%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>人类一败涂地新手入门常见问题 - 8个高频问答一次讲清</title><link>https://www.mrm777.win/zh-cn/gameplay/beginner-faq/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/beginner-faq/</guid><description>&lt;h1 id="人类一败涂地新手入门常见问题"&gt;人类一败涂地新手入门常见问题
+&lt;/h1&gt;&lt;p&gt;第一次进《人类一败涂地》的人几乎都会被 Bob 那个软绵绵的身体晃到怀疑操作坏了。这篇把新手最常问的 8 个问题一次讲清，看完你就能开开心心去爬墙了。&lt;/p&gt;
+&lt;h2 id="一bob-为什么这么软是-bug-吗"&gt;一、Bob 为什么这么软？是 BUG 吗？
+&lt;/h2&gt;&lt;p&gt;不是 BUG，是设计。Bob 是一个软体物理角色，所有动作都靠物理引擎实时模拟：手臂、躯干、腿都遵循惯性和重力。你看到的&amp;quot;晃悠&amp;quot;其实是物理引擎在真实地解算每个关节。&lt;/p&gt;
+&lt;p&gt;软体的好处是动作极其自由——你可以单手悬挂在悬崖边，可以抱住滚动的球，可以把身体卡在窄缝里。代价是必须接受它不会像传统动作游戏那样精确响应键位。学会与物理引擎&amp;quot;配合&amp;quot;而非&amp;quot;对抗&amp;quot;，是入门第一课。&lt;/p&gt;
+&lt;h2 id="二怎么抓东西键位是什么"&gt;二、怎么抓东西？键位是什么？
+&lt;/h2&gt;&lt;p&gt;抓取是分开控制左右手的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;键鼠&lt;/strong&gt;：鼠标左键控制左手，右键控制右手。按住抓取，松开释放。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;手柄&lt;/strong&gt;：左扳机 (LT) 控制左手，右扳机 (RT) 控制右手。按住抓取。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;同时按住两个抓取键&lt;/strong&gt;：双手同时抓——爬墙、过悬崖、抱大件必备。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完整键位与高级操作见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/basic-controls/" &gt;基础操作指南&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id="三为什么我爬不上墙"&gt;三、为什么我爬不上墙？
+&lt;/h2&gt;&lt;p&gt;爬墙是《人类一败涂地》的核心技巧，新手第一次都爬不上去。关键要领：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;双手交替抓&lt;/strong&gt;——而不是双手同时按住往下滑。一只手抓墙保持不动，另一只手向上移到更高位置抓墙，松开下面那只手，循环。这就是&amp;quot;猴子爬树&amp;quot;动作。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重心向前倾&lt;/strong&gt;——只抓不动身体的话，重力会把 Bob 拉下去。要让 Bob 的躯干向墙面倾斜，靠摩擦力维持位置。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不要垂直爬&lt;/strong&gt;——斜墙比直墙容易得多，能走斜面就别走垂直面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;详细身法（荡秋千、抛掷、垂直墙、爬跳等）见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧大全&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id="四有坠落伤害吗"&gt;四、有坠落伤害吗？
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;没有&lt;/strong&gt;。Bob 从任何高度摔下来都不会掉血（游戏也没有血量系统）。坠落只会把你送回最近的检查点。所以放心大胆地从高处跳——这是探索关卡最常用的移动方式之一。&lt;/p&gt;
+&lt;p&gt;唯一的&amp;quot;致死&amp;quot;机制是水域关的水下呼吸——长时间浸在水里会&amp;quot;淹死&amp;quot;并被送回检查点。但即便如此也不会真正死亡，只是回到上一个存档点。&lt;/p&gt;
+&lt;h2 id="五存档点怎么用进度自动保存吗"&gt;五、存档点怎么用？进度自动保存吗？
+&lt;/h2&gt;&lt;p&gt;每个关卡内有多个&lt;strong&gt;检查点&lt;/strong&gt;（一般为发光的圆形区域），穿过即激活。死亡或掉出关卡时回到最近激活的检查点。&lt;/p&gt;
+&lt;p&gt;进度是&lt;strong&gt;自动保存&lt;/strong&gt;的：进入新关卡、激活检查点、完成关卡都会触发自动存档。不需要手动存。下次进游戏可以从主菜单的&amp;quot;关卡选择&amp;quot;直接进入任何已解锁的关卡。&lt;/p&gt;
+&lt;h2 id="六关卡怎么解锁必须按顺序吗"&gt;六、关卡怎么解锁？必须按顺序吗？
+&lt;/h2&gt;&lt;p&gt;本体关卡按顺序解锁——完成上一关后下一关在主菜单可点。但有捷径：每个关卡内部都有多条路径，部分关卡允许通过特殊跳法绕过正常流程提前触发后续关卡的入口（不算作弊，是物理引擎允许的解法）。&lt;/p&gt;
+&lt;p&gt;DLC 关卡在购买/免费领取后直接在主菜单可点，不需要先通本体。Steam 创意工坊的玩家自制关卡则需要订阅对应 Workshop 物品后才能游玩。&lt;/p&gt;
+&lt;h2 id="七键盘和手柄哪个好"&gt;七、键盘和手柄哪个好？
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;强烈建议手柄&lt;/strong&gt;。Bob 的双手独立抓取用扳机键比用鼠标左右键顺手得多，长时间爬墙手柄明显省力。游戏官方完整支持 Xbox 和 PlayStation 手柄，Steam 也原生支持。&lt;/p&gt;
+&lt;p&gt;键鼠并非不能玩，速通玩家甚至有用键鼠做出更精细操作的，但新手用手柄体验更平滑。&lt;/p&gt;
+&lt;h2 id="八单人还是联机影响通关吗"&gt;八、单人还是联机？影响通关吗？
+&lt;/h2&gt;&lt;p&gt;单人可以完整通关全部本体和 DLC 关卡，&lt;strong&gt;联机不是必需&lt;/strong&gt;。多人模式只是把同一关卡的解法空间放大——8 人协作可以堆人梯、分工搬运、抛物接力，但所有谜题单人都能解。&lt;/p&gt;
+&lt;p&gt;联机的乐趣在于物理引擎的&amp;quot;魔性&amp;quot;放大：8 个 Bob 同时挤进一个电梯、互相抓错人一起摔下悬崖、把朋友当棒球抛过墙——这些只有多人才能体验到。联机教程见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/how-to-play-with-friends/" &gt;怎么和朋友联机&lt;/a&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "人类一败涂地Bob为什么这么软？是BUG吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "不是BUG，是设计。Bob是软体物理角色，所有动作靠物理引擎实时模拟，手臂、躯干、腿都遵循惯性和重力。软体的好处是动作极其自由，可以单手悬挂、抱住滚动球、卡在窄缝里；代价是不会像传统动作游戏那样精确响应键位。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地怎么抓东西？键位是什么？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "抓取分左右手独立控制：键鼠下鼠标左键控制左手、右键控制右手；手柄下左扳机LT控制左手、右扳机RT控制右手。按住抓取、松开释放。同时按住两个抓取键可以双手同时抓，是爬墙、过悬崖、抱大件必备。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地爬不上墙怎么办？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "三个要领：一、双手交替抓而非同时按住往下滑，一只手抓墙保持不动、另一只手向上移到更高位置抓墙，循环往复；二、重心向前倾，只抓不动身体会被重力拉下，要让躯干向墙面倾斜靠摩擦力维持；三、能走斜墙就别走垂直墙，斜墙比直墙容易得多。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地有坠落伤害吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "没有坠落伤害。游戏也没有血量系统。Bob从任何高度摔下来都不会掉血，只会被送回最近的检查点。唯一会致死的是水域关长时间浸水淹死，但也只是回到上一个存档点，不会真正死亡。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地进度会自动保存吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "自动保存。每个关卡内有多个检查点（发光圆形区域），穿过即激活；进入新关卡、激活检查点、完成关卡都会触发自动存档。死亡或掉出关卡时回到最近激活的检查点。下次进游戏可从主菜单关卡选择直接进入任何已解锁关卡。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地必须联机才能通关吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "不需要。单人可以完整通关全部本体和DLC关卡，联机不是必需。多人模式只是把同一关卡的解法空间放大——8人协作可以堆人梯、分工搬运、抛物接力，但所有谜题单人都能解。联机的乐趣在于物理引擎的魔性放大，比如8个Bob挤电梯、互相抓错摔下悬崖等。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地用键盘还是手柄好？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "强烈建议手柄。Bob的双手独立抓取用扳机键比鼠标左右键顺手得多，长时间爬墙手柄明显省力。游戏官方完整支持Xbox和PlayStation手柄，Steam也原生支持。键鼠并非不能玩，速通玩家甚至能做出更精细操作，但新手手柄体验更平滑。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地关卡怎么解锁？必须按顺序吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "本体关卡按顺序解锁，完成上一关后下一关在主菜单可点。但每个关卡内部有多条路径，部分关卡允许通过特殊跳法绕过正常流程提前触发后续关卡入口（不算作弊，是物理引擎允许的解法）。DLC关卡在购买或免费领取后直接可点，不需要先通本体。"
+ }
+ }
+ ]
+}
+&lt;/script&gt;</description></item></channel></rss>

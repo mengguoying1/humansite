@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>电力 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E7%94%B5%E5%8A%9B/</link><description>Recent content in 电力 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E7%94%B5%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>人类一败涂地 第九关：动力 (Power) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/power/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/power/</guid><description>&lt;h1 id="-第九关动力-power"&gt;⚡ 第九关：动力 (Power)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：连接彩色电缆构建闭合回路，开动叉车与自卸卡车等工业机械，搬运煤炭填满熔炉发电，最后乘着大型风扇的上升气流飞向出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：电路闭合传导、车辆操作控制、流体阻力与风力、蒸汽压强系统。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/power.jpg" alt="动力关卡配电盘与车辆"&gt;
+ &lt;div class="img-caption"&gt;📸 配电网区域：为配电盘连接电池提供动力，操作大型工业叉车开门&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一电线接线与短路起火"&gt;阶段一：电线接线与短路起火
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：走到起点墙壁上的电线板前。双手拔下红色线头接在红色插孔上，拔下蓝色线头接在蓝色插孔上，以此通电开门。如果你想解锁“电工入门”成就，将红蓝两条线同时短路相连（即用一根蓝色电线连接正负两个电极），这会引发一声巨大的爆炸，将 Bob 炸飞并解锁成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二黄色叉车与雕像上的电池"&gt;阶段二：黄色叉车与雕像上的电池
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入下一个庭院，会有一辆黄色的叉车。踩上驾驶座，双手抓住方向盘驾驶叉车，将车前方的铁叉子插进滑门下方的缝隙中。&lt;/li&gt;
+&lt;li&gt;拉动叉车右侧的杠杆抬起铁叉，将铁门强行顶起。&lt;/li&gt;
+&lt;li&gt;在新庭院中，有一座高大的石雕，其手中握着一枚发光的电池。&lt;/li&gt;
+&lt;li&gt;攀爬石雕的底座并爬上雕像的手臂，双手抓住电池往下拉，将其夺下。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三卡车运煤与熔炉发电--核心解谜"&gt;阶段三：卡车运煤与熔炉发电 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到地上的自卸卡车，开动它并倒车进入阴暗的煤炭矿坑洞穴中。&lt;/li&gt;
+&lt;li&gt;用双手搬起散落在地上的煤块，扔进卡车的后车斗里。至少装载 10 块煤。&lt;/li&gt;
+&lt;li&gt;将卡车开回发电厂，拉动车内的自卸手柄将煤块倒在熔炉前。&lt;/li&gt;
+&lt;li&gt;将煤块一一丢入燃烧的熔炉入口，熔炉燃烧会累积蒸汽压强，启动发电机。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大型气流风扇与飞跃出口"&gt;阶段四：大型气流风扇与飞跃出口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;将关卡中收集到的 3 枚电池（包含从雕像手中抢到的那枚）全部接在发电机插槽上，以启动天花板上的巨型排风扇。&lt;/li&gt;
+&lt;li&gt;走到大风扇的正下方。随着风扇转速加快，风扇产生的上升气流会将 Bob 托起并漂浮到半空中。&lt;/li&gt;
+&lt;li&gt;利用方向键控制 Bob 的漂浮方向，飞越前方的悬崖缺口，平稳落在对面的出口管道前完成通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【叉车跳门与风扇飞跃逃票】&lt;/strong&gt;&lt;br&gt;
+ 你其实完全不需要开叉车。把叉车停在卷扬门下，爬上叉车的防滚架，你就可以直接抓住卷扬门的最上方，翻越过去跳过叉车谜题。此外，在最后一关的大风扇房间，你可以沿着右侧墙壁的管道进行单手爬墙，不用连接电池，直接跳到出风口跳台通关。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⚡ 这是终点？ (The End?)&lt;/strong&gt;：通关第九关“动力”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;💥 电工入门 (Electricity 101)&lt;/strong&gt;：将电线板正负极连在同一根线上，引发爆炸短路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🗿 小偷 (Thief)&lt;/strong&gt;：从小女孩石雕手中强行取走电池。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔋 会被炸吗？ (Will It Fry)&lt;/strong&gt;：用 3 块电池同时为一个家电/插槽通电。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏎️ 车手 (Petrolhead)&lt;/strong&gt;：开着叉车或者卡车在地图上累计行驶距离达到 1 公里。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚚 送货员 (Delivery Boy)&lt;/strong&gt;：驾驶卡车将 10 块煤成功运送到发电炉前并倒出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 35 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;插拔电线电缆时对准卡槽，防止松动断电&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 05 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;踩在叉车防滚护顶架上直接越过滑门&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;电路电路学与热压空气升力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;飞起时伸长双手，以防被风扇吹偏撞到管道&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/aztec/" &gt;下一关卡：阿兹特克 (Aztec)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电缆布线&lt;/strong&gt;：电力关的布线和铜世界类似，但距离更长、障碍更多。核心原则：&lt;strong&gt;先确认用电设备位置，再沿墙根找最近插座&lt;/strong&gt;。电缆不能悬空，中间要贴墙或绕过管道。如果电缆长度不够，换插座比绕远路划算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;叉车操作&lt;/strong&gt;：叉车有两个操作位（方向盘和升降杆），单人要在两者之间来回跑。诀窍是&lt;strong&gt;先把货叉升到目标高度，再去开方向盘&lt;/strong&gt;，比边开边升稳得多。叉起货物后重心会前倾，倒车比前进稳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运煤与锅炉&lt;/strong&gt;：锅炉需要持续投煤才能维持压力。装煤时把铲子压低贴地推，抬太高会撒。投煤进炉口时站在正面轻轻松手，扔进去会弹出来。压力表的指针到绿区就可以去操作下一个机关了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;气流风扇浮空&lt;/strong&gt;：风扇的气流能把 Bob 托起来，控制高度靠身体姿态——张开双臂上升快，收拢下降快。在气流里不要挣扎，让它把你送到目标高度，接近时再收拢身体下降。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;电缆差一点够不着&lt;/strong&gt;：插座选远了。换最近的插座，别硬拉。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;叉车货物掉落&lt;/strong&gt;：边开边升。先定高度再开车，倒车行驶。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;煤撒了一路&lt;/strong&gt;：铲子抬太高。贴地推，慢走。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被气流吹飞&lt;/strong&gt;：身体没收拢。接近目标高度时立刻压低视角、收手。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 电力关是本作后期的大型关卡，流程较长但难度曲线平缓，按&amp;quot;布线 → 叉车 → 锅炉 → 气流&amp;quot;的顺序推进就不会乱。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/water/" &gt;水关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/aztec/" &gt;阿兹特克关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第十一关：黑暗 (Dark) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/dark/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/dark/</guid><description>&lt;h1 id="-第十一关黑暗-dark"&gt;🌃 第十一关：黑暗 (Dark)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过阴森的夜间庄院，通过连接电线电路为安全门供电，攀爬旋转的时钟塔齿轮，并启动蒸汽发电机，利用高空滑索到达出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ff3366; font-weight:bold;"&gt;★★★★☆（极具挑战）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：电路接线、重斧砍树劈门、齿轮跳跃、铲煤点火、高空滑索荡漾。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/dark.jpg" alt="黑暗关卡大门"&gt;
+ &lt;div class="img-caption"&gt;📸 夜幕庄园：欢迎来到黑暗之夜。注意脚下的悬崖和发电机区域，光线较暗请小心行进。&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一阴森起点"&gt;阶段一：阴森起点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：翻越断崖到达城堡前院。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你在一块黑暗的悬崖露台上醒来。拿起地上的木板，搭在对面的石柱上做成简易桥。&lt;/li&gt;
+&lt;li&gt;小心走过去。如果掉下去，可以尝试抓住上方的铁灯笼，或者利用墙壁上的铁环荡到对岸。&lt;/li&gt;
+&lt;li&gt;找到铁门旁的拉杆拉起铁门，从门下钻过去进入庄园。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二双电池供电大门"&gt;阶段二：双电池供电大门
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：寻找红蓝两块电池以给大门开关板供电。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;观察大门旁的控制板，它需要安装一红一蓝两块电池。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;红色电池&lt;/strong&gt;：走向左侧的石阶，会看到红色电池位于一个高石柱顶端。搬来旁边的长椅或箱子垫脚，踩上去把电池拽下来。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;蓝色电池&lt;/strong&gt;：走向右侧的木屋。木屋窗户被木条封死。从旁边的墙上取下沉重的铁斧，挥舞铁斧砸碎窗户的木条。爬进去拿到蓝色电池并从窗户扔出来。&lt;/li&gt;
+&lt;li&gt;将两块电池拖到大门控制槽内塞入，拉下拉杆，铁门开启。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三砍树搭桥"&gt;阶段三：砍树搭桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面前是一条深沟，对岸有一棵高耸的松树。&lt;/li&gt;
+&lt;li&gt;拿起斧头砍击松树根部（或者直接拔掉支撑树干的木楔子）。&lt;/li&gt;
+&lt;li&gt;松树会应声倒下，横跨在深沟上形成独木桥。保持平衡慢速走过去（按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 降低重心）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四时钟塔大齿轮--核心解谜"&gt;阶段四：时钟塔大齿轮 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;本关的平台跳跃难点，需要极高的时机配合。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/power.jpg" alt="时钟塔内齿轮"&gt;
+ &lt;div class="img-caption"&gt;📸 时钟齿轮：攀爬不断旋转的巨大木质齿轮以到达塔顶钟面&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入钟楼底部，走上石阶，跳上第一个水平旋转的齿轮。&lt;/li&gt;
+&lt;li&gt;踩在木齿轮的平整面，随其旋转到另一端，跳到下一个逆向旋转的齿轮上。&lt;/li&gt;
+&lt;li&gt;拿到墙上挂着的铁钥匙，用它解开钟表传动机构上的铁锁。&lt;/li&gt;
+&lt;li&gt;爬到外墙的钟面边缘，用双手抓住并推动巨大的时针和分针，将其对准 12:00 整，即可触发下方吊桥降落。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段五锅炉点火与滑索逃生"&gt;阶段五：锅炉点火与滑索逃生
+&lt;/h3&gt;&lt;p&gt;终极谜题，需要启动蒸汽升降机并利用缆索飞跃。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入发电机房，用铲子将地上的煤炭一块块铲进锅炉中。&lt;/li&gt;
+&lt;li&gt;关上炉门，拉动拉杆启动蒸汽涡轮，观察气压表升至最大。&lt;/li&gt;
+&lt;li&gt;站在蒸汽升降机平台上，随之升上最高处的平台。&lt;/li&gt;
+&lt;li&gt;捡起地上的铜导线，将其接入变压箱，为滑车轨道通电。&lt;/li&gt;
+&lt;li&gt;抓住滑轮的黄色手柄，纵身一跃，滑过夜空直接坠入终点传送门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-独家通关秘籍与速通黑科技"&gt;💡 独家通关秘籍与速通黑科技
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【终极滑索逃课技巧】&lt;/strong&gt;&lt;br&gt;
+ 你根本不需要花时间去接通变压器的复杂电路。直接抱起那根沉重的备用黄色插头，走向阳台边缘。在跳下悬崖的瞬间，用双手死死挂在滑轮钢索上。物理引擎的惯性会将你以极高速度直接甩进终点传送门！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔔 丧钟为谁而鸣&lt;/strong&gt;：在钟楼内挂着大中小三口钟。找根木棍或用双手按顺序敲击它们（小 -&amp;gt; 中 -&amp;gt; 大），可以听到神秘的和弦音并解锁官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🕯️ 探险火把&lt;/strong&gt;：在山洞通道里藏有一根火把。将其拿到锅炉的火苗处点燃，带入漆黑的洞穴深处，可以照亮一幅绘制有 Bob 的古老壁画。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 35 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;搬运斧头时要拿稳，甩飞容易掉落悬崖&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 12 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用单手极限爬墙直接跳过前半段电池解密&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;电路联通、蒸汽压强&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;必须关闭锅炉门才能快速聚气&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/steam/" &gt;下一关卡：蒸汽 (Steam)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电路接线&lt;/strong&gt;：本关的电池和插座都有颜色对应，接线时&lt;strong&gt;先看颜色再看位置&lt;/strong&gt;。电线不能悬空，要贴墙走，中途遇到障碍就换一条路径。双手各拿一端的接法（Bob 自己当导线）是本关的特色机制，走位时要贴着墙根移动，避免把线扯断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重型斧头&lt;/strong&gt;：挥斧和维京关同理，靠&lt;strong&gt;躯干旋转&lt;/strong&gt;发力。站定后 WASD 左右快速交替，让身体带动斧头划弧。斧头很重，挥空后要等它落地站稳再挥下一记，连续挥砍会自己绊倒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;齿轮平台&lt;/strong&gt;：黑暗关的齿轮是主要落脚点，踩齿轮要遵循&amp;quot;&lt;strong&gt;上半圈、近轴心&lt;/strong&gt;&amp;ldquo;原则——齿轮转到接近顶点、且你踩在靠近轴心处时最稳。两个齿轮之间的跨越要等它们转向一致的瞬间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高压电线滑行&lt;/strong&gt;：滑电线时身体会明显下坠，必须&lt;strong&gt;双手抓&lt;/strong&gt;并尽量收拢身体（视角朝上）。滑到中段如果高度不够，用&amp;quot;交替换手向上攀&amp;quot;的手法补高度，这招在长距离电线上是必备技能。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;接了线没反应&lt;/strong&gt;：颜色对错了，或者线被扯断。重新理线，贴墙走。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;斧头挥空后摔倒&lt;/strong&gt;：连续挥砍。每挥一记都等身体站稳。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;齿轮上站不住&lt;/strong&gt;：踩在外圈或下半圈。等上半圈、往轴心站。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电线滑到一半掉下&lt;/strong&gt;：身体散开导致下坠过快。收拢身体、双手抓。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 黑暗关视野很差，建议先把画面亮度调高，接线段的走位会清楚很多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/aztec/" &gt;阿兹特克关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/steam/" &gt;蒸汽关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
