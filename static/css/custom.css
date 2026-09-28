@@ -40,6 +40,20 @@
   --radius:    16px;
   --radius-sm: 10px;
 
+  /* ---- Legacy aliases (old cyberpunk skin variable names).
+     Content files and partials still reference these — map them to the
+     aurora palette so nothing ever falls back to unreadable greys. ---- */
+  --game-primary:      var(--accent-2);
+  --game-secondary:    var(--accent-3);
+  --game-accent:       var(--accent-warn);
+  --game-success:      var(--accent-ok);
+  --game-warning:      var(--accent-warn);
+  --game-bg:           var(--bg);
+  --game-card-bg:      var(--surface);
+  --game-text:         var(--text);
+  --game-text-muted:   var(--text-muted);
+  --game-text-bright:  #ffffff;
+
   /* ---- Stack theme variable overrides (dark, aurora-mapped) ---- */
   --body-background:        var(--bg) !important;
   --body-text-color:        var(--text) !important;
@@ -134,6 +148,19 @@ body::before {
 }
 @keyframes aurora-drift-2 {
   to { transform: translate(-7vw, -9vh) scale(1.14); }
+}
+
+/* Dark scrim between the aurora/particle layers and all content.
+   Guarantees light text always sits on a dark backdrop (WCAG-safe),
+   while the aurora remains a soft ambient glow. */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(180deg, rgba(7, 9, 18, 0.55) 0%, rgba(7, 9, 18, 0.82) 55%, rgba(7, 9, 18, 0.9) 100%);
+  pointer-events: none;
 }
 
 /* Constellation particle canvas — fixed background layer, never in flow */
