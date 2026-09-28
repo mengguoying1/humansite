@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>攻略 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E6%94%BB%E7%95%A5/</link><description>Recent content in 攻略 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E6%94%BB%E7%95%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>人类一败涂地 第一关：豪宅 (Mansion) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/mansion/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/mansion/</guid><description>&lt;h1 id="-第一关豪宅-mansion"&gt;🏰 第一关：豪宅 (Mansion)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：离开出生庭院，穿过豪宅的四重安全防护区，最后利用吊车秋千到达山顶，跳入直升机完成通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#00ff66; font-weight:bold;"&gt;★☆☆☆☆（新手教学）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：学习伸展双臂吸附、拉扯重物、跳跃攀爬以及物理重力反馈。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/mansion.jpg" alt="第一关豪宅起点"&gt;
+ &lt;div class="img-caption"&gt;📸 梦境起点：你将在此处醒来，开启 Bob 的神奇重力之旅&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一新手激活室"&gt;阶段一：新手激活室
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：熟悉视角和双臂映射。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：从高空跌落入庭院后，通过 &lt;span class="kbd-key"&gt;W&lt;/span&gt;&lt;span class="kbd-key"&gt;A&lt;/span&gt;&lt;span class="kbd-key"&gt;S&lt;/span&gt;&lt;span class="kbd-key"&gt;D&lt;/span&gt; 调节脚步，在空地上练习按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左键/右键&lt;/span&gt; 抓取地上的黑色碎石。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二翻越第一道砖墙"&gt;阶段二：翻越第一道砖墙
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解法 A（常规）&lt;/strong&gt;：走向大砖墙，将视角看天，高举双手起跳抓住墙面边缘，不要松手，低头向下看的同时按住 &lt;span class="kbd-key"&gt;W&lt;/span&gt;，将自己拉上墙头。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解法 B（物理工具）&lt;/strong&gt;：抓取旁边散落的&lt;strong&gt;木板&lt;/strong&gt;，一端搭在地上，另一端架在矮墙边缘，形成斜坡，直接走上去。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三脚手架与平衡木"&gt;阶段三：脚手架与平衡木
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：来到庭院后部，你会看到一个黄色的钢制&lt;strong&gt;脚手架&lt;/strong&gt;。先攀爬上去，接着在狭窄的木梁上保持平衡（按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰可防跌落），通过缝隙跳到对面豪宅的内阳台。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四吊车起重臂--核心解谜"&gt;阶段四：吊车起重臂 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;这是豪宅最关键的考核点，许多新手会卡在这里。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="起重臂荡秋千"&gt;
+ &lt;div class="img-caption"&gt;📸 核心机关：利用挂钩进行重力摆荡，荡向高塔对面的集装箱&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;来到黄色吊车底座，跳起&lt;strong&gt;抓住吊钩&lt;/strong&gt;，按住方向键将吊钩拉扯到豪宅阳台正前方。&lt;/li&gt;
+&lt;li&gt;爬上旁边的箱子并攀登上最高阳台。&lt;/li&gt;
+&lt;li&gt;跳跃抓住被你拉过来的吊钩，利用惯性，&lt;strong&gt;在最前端放手起跳&lt;/strong&gt;，直接荡到集装箱顶。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁秋千物理判定】&lt;/strong&gt;&lt;br&gt;
+ 荡秋千时最忌讳在最低点放手。当 Bob 荡到离心运动的&lt;strong&gt;最远最高端（速度几乎停滞的那一瞬间）&lt;/strong&gt;松手，然后再按下 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 跳跃，你的动力势能将完全转化为水平动能，实现极限飞跃！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⚽ 世界杯射手&lt;/strong&gt;：在豪宅出生点的门前，藏有一个足球。将双手按在地面上，一路推着或者踢着足球，跨越关卡推入门后的网中，可以触发官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多人骚套路&lt;/strong&gt;：联机状态下，一个人抓住吊车挂钩，另外一个人抓住他的脚，两人可以叠罗汉完成双人超远距离滑跃。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;5 - 12 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;新手熟悉物理模型较慢，不要着急&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;22.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用高强爬墙直接飞跃第四关卡&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;100% 重力惯性反馈&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;攀爬时一定要将头对准边缘&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/factory/" &gt;下一关卡：工厂 (Factory)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;手臂伸展与抓取&lt;/strong&gt;：这是教学关，核心是&amp;quot;&lt;strong&gt;视角决定手的朝向&lt;/strong&gt;&amp;quot;。鼠标往上抬 Bob 就举手，往下压手就垂下。抓取要按住鼠标左键（左手）或右键（右手），松开才放开。攀爬时先举手够边缘，抓住后视角&lt;strong&gt;往下压&lt;/strong&gt;才能把身体拉上去——很多新手卡在这里，因为一直抬着视角，结果挂在墙上下不来也上不去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;拉闸门&lt;/strong&gt;：闸门要双手抓 + 身体后仰（往后走）才能拉开，单手是拉不动的。拉到位后门会保持开启，不需要一直拉着。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;脚手架与平衡木&lt;/strong&gt;：平衡木上移动要靠&lt;strong&gt;小幅点动&lt;/strong&gt;，跑起来必掉。掉下去不用慌，本关有回到checkpoint 的路径，多试几次即可。手脚并用（交替抓取）比单纯走路稳得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;吊钩摆荡（本关重点）&lt;/strong&gt;：抓住吊钩后，&lt;strong&gt;不要急着松手&lt;/strong&gt;——先用 WASD 左右摆动积累幅度，摆到最高点那一瞬间松开，就能荡到对面的平台。这是全作最基础也最重要的位移技巧，后面几十个关卡都在用。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;挂在墙缘上不去&lt;/strong&gt;：视角一直朝上。抓住后把视角往下压，身体才能翻上去。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;拉不开闸门&lt;/strong&gt;：单手拉或站太近。双手抓、身体往后仰。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;平衡木上掉下去&lt;/strong&gt;：用了冲刺。全程小幅点动。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;吊钩荡不远&lt;/strong&gt;：松手太早。至少积累两三个来回，高点再松。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 豪宅关虽然简单，但这里是唯一会教你所有基础操作的地方。在通关前把&amp;quot;抓取—下压视角—翻身上墙&amp;quot;练到肌肉记忆，后面会轻松非常多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/viking/" &gt;维京关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/factory/" &gt;工厂关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第二关：工厂 (Factory) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/factory/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/factory/</guid><description>&lt;h1 id="-第二关工厂-factory"&gt;🏭 第二关：工厂 (Factory)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过由传送带、齿轮和排风管道组成的自动化车间，跨越深渊大坑熔炉，拉开限流开关安全撤离。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;⭐⭐☆☆☆（新手进阶）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：研究摩擦传送、堆叠箱子以架设杠杆、以及高空拉环滑越。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/factory.jpg" alt="第二关工厂全景"&gt;
+ &lt;div class="img-caption"&gt;📸 工厂车间：工业机器在隆隆作响，传送带是极好的物理位移工具&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一高架入口"&gt;阶段一：高架入口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：你从高空平台落地后会发现自己处于工厂的高架起步点。无需拉闸，直接走到平台边缘，面向车间内部直接跳下。虽然看似落差很大，但 Bob 没有血量机制，不会产生跌落损伤。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二传送带区--核心解谜"&gt;阶段二：传送带区 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;车间中央分布着两个逆向转动的红色工业传送带。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;常规解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在传送带尽头拖动木板或&lt;strong&gt;箱子&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;双手抓住箱子，将其拖曳至高架围栏下方。&lt;/li&gt;
+&lt;li&gt;如果一个箱子高度不够，你可以双手托起第二个箱子，踩在第一只箱子上，&lt;strong&gt;将两个箱子叠起来&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;踩着箱子起跳，抓取栏杆翻越过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【解锁传送带反弹位移】&lt;/strong&gt;&lt;br&gt;
+ 在传送带上运动时，如果你直接逆行，很容易滑落。可以按住跑动键 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; + &lt;span class="kbd-key"&gt;W&lt;/span&gt;，在履带边缘逆向行走，在履带回弹瞬间起跳，能借助附加惯性实现双倍跳跃距离。
+&lt;/div&gt;
+&lt;h3 id="阶段三蒸汽管道长廊"&gt;阶段三：蒸汽管道长廊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：进入排风管道密布的区域。这里的管道是圆形的，表面非常滑。走在上面极易滚落。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要领&lt;/strong&gt;：按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 压低身体重心，横向平移，在管道接头空隙处，注意快速按下起跳键 &lt;span class="kbd-key"&gt;Space&lt;/span&gt; 跃上安全围栏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大熔炉深渊"&gt;阶段四：大熔炉深渊
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解法 A（单杠滑跃）&lt;/strong&gt;：大坑上方悬挂着一个可以移动的吊车横梁。走上跳台，跳跃用双手死死抱住横梁，通过&lt;strong&gt;交替晃动手臂&lt;/strong&gt;，像猴子荡树一样滑跃到大坑对岸的出口高台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解法 B（搭桥邪道）&lt;/strong&gt;：在车间角落搜寻，找到一块较长的废弃铁板。双手将铁板平稳拉扯过来，搭在深渊大坑两端，做成一座桥，即可轻松走过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🗑️ 回收油桶&lt;/strong&gt;：在工厂左侧阴暗的废料仓库中，堆积着数个可以碰撞的黄色废弃油桶。尝试将油桶推入废料炉中，可以触发“垃圾分类”隐藏小游戏。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成就：无动力通关&lt;/strong&gt;：如果你在通过“阶段二”时，全程没有踩中过任何运转的红色传送带（完全依靠爬墙邪道），通关时系统会自动亮起金色的限时隐藏成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;12 - 20 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;高空横梁行走极其考验视角的稳定度&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;41.5 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;使用了跳过传送带的空气连跳邪道&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;滑动摩擦与重力杠杆&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;叠箱子时一定要对齐中心点，以防倒塌&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往下一站：&lt;a class="link" href="https://www.mrm777.win/guides/" &gt;关卡选择面板&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;压力板&lt;/strong&gt;：压力板需要持续重量才会保持开启，人站上去就没法同时通过。标准解法是&lt;strong&gt;搬箱子压住&lt;/strong&gt;——箱子越重越好，放上去后确认机关完全开启再走。联机时一人压板一人通过是最快的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;传送带&lt;/strong&gt;：传送带有明确的摩擦方向，站在上面会被持续推动。逆着方向走要&lt;strong&gt;斜着走&lt;/strong&gt;（与传送带成 45 度角前进），比正面顶着走省力得多。传送带的接缝处有短暂卡顿，可以在这里调整姿态。需要跨越两条反向传送带时，在接缝处起跳最稳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重型齿轮&lt;/strong&gt;：齿轮踩上去会被转动带偏，站位一律选&lt;strong&gt;靠近轴心&lt;/strong&gt;处。齿轮的凸台是落脚点，要在凸台转到上半圈时踩上去。跨越两个齿轮时等两者都处于上升段再跳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;起重机臂&lt;/strong&gt;：吊臂操作分&amp;quot;旋转&amp;quot;和&amp;quot;起落&amp;quot;，要分开操作。先转到目标上方停稳，再降钩。吊装箱子时钩要挂正，歪吊会让箱子在空中打转。放箱子时先降到与目标平台&lt;strong&gt;基本齐平&lt;/strong&gt;再松手，高空抛下会弹飞。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;压力板机关半途关掉&lt;/strong&gt;：箱子太轻或被推偏。换更重的箱子，确保完全落在板上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;传送带把人卷走&lt;/strong&gt;：正面顶着走。改成斜 45 度走。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;齿轮上站不住&lt;/strong&gt;：踩外圈。靠轴心站、选上半圈落脚。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;吊起的箱子乱转&lt;/strong&gt;：钩没挂正。落钩时对准箱子顶部的中心点。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 工厂关是新手接触&amp;quot;工业机械&amp;quot;的第一关，传送带斜走和吊车&amp;quot;先转后降&amp;quot;这两招能一直用到通关。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/mansion/" &gt;豪宅关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/train/" &gt;火车关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第三关：火车 (Train) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/train/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/train/</guid><description>&lt;h1 id="-第三关火车-train"&gt;🚂 第三关：火车 (Train)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过铁路主题的障碍区，在轨道上拖拽并调整沉重的火车车厢，利用垃圾桶攀爬高墙，最后跳进红色出口车厢的深渊完成通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★☆☆☆（基础操作）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：水平拉扯物理反馈、车厢轨道摩擦力、高台边缘攀爬吸附与空中惯性。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/train.jpg" alt="火车关卡轨道与车厢"&gt;
+ &lt;div class="img-caption"&gt;📸 铁轨区域：沿着轨道拖拽沉重的车厢，将其作为临时桥梁或移开通路&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一首个车厢路障"&gt;阶段一：首个车厢路障
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：落入关卡后，你会看到一节黄色火车车厢挡住了前方的门洞。走到车厢旁，按住 &lt;span class="kbd-key mouse-key"&gt;鼠标左键/右键&lt;/span&gt; 抓住车厢边缘，然后向后移动拉走车厢。门洞露出来后即可通过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二黄色垃圾桶与越墙捷径"&gt;阶段二：黄色垃圾桶与越墙捷径
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：一个大型黄色垃圾桶挡住了通往下一个房间的门口。用双手抓住拉手，向后拉动即可清理出通道。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;垃圾桶攀爬捷径&lt;/strong&gt;：或者，不要将它彻底拉开，而是将其推到右侧的高砖墙下。爬上垃圾桶，助跑并跳跃抓住高墙边缘，将自己拉上去，可直接跳过下一个房间的解谜。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三翻倒的长椅与平移车厢"&gt;阶段三：翻倒的长椅与平移车厢
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：在此区域，你会看到路边翻倒的木制长椅和一节车厢。
+&lt;ol&gt;
+&lt;li&gt;首先，如果想解锁隐藏成就，请将长椅扶正并对齐墙壁（参见下文说明）。&lt;/li&gt;
+&lt;li&gt;走到火车车厢旁，双手抓住它拉离墙面以创造空间，或者推向高墙。&lt;/li&gt;
+&lt;li&gt;从高台上跳到车厢顶部，再从车厢顶部跳到更高处的通道边缘，拉起身体进入下一关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四轨道车厢重叠对齐--核心解谜"&gt;阶段四：轨道车厢重叠对齐 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入后院，找到红色出口车厢。先爬上楼梯到达高台。&lt;/li&gt;
+&lt;li&gt;你会发现铁轨上有一节黄色车厢，它挡住了上方的去路。&lt;/li&gt;
+&lt;li&gt;跳下高台来到黄色车厢旁。抓住车厢下方的栏杆，向后走将其沿着铁轨滑动，直到它停在高台正下方。&lt;/li&gt;
+&lt;li&gt;重新爬上楼梯，踩在黄色车厢顶部，跳跃并抓住对面的平台边缘，即可到达红色出口车厢。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【车厢顶部极限速通跳过】&lt;/strong&gt;&lt;br&gt;
+ 熟练的玩家不需要平移铁轨上的任何车厢。你可以利用双手抓住第一节火车车厢的侧板，通过身体摆荡（侧向爬墙技术）将身体拉上车顶。站在车顶上，你可以直接踩着车厢顶部跑过去，15秒内即可跳过所有轨道谜题！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🧹 公共服务 (Public Service)&lt;/strong&gt;：在关卡起点处，有 5 块散落的废砖头。将这 5 块砖头一一捡起并放入黄色垃圾桶中即可解锁该成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚗 敞篷车之行 (Convertible Ride)&lt;/strong&gt;：跳进黄色垃圾桶内，双手抓住垃圾桶的内壁，然后朝前方跳跃并移动。垃圾桶会随之在地面滑行。以这种方式移动 50 米即可解锁成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🪑 完美主义者 (Perfectionist)&lt;/strong&gt;：在第三个房间，找到翻倒的长椅。抓住它并将其扶正，使其靠墙放平并对齐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;📡 迷宫低语&lt;/strong&gt;：多人联机模式下，如果把画面阴影调低，在火车铁轨的黑暗角落探索时，可能会听到一段模糊的开发者配音彩蛋。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;8 - 15 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;拖拽重物时，使用双手抓取判定更稳定&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;10.5 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;直接从侧面爬上黄色车厢顶部进行飞跃&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;轨道约束摩擦阻力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;确保车厢对齐，防止起跳时打滑跌落&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/carry/" &gt;下一关卡：搬运 (Carry)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;横向拖拽&lt;/strong&gt;：火车关的核心是&amp;quot;横拉&amp;quot;——很多物体需要双手抓住后&lt;strong&gt;横向发力&lt;/strong&gt;（用 A/D 带着身体往侧面走）才能拉动，正面硬拽是拽不动的。这是本关最需要适应的操作习惯。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;车厢摩擦&lt;/strong&gt;：车厢非常重，推动时要&lt;strong&gt;双手抓、身体后倾、小步挪&lt;/strong&gt;。车厢一旦开始滑动就有巨大惯性，停不下来——所以要提前减速，别等快到位了才松手。车厢之间连接处的间隙是危险区，别站在两节车厢中间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高台边缘抓取&lt;/strong&gt;：本关有大量需要&amp;quot;跳 + 抓 + 翻身&amp;quot;的高台。要点是跳起时**先把手举高（视角朝上）**再抓，抓住后立刻把视角压下去翻身。抓的位置越高越容易翻上去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;叠车厢攀爬&lt;/strong&gt;：后期的车厢堆叠段落需要连续攀爬，用&amp;quot;抓—松—换手—再抓&amp;quot;的垂直爬墙手法。每爬一层都要确认站稳再动，车厢是会晃的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;物体拽不动&lt;/strong&gt;：正面硬拽。改为双手抓住 + 横向发力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;车厢撞过头&lt;/strong&gt;：没提前减速。车厢惯性极大，提前松手让它自己滑到位。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高台翻不上去&lt;/strong&gt;：抓的位置太低。起跳时把手举高，抓住后压视角。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;从车厢缝隙掉下去&lt;/strong&gt;：站到了连接处。跨越车厢时一定要跳过去。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 火车关的横拉机制很特别，习惯之后你会发现它是全作最省力气的搬运方式。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/factory/" &gt;工厂关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/carry/" &gt;搬运关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第四关：搬运 (Carry) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/carry/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/carry/</guid><description>&lt;h1 id="-第四关搬运-carry"&gt;📦 第四关：搬运 (Carry)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：在关卡中搬运木质箱子，将它们放置在发光的黄色压力按钮上以打开电子玻璃门，利用箱子作为垫脚石攀爬高大的玻璃墙，最后跳下深渊完成通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★☆☆☆（基础操作）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：搬运重物物理机制、双手对齐放置、箱子辅助攀爬、门禁卡位。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/carry.jpg" alt="搬运关卡箱子与按钮谜题"&gt;
+ &lt;div class="img-caption"&gt;📸 搬运箱子：高举双手抓取并抬起木箱，以触发地面上的黄色压力按钮&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一入门按钮"&gt;阶段一：入门按钮
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：落入关卡后，找到地面上的一个小木箱。高举双手抓住木箱，搬运到巨大的黄色压力按钮处。将木箱直接压在按钮上，前方的玻璃滑门便会保持开启。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二穿过铁栏窗"&gt;阶段二：穿过铁栏窗
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在下一个房间中，你会发现箱子在被锁住的玻璃门另一侧，而按钮在你的这一侧。&lt;/li&gt;
+&lt;li&gt;隔着墙上的铁栏格窗，伸出双手抓住对面的木箱，将其抬起并拉拽到你这一侧的按钮上以开门。&lt;/li&gt;
+&lt;li&gt;穿过门之后，记得再回头把箱子从格窗里拖过来，因为你之后的解谜依然需要它。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三货梯升降与卡门技巧"&gt;阶段三：货梯升降与卡门技巧
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你将来到一个有高台和滑动铁门的区域，滑动门只有在你踩住按钮时才会开启。&lt;/li&gt;
+&lt;li&gt;把木箱搬运并放置在按钮上。由于木箱压住了按钮，你可以穿过门。&lt;/li&gt;
+&lt;li&gt;如果你想解锁“门卡住了”隐藏成就（见下文说明），请将箱子放在滑动门的运动轨迹正中间。&lt;/li&gt;
+&lt;li&gt;搬着箱子走上货物升降平台，按下按钮让货梯上升，将箱子运送到最后的区域。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四翻越超高玻璃墙--核心解谜"&gt;阶段四：翻越超高玻璃墙 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在最后的区域，你将面对一面极高的玻璃栏杆墙，正常情况下根本无法直接攀爬上去。&lt;/li&gt;
+&lt;li&gt;将运送过来的木箱搬到玻璃墙下。&lt;/li&gt;
+&lt;li&gt;先爬上木箱顶部。站在这个高度上，将视角看天并起跳，举起双手抓住玻璃墙的边缘。&lt;/li&gt;
+&lt;li&gt;把 Bob 拉上墙头，然后跳入下方的漩涡出口即可通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【扶手飞跃与双手反向攀爬捷径】&lt;/strong&gt;&lt;br&gt;
+ 你其实完全不需要使用箱子来翻越玻璃墙。利用升降平台侧面的钢管扶手，加速奔跑并在边缘起跳，高举双手，就能直接抓住高大玻璃墙的顶端边缘。通过身体前后晃动摆荡，直接翻墙过去。这能为你省去 Stage 4 繁琐的运箱子过程！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🪵 不要扎手！ (Don&amp;rsquo;t Get a Splinter!)&lt;/strong&gt;：通关第四关“搬运”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚪 门卡住了 (It&amp;rsquo;s Stuck)&lt;/strong&gt;：在阶段三，把木箱放置在移动滑门的缝隙正中央。然后走开让按钮失效，滑动门在关闭时会夹住木箱。穿过这扇被夹住的门即可解锁该成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🗼 叠罗汉 (Tower)&lt;/strong&gt;：将该关卡中出现的全部 4 个木箱完美重叠堆积在一起。在多人联机模式下这会简单许多：一个人按住底部的箱子保持稳定，另一个人搬运其余箱子往上放。放下箱子时将视角低头看地，能更容易对齐。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;6 - 10 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;搬运箱子时微微抬头，防止箱子摩擦地面导致减速&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;8.2 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用扶手极限跳跃，直接抓住最终玻璃墙边缘&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;重力压力感应机制&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;联机时可以卡门防止队友被锁在外面&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/mountain/" &gt;下一关卡：山巅 (Mountain)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;重物搬运的正确姿势&lt;/strong&gt;：搬箱子时&lt;strong&gt;双手抓、身体后仰、小步挪&lt;/strong&gt;，这是本关的核心口诀。单手拖箱子会在地面卡住，而身体前倾会让箱子往前翻。上坡时把箱子稍微抬高一点，下坡则放低让它贴地滑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;铁栅栏窗口&lt;/strong&gt;：窗口位置偏高，需要把箱子垫在下面当台阶。垫箱子时要选&lt;strong&gt;宽面朝上&lt;/strong&gt;的那一面，窄面朝上站不稳。垫两层的高度最保险，一层往往差一点够不着。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;电梯与卡门&lt;/strong&gt;：电梯门快关上时，用箱子&lt;strong&gt;卡在门缝里&lt;/strong&gt;就能让它保持开启——这是本关最经典的机制。把箱子推到门中间，门会被卡住反复弹开。人趁机通过即可，箱子留下不用管。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高玻璃墙&lt;/strong&gt;：玻璃墙没有任何抓手，必须靠&lt;strong&gt;箱子叠台阶&lt;/strong&gt;上去。叠三层箱子后从最上面一层起跳，双手抓墙沿，用标准的&amp;quot;交替松手向上&amp;quot;手法翻过去。注意玻璃墙顶端是光滑的，最后一下要用跳跃配合抓取，不能纯靠爬。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;箱子拖不动&lt;/strong&gt;：单手拖或身体前倾。改为双手抓 + 后仰。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;垫脚箱子翻倒&lt;/strong&gt;：用了窄面朝上。放倒箱子让宽面朝上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电梯门夹人&lt;/strong&gt;：箱子没卡稳。推到门正中间再松手。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;玻璃墙爬到顶上不去&lt;/strong&gt;：没配合跳跃。最后必须&amp;quot;跳 + 双手抓&amp;quot;同步。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 搬运关是练习&amp;quot;物体物理&amp;quot;的最佳场所，把这里的搬运手感练熟，后面多个关卡都会轻松很多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/train/" &gt;火车关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/mountain/" &gt;山巅关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第五关：山巅 (Mountain) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/mountain/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/mountain/</guid><description>&lt;h1 id="-第五关山巅-mountain"&gt;⛰️ 第五关：山巅 (Mountain)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：攀登垂直的乱石峭壁，推动红色火车车厢铺路，在漆黑的洞穴中寻找隐藏的宝石，利用悬空绳索飞跃大峡谷，最后将扬声器扔进小屋通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：边缘引体向上、重物平移、悬挂绳索摆动、黑暗视线校准。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/mountain.jpg" alt="山巅关卡乱石峭壁"&gt;
+ &lt;div class="img-caption"&gt;📸 石壁区域：在摇晃的乱石柱之间跳跃，掌握引体向上翻越台阶的诀窍&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一盘山石阶路"&gt;阶段一：盘山石阶路
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：你将在乱石柱的底端醒来。沿着呈 S 形盘旋的乱石路前进。高举双手并跳跃，抓住更高台阶的边缘。双手不要松开，视角向下看脚，同时按住 &lt;span class="kbd-key"&gt;W&lt;/span&gt; 将自己拉上平台。重复此操作直到抵达上方的草坪。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二红色火车车厢"&gt;阶段二：红色火车车厢
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在草坪上，你会看到一节躺在轨道上的大型红色车厢。&lt;/li&gt;
+&lt;li&gt;抓住车厢并向后拖拽，使车厢移开以填补左侧的深渊；或者你可以抓住车厢角落的扶手，直接爬上车顶。&lt;/li&gt;
+&lt;li&gt;在车顶上奔跑加速，跳跃到相邻的悬崖上，沿着石路前往漆黑的洞穴入口。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三漆黑洞穴与寻找绿宝石"&gt;阶段三：漆黑洞穴与寻找绿宝石
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;洞穴内非常黑暗。拿起入口处地上的提灯。&lt;/li&gt;
+&lt;li&gt;提着灯照亮前方的道路，小心跳过洞穴深处的连续裂缝。&lt;/li&gt;
+&lt;li&gt;如果你想解锁“我的宝藏”成就，请在洞穴的黑暗角落里仔细寻找 7 颗发出微弱绿光的绿宝石，并将它们堆放在一起。&lt;/li&gt;
+&lt;li&gt;走出洞穴，来到一块俯瞰大峡谷的高处岩石上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四人猿泰山荡绳索--核心解谜"&gt;阶段四：人猿泰山荡绳索 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;抬头看，你会发现头顶的树枝上悬挂着一条黄色绳索，正处于峡谷上方。&lt;/li&gt;
+&lt;li&gt;走到岩石边缘，助跑跳跃，在空中高举双手抓住绳索。&lt;/li&gt;
+&lt;li&gt;抓住绳索后，身体前后晃动摆荡以积攒惯性。&lt;/li&gt;
+&lt;li&gt;当摆荡到最前方且高度最高的瞬间，松开双手并向前跳跃，安全降落在对面悬崖的平台上。&lt;/li&gt;
+&lt;li&gt;沿着山路向上来到一间小屋前，拉开门并跳入下方的出口。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【单手摆动爬墙术 (Swing Climbing)】&lt;/strong&gt;&lt;br&gt;
+ 在山巅关卡中，你可以利用爬墙 Bug 攀爬几乎所有的垂直岩壁。用一只手抓住墙面，左右晃动视角使 Bob 的身体摆动起来。当身体由于摆动而升高时，迅速用另一只自由的手抓住更高的位置。松开下面的手并重复此操作。这能让你直接沿着外墙爬上山顶，跳过整个 Stage 2 和 Stage 3！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⛰️ 步步高升 (What Goes Up)&lt;/strong&gt;：通关第五关“山巅”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;💎 我的宝藏 (My Treasure)&lt;/strong&gt;：在洞穴中收集全部 7 颗隐藏的发出绿光的绿宝石，并将它们堆积在一个区域。你需要使用提灯在阴暗的夹缝中耐心寻找。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🐒 泰山荡 (AH, EO, EO, EO, EO, OOOOO!)&lt;/strong&gt;：利用阶段四的悬挂绳索摆荡并成功飞跃峡谷。确保抓紧绳索并顺畅荡到对面才能触发该成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;📢 保持安静 (Silent Hours / Noisy Neighbours)&lt;/strong&gt;：在终点小屋的外墙上挂着一组大音响。双手抓住音响，将其全部从窗户扔进小屋内即可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;Data Value&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;15 - 25 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;记得提着灯，防止跳跃洞穴裂缝时因看不清而坠落&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;45.3 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用单手爬墙直接攀爬山体外墙到达山顶&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;钟摆重力摆荡&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;荡绳起跳时保持视角对准前方平台&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/demolition/" &gt;下一关卡：拆除 (Demolition)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;边缘翻身（Mantle）&lt;/strong&gt;：本关是&amp;quot;翻身&amp;quot;教学的正式关卡。跳向平台边缘 → 双手抓住 → 视角下压 → 身体翻上去。关键是&lt;strong&gt;抓的时候手要够高&lt;/strong&gt;，抓在边缘太低的位置会导致翻不上去。如果卡住，松开重跳一次，把手举高一点再抓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;红色矿车&lt;/strong&gt;：矿车靠重力下滑，人站上去会增加速度。下坡时需要刹车就站到车尾压住。矿车脱轨通常是因为过弯太快，进弯前减速。装货时重物放底层，否则重心过高必翻。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;洞穴与宝石&lt;/strong&gt;：洞穴里光线很暗，宝石在暗处会有微弱反光。进洞前先记住路线，洞内的岔路容易迷路。宝石通常藏在需要攀爬的支线上，看到能爬的墙就上去看看。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人猿泰山绳索（本关重点）&lt;/strong&gt;：绳索段的标准玩法是：抓住绳子 → 左右摆动积累幅度 → 在摆向目标方向的最高点松手。想荡得远，身体要&lt;strong&gt;顺着摆动方向伸展&lt;/strong&gt;（摆到前方时身体前倾）。连续多根绳索时，每根都要重新积累幅度，别指望一次荡到底。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;翻不上平台&lt;/strong&gt;：抓的位置太低。跳高一点，抓边缘顶部。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;矿车过弯翻车&lt;/strong&gt;：没减速。进弯前站到车尾压住。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;洞穴里迷路&lt;/strong&gt;：没记路线。进洞前先看一眼整体走向。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;荡绳距离不够&lt;/strong&gt;：松手太早或身体没配合。摆动到最高点再松，身体顺势前倾。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 山地关的绳索段落是练&amp;quot;摆荡手感&amp;quot;的最佳场所，在这里练熟，后面所有绳索场景都能一次过。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/carry/" &gt;搬运关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/demolition/" &gt;拆除关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第六关：拆除 (Demolition) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/demolition/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/demolition/</guid><description>&lt;h1 id="-第六关拆除-demolition"&gt;🏗️ 第六关：拆除 (Demolition)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：利用重型吊车铁球砸穿砖墙，使用灭火器等重物砸碎玻璃窗，在摇晃的黄色脚手架上穿梭，最后利用屋顶吊车的挂钩荡向出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：玻璃碎裂物理系统、砖墙受力坍塌、铁球钟摆惯性、脚手架平衡。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/demolition.jpg" alt="拆除关卡砖墙与脚手架"&gt;
+ &lt;div class="img-caption"&gt;📸 破坏现场：晃动黄色吊车铁球，利用强大的动能撞毁阻挡去路的砖墙&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一木板与砸碎玻璃"&gt;阶段一：木板与砸碎玻璃
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：首先双手抓住并拔掉门上的两块木板。进入下一个房间，大门紧锁。捡起地面上的红色灭火器。举高灭火器，用力砸向窗户的玻璃，使其完全碎裂。接着翻过窗框进入下一个房间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二吊车钢性铁球--核心解谜"&gt;阶段二：吊车钢性铁球 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你将进入一个巨大的工地庭院，那里有一个黄色吊车操作台和一个悬挂的铁球。&lt;/li&gt;
+&lt;li&gt;爬上铁球旁边的水泥平台。双手抓住铁球。&lt;/li&gt;
+&lt;li&gt;向后拉拽铁球然后放手，利用 Bob 的身体重量使铁球形成钟摆运动，反复晃动累积惯性。&lt;/li&gt;
+&lt;li&gt;在摆动惯性达到最大的瞬间放手，让铁球猛烈撞向对面的砖墙。重复数次直到撞出大洞，然后穿过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三黄色脚手架与缝隙跳跃"&gt;阶段三：黄色脚手架与缝隙跳跃
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;走上黄色的钢制脚手架。注意，由于 Bob 摇摆的物理体质，脚手架会产生倾斜。&lt;/li&gt;
+&lt;li&gt;跳过脚手架之间的缝隙到达水泥地面。拉动墙上的拉闸以拉下货梯铁笼。&lt;/li&gt;
+&lt;li&gt;走入铁笼，再次拉下拉闸上升，上到更高的阳台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四床垫堆叠与屋顶吊车出口"&gt;阶段四：床垫堆叠与屋顶吊车出口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在堆放床垫的房间里，你需要翻越一扇很高的窗户。可以双手抓住并重叠堆放两个床垫，形成一个临时的斜坡，直接走上去。&lt;/li&gt;
+&lt;li&gt;爬上建筑物的屋顶。沿着黄色的吊车钢臂走到底。&lt;/li&gt;
+&lt;li&gt;抓住悬挂的吊钩，从屋顶边缘纵身跃下，在秋千摆荡的最高点松开吊钩，降落在下方的出口阳台上。跳入管道即可通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【左侧窗户直接攀爬跳过】&lt;/strong&gt;&lt;br&gt;
+ 你完全不需要费力晃动铁球。在进入吊车平台后，直接走到最左侧的悬崖边缘。面向左边建筑物上的窗户。助跑、跳跃并举起双手抓住窗框边缘。利用身体摆荡直接翻进窗户内。这能让你直接跳过撞墙解谜，节省将近2分钟的时间！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔨 暴力拆迁 (Brute Force)&lt;/strong&gt;：通关第六关“拆除”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🪟 走错方向 (Wrong Direction)&lt;/strong&gt;：完全不使用吊车铁球撞墙，而是通过左侧建筑物的窗户翻墙通关，即可解锁该隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;❄️ 惊喜！(Surprise! / Avalanche!)&lt;/strong&gt;：在户外的工地处，找到支撑着一大堆巨石的木质支架。双手抓住并用力拉扯木质支架，使巨石滚落触发“雪崩”即可。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;👊 返璞归真 (Primal)&lt;/strong&gt;：在不使用吊车铁球和灭火器等工具的情况下，用肉身冲撞、手撕或抛掷普通木板等杂物，强行破坏关卡中出现的 4 处可破坏的开裂砖墙。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;12 - 20 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;在窄脚手架上移动时请按 Shift 微微弯腰防滑&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;29.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用脚手架外边缘加速跑直接跃上屋顶&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;弹性碰撞与结构破坏&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;从高空坠落时，床垫可以垫脚以防摔倒摔懵&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/castle/" &gt;下一关卡：城堡 (Castle)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;碎玻璃&lt;/strong&gt;：玻璃是可以砸碎的通道，但需要&lt;strong&gt;足够的冲击速度&lt;/strong&gt;——助跑后跳起用身体撞，慢走撞上去只会弹回来。碎玻璃后会留下尖锐的边框，跨越时记得抬脚（跳跃）过，别直接走。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;巨型拆楼球（本关核心）&lt;/strong&gt;：拆楼球的操作和荡秋千完全一致——抓住铁链后，用 WASD 左右摆动积累幅度，&lt;strong&gt;在摆到最高点的瞬间松手&lt;/strong&gt;，球会带着巨大的动量砸向目标墙体。想砸得准，就要在摆动平面正对墙面时松手；想砸得狠，就积累三四个来回再放。这一手法在后面多个关卡复用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄色脚手架&lt;/strong&gt;：脚手架是可攀爬的，但横杆之间的间距较大，需要用&amp;quot;抓—荡—换手&amp;quot;的垂直爬墙手法。攀爬时优先抓&lt;strong&gt;横杆&lt;/strong&gt;而不是竖杆，横杆能站住脚可以休息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;床垫堆叠&lt;/strong&gt;：最后一段的床垫是用来缓冲的，需要堆在正下方才能接住你。堆叠时从下往上码，每放一个都确认它落稳了。跳下去前先确认床垫堆在落点正下方，偏一点都会摔伤。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;撞不碎玻璃&lt;/strong&gt;：速度不够。必须助跑起跳撞击。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;拆楼球砸偏&lt;/strong&gt;：松手时机不对。要在摆动最高点、且平面正对墙时松手。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;脚手架爬不上去&lt;/strong&gt;：抓竖杆。改抓横杆，能站脚休息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跳下来摔伤&lt;/strong&gt;：床垫没堆正。确认落点正下方再跳。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 拆迁关的拆楼球是练习&amp;quot;摆动 + 动量释放&amp;quot;的最佳道具，练熟后速通会快很多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/mountain/" &gt;山巅关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/castle/" &gt;城堡关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第七关：城堡 (Castle) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/castle/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/castle/</guid><description>&lt;h1 id="-第七关城堡-castle"&gt;🏰 第七关：城堡 (Castle)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：砸开锁住的木大门，旋转曲柄拉下投石机并进行自我发射，抓住转动的风车扇叶飞跃，撞响高塔的古钟，最后利用高空滑索跨越城堡外墙通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：砸击物理碰撞、杠杆卷扬机构、旋转离心速度、投体弹道惯性。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/castle.jpg" alt="城堡关卡外墙与投石机"&gt;
+ &lt;div class="img-caption"&gt;📸 城堡庭院：操作中世纪木制投石机，用来砸碎城墙或者把自己发射出去&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一石头砸铁锁"&gt;阶段一：石头砸铁锁
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：落入城堡庭院后，前方的木门被一个大铁锁锁住。从地上捡起一块小碎石，举过 Bob 的头顶，多次用力向铁锁砸去，直到将其砸碎。接着拉开木门通过。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二攻城投石机--核心解谜"&gt;阶段二：攻城投石机 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到庭院中巨大的木制投石机。双手抓住曲柄转轮，顺时针旋转，直到把投石机的发射网兜拉到地面。&lt;/li&gt;
+&lt;li&gt;从旁边捡起一块巨石放进网兜里。&lt;/li&gt;
+&lt;li&gt;抓住投石机侧面的释放拉杆用力拉动。巨石会被抛射出去，砸毁对面城墙的缺口。&lt;/li&gt;
+&lt;li&gt;再次重复转动曲柄将网兜拉下，但这次不要放石头，而是自己站进网兜内。拉动释放拉杆（单人时在网兜里够着拉，多人时让队友拉），将 Bob 发射到对面砸毁的城墙缺口内。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三风车旋转扇叶"&gt;阶段三：风车旋转扇叶
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;穿过城墙，沿着台阶走到巨大的风车前。&lt;/li&gt;
+&lt;li&gt;算准时间，双手举高抓住转动到地面附近的木制风车扇叶。&lt;/li&gt;
+&lt;li&gt;随着扇叶升到半空中。当扇叶旋转到最顶端时松手，借着惯性跳到左侧的城堡走廊平台上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大教堂古钟与高空滑索"&gt;阶段四：大教堂古钟与高空滑索
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;沿着城堡高塔的盘旋楼梯上行，来到挂着古老铜钟的钟楼。抓住古钟的钟摆晃动，让古钟发出响声（可解锁成就）。&lt;/li&gt;
+&lt;li&gt;走到钟楼阳台，双手抓住空中的滑索手柄。&lt;/li&gt;
+&lt;li&gt;纵身跳出阳台，顺着铁索滑向城堡的另一侧。&lt;/li&gt;
+&lt;li&gt;降落在外墙通道上，拉开两扇沉重的大铁门，跳入地上的缺口即可完成通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【投石机超远飞跃与回旋爬墙术】&lt;/strong&gt;&lt;br&gt;
+ 熟练的速通玩家可以利用投石机直接飞越整个峡谷，精准降落在最后的出口城墙门前。此外，你也可以利用“回旋爬墙法”（一只手抓墙，身体转动180度后用另一只手抓取更高处）直接翻越城堡的大石墙，完全跳过繁琐的风车与钟楼攀爬。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🏰 丧钟为谁而鸣 (For Whom the Bell Tolls)&lt;/strong&gt;：撞响钟楼里的大古钟。你可以双手抓住钟锤来撞击钟身，或者用石头砸击古钟使其发出巨响。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;☄️ 活人炮弹 (Improvised Ammo)&lt;/strong&gt;：将自己放在投石机的网兜里发射，并确保发射后安全降落在城墙裂缝内。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏃 身手敏捷 (Smooth Moves)&lt;/strong&gt;：在挂有路灯的胡同走廊中，通过踩在路灯和石质浮雕边缘进行跑酷，在脚不沾地的情况下抵达对面的阳台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚠 高空滑索 (Zipline)&lt;/strong&gt;：使用钟楼外面的高空滑索滑行。必须抓紧手柄直到完全抵达滑索的终点才能解锁该成就。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;20 - 30 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;投石机曲柄转轮必须转到底，否则抛射距离会不足&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 15 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;调整投石机角度，直接将自己发射到终点大铁门前&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;弹性势能与向心力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;双手必须牢牢抓住滑索手柄，防止中途滑落&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/water/" &gt;下一关卡：水 (Water)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;砸锁&lt;/strong&gt;：木门锁不需要用工具，靠&lt;strong&gt;身体冲撞&lt;/strong&gt;就能撞开——助跑后跳起、用肩膀（视角略微朝下）撞向锁的位置。原地挥拳是砸不开的。多人联机时几个人一起撞会快得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;投石机（本关核心）&lt;/strong&gt;：投石机的操作顺序是&amp;quot;挂配重 → 站进兜篮 → 松卡榫&amp;quot;。关键在配重：配重越重抛得越远，但太重会让抛射角度变平。想打高弹道就少放一点配重。站进兜篮后&lt;strong&gt;完全不要动&lt;/strong&gt;，任何挣扎都会让你在中途掉出来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风车叶片&lt;/strong&gt;：风车是在旋转的，站上去会被离心力带向外侧。正确做法是踩在&lt;strong&gt;靠近轴心&lt;/strong&gt;的叶片根部，随叶片转到最高点时跳向目标平台。踩在外圈必被甩飞。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;钟楼与滑索&lt;/strong&gt;：滑索要双手抓，滑到末端靠惯性荡上平台。钟楼的钟可以用摆荡技巧——抓住钟体后随它摆动，在高点松手，能直接荡过一大段距离，是速通常规操作。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;锁砸不开&lt;/strong&gt;：原地站着打。必须助跑 + 跳跃 + 肩撞。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;投石机把自己甩进墙里&lt;/strong&gt;：在兜篮里乱动。上去后保持静止。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风车上被甩飞&lt;/strong&gt;：踩在外圈。往轴心方向站。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;滑索中途掉落&lt;/strong&gt;：单手抓。滑索必须双手抓握。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 城堡关的投石机段落是全作最经典的场景之一，速通玩家能靠配重调整直接跳过风车段，值得反复练。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/demolition/" &gt;拆除关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/water/" &gt;水关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第八关：水 (Water) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/water/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/water/</guid><description>&lt;h1 id="-第八关水-water"&gt;⛵ 第八关：水 (Water)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：驾驶小木船与货运蒸汽车，操作运河船闸阀门控制水流升降，跨越巨大的旋转水轮，从高山滑梯滑下，最后以特定姿势跳入出口水池通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：液体浮力机制、方向盘舵控制、阀门流量力学、水轮离心攀爬、滑动摩擦力。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/water.jpg" alt="水关卡船只与灯塔"&gt;
+ &lt;div class="img-caption"&gt;📸 海事区域：开动蒸汽货船驶过运河，前往孤岛点亮灯塔的信标&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一划木船与秘密快艇"&gt;阶段一：划木船与秘密快艇
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：将木船推入水中，跳进船内，双手抓住桨，划动木桨跨越水湾。或者你也可以站在船舱内，双手抓住船底板，朝你想要移动的方向进行跳跃（“跳跳船”技巧），利用反作用力滑行。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;秘密快艇彩蛋&lt;/strong&gt;：在起点水湾的右后方，有两个巨大灰色岩石的夹缝中。那里停着一艘带有马达的秘密快艇，可以直接启动快速飞越水湾。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二开蒸汽货船与运河船闸--核心解谜"&gt;阶段二：开蒸汽货船与运河船闸 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;跳上大型蒸汽货船，抓住船舵的方向盘控制航向。&lt;/li&gt;
+&lt;li&gt;将货船驶入第一道船闸仓内。&lt;/li&gt;
+&lt;li&gt;爬上船闸两边的平台，双手抓住大阀门轮盘旋转，关闭进水闸门，开启蓄水闸门。&lt;/li&gt;
+&lt;li&gt;水位上升后，货船被浮力抬高。开动货船驶入下一个更高的闸仓。重复这一动作以跨越多个船闸。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三水力发电厂与吊车"&gt;阶段三：水力发电厂与吊车
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;来到水力处理厂。你会看到巨大的、旋转着的木制水车。&lt;/li&gt;
+&lt;li&gt;算准角度跳起抓住水车转动的木轮辐条，随着水车升起，在最高点跳到对面的铁跳板上。&lt;/li&gt;
+&lt;li&gt;走向吊车操作台，拉动杠杆转动钢索吊臂，甩动铁笼子。利用铁笼子作为跳板，或者拉着铁笼子上升登上高墙。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四高山滑道与跳水出口"&gt;阶段四：高山滑道与跳水出口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;走到高山水滑道的顶端。如果你想解锁“冲浪”成就，请在滑下时保持身体平稳平衡，不要脱离滑道跌入旁边的深水中。&lt;/li&gt;
+&lt;li&gt;滑到滑梯底部后，借着冲力奔跑向崖边起跳。&lt;/li&gt;
+&lt;li&gt;跃出悬崖，调整双手朝上（头朝下落水）或者朝下（脚踩水落水），精准掉入出口的漩涡池中。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【蒸汽货船撞墙直接登顶】&lt;/strong&gt;&lt;br&gt;
+ 你可以彻底跳过所有复杂的船闸蓄水解谜和水车攀爬。直接开动蒸汽货船，全速撞向高空轨道钢架旁的乱石堆。爬上货船的主舱顶端，利用撞墙的惯性起跳直接抓住钢架栏杆。沿着轨道走上去，1分钟即可直达高山滑道区域！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🧘 换气练习 (Breathing exercise)&lt;/strong&gt;：落水后，在 100 毫秒（0.1秒）内迅速爬出水面。可以在起点的小水洼处多尝试几次。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚣 荡起双桨 (Row, row, row your boat)&lt;/strong&gt;：划着小木船一直旅行到大型蒸汽货船的码头处。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⚓ 倒车入库 (Reverse gear)&lt;/strong&gt;：将蒸汽货船“屁股朝前”（倒车）开进最终的运河船闸中。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;💡 照亮前路 (Beacon)&lt;/strong&gt;：登上孤岛灯塔的旋转石台阶，抓住上方的油灯并移动，点亮灯塔信标。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏄 冲浪手 (Surfer)&lt;/strong&gt;：从高山水滑梯滑下时，保持身体不离开滑梯且衣服不沾水直到终点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🤸 头着地/脚着地完成梦境&lt;/strong&gt;：跳入终点池塘时，按住起跳，以头朝下倒栽葱或者脚朝下垂直的姿势完成关卡。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;20 - 30 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;站在木船内抓住船底跳跃移动比划桨更平稳快捷&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 45 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;蒸汽船撞轨技巧可以直接跳过90%的水中解谜&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;流体动力学与浮力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;在高空滑梯上向左右平移可以控制下滑的轨迹&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/power/" &gt;下一关卡：动力 (Power)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;划船与浮力&lt;/strong&gt;：小船靠桨推进，划桨要&lt;strong&gt;左右交替、节奏均匀&lt;/strong&gt;，只划一侧船会原地打转。船有浮力，站在船的一侧会让船倾斜，严重时翻船——始终保持站在船中央。撞到礁石后停下来重新摆正船身再走。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;货轮与舵&lt;/strong&gt;：货轮的转向和拖船一样有巨大惯性，要&lt;strong&gt;提前半个船身打舵&lt;/strong&gt;。看航路时把视线放远，盯着远处的目标而不是船头。过桥洞前一定要减速，货轮的刹车距离非常长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;水厂与起重机&lt;/strong&gt;：水厂的阀门控制水流方向，和蒸汽关同理——先看目标（这里是水轮机），再倒推开哪个阀。起重机遵循&amp;quot;先转后降&amp;quot;的原则，吊运时人在侧面操作，别站正下方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;山地滑道与跳水&lt;/strong&gt;：滑道段是纯速度体验，身体要&lt;strong&gt;保持流线型&lt;/strong&gt;（视角朝前、双手贴身）才能滑得快。最后的跳水要确保下方水深足够，头朝下入水（视角朝下）最安全，平着拍下去会受伤减速。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;船原地打转&lt;/strong&gt;：只划一侧。左右交替均匀划。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;货轮撞桥&lt;/strong&gt;：减速太晚。提前半个船身打舵并减速。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;起重机吊物乱晃&lt;/strong&gt;：边转边降。先转到位再降钩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跳水摔伤&lt;/strong&gt;：平着入水。头朝下、视角朝前下方。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 水域关是流程最长的一关，但难度不高，当成&amp;quot;放松关&amp;quot;来玩即可，重点是熟悉船只惯性。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/castle/" &gt;城堡关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/power/" &gt;动力关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第九关：动力 (Power) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/power/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/power/</guid><description>&lt;h1 id="-第九关动力-power"&gt;⚡ 第九关：动力 (Power)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：连接彩色电缆构建闭合回路，开动叉车与自卸卡车等工业机械，搬运煤炭填满熔炉发电，最后乘着大型风扇的上升气流飞向出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：电路闭合传导、车辆操作控制、流体阻力与风力、蒸汽压强系统。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/power.jpg" alt="动力关卡配电盘与车辆"&gt;
+ &lt;div class="img-caption"&gt;📸 配电网区域：为配电盘连接电池提供动力，操作大型工业叉车开门&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一电线接线与短路起火"&gt;阶段一：电线接线与短路起火
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：走到起点墙壁上的电线板前。双手拔下红色线头接在红色插孔上，拔下蓝色线头接在蓝色插孔上，以此通电开门。如果你想解锁“电工入门”成就，将红蓝两条线同时短路相连（即用一根蓝色电线连接正负两个电极），这会引发一声巨大的爆炸，将 Bob 炸飞并解锁成就。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二黄色叉车与雕像上的电池"&gt;阶段二：黄色叉车与雕像上的电池
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入下一个庭院，会有一辆黄色的叉车。踩上驾驶座，双手抓住方向盘驾驶叉车，将车前方的铁叉子插进滑门下方的缝隙中。&lt;/li&gt;
+&lt;li&gt;拉动叉车右侧的杠杆抬起铁叉，将铁门强行顶起。&lt;/li&gt;
+&lt;li&gt;在新庭院中，有一座高大的石雕，其手中握着一枚发光的电池。&lt;/li&gt;
+&lt;li&gt;攀爬石雕的底座并爬上雕像的手臂，双手抓住电池往下拉，将其夺下。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三卡车运煤与熔炉发电--核心解谜"&gt;阶段三：卡车运煤与熔炉发电 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到地上的自卸卡车，开动它并倒车进入阴暗的煤炭矿坑洞穴中。&lt;/li&gt;
+&lt;li&gt;用双手搬起散落在地上的煤块，扔进卡车的后车斗里。至少装载 10 块煤。&lt;/li&gt;
+&lt;li&gt;将卡车开回发电厂，拉动车内的自卸手柄将煤块倒在熔炉前。&lt;/li&gt;
+&lt;li&gt;将煤块一一丢入燃烧的熔炉入口，熔炉燃烧会累积蒸汽压强，启动发电机。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四大型气流风扇与飞跃出口"&gt;阶段四：大型气流风扇与飞跃出口
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;将关卡中收集到的 3 枚电池（包含从雕像手中抢到的那枚）全部接在发电机插槽上，以启动天花板上的巨型排风扇。&lt;/li&gt;
+&lt;li&gt;走到大风扇的正下方。随着风扇转速加快，风扇产生的上升气流会将 Bob 托起并漂浮到半空中。&lt;/li&gt;
+&lt;li&gt;利用方向键控制 Bob 的漂浮方向，飞越前方的悬崖缺口，平稳落在对面的出口管道前完成通关。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【叉车跳门与风扇飞跃逃票】&lt;/strong&gt;&lt;br&gt;
+ 你其实完全不需要开叉车。把叉车停在卷扬门下，爬上叉车的防滚架，你就可以直接抓住卷扬门的最上方，翻越过去跳过叉车谜题。此外，在最后一关的大风扇房间，你可以沿着右侧墙壁的管道进行单手爬墙，不用连接电池，直接跳到出风口跳台通关。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⚡ 这是终点？ (The End?)&lt;/strong&gt;：通关第九关“动力”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;💥 电工入门 (Electricity 101)&lt;/strong&gt;：将电线板正负极连在同一根线上，引发爆炸短路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🗿 小偷 (Thief)&lt;/strong&gt;：从小女孩石雕手中强行取走电池。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔋 会被炸吗？ (Will It Fry)&lt;/strong&gt;：用 3 块电池同时为一个家电/插槽通电。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏎️ 车手 (Petrolhead)&lt;/strong&gt;：开着叉车或者卡车在地图上累计行驶距离达到 1 公里。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚚 送货员 (Delivery Boy)&lt;/strong&gt;：驾驶卡车将 10 块煤成功运送到发电炉前并倒出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 35 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;插拔电线电缆时对准卡槽，防止松动断电&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 05 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;踩在叉车防滚护顶架上直接越过滑门&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;电路电路学与热压空气升力&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;飞起时伸长双手，以防被风扇吹偏撞到管道&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/aztec/" &gt;下一关卡：阿兹特克 (Aztec)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电缆布线&lt;/strong&gt;：电力关的布线和铜世界类似，但距离更长、障碍更多。核心原则：&lt;strong&gt;先确认用电设备位置，再沿墙根找最近插座&lt;/strong&gt;。电缆不能悬空，中间要贴墙或绕过管道。如果电缆长度不够，换插座比绕远路划算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;叉车操作&lt;/strong&gt;：叉车有两个操作位（方向盘和升降杆），单人要在两者之间来回跑。诀窍是&lt;strong&gt;先把货叉升到目标高度，再去开方向盘&lt;/strong&gt;，比边开边升稳得多。叉起货物后重心会前倾，倒车比前进稳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运煤与锅炉&lt;/strong&gt;：锅炉需要持续投煤才能维持压力。装煤时把铲子压低贴地推，抬太高会撒。投煤进炉口时站在正面轻轻松手，扔进去会弹出来。压力表的指针到绿区就可以去操作下一个机关了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;气流风扇浮空&lt;/strong&gt;：风扇的气流能把 Bob 托起来，控制高度靠身体姿态——张开双臂上升快，收拢下降快。在气流里不要挣扎，让它把你送到目标高度，接近时再收拢身体下降。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;电缆差一点够不着&lt;/strong&gt;：插座选远了。换最近的插座，别硬拉。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;叉车货物掉落&lt;/strong&gt;：边开边升。先定高度再开车，倒车行驶。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;煤撒了一路&lt;/strong&gt;：铲子抬太高。贴地推，慢走。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被气流吹飞&lt;/strong&gt;：身体没收拢。接近目标高度时立刻压低视角、收手。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 电力关是本作后期的大型关卡，流程较长但难度曲线平缓，按&amp;quot;布线 → 叉车 → 锅炉 → 气流&amp;quot;的顺序推进就不会乱。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/water/" &gt;水关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/aztec/" &gt;阿兹特克关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第十关：阿兹特克 (Aztec) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/aztec/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/aztec/</guid><description>&lt;h1 id="-第十关阿兹特克-aztec"&gt;🗿 第十关：阿兹特克 (Aztec)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：利用木板和石块作为杠杆撬倒巨型石板铺路，操纵摇晃的配重铁笼电梯上升，快速通过晃动的钟摆机关，在滚动的石球上保持平衡，最后跃入神庙深渊通关。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ffcc00; font-weight:bold;"&gt;★★★★☆（高难度挑战）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：支点杠杆原理、铁笼重力配重、钟摆节奏避让、球体逆向平衡、碰撞箱卡位。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/aztec.jpg" alt="阿兹特克古神庙遗迹"&gt;
+ &lt;div class="img-caption"&gt;📸 玛雅遗迹：利用木棍插入石缝作为杠杆，撬倒巨大的直立石板形成通路&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一杠杆撬动石板桥"&gt;阶段一：杠杆撬动石板桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：在起点房间里，有两根木棍和一块垂直竖立的巨型石板。将其中一根木棍平铺在地上作为支点。将另一根木棍一端插入直立石板下方的缝隙中。双手抓住木棍的另一端向下按，利用杠杆原理撬动石板。石板倾倒后会平铺在深渊上，形成一座通往对面的石桥。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二重力配重铁笼电梯"&gt;阶段二：重力配重铁笼电梯
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;来到挂着两个大铁笼的庭院。&lt;/li&gt;
+&lt;li&gt;跳进第一个铁笼中。由于 Bob 的肉身重力，该铁笼会下沉，同时通过绳索拉起第二个铁笼。&lt;/li&gt;
+&lt;li&gt;从第一个铁笼跳到中间的石墙平台，然后再跳上被拉高的第二个铁笼。&lt;/li&gt;
+&lt;li&gt;从第二个铁笼顶端跳上高处的边缘。如果你想解锁“鸟瞰”成就，可以在此处跳到旁边长着鸟巢的树枝上，并顺着树干爬到树顶。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三致命钟摆障碍赛--核心解谜"&gt;阶段三：致命钟摆障碍赛 ⭐ 核心解谜
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你将进入一条长长的走廊，几枚巨大的石钟摆正在一条狭窄摇晃的石桥上空来回剧烈摆动。&lt;/li&gt;
+&lt;li&gt;观察钟摆摆动的轨迹和节奏。&lt;/li&gt;
+&lt;li&gt;当钟摆荡走时加速跑过去。按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 弯腰降低 Bob 的身体高度，以减少被钟摆擦边撞飞入深渊的几率。&lt;/li&gt;
+&lt;li&gt;算好时间跳过桥梁之间的缝隙。若要在 60 秒内通过这道障碍走廊，可以解锁“发条”隐藏成就。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四滚动大石球平衡"&gt;阶段四：滚动大石球平衡
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;找到斜坡顶端静止的巨大石球。&lt;/li&gt;
+&lt;li&gt;双手推动石球，让它在斜坡上向下滚动。&lt;/li&gt;
+&lt;li&gt;迅速跳到滚动的石球顶部。随着石球滚下，你必须朝着石球滚动的反方向迈步或奔跑，以保持身体在球顶部的重力平衡。&lt;/li&gt;
+&lt;li&gt;保持平衡直到石球滚落入尽头的深坑中，卡死形成一个稳定的落脚石，踩着它跳进神庙入口。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-解锁隐藏技巧"&gt;💡 解锁隐藏技巧
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【神庙雕像后门直接出关】&lt;/strong&gt;&lt;br&gt;
+ 你可以跳过整个关卡 90% 的解谜。在阶段二的铁笼区域，利用“回旋爬墙术”顺着神庙外墙上的玛雅人脸浮雕边缘往上爬。爬上神庙的楼顶后，走到后方的几何死角，你会发现一个没有封闭的贴图缝隙。直接钻进这个“漏洞”自由落体，你会直接掉入出口漩涡出关！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🗿 玛雅终点 (The End)&lt;/strong&gt;：通关第十关“阿兹特克”后自动解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🦅 鸟瞰 (Bird’s Eye View)&lt;/strong&gt;：爬上配重铁笼庭院中长着鸟巢的大树顶端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⚽ 滚石 (Rollin’)&lt;/strong&gt;：在阶段四中，全程站在滚动的石球顶部随它滑行通过深渊，期间身体没有从球上滑落，也没有碰到两边的墙壁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⏱️ 发条 (Clockwork)&lt;/strong&gt;：在 60 秒内快速穿过阶段三的全部钟摆石桥通道。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 40 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;走过钟摆石桥时，按住 Shift 弯腰能极大提升稳定性&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;44.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用神庙浮雕贴图缝隙直接跳过所有解谜&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;杠杆力矩与动平衡&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;踩在石球上时，视角向下看球心更易保持平衡&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/dark/" &gt;下一关卡：黑暗 (Dark)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;石板杠杆&lt;/strong&gt;：杠杆段的诀窍是&lt;strong&gt;站得远、压得久&lt;/strong&gt;。双手抓住杠杆长臂的末端（越远力矩越大），整个人的重量压上去，石板才会翘到足够的高度。短促地跳上去压一下是没用的，需要保持两秒左右让机关到位，再由同伴或自己快速通过。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;配重笼电梯&lt;/strong&gt;：电梯靠配重升降，重物放得越多升得越快。单人过关时把石块一块块搬进配重笼，到位后自己再进轿厢。注意配重过轻电梯会卡在半空，这时别硬爬，下来补配重重来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;钟摆障碍&lt;/strong&gt;：阿兹特克的钟摆速度很快，硬闯必被扫飞。观察两三个来回就能摸清节奏——钟摆扫过后的&lt;strong&gt;空档约一秒半&lt;/strong&gt;，够跑过一段。需要连续通过多个钟摆时，在每段之间的安全岛上等一个完整周期再走。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;滚球平衡&lt;/strong&gt;：站在巨型石球上移动，靠的是&lt;strong&gt;反向微调&lt;/strong&gt;：球往哪边滚，你就往反方向轻轻移动重心。不要大幅跑动，用小碎步调整。球滚到目标位置后要立刻跳下来，多站一秒球就会继续滚。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;杠杆压不下去&lt;/strong&gt;：站得太靠近支点。一定抓长臂最远端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电梯卡半空&lt;/strong&gt;：配重不够。下来补石头，别尝试攀爬井壁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被钟摆扫飞&lt;/strong&gt;：抢时间。每个钟摆至少观察一个完整周期。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;从石球上摔下来&lt;/strong&gt;：大幅跑动。用小碎步反向微调重心。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 阿兹特克关的碰撞体积判定比较&amp;quot;黏&amp;quot;，贴墙攀爬时多利用身体撞击产生的位移，能爬上不少看似上不去的墙。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/power/" &gt;动力关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/dark/" &gt;黑暗关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第十一关：黑暗 (Dark) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/dark/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/dark/</guid><description>&lt;h1 id="-第十一关黑暗-dark"&gt;🌃 第十一关：黑暗 (Dark)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：穿过阴森的夜间庄院，通过连接电线电路为安全门供电，攀爬旋转的时钟塔齿轮，并启动蒸汽发电机，利用高空滑索到达出口。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#ff3366; font-weight:bold;"&gt;★★★★☆（极具挑战）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：电路接线、重斧砍树劈门、齿轮跳跃、铲煤点火、高空滑索荡漾。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/dark.jpg" alt="黑暗关卡大门"&gt;
+ &lt;div class="img-caption"&gt;📸 夜幕庄园：欢迎来到黑暗之夜。注意脚下的悬崖和发电机区域，光线较暗请小心行进。&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一阴森起点"&gt;阶段一：阴森起点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：翻越断崖到达城堡前院。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你在一块黑暗的悬崖露台上醒来。拿起地上的木板，搭在对面的石柱上做成简易桥。&lt;/li&gt;
+&lt;li&gt;小心走过去。如果掉下去，可以尝试抓住上方的铁灯笼，或者利用墙壁上的铁环荡到对岸。&lt;/li&gt;
+&lt;li&gt;找到铁门旁的拉杆拉起铁门，从门下钻过去进入庄园。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二双电池供电大门"&gt;阶段二：双电池供电大门
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：寻找红蓝两块电池以给大门开关板供电。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;观察大门旁的控制板，它需要安装一红一蓝两块电池。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;红色电池&lt;/strong&gt;：走向左侧的石阶，会看到红色电池位于一个高石柱顶端。搬来旁边的长椅或箱子垫脚，踩上去把电池拽下来。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;蓝色电池&lt;/strong&gt;：走向右侧的木屋。木屋窗户被木条封死。从旁边的墙上取下沉重的铁斧，挥舞铁斧砸碎窗户的木条。爬进去拿到蓝色电池并从窗户扔出来。&lt;/li&gt;
+&lt;li&gt;将两块电池拖到大门控制槽内塞入，拉下拉杆，铁门开启。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三砍树搭桥"&gt;阶段三：砍树搭桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;面前是一条深沟，对岸有一棵高耸的松树。&lt;/li&gt;
+&lt;li&gt;拿起斧头砍击松树根部（或者直接拔掉支撑树干的木楔子）。&lt;/li&gt;
+&lt;li&gt;松树会应声倒下，横跨在深沟上形成独木桥。保持平衡慢速走过去（按住 &lt;span class="kbd-key"&gt;Shift&lt;/span&gt; 降低重心）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四时钟塔大齿轮--核心解谜"&gt;阶段四：时钟塔大齿轮 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;本关的平台跳跃难点，需要极高的时机配合。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/power.jpg" alt="时钟塔内齿轮"&gt;
+ &lt;div class="img-caption"&gt;📸 时钟齿轮：攀爬不断旋转的巨大木质齿轮以到达塔顶钟面&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入钟楼底部，走上石阶，跳上第一个水平旋转的齿轮。&lt;/li&gt;
+&lt;li&gt;踩在木齿轮的平整面，随其旋转到另一端，跳到下一个逆向旋转的齿轮上。&lt;/li&gt;
+&lt;li&gt;拿到墙上挂着的铁钥匙，用它解开钟表传动机构上的铁锁。&lt;/li&gt;
+&lt;li&gt;爬到外墙的钟面边缘，用双手抓住并推动巨大的时针和分针，将其对准 12:00 整，即可触发下方吊桥降落。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段五锅炉点火与滑索逃生"&gt;阶段五：锅炉点火与滑索逃生
+&lt;/h3&gt;&lt;p&gt;终极谜题，需要启动蒸汽升降机并利用缆索飞跃。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入发电机房，用铲子将地上的煤炭一块块铲进锅炉中。&lt;/li&gt;
+&lt;li&gt;关上炉门，拉动拉杆启动蒸汽涡轮，观察气压表升至最大。&lt;/li&gt;
+&lt;li&gt;站在蒸汽升降机平台上，随之升上最高处的平台。&lt;/li&gt;
+&lt;li&gt;捡起地上的铜导线，将其接入变压箱，为滑车轨道通电。&lt;/li&gt;
+&lt;li&gt;抓住滑轮的黄色手柄，纵身一跃，滑过夜空直接坠入终点传送门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-独家通关秘籍与速通黑科技"&gt;💡 独家通关秘籍与速通黑科技
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【终极滑索逃课技巧】&lt;/strong&gt;&lt;br&gt;
+ 你根本不需要花时间去接通变压器的复杂电路。直接抱起那根沉重的备用黄色插头，走向阳台边缘。在跳下悬崖的瞬间，用双手死死挂在滑轮钢索上。物理引擎的惯性会将你以极高速度直接甩进终点传送门！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔔 丧钟为谁而鸣&lt;/strong&gt;：在钟楼内挂着大中小三口钟。找根木棍或用双手按顺序敲击它们（小 -&amp;gt; 中 -&amp;gt; 大），可以听到神秘的和弦音并解锁官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🕯️ 探险火把&lt;/strong&gt;：在山洞通道里藏有一根火把。将其拿到锅炉的火苗处点燃，带入漆黑的洞穴深处，可以照亮一幅绘制有 Bob 的古老壁画。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 35 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;搬运斧头时要拿稳，甩飞容易掉落悬崖&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1 分 12 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用单手极限爬墙直接跳过前半段电池解密&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;电路联通、蒸汽压强&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;必须关闭锅炉门才能快速聚气&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/steam/" &gt;下一关卡：蒸汽 (Steam)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电路接线&lt;/strong&gt;：本关的电池和插座都有颜色对应，接线时&lt;strong&gt;先看颜色再看位置&lt;/strong&gt;。电线不能悬空，要贴墙走，中途遇到障碍就换一条路径。双手各拿一端的接法（Bob 自己当导线）是本关的特色机制，走位时要贴着墙根移动，避免把线扯断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重型斧头&lt;/strong&gt;：挥斧和维京关同理，靠&lt;strong&gt;躯干旋转&lt;/strong&gt;发力。站定后 WASD 左右快速交替，让身体带动斧头划弧。斧头很重，挥空后要等它落地站稳再挥下一记，连续挥砍会自己绊倒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;齿轮平台&lt;/strong&gt;：黑暗关的齿轮是主要落脚点，踩齿轮要遵循&amp;quot;&lt;strong&gt;上半圈、近轴心&lt;/strong&gt;&amp;ldquo;原则——齿轮转到接近顶点、且你踩在靠近轴心处时最稳。两个齿轮之间的跨越要等它们转向一致的瞬间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高压电线滑行&lt;/strong&gt;：滑电线时身体会明显下坠，必须&lt;strong&gt;双手抓&lt;/strong&gt;并尽量收拢身体（视角朝上）。滑到中段如果高度不够，用&amp;quot;交替换手向上攀&amp;quot;的手法补高度，这招在长距离电线上是必备技能。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;接了线没反应&lt;/strong&gt;：颜色对错了，或者线被扯断。重新理线，贴墙走。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;斧头挥空后摔倒&lt;/strong&gt;：连续挥砍。每挥一记都等身体站稳。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;齿轮上站不住&lt;/strong&gt;：踩在外圈或下半圈。等上半圈、往轴心站。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电线滑到一半掉下&lt;/strong&gt;：身体散开导致下坠过快。收拢身体、双手抓。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 黑暗关视野很差，建议先把画面亮度调高，接线段的走位会清楚很多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/aztec/" &gt;阿兹特克关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/steam/" &gt;蒸汽关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第十二关：蒸汽 (Steam) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/steam/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/steam/</guid><description>&lt;h1 id="-第十二关蒸汽-steam"&gt;💨 第十二关：蒸汽 (Steam)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：操作工业阀门改变蒸汽流向、拼接铜管导线、攀爬重力活塞并操纵巨型挖掘机吊臂，砸穿工厂围墙通向终点。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#00ff66; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：阀门旋转、管道拼插、高压喷气飞跃、液压拉杆操作。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/steam.jpg" alt="蒸汽工业设施"&gt;
+ &lt;div class="img-caption"&gt;📸 蒸汽活塞室：将正确的蒸汽压强管道连接到分流器，以启动活塞组开辟道路。&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一首个阀门铁门"&gt;阶段一：首个阀门铁门
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：引导蒸汽吹开被木板封死的前路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;走到关闭的大铁门旁。墙壁上有一根缺失了一截的铜管道。&lt;/li&gt;
+&lt;li&gt;捡起地上散落的 T 型三通管道，将其拼插进管道缺口中。&lt;/li&gt;
+&lt;li&gt;双手抓住圆形的阀门手轮，顺时针方向推着手轮绕圈转动（控制 Bob 绕圈走路），直至阀门拧紧。&lt;/li&gt;
+&lt;li&gt;蒸汽压力集聚，会将铁炉门猛烈吹开，露出前进的通道。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二活塞断桥"&gt;阶段二：活塞断桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：越过深水池到达高台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入高耸的锅炉房，这里有三个上下往复运动的重型金属活塞。&lt;/li&gt;
+&lt;li&gt;如果活塞静止，需要先将墙壁上的蓝色管道接到主蒸汽分配器上。&lt;/li&gt;
+&lt;li&gt;待活塞开始泵动后，在第一个活塞降到最低点时跳上去。&lt;/li&gt;
+&lt;li&gt;等到第一个活塞升到最高点，起跳落到第二个活塞上，再跳到第三个，最终登上对面高台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三高压气流喷射口--核心解谜"&gt;阶段三：高压气流喷射口 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;利用物理压强获得超高垂直位移的必修课。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="高压气流喷射"&gt;
+ &lt;div class="img-caption"&gt;📸 蒸汽起飞：站在排气口上，借助瞬间释放的工业蒸汽将 Bob 推向高空。&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在地面上找到巨大的排气格栅管。&lt;/li&gt;
+&lt;li&gt;拖来旁边沉重的混凝土圆柱体，严严实实地堵在排气口上。&lt;/li&gt;
+&lt;li&gt;拧动旁边的黄色阀门到最大，气压在混凝土块下不断积聚。&lt;/li&gt;
+&lt;li&gt;站到混凝土块顶端。在蒸汽猛烈喷射、将石块冲起的一瞬间起跳。你将被高压蒸汽带起，飞跃到上方的长廊。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四挖掘机吊臂操作"&gt;阶段四：挖掘机吊臂操作
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;爬上停在院子中央的黄色巨型挖掘机驾驶室。&lt;/li&gt;
+&lt;li&gt;驾驶室有两个操作拉杆：左侧拉杆控制铲斗臂的抬升与下压，右侧拉杆控制车身旋转。&lt;/li&gt;
+&lt;li&gt;用双手抓住拉杆前后推拉，操控铲斗左右摆荡。&lt;/li&gt;
+&lt;li&gt;操控铲斗猛烈撞击右侧的砖墙，砸出一个缺口。或者直接将吊臂停在半空中，将其作为铁桥走过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段五终极锅炉房"&gt;阶段五：终极锅炉房
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在最后一个庭院，你必须启动巨型风扇，利用风力漂浮到出口传送门。&lt;/li&gt;
+&lt;li&gt;收集散落在院子各处的三个长管道配件。&lt;/li&gt;
+&lt;li&gt;将管道依次串联，从蒸汽出气口接到风扇底座的接口。&lt;/li&gt;
+&lt;li&gt;旋转最后的红色手轮，风扇将高速转动。跳入上升气流中，乘风飞向空中传送门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-独家通关秘籍与速通黑科技"&gt;💡 独家通关秘籍与速通黑科技
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【极限空气动力飞跃】&lt;/strong&gt;&lt;br&gt;
+ 你可以完全跳过挖掘机和砸墙的步骤！直接站在高压排气格栅上，不要使用混凝土块。将视角完全看地，双手高举起跳。利用 Bob 碰撞体积产生的瞬间压力溢出，物理引擎会将你直接弹飞到挖掘机顶部的钢架上，直接翻墙通过！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔥 焚烧炉的怒火&lt;/strong&gt;：在后院藏有若干黄色气罐。将其中三个气罐扔进燃烧的火炉中，会导致锅炉烟囱喷出绚丽的火球，并解锁官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🛞 快乐摩天轮&lt;/strong&gt;：爬上不断转动的巨大圆形汽轮机顶部，在其旋转一整圈的过程中保持平衡不摔落，即可触发“游乐场”彩蛋。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 30 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;拧动阀门时顺着圈走，不容易脱手&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;45.2 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用排气口惯性直接飞过高墙&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;气压势能、杠杆原理&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;组装管道时需对准绿色的管道母口&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/ice/" &gt;下一关卡：冰 (Ice)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;阀门旋转&lt;/strong&gt;：蒸汽关的阀门有旋转圈数限制，拧到头会&amp;quot;咔&amp;quot;一声卡住，这时&lt;strong&gt;不要再硬拧&lt;/strong&gt;，回半圈往往能让压力重新平衡。判断该拧哪个阀门的方法是：拧一下就跑去看目标机关有没有反应，有反应就继续，没反应就复位换下一个。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;管道组装&lt;/strong&gt;：管道要对准接口才能接上，接口处有细微的卡扣提示。组装时先把管道&lt;strong&gt;大致对准&lt;/strong&gt;，然后小幅调整位置让它滑进去，硬怼是装不上的。管道接好后蒸汽会从接缝处泄漏（视觉上有白雾），漏气的接口要重新插紧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高压蒸汽喷射&lt;/strong&gt;：蒸汽喷口是标准的&amp;quot;电梯&amp;quot;，站在喷口上方会被顶飞。安全用法是等一次喷射结束、看清节奏后再站上去，被顶到最高点时补一个跳跃能获得额外高度。注意喷射有间隔，别在喷射前一刻才站上去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;液压挖掘臂&lt;/strong&gt;：和森林关的挖掘机同理，先转臂再动铲斗，同时操作必定失衡。挖掘臂在这里主要用来搬开挡路的钢梁，把铲斗放低贴地推最省力。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;阀门拧坏卡死&lt;/strong&gt;：拧到头还在硬拧。听到&amp;quot;咔&amp;quot;就停，回半圈。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;管道接不上&lt;/strong&gt;：硬怼。先粗对准再小幅调整让它滑入。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被蒸汽顶飞到尖刺上&lt;/strong&gt;：时机不对。等喷射结束再上，最高点补跳。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;挖掘臂翻车&lt;/strong&gt;：同时操作了转臂和铲斗。分两步来。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 蒸汽关的谜题环环相扣，卡住时按&amp;quot;阀门 → 管道 → 压力&amp;quot;的顺序倒推，比乱试效率高得多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/dark/" &gt;黑暗关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/ice/" &gt;冰关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>人类一败涂地 第十三关：冰 (Ice) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/ice/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/ice/</guid><description>&lt;h1 id="-第十三关冰-ice"&gt;❄️ 第十三关：冰 (Ice)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：攀登冰封的冰川，利用放大镜汇聚阳光融化冰块，穿越光滑的雪道，搭乘滑雪场索道缆车，并滑下冰轨直达终点。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#00ff66; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：零摩擦冰面滑行、冰块融化、透镜聚焦折射、缆车抓取、滚雪球。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/ice.jpg" alt="冰川与雪景"&gt;
+ &lt;div class="img-caption"&gt;📸 冰封荒野：在蓝色冰面上滑行时要格外小心，这些表面是完全没有摩擦力的！&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一零摩擦力冰斜坡"&gt;阶段一：零摩擦力冰斜坡
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：越过光滑的冰坡到达第一个木屋。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;向前走到雪地上。白雪具有正常摩擦力，但&lt;strong&gt;蓝色冰面摩擦力为零&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;顺着斜坡滑下。通过将视角朝向前后来控制平衡。&lt;/li&gt;
+&lt;li&gt;拿到坡底的木板，架在冰裂缝上，踩着木板走过去到达木屋门前。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二聚焦太阳能放大镜--核心解谜"&gt;阶段二：聚焦太阳能放大镜 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;利用光热学原理融化障碍冰块的必修课。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/ice-2.jpg" alt="日光放大镜谜题"&gt;
+ &lt;div class="img-caption"&gt;📸 放大镜：调节巨大透镜的角度，聚焦阳光光束以融化封堵石门的冰块。&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入庭院，看到一个安装在可转动支架上的巨型放大镜。&lt;/li&gt;
+&lt;li&gt;抬头，双手抓住透镜外框的控制手柄。&lt;/li&gt;
+&lt;li&gt;转动透镜，使聚焦的金色光束精准照射在洞口被冰封的钥匙冰块上。&lt;/li&gt;
+&lt;li&gt;保持光束照射大约 15 秒，冰块完全融化，露出里面的钥匙。将烫手的钥匙拖到阴凉处冷却，即可拿去开锁进入山洞。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三索道椅缆车"&gt;阶段三：索道椅缆车
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;穿过山洞后，你会看到运转中的滑雪场索道缆车，吊椅在空中循环移动。&lt;/li&gt;
+&lt;li&gt;等待吊椅转过来。&lt;/li&gt;
+&lt;li&gt;跑动、起跳，&lt;strong&gt;用双手死死抓住吊椅下方的金属横杆&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;随吊椅悬挂在空中升上山顶。当吊椅运行到高处木平台正上方时，松开双手降落。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四滚雪球垫脚石"&gt;阶段四：滚雪球垫脚石
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;你需要攀爬上一个极高的石台，但周围没有任何箱子。&lt;/li&gt;
+&lt;li&gt;在雪堆里找到一个小雪球，推着它在雪地上滚动。雪球会越滚越大、越重。&lt;/li&gt;
+&lt;li&gt;待雪球尺寸足够大时，将其推到高石台下方。&lt;/li&gt;
+&lt;li&gt;踩在巨大的雪球顶端，起跳并拉上高台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段五冰川跷跷板索道"&gt;阶段五：冰川跷跷板索道
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;踩在悬崖边向外延伸的木质跷跷板上。&lt;/li&gt;
+&lt;li&gt;走到最外侧让木板向下倾斜，随后快速往回跑，起跳抓住高空铁滑车。&lt;/li&gt;
+&lt;li&gt;借助索道重力滑向对面的冰川。&lt;/li&gt;
+&lt;li&gt;落在雪地上，顺着最后的螺旋冰滑梯一路飞驰，直接滑入终点传送门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-独家通关秘籍与速通黑科技"&gt;💡 独家通关秘籍与速通黑科技
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【冰坡斜向滑行飞跃】&lt;/strong&gt;&lt;br&gt;
+ 在第一个长斜坡处，你完全不需要去搬木板。直接面向侧面起跳，滑下冰坡。在临近边缘的一瞬间按下跳跃键并前扑。零摩擦冰面赋予你的极高速度会将 Bob 直接发射到第二个木屋平台上，省去搭桥时间！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;⛄ 堆雪人&lt;/strong&gt;：在缆车附近有一个无头的雪人。在旁边找一个小的圆形雪球，用双手抱起来，精准放在雪人脖子上。这将解锁“按图索骥”的隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🛷 雪橇速滑冠军&lt;/strong&gt;：在山顶小屋里藏着一架木雪橇。将雪橇拖到山顶最高处，双手抓住扶手坐上去，一路滑下山坡直达湖面而不摔倒。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;20 - 25 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;在雪地上可以站稳，利用雪地来停下刹车&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;52.8 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;从缆车上直接极限跳跃滑向吊轨跳过跷跷板&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;冰块融化、摩擦力变化&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;融化后的钥匙很热，需丢在雪地里降温后才能拿&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/thermal/" &gt;下一关卡：热能 (Thermal)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;零摩擦冰面&lt;/strong&gt;：冰面上几乎无法急停，所有移动都要&lt;strong&gt;提前减速&lt;/strong&gt;。想停下就往反方向轻点，或者主动抓旁边的固定物。冰面上跳跃会保持水平速度，落地后继续滑行——利用这一点可以做出长距离滑铲，比走路快得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;放大镜阳光谜题&lt;/strong&gt;：放大镜需要把阳光聚焦到冰块上才能融化。调整角度时要看&lt;strong&gt;地面上的光斑&lt;/strong&gt;，光斑最亮最小的位置就是焦点。放大镜通常可以旋转和推动，先粗调朝向、再微调俯仰角。融化需要几秒，耐心等，别一直动镜子。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;滑雪缆车&lt;/strong&gt;：缆车是简单的等待型机关，但上缆车前要&lt;strong&gt;站在正确的位置&lt;/strong&gt;（吊椅过来的路径上）。坐上后不要动，等它把你送到终点再跳下。中途跳下会直接掉进雪谷。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;滚雪球&lt;/strong&gt;：雪球越滚越大，需要把它从雪坡上推下去。推的时候&lt;strong&gt;双手推、走直线&lt;/strong&gt;，雪球偏离路线就很难救回来。雪球到达终点前要确保路径上没有挡路的障碍。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;在冰上滑出平台&lt;/strong&gt;：没提前减速。接近边缘时就往反方向轻点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;放大镜对不准&lt;/strong&gt;：一直动镜子。固定后等 3-5 秒观察融化进度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;上不了缆车&lt;/strong&gt;：站位不对。站到吊椅行进路线的正下方等着。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;雪球推偏&lt;/strong&gt;：单手推导致偏航。务必双手推、走直线。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 冰雪关的滑行手感很有趣，熟练后可以用&amp;quot;滑行跳跃&amp;quot;做出非常漂亮的连续位移，值得练。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/steam/" &gt;蒸汽关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/candyland/" &gt;糖果乐园关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

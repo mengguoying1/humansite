@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蒸汽 on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/%E8%92%B8%E6%B1%BD/</link><description>Recent content in 蒸汽 on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/%E8%92%B8%E6%B1%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>人类一败涂地 第十二关：蒸汽 (Steam) 通关攻略</title><link>https://www.mrm777.win/zh-cn/guides/steam/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/guides/steam/</guid><description>&lt;h1 id="-第十二关蒸汽-steam"&gt;💨 第十二关：蒸汽 (Steam)
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;通关条件&lt;/strong&gt;：操作工业阀门改变蒸汽流向、拼接铜管导线、攀爬重力活塞并操纵巨型挖掘机吊臂，砸穿工厂围墙通向终点。
+&lt;strong&gt;难度系数&lt;/strong&gt;：&lt;span style="color:#00ff66; font-weight:bold;"&gt;★★★☆☆（中等难度）&lt;/span&gt;
+&lt;strong&gt;核心机制&lt;/strong&gt;：阀门旋转、管道拼插、高压喷气飞跃、液压拉杆操作。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/steam.jpg" alt="蒸汽工业设施"&gt;
+ &lt;div class="img-caption"&gt;📸 蒸汽活塞室：将正确的蒸汽压强管道连接到分流器，以启动活塞组开辟道路。&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-阶段式解锁流程"&gt;🗺️ 阶段式解锁流程
+&lt;/h2&gt;&lt;h3 id="阶段一首个阀门铁门"&gt;阶段一：首个阀门铁门
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：引导蒸汽吹开被木板封死的前路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;走到关闭的大铁门旁。墙壁上有一根缺失了一截的铜管道。&lt;/li&gt;
+&lt;li&gt;捡起地上散落的 T 型三通管道，将其拼插进管道缺口中。&lt;/li&gt;
+&lt;li&gt;双手抓住圆形的阀门手轮，顺时针方向推着手轮绕圈转动（控制 Bob 绕圈走路），直至阀门拧紧。&lt;/li&gt;
+&lt;li&gt;蒸汽压力集聚，会将铁炉门猛烈吹开，露出前进的通道。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段二活塞断桥"&gt;阶段二：活塞断桥
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;：越过深水池到达高台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;进入高耸的锅炉房，这里有三个上下往复运动的重型金属活塞。&lt;/li&gt;
+&lt;li&gt;如果活塞静止，需要先将墙壁上的蓝色管道接到主蒸汽分配器上。&lt;/li&gt;
+&lt;li&gt;待活塞开始泵动后，在第一个活塞降到最低点时跳上去。&lt;/li&gt;
+&lt;li&gt;等到第一个活塞升到最高点，起跳落到第二个活塞上，再跳到第三个，最终登上对面高台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段三高压气流喷射口--核心解谜"&gt;阶段三：高压气流喷射口 ⭐ 核心解谜
+&lt;/h3&gt;&lt;p&gt;利用物理压强获得超高垂直位移的必修课。&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="高压气流喷射"&gt;
+ &lt;div class="img-caption"&gt;📸 蒸汽起飞：站在排气口上，借助瞬间释放的工业蒸汽将 Bob 推向高空。&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;标准解法&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在地面上找到巨大的排气格栅管。&lt;/li&gt;
+&lt;li&gt;拖来旁边沉重的混凝土圆柱体，严严实实地堵在排气口上。&lt;/li&gt;
+&lt;li&gt;拧动旁边的黄色阀门到最大，气压在混凝土块下不断积聚。&lt;/li&gt;
+&lt;li&gt;站到混凝土块顶端。在蒸汽猛烈喷射、将石块冲起的一瞬间起跳。你将被高压蒸汽带起，飞跃到上方的长廊。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段四挖掘机吊臂操作"&gt;阶段四：挖掘机吊臂操作
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;爬上停在院子中央的黄色巨型挖掘机驾驶室。&lt;/li&gt;
+&lt;li&gt;驾驶室有两个操作拉杆：左侧拉杆控制铲斗臂的抬升与下压，右侧拉杆控制车身旋转。&lt;/li&gt;
+&lt;li&gt;用双手抓住拉杆前后推拉，操控铲斗左右摆荡。&lt;/li&gt;
+&lt;li&gt;操控铲斗猛烈撞击右侧的砖墙，砸出一个缺口。或者直接将吊臂停在半空中，将其作为铁桥走过去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="阶段五终极锅炉房"&gt;阶段五：终极锅炉房
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;指南&lt;/strong&gt;：
+&lt;ol&gt;
+&lt;li&gt;在最后一个庭院，你必须启动巨型风扇，利用风力漂浮到出口传送门。&lt;/li&gt;
+&lt;li&gt;收集散落在院子各处的三个长管道配件。&lt;/li&gt;
+&lt;li&gt;将管道依次串联，从蒸汽出气口接到风扇底座的接口。&lt;/li&gt;
+&lt;li&gt;旋转最后的红色手轮，风扇将高速转动。跳入上升气流中，乘风飞向空中传送门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-独家通关秘籍与速通黑科技"&gt;💡 独家通关秘籍与速通黑科技
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【极限空气动力飞跃】&lt;/strong&gt;&lt;br&gt;
+ 你可以完全跳过挖掘机和砸墙的步骤！直接站在高压排气格栅上，不要使用混凝土块。将视角完全看地，双手高举起跳。利用 Bob 碰撞体积产生的瞬间压力溢出，物理引擎会将你直接弹飞到挖掘机顶部的钢架上，直接翻墙通过！
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-隐藏要素与彩蛋"&gt;🏆 隐藏要素与彩蛋
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔥 焚烧炉的怒火&lt;/strong&gt;：在后院藏有若干黄色气罐。将其中三个气罐扔进燃烧的火炉中，会导致锅炉烟囱喷出绚丽的火球，并解锁官方隐藏成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🛞 快乐摩天轮&lt;/strong&gt;：爬上不断转动的巨大圆形汽轮机顶部，在其旋转一整圈的过程中保持平衡不摔落，即可触发“游乐场”彩蛋。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-关卡核心参数监控"&gt;📊 关卡核心参数监控
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;参数检测项&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数据指标值&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;建议说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;预计用时&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 30 分钟&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;拧动阀门时顺着圈走，不容易脱手&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;速通记录&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;45.2 秒&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;利用排气口惯性直接飞过高墙&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;物理机制&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;气压势能、杠杆原理&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;组装管道时需对准绿色的管道母口&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;攻略版本：v1.2 | 本地脑电波同步成功&amp;hellip; 准备前往 &lt;a class="link" href="https://www.mrm777.win/guides/ice/" &gt;下一关卡：冰 (Ice)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="五本关核心操作技巧"&gt;五、本关核心操作技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;阀门旋转&lt;/strong&gt;：蒸汽关的阀门有旋转圈数限制，拧到头会&amp;quot;咔&amp;quot;一声卡住，这时&lt;strong&gt;不要再硬拧&lt;/strong&gt;，回半圈往往能让压力重新平衡。判断该拧哪个阀门的方法是：拧一下就跑去看目标机关有没有反应，有反应就继续，没反应就复位换下一个。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;管道组装&lt;/strong&gt;：管道要对准接口才能接上，接口处有细微的卡扣提示。组装时先把管道&lt;strong&gt;大致对准&lt;/strong&gt;，然后小幅调整位置让它滑进去，硬怼是装不上的。管道接好后蒸汽会从接缝处泄漏（视觉上有白雾），漏气的接口要重新插紧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高压蒸汽喷射&lt;/strong&gt;：蒸汽喷口是标准的&amp;quot;电梯&amp;quot;，站在喷口上方会被顶飞。安全用法是等一次喷射结束、看清节奏后再站上去，被顶到最高点时补一个跳跃能获得额外高度。注意喷射有间隔，别在喷射前一刻才站上去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;液压挖掘臂&lt;/strong&gt;：和森林关的挖掘机同理，先转臂再动铲斗，同时操作必定失衡。挖掘臂在这里主要用来搬开挡路的钢梁，把铲斗放低贴地推最省力。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六新手常见失误与规避"&gt;六、新手常见失误与规避
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;阀门拧坏卡死&lt;/strong&gt;：拧到头还在硬拧。听到&amp;quot;咔&amp;quot;就停，回半圈。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;管道接不上&lt;/strong&gt;：硬怼。先粗对准再小幅调整让它滑入。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被蒸汽顶飞到尖刺上&lt;/strong&gt;：时机不对。等喷射结束再上，最高点补跳。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;挖掘臂翻车&lt;/strong&gt;：同时操作了转臂和铲斗。分两步来。&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 蒸汽关的谜题环环相扣，卡住时按&amp;quot;阀门 → 管道 → 压力&amp;quot;的顺序倒推，比乱试效率高得多。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-继续下一关"&gt;🔗 继续下一关
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;上一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/dark/" &gt;黑暗关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;下一关：&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/ice/" &gt;冰关卡攻略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;操作卡关？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;和朋友开黑？&lt;/strong&gt;&lt;a class="link" href="https://www.mrm777.win/zh-cn/multiplayer/" &gt;联机组队指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

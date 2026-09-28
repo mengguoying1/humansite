@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Steam on 🎮 人类一败涂地 - 中文攻略站</title><link>https://www.mrm777.win/zh-cn/tags/steam/</link><description>Recent content in Steam on 🎮 人类一败涂地 - 中文攻略站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/zh-cn/tags/steam/index.xml" rel="self" type="application/rss+xml"/><item><title>人类一败涂地怎么联机 - Steam远程同乐/跨平台/8人组队完整教程</title><link>https://www.mrm777.win/zh-cn/multiplayer/how-to-play-with-friends/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/multiplayer/how-to-play-with-friends/</guid><description>&lt;h1 id="人类一败涂地怎么联机steam跨平台远程同乐完整教程"&gt;人类一败涂地怎么联机？Steam/跨平台/远程同乐完整教程
+&lt;/h1&gt;&lt;p&gt;《人类一败涂地》支持最多 &lt;strong&gt;8 人在线合作&lt;/strong&gt;，多人模式把物理引擎的魔性放大了好几倍——协作搬运、互相抛掷、叠人梯爬墙，玩法远比单人多。但联机涉及 Steam 邀请、远程同乐、跨平台限制三个独立机制，很多人卡在&amp;quot;朋友进不来&amp;quot;这一步。这篇把 2026 年最新的联机方式一次讲清。&lt;/p&gt;
+&lt;h2 id="一steam-在线联机最多-8-人"&gt;一、Steam 在线联机（最多 8 人）
+&lt;/h2&gt;&lt;p&gt;如果你和朋友都买了 Steam 版，联机流程最直接：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进入任意关卡后，按 &lt;code&gt;Shift + Tab&lt;/code&gt; 呼出 Steam 内覆层，右键好友列表里的目标好友，选 &lt;strong&gt;&amp;ldquo;邀请加入游戏&amp;rdquo;&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;好友在自己端会收到弹窗，点接受后自动进入你的关卡。&lt;/li&gt;
+&lt;li&gt;最多容纳 8 名玩家同时在线；超过 8 人时新邀请会被拒。&lt;/li&gt;
+&lt;li&gt;不想找熟人？主菜单选 &lt;strong&gt;&amp;ldquo;公共游戏&amp;rdquo;&lt;/strong&gt;，进入公共大厅浏览器，可以随机匹配全球玩家房间。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;邀请一定要从 Steam 好友列表发起，而不是游戏内——很多人误以为游戏里有&amp;quot;邀请&amp;quot;按钮，其实没有，全部走 Steam 内覆层。&lt;/p&gt;
+&lt;h2 id="二steam-远程同乐朋友不买也能玩"&gt;二、Steam 远程同乐：朋友不买也能玩
+&lt;/h2&gt;&lt;p&gt;这是被问得最多的功能。&lt;strong&gt;Steam Remote Play Together&lt;/strong&gt; 允许房主流式传输画面给好友，好友通过自己的键鼠或手柄远程操作。规则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只有房主需要拥有《人类一败涂地》，受邀好友&lt;strong&gt;无需购买&lt;/strong&gt;即可加入。&lt;/li&gt;
+&lt;li&gt;房主进入游戏后，Steam 内覆层右键好友 → &amp;ldquo;远程同乐邀请&amp;rdquo;。&lt;/li&gt;
+&lt;li&gt;好友接受后看到的是房主画面，但能控制自己的 Bob。&lt;/li&gt;
+&lt;li&gt;延迟取决于房主上行带宽和双方地理位置，建议房主选离朋友最近的服务器区域。&lt;/li&gt;
+&lt;li&gt;远程同乐最多支持 4 名远程好友（与本地 8 人上限不冲突，但实际体验 4 人以上延迟明显）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意远程同乐是&amp;quot;串流 + 远程输入&amp;quot;，不是真正的点对点联机。画面质量会随带宽波动，网络差时会出现马赛克和输入延迟。&lt;/p&gt;
+&lt;h2 id="三跨平台互通哪些平台能一起玩"&gt;三、跨平台互通：哪些平台能一起玩
+&lt;/h2&gt;&lt;p&gt;这是最容易踩坑的地方。2026 年的跨平台状态如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Xbox ↔ Windows PC（Microsoft Store 版）&lt;/strong&gt;：可以互通，因为都走 Xbox Live 网络。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steam ↔ Xbox&lt;/strong&gt;：&lt;strong&gt;不能&lt;/strong&gt;。Steam 版走 Steam 网络，与 Xbox 玩家隔离。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PlayStation 4 ↔ PlayStation 5&lt;/strong&gt;：可以，但双方都要跑 PS4 版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nintendo Switch&lt;/strong&gt;：只能和 Switch 玩家联机，且 Switch 2 即将于 2026 年夏发售专属版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;手机端（Android ↔ iOS）&lt;/strong&gt;：可以互通，但不能和 PC/主机联机。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨平台存档&lt;/strong&gt;：&lt;strong&gt;不支持&lt;/strong&gt;。你在 Steam 解锁的关卡进度不会同步到 Xbox，反之亦然。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一句话总结：买之前先和朋友确认平台。最稳的是都买 Steam 版（社区内容最多、Workshop 自定义关卡最多）；如果朋友在 Xbox，你就要买 Microsoft Store 版而不是 Steam 版。&lt;/p&gt;
+&lt;h2 id="四switch-本地分屏2-人"&gt;四、Switch 本地分屏（2 人）
+&lt;/h2&gt;&lt;p&gt;Nintendo Switch 版独有 &lt;strong&gt;本地 2 人分屏&lt;/strong&gt;：把两个 Joy-Con 拆开或接上 Pro 手柄，一台 Switch 就能两人同屏合作。注意分屏模式&lt;strong&gt;不能&lt;/strong&gt;同时用于线上联机——你要么本地 2 人，要么线上最多 8 人，两者不能叠加。&lt;/p&gt;
+&lt;h2 id="五联机常见问题排查"&gt;五、联机常见问题排查
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;问题&lt;/th&gt;
+					&lt;th&gt;原因&lt;/th&gt;
+					&lt;th&gt;解决&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;好友收不到邀请&lt;/td&gt;
+					&lt;td&gt;邀请走游戏内而非 Steam 内覆层&lt;/td&gt;
+					&lt;td&gt;按 Shift+Tab，从好友列表右键邀请&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;好友进了但卡加载&lt;/td&gt;
+					&lt;td&gt;双方游戏版本不一致&lt;/td&gt;
+					&lt;td&gt;Steam 自动更新；Epic/MS Store 需手动检查更新&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;延迟很高、操作漂移&lt;/td&gt;
+					&lt;td&gt;房主网络上行不足或跨洲&lt;/td&gt;
+					&lt;td&gt;房主改用有线，选离朋友近的时段；远程同乐可降画面质量&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;公共大厅进不去&lt;/td&gt;
+					&lt;td&gt;NAT 类型严格&lt;/td&gt;
+					&lt;td&gt;路由器开启 UPnP，或 Steam 设置里启用&amp;quot;Steam 中继&amp;quot;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;跨平台好友搜不到&lt;/td&gt;
+					&lt;td&gt;跨平台本身不支持&lt;/td&gt;
+					&lt;td&gt;见第三节，确认双方平台是否互通&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="六联机玩法小贴士"&gt;六、联机玩法小贴士
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分工搬运&lt;/strong&gt;：长木板、电瓶等大物件，两人各抓一头比一人拖快得多，还能过窄道。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;叠人梯爬墙&lt;/strong&gt;：一人贴墙站好，第二人踩着他肩膀上去再拉第一人——比单人爬墙省力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;抛掷接力&lt;/strong&gt;：把需要运输的小物件从高处抛给低处的朋友，比走楼梯快。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;互坑提醒&lt;/strong&gt;：抓取是双刃剑，慌乱中抓到朋友会被一起带下悬崖，过悬崖时先松手。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多身法细节见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧与身法大全&lt;/a&gt;，全关卡解法见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/" &gt;30 关通关攻略索引&lt;/a&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "人类一败涂地支持几个人联机？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Steam 在线联机最多支持 8 人同时合作。Switch 本地分屏支持 2 人，但不能与线上联机同时使用。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Steam 远程同乐需要朋友也买游戏吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "不需要。Steam Remote Play Together 模式下只有房主需要拥有游戏，受邀好友无需购买即可通过串流远程操作自己的角色。最多支持 4 名远程好友。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地Steam版能和Xbox联机吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "不能。Steam 版与 Xbox 版走不同网络，玩家池隔离。只有 Microsoft Store 版 PC 能与 Xbox 互通。如果你要和 Xbox 朋友联机，需要购买 Microsoft Store 版而不是 Steam 版。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地支持跨平台存档吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "不支持跨平台存档。你在 Steam 解锁的关卡进度、皮肤都不会同步到 Xbox、PlayStation 或 Switch，反之亦然。每个平台的进度独立保存。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "怎么邀请Steam好友加入人类一败涂地？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "进入任意关卡后按 Shift+Tab 呼出 Steam 内覆层，在好友列表右键目标好友选\"邀请加入游戏\"。注意邀请必须从 Steam 好友列表发起，游戏内没有独立的邀请按钮。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地联机延迟很高怎么办？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "房主改用有线网络、关闭占用上行带宽的应用；远程同乐可在 Steam 设置里降低串流画面质量；跨洲联机建议选双方时差小的时段；公共大厅连不上时在路由器开启 UPnP 或启用 Steam 中继。"
+ }
+ }
+ ]
+}
+&lt;/script&gt;</description></item><item><title>人类一败涂地全成就解锁清单 - 151个成就速通指南（2026最新）</title><link>https://www.mrm777.win/zh-cn/gameplay/achievements/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/zh-cn/gameplay/achievements/</guid><description>&lt;h1 id="人类一败涂地全成就解锁清单2026-最新-151-成就"&gt;人类一败涂地全成就解锁清单（2026 最新 151 成就）
+&lt;/h1&gt;&lt;p&gt;Steam 平台《人类一败涂地》共 &lt;strong&gt;151 个成就&lt;/strong&gt;：本体 51 个，加 25 个 DLC 关卡共 100 个。本体全成就约需 15–20 小时，全 DLC 全成就约 46 小时。本页按类别拆解每类成就的解锁思路，附上 0.1% 稀有度的隐藏成就做法。&lt;/p&gt;
+&lt;h2 id="一统计类成就自动累积无需特意刷"&gt;一、统计类成就（自动累积，无需特意刷）
+&lt;/h2&gt;&lt;p&gt;这类成就靠游戏内自然行为累积，不必刻意追求，但了解条件能避免错过：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tourist（旅行 1km）&lt;/strong&gt; — 79.3% 玩家拥有，正常通关即可解锁。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traveler（旅行 10km）&lt;/strong&gt; — 跨多周目累积，重复跑关卡叠加。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adventurer（旅行 25km）&lt;/strong&gt; — 长期玩家自然会拿到。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trampoline（跳跃 1000 次）&lt;/strong&gt; — 正常游玩累积，无需刷。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climber（攀爬 100m）&lt;/strong&gt; — 累计攀爬高度，长墙反复爬可加速。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heavy lifting（搬运 1000m）&lt;/strong&gt; — 累计搬运物体距离，搬长木板过整张图贡献最大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Let it rain（复活 100 次）&lt;/strong&gt; — 反复掉崖即可，无难度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learn to swim（淹死 10 次）&lt;/strong&gt; — Water 关水下停留触发。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="二本体关卡通关成就10-个"&gt;二、本体关卡通关成就（10 个）
+&lt;/h2&gt;&lt;p&gt;每通关一个本体关卡获得一个对应成就，按出现顺序：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Leap of Fail&lt;/strong&gt; — 完成豪宅 (Mansion)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choo Choo!&lt;/strong&gt; — 完成火车 (Train)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t Get a Splinter!&lt;/strong&gt; — 完成搬运 (Carry)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What Goes Up&lt;/strong&gt; — 完成山峰 (Mountain)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brute Force&lt;/strong&gt; — 完成拆除 (Demolition)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storm the Gate!&lt;/strong&gt; — 完成城堡 (Castle)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feet First / Head First&lt;/strong&gt; — 完成水域 (Water)，分别脚先入水和头先入水，需在同一关分两次完成&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The End?&lt;/strong&gt; — 完成发电厂 (Power Plant)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The End&lt;/strong&gt; — 完成阿兹特克 (Aztec)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s Alive!&lt;/strong&gt; — 完成黑暗 (Dark)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每个关卡的完整解法见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/" &gt;30 关通关攻略索引&lt;/a&gt;，按关卡名直达。&lt;/p&gt;
+&lt;h2 id="三本体隐藏成就较稀有"&gt;三、本体隐藏成就（较稀有）
+&lt;/h2&gt;&lt;p&gt;这类成就不靠通关自动给，需要在关卡内做特定动作：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mind the gap!&lt;/strong&gt; — 在豪宅关走大捷径，跳过一段正常流程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public service&lt;/strong&gt; — 在搬运关把 5 件废料扔进垃圾箱。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perfectionist&lt;/strong&gt; — 把翻转的长凳和墙对齐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s stuck&lt;/strong&gt; — 在搬运关卡住门并穿过。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tower&lt;/strong&gt; — 在搬运关堆起全部 4 个箱子。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pigeon Simulator&lt;/strong&gt; — 在序章站到雕像头顶。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surprise! (Avalanche!)&lt;/strong&gt; — 在拆除关打开滚石闸门。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wrong direction&lt;/strong&gt; — 在拆除关从窗户而非砸墙通过。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primal&lt;/strong&gt; — 在拆除关不用任何道具徒手破 4 面墙。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvised Ammo&lt;/strong&gt; — 在城堡关用投石机把自己发射出去。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For whom the bell tolls&lt;/strong&gt; — 在城堡关敲响钟。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zipline&lt;/strong&gt; — 在城堡关从教堂塔楼滑索。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smooth moves&lt;/strong&gt; — 在城堡关从小巷到铁匠铺之间流畅跑酷不触地。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Row, row, row your boat&lt;/strong&gt; — 在水域关用划艇到达货船。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reverse gear&lt;/strong&gt; — 在水域关倒船入港。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beacon&lt;/strong&gt; — 在水域关点亮灯塔。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breathing exercise&lt;/strong&gt; — 在水域关入水 100ms 内出来避免淹死。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surfer&lt;/strong&gt; — 在水域关滑水下山不湿身。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electricity 101 / Will it fry? / Thief / Delivery boy&lt;/strong&gt; — 发电厂关的电力谜题系列成就。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bird&amp;rsquo;s eye view / Rollin&amp;rsquo; / Clockwork&lt;/strong&gt; — 阿兹特克关的隐藏路径与钟摆挑战。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tick Tock / Planks? No Thanks!&lt;/strong&gt; — 黑暗关的钟塔计时与过桥挑战。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="四稀有成就01-玩家拥有最难的三个"&gt;四、稀有成就（0.1% 玩家拥有，最难的三个）
+&lt;/h2&gt;&lt;p&gt;这三个是全游戏最难、最稀有的成就：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cheaters never prosper&lt;/strong&gt; — 在维京 (Viking) 关销毁作弊符文。需要找到隐藏在关卡深处的符文，并按特定方式破坏。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practice makes perfect&lt;/strong&gt; — 在维京关用剑击中所有假人。要求连续不漏地完成全部假人击打。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Let off some steam&lt;/strong&gt; — 在蒸汽朋克派对 (Steampunk Party) 关找到并转动所有隐藏阀门。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这三个的完整解法见站内 &lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/viking/" &gt;维京攻略&lt;/a&gt; 和 &lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/steampunk/" &gt;蒸汽朋克攻略&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id="五速通成就"&gt;五、速通成就
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speedrun&lt;/strong&gt; — 从头到尾一气呵成跑完整游戏。不要求世界纪录级时间，但中途不能退出关卡回到主菜单。建议熟悉每关最短路线后再尝试，参考 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-glitches/" &gt;物理速通技巧&lt;/a&gt; 利用物理 Bug 缩短路径。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="六dlc-成就100-个分布于-25-个-dlc-关卡"&gt;六、DLC 成就（100 个，分布于 25 个 DLC 关卡）
+&lt;/h2&gt;&lt;p&gt;本体之外的 25 个 DLC 关卡（包括圣诞、发电厂、水域扩展、城堡扩展、阿兹特克扩展、黑暗扩展、维京、蒸汽朋克派对、糖果乐园、高尔夫、森林、灯塔、铜世界等）各自带 4 个左右成就，多为完成关卡 + 收集隐藏要素。&lt;/p&gt;
+&lt;p&gt;代表性 DLC 成就：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Top the Hat&lt;/strong&gt; — 圣诞关站到大雪人帽顶&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bah, Humbug!&lt;/strong&gt; — 圣诞关把树顶的天使射下来&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deck the Halls&lt;/strong&gt; — 圣诞关踩雪板落入雪堡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Candy Rush&lt;/strong&gt; — 圣诞关用拐杖糖从山顶滑索下来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DLC 成就的解锁思路和本体一致：先完成主线，再回头找隐藏要素。每篇 DLC 关卡攻略在 &lt;a class="link" href="https://www.mrm777.win/zh-cn/guides/" &gt;关卡索引&lt;/a&gt; 都有专页。&lt;/p&gt;
+&lt;h2 id="七全成就建议路线"&gt;七、全成就建议路线
+&lt;/h2&gt;&lt;p&gt;如果你目标 100% 完成，推荐顺序：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先单机通本体 10 关，自然解锁关卡通关成就和大部分统计成就。&lt;/li&gt;
+&lt;li&gt;回头补本体隐藏成就，参考各关卡攻略页&amp;quot;隐藏要素&amp;quot;段。&lt;/li&gt;
+&lt;li&gt;通本体 Speedrun 成就，需要熟悉最短路径。&lt;/li&gt;
+&lt;li&gt;逐个 DLC 关卡通本，每关顺便做隐藏要素。&lt;/li&gt;
+&lt;li&gt;最后攻坚三个 0.1% 稀有成就，需要专项练习。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;更多身法细节见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-tips/" &gt;物理技巧大全&lt;/a&gt;，速通利用的 Bug 见 &lt;a class="link" href="https://www.mrm777.win/zh-cn/gameplay/physics-glitches/" &gt;物理 Bug 教学&lt;/a&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "人类一败涂地Steam一共有多少个成就？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Steam平台共151个成就：本体51个，25个DLC关卡共100个。本体全成就约需15-20小时，含DLC全成就约46小时。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地最稀有的成就是什么？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "三个0.1%稀有度的成就：Cheaters never prosper（维京关销毁作弊符文）、Practice makes perfect（维京关用剑击中所有假人）、Let off some steam（蒸汽朋克派对关转动所有隐藏阀门）。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地速通成就怎么解锁？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Speedrun成就要求从头到尾一气呵成跑完整游戏，中途不能退出关卡回主菜单。不要求世界纪录级时间，但建议先熟悉每关最短路线，可参考物理Bug教学利用机制缩短路径。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "人类一败涂地本体关卡各对应什么成就？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "豪宅=Leap of Fail，火车=Choo Choo!，搬运=Don't Get a Splinter!，山峰=What Goes Up，拆除=Brute Force，城堡=Storm the Gate!，水域=Feet First/Head First（需分两次完成），发电厂=The End?，阿兹特克=The End，黑暗=It's Alive!。"
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "统计类成就需要刻意刷吗？",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Tourist（1km）、Traveler（10km）、Adventurer（25km）、Trampoline（跳跃1000次）、Climber（攀爬100m）、Heavy lifting（搬运1000m）、Let it rain（复活100次）、Learn to swim（淹死10次）靠游戏内自然行为累积，正常多周目游玩自然会解锁，无需刻意刷。"
+ }
+ }
+ ]
+}
+&lt;/script&gt;</description></item></channel></rss>

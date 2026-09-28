@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Steam on 🎮 Human: Fall Flat - Walkthroughs &amp; Guides</title><link>https://www.mrm777.win/tags/steam/</link><description>Recent content in Steam on 🎮 Human: Fall Flat - Walkthroughs &amp; Guides</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrm777.win/tags/steam/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Play Human: Fall Flat with Friends - Steam, Remote Play, Crossplay &amp; 8-Player Co-op Guide</title><link>https://www.mrm777.win/multiplayer/how-to-play-with-friends/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/multiplayer/how-to-play-with-friends/</guid><description>&lt;h1 id="how-to-play-human-fall-flat-with-friends--full-multiplayer-guide"&gt;How to Play Human: Fall Flat with Friends — Full Multiplayer Guide
+&lt;/h1&gt;&lt;p&gt;Human: Fall Flat supports up to &lt;strong&gt;8 players online&lt;/strong&gt;, and co-op turns the physics engine into pure chaos — coordinated carrying, mutual throwing, human ladders up walls. But getting friends in involves three separate systems: Steam invites, Remote Play Together, and crossplay limits. This guide covers the 2026 state of each.&lt;/p&gt;
+&lt;h2 id="1-steam-online-co-op-up-to-8-players"&gt;1. Steam Online Co-op (up to 8 players)
+&lt;/h2&gt;&lt;p&gt;If you and your friends all own the Steam version, this is the simplest path:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enter any level, press &lt;code&gt;Shift + Tab&lt;/code&gt; to open the Steam overlay, right-click the friend in your friends list, and choose &lt;strong&gt;&amp;ldquo;Invite to game&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Your friend sees a popup on their end, accepts, and drops into your level.&lt;/li&gt;
+&lt;li&gt;Up to 8 players can share a session; beyond that, new invites are rejected.&lt;/li&gt;
+&lt;li&gt;Want strangers instead? Pick &lt;strong&gt;&amp;ldquo;Public game&amp;rdquo;&lt;/strong&gt; on the main menu to open the public lobby browser and match into global rooms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Always invite from the Steam friends list, not from inside the game — there is no in-game invite button, all invitations go through the Steam overlay.&lt;/p&gt;
+&lt;h2 id="2-steam-remote-play-together-friends-play-free"&gt;2. Steam Remote Play Together: Friends Play Free
+&lt;/h2&gt;&lt;p&gt;This is the most-asked feature. &lt;strong&gt;Steam Remote Play Together&lt;/strong&gt; lets the host stream the game to friends, who then control their own Bob remotely using their own keyboard, mouse, or gamepad. Rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only the host needs to own Human: Fall Flat. Invited friends &lt;strong&gt;do not need to purchase&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Once in-game, open the Steam overlay, right-click a friend, and pick &amp;ldquo;Remote Play Together invite&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Friends see the host&amp;rsquo;s stream but control their own character.&lt;/li&gt;
+&lt;li&gt;Latency depends on the host&amp;rsquo;s upload bandwidth and the geographic distance between players. Pick a host close to the rest of the group.&lt;/li&gt;
+&lt;li&gt;Remote Play Together supports up to 4 remote friends. This is separate from the 8-player online cap, but in practice, four-plus remote players get noticeably laggy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that Remote Play Together is &amp;ldquo;stream + remote input&amp;rdquo;, not true peer-to-peer. Picture quality fluctuates with bandwidth, and poor networks will cause mosaic artifacts and input lag.&lt;/p&gt;
+&lt;h2 id="3-crossplay-which-platforms-can-play-together"&gt;3. Crossplay: Which Platforms Can Play Together
+&lt;/h2&gt;&lt;p&gt;This is where most people get stuck. The 2026 crossplay situation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Xbox ↔ Windows PC (Microsoft Store version)&lt;/strong&gt;: works, because both use Xbox Live networking.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steam ↔ Xbox&lt;/strong&gt;: &lt;strong&gt;not supported&lt;/strong&gt;. Steam uses Steam networking and is isolated from Xbox pools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PlayStation 4 ↔ PlayStation 5&lt;/strong&gt;: works, but both must run the PS4 version of the game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nintendo Switch&lt;/strong&gt;: same-family only. A Switch 2-exclusive edition is scheduled for summer 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile (Android ↔ iOS)&lt;/strong&gt;: crossplay works, but mobile cannot connect to PC or console.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-save&lt;/strong&gt;: &lt;strong&gt;not supported&lt;/strong&gt;. Progress earned on Steam does not carry over to Xbox or vice versa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The takeaway: confirm platforms before buying. Steam is the safest pick (most Workshop content, largest community). If your friends are on Xbox, you must buy the Microsoft Store version, not Steam.&lt;/p&gt;
+&lt;h2 id="4-nintendo-switch-local-split-screen-2-players"&gt;4. Nintendo Switch Local Split-Screen (2 Players)
+&lt;/h2&gt;&lt;p&gt;The Switch version has a &lt;strong&gt;local 2-player split-screen&lt;/strong&gt; mode: split a pair of Joy-Con or plug in a Pro controller, and one Switch console runs two players side by side. Note that split-screen cannot be combined with online play — you&amp;rsquo;re either 2 players local, or up to 8 players online, never both.&lt;/p&gt;
+&lt;h2 id="5-common-connection-problems-and-fixes"&gt;5. Common Connection Problems and Fixes
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Friend doesn&amp;rsquo;t see the invite.&lt;/strong&gt; You probably tried to invite from inside the game. Press Shift+Tab and right-click the friend in the Steam overlay friends list instead.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friend joins but hangs on loading.&lt;/strong&gt; Mismatched game versions. Steam auto-updates; on Epic or Microsoft Store you may need to manually check for updates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High latency, drifting inputs.&lt;/strong&gt; Host&amp;rsquo;s upload bandwidth is low, or players are on different continents. Host should switch to wired ethernet, and Remote Play Together can lower stream quality. Try playing at hours when both sides&amp;rsquo; time zones overlap.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public lobby won&amp;rsquo;t connect.&lt;/strong&gt; Strict NAT. Enable UPnP on the router, or turn on &amp;ldquo;Steam relay&amp;rdquo; in Steam settings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crossplay friend not found.&lt;/strong&gt; Crossplay itself isn&amp;rsquo;t supported between those platforms — see section 3 and confirm compatibility.&lt;/p&gt;
+&lt;h2 id="6-co-op-play-tips"&gt;6. Co-op Play Tips
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Two-person carrying&lt;/strong&gt;: long planks, batteries, and other large objects move faster when each of you grabs an end, and you can fit through narrow gaps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human ladder&lt;/strong&gt;: one player hugs the wall, the second climbs on their shoulders and pulls the first up — far easier than solo climbing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Throw relays&lt;/strong&gt;: toss small items from a high ledge to a friend below rather than walking them down the stairs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grab caution&lt;/strong&gt;: grabbing cuts both ways. In a panic you&amp;rsquo;ll grab a friend and drag them off the cliff with you — let go before ledges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For movement mechanics see &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-tips/" &gt;Core Physics Tricks Guide&lt;/a&gt;, and for full level solutions see the &lt;a class="link" href="https://www.mrm777.win/guides/" &gt;30-Level Walkthrough Index&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "How many players can play Human: Fall Flat online together?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Steam online co-op supports up to 8 players simultaneously. Nintendo Switch local split-screen supports 2 players, but cannot be combined with online play."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does Steam Remote Play Together require my friend to own the game?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Only the host needs to own Human: Fall Flat. Invited friends join via stream and control their own character without purchasing the game. Remote Play Together supports up to 4 remote friends."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Can Steam players crossplay with Xbox players in Human: Fall Flat?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. The Steam version uses Steam networking and is isolated from Xbox pools. Only the Microsoft Store PC version can crossplay with Xbox. If you want to play with Xbox friends, you must buy the Microsoft Store version, not Steam."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does Human: Fall Flat support cross-save between platforms?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Cross-save is not supported. Progress, unlocks, and skins earned on Steam do not sync to Xbox, PlayStation, or Switch, and vice versa. Each platform keeps progress independently."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How do I invite a Steam friend to Human: Fall Flat?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Enter any level, press Shift+Tab to open the Steam overlay, right-click the friend in your friends list, and choose \"Invite to game\". Invitations must be sent from the Steam friends list — there is no in-game invite button."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How do I fix high latency in Human: Fall Flat multiplayer?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Have the host switch to a wired ethernet connection and close bandwidth-heavy apps. For Remote Play Together, lower the stream quality in Steam settings. For cross-continent play, pick hours when both time zones overlap. If public lobbies won't connect, enable UPnP on your router or turn on Steam relay."
+ }
+ }
+ ]
+}
+&lt;/script&gt;</description></item><item><title>Human: Fall Flat Achievements Guide - All 151 Steam Achievements (2026)</title><link>https://www.mrm777.win/gameplay/achievements/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/gameplay/achievements/</guid><description>&lt;h1 id="human-fall-flat-achievements-guide-all-151-in-2026"&gt;Human: Fall Flat Achievements Guide (All 151 in 2026)
+&lt;/h1&gt;&lt;p&gt;Steam lists &lt;strong&gt;151 achievements&lt;/strong&gt; for Human: Fall Flat: 51 in the base game plus 100 across 25 DLC levels. A base-game 100% run takes 15–20 hours; full DLC completion runs about 46 hours. This page breaks down each category and gives unlock routes, including the three 0.1% rarity hidden achievements.&lt;/p&gt;
+&lt;h2 id="1-stat-grind-achievements-auto-accumulate"&gt;1. Stat-grind Achievements (Auto-accumulate)
+&lt;/h2&gt;&lt;p&gt;These unlock through natural play; no targeted grinding required, but knowing the conditions prevents missing them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tourist (travel 1km)&lt;/strong&gt; — held by 79.3% of players, unlocks through normal play.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traveler (travel 10km)&lt;/strong&gt; — accumulates across multiple runs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adventurer (travel 25km)&lt;/strong&gt; — long-term players get this naturally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trampoline (jump 1000 times)&lt;/strong&gt; — accumulates through normal play.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climber (climb 100m)&lt;/strong&gt; — cumulative climbing height; long walls help.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heavy lifting (carry 1000m)&lt;/strong&gt; — cumulative carry distance; planks across whole levels contribute most.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Let it rain (respawn 100 times)&lt;/strong&gt; — fall off ledges repeatedly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learn to swim (drown 10 times)&lt;/strong&gt; — triggered by staying underwater in the Water level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2-base-level-completion-achievements-10"&gt;2. Base Level Completion Achievements (10)
+&lt;/h2&gt;&lt;p&gt;Each base level grants one completion achievement, in order of appearance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Leap of Fail&lt;/strong&gt; — complete Mansion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choo Choo!&lt;/strong&gt; — complete Train&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t Get a Splinter!&lt;/strong&gt; — complete Carry&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What Goes Up&lt;/strong&gt; — complete Mountain&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brute Force&lt;/strong&gt; — complete Demolition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storm the Gate!&lt;/strong&gt; — complete Castle&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feet First / Head First&lt;/strong&gt; — complete Water diving feet-first and head-first, in two separate runs of the same level&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The End?&lt;/strong&gt; — complete Power Plant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The End&lt;/strong&gt; — complete Aztec&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s Alive!&lt;/strong&gt; — complete Dark&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For full walkthroughs of each level see the &lt;a class="link" href="https://www.mrm777.win/guides/" &gt;30-Level Walkthrough Index&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="3-base-game-hidden-achievements-rarer"&gt;3. Base Game Hidden Achievements (rarer)
+&lt;/h2&gt;&lt;p&gt;These don&amp;rsquo;t unlock from completion alone — you must perform specific actions inside each level:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mind the gap!&lt;/strong&gt; — take a large shortcut in Mansion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public service&lt;/strong&gt; — place 5 pieces of debris in a dumpster in Carry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perfectionist&lt;/strong&gt; — align a flipped bench with a wall.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s stuck&lt;/strong&gt; — jam a door and go through it in Carry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tower&lt;/strong&gt; — stack all 4 boxes in Carry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pigeon Simulator&lt;/strong&gt; — stand on the head of the statue in the intro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surprise! (Avalanche!)&lt;/strong&gt; — unleash the boulder gate in Demolition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wrong direction&lt;/strong&gt; — use the window on the left instead of smashing the wall in Demolition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primal&lt;/strong&gt; — break 4 walls without using any gadgets in Demolition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvised Ammo&lt;/strong&gt; — launch yourself with the catapult in Castle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For whom the bell tolls&lt;/strong&gt; — ring the castle bell in Castle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zipline&lt;/strong&gt; — zipline from the church tower in Castle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smooth moves&lt;/strong&gt; — parkour fluidly from alley to blacksmith in Castle without touching ground.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Row, row, row your boat&lt;/strong&gt; — use the row boat to reach the cargo ship in Water.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reverse gear&lt;/strong&gt; — enter the dock with the ship backwards in Water.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beacon&lt;/strong&gt; — light up the lighthouse in Water.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breathing exercise&lt;/strong&gt; — get out of water in 100ms to avoid drowning in Water.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surfer&lt;/strong&gt; — surf down the mountain without getting wet in Water.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electricity 101 / Will it fry? / Thief / Delivery boy&lt;/strong&gt; — Power Plant&amp;rsquo;s electrical puzzle achievement chain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bird&amp;rsquo;s eye view / Rollin&amp;rsquo; / Clockwork&lt;/strong&gt; — Aztec&amp;rsquo;s hidden paths and pendulum challenge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tick Tock / Planks? No Thanks!&lt;/strong&gt; — Dark&amp;rsquo;s clock tower timing and bridge challenges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="4-rarest-achievements-01--the-three-hardest"&gt;4. Rarest Achievements (0.1% — the three hardest)
+&lt;/h2&gt;&lt;p&gt;These are the rarest, hardest achievements in the game:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cheaters never prosper&lt;/strong&gt; — destroy the cheat sheet rune in the Viking level. Requires finding the hidden rune deep in the level and destroying it in a specific way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practice makes perfect&lt;/strong&gt; — hit all dummies with a sword in Viking. Requires completing every dummy hit in sequence without missing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Let off some steam&lt;/strong&gt; — find and turn all hidden valves in Steampunk Party.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full solutions for these three live on the &lt;a class="link" href="https://www.mrm777.win/guides/viking/" &gt;Viking walkthrough&lt;/a&gt; and &lt;a class="link" href="https://www.mrm777.win/guides/steampunk/" &gt;Steampunk walkthrough&lt;/a&gt; pages.&lt;/p&gt;
+&lt;h2 id="5-speedrun-achievement"&gt;5. Speedrun Achievement
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speedrun&lt;/strong&gt; — complete the entire game start-to-end in a single run. No world-record time is required, but you can&amp;rsquo;t exit a level back to the main menu mid-run. Build familiarity with the shortest route per level first; see &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-glitches/" &gt;Physics Glitch Guide&lt;/a&gt; for engine exploits that shorten paths.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="6-dlc-achievements-100-across-25-dlc-levels"&gt;6. DLC Achievements (100, across 25 DLC levels)
+&lt;/h2&gt;&lt;p&gt;Beyond the base game, 25 DLC levels (Christmas, Power Plant, Water expansion, Castle expansion, Aztec expansion, Dark expansion, Viking, Steampunk Party, Candy Land, Golf, Forest, Lighthouse, Copper World, and more) each carry roughly four achievements: complete the level plus collect hidden items.&lt;/p&gt;
+&lt;p&gt;Representative DLC achievements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Top the Hat&lt;/strong&gt; — stand atop the large snowman&amp;rsquo;s hat in Christmas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bah, Humbug!&lt;/strong&gt; — shoot the Christmas angel off the tree top&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deck the Halls&lt;/strong&gt; — land in the snow fort in Christmas on a snowboard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Candy Rush&lt;/strong&gt; — zipline down from the mountain in Christmas using a candy cane&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DLC achievement logic mirrors the base game: complete the main path first, then revisit for hidden items. Each DLC level has a dedicated page in the &lt;a class="link" href="https://www.mrm777.win/guides/" &gt;Level Index&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="7-recommended-completion-route"&gt;7. Recommended Completion Route
+&lt;/h2&gt;&lt;p&gt;If you&amp;rsquo;re aiming for 100%:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Solo-clear the 10 base levels — this naturally grants completion achievements and most stat achievements.&lt;/li&gt;
+&lt;li&gt;Revisit for base hidden achievements using the &amp;ldquo;Hidden items&amp;rdquo; section of each level page.&lt;/li&gt;
+&lt;li&gt;Tackle the base Speedrun achievement once you know each shortest route.&lt;/li&gt;
+&lt;li&gt;Clear each DLC level, doing hidden items alongside.&lt;/li&gt;
+&lt;li&gt;Finish with the three 0.1% rarity achievements, which need targeted practice.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For movement mechanics see &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-tips/" &gt;Core Physics Tricks Guide&lt;/a&gt;, and for speedrun-friendly glitches see &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-glitches/" &gt;Physics Glitch Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "How many achievements does Human: Fall Flat have on Steam?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Steam lists 151 achievements: 51 in the base game and 100 across 25 DLC levels. A base-game 100% run takes 15-20 hours; full DLC completion runs about 46 hours."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What are the rarest achievements in Human: Fall Flat?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Three achievements have 0.1% rarity: Cheaters never prosper (destroy the cheat sheet rune in Viking), Practice makes perfect (hit all dummies with a sword in Viking), and Let off some steam (find and turn all hidden valves in Steampunk Party)."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How do I unlock the Speedrun achievement in Human: Fall Flat?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Speedrun requires completing the entire game start-to-end in a single run without exiting a level back to the main menu. No world-record time is required. Familiarize yourself with each level's shortest route first, and consider physics glitches to shorten paths."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What achievements do I get for completing each base level?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Mansion=Leap of Fail, Train=Choo Choo!, Carry=Don't Get a Splinter!, Mountain=What Goes Up, Demolition=Brute Force, Castle=Storm the Gate!, Water=Feet First/Head First (two runs required), Power Plant=The End?, Aztec=The End, Dark=It's Alive!."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Do stat achievements require grinding in Human: Fall Flat?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "No. Tourist (1km), Traveler (10km), Adventurer (25km), Trampoline (jump 1000 times), Climber (climb 100m), Heavy lifting (carry 1000m), Let it rain (respawn 100 times), and Learn to swim (drown 10 times) accumulate through natural play across multiple runs; no targeted grinding needed."
+ }
+ }
+ ]
+}
+&lt;/script&gt;</description></item><item><title>Human: Fall Flat Steam Walkthrough - Level 12 Guide</title><link>https://www.mrm777.win/guides/steam/</link><pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/guides/steam/</guid><description>&lt;h1 id="-level-12-steam"&gt;💨 Level 12: Steam
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Harness industrial steam power by manipulating valves, joining copper pipes, riding heavy pistons, and operating a massive crane excavation claw to blast through the factory exit.
+&lt;strong&gt;Level Matrix&lt;/strong&gt;: Difficulty ⭐⭐⭐☆☆ | Est. Duration 30 Mins
+&lt;strong&gt;Mechanics&lt;/strong&gt;: Valve rotation, piping assembly, high-pressure steam launches, and hydraulic levers.&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/steam.jpg" alt="Steam Industrial Facility"&gt;
+ &lt;div class="img-caption"&gt;📸 Steam Piston Room: Connect the correct pressure pipes to power the pistons and unlock the pathway.&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-step-by-step-level-walkthrough"&gt;🗺️ Step-by-Step Level Walkthrough
+&lt;/h2&gt;&lt;h3 id="stage-1-the-first-valve-gate"&gt;Stage 1: The First Valve Gate
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Goal&lt;/strong&gt;: Redirect steam to blow open the blocked path.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Walk up to the locked door. You will see a steam pipe running alongside the wall with a missing section.&lt;/li&gt;
+&lt;li&gt;Grab the loose T-joint pipe nearby and slot it into the gap in the pipeline.&lt;/li&gt;
+&lt;li&gt;Grab the round valve handle and rotate it clockwise (walk Bob in circles while holding it) to route steam pressure.&lt;/li&gt;
+&lt;li&gt;The pressure will force the metal furnace door to blow open, revealing the path forward.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="stage-2-piston-crossing"&gt;Stage 2: Piston Crossing
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Goal&lt;/strong&gt;: Cross the deep vat of water using vertical pistons.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Enter the industrial boiler room. There are three heavy metal pistons moving up and down.&lt;/li&gt;
+&lt;li&gt;To make them active, grab the blue pipe on the side wall and connect it to the main steam distributor.&lt;/li&gt;
+&lt;li&gt;Once the pistons begin pumping, climb onto the first piston when it is at its lowest point.&lt;/li&gt;
+&lt;li&gt;Wait until the first piston reaches its peak, then leap to the second, and finally to the third, landing on the high platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="stage-3-the-high-pressure-launch-vent--key-puzzle"&gt;Stage 3: The High-Pressure Launch Vent ⭐ Key Puzzle
+&lt;/h3&gt;&lt;p&gt;This puzzle teaches players how to use raw pressure to gain vertical elevation.&lt;/p&gt;
+&lt;div class="game-image-container"&gt;
+ &lt;img src="https://www.mrm777.win/img/swinging.jpg" alt="Steam Launch Vent"&gt;
+ &lt;div class="img-caption"&gt;📸 Steam Launch: Stand on the steam vent and let the pressure propel Bob into the sky.&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Standard Walkthrough&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Locate the large vertical grate release pipe on the ground.&lt;/li&gt;
+&lt;li&gt;Pull the nearby heavy concrete cylinder block and place it directly on top of the vent to plug it temporarily.&lt;/li&gt;
+&lt;li&gt;Turn the nearby yellow valve to maximum. The pressure will build up under the block.&lt;/li&gt;
+&lt;li&gt;Stand on top of the concrete block. Jump right as the steam bursts out. The explosion of pressure will launch you up to the high ledge.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="stage-4-excavator-crane-operation"&gt;Stage 4: Excavator Crane Operation
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Jump into the cabin of the massive yellow excavator.&lt;/li&gt;
+&lt;li&gt;There are two levers: the left lever controls the arm elevation, and the right lever rotates the cabin.&lt;/li&gt;
+&lt;li&gt;Grab the levers and push them forward/backward to swing the heavy excavator bucket.&lt;/li&gt;
+&lt;li&gt;Smash the bucket into the brick wall on the right to break it open. Alternatively, use the excavator arm as a bridge to climb over the wall.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="stage-5-the-final-boiler-room"&gt;Stage 5: The Final Boiler Room
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;In the final yard, you must power a massive steam fan to float up to the exit portal.&lt;/li&gt;
+&lt;li&gt;Gather three long pipe sections scattered around the yard.&lt;/li&gt;
+&lt;li&gt;Connect them in series from the steam outlet to the fan housing.&lt;/li&gt;
+&lt;li&gt;Turn the final red wheel valve to spin the fan. Jump into the airflow and float up to the exit portal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-pro-tips--glitch-hacks"&gt;💡 Pro Tips &amp;amp; Glitch Hacks
+&lt;/h2&gt;&lt;div class="unlock-tip-box"&gt;
+ &lt;strong&gt;【Super Steam Boost Skip】&lt;/strong&gt;&lt;br&gt;
+ You can bypass the entire Excavator crane section! Stand directly on the high-pressure vent pipe without using the concrete block. Tilt your camera straight down, jump, and grab the air. The steam pressure will launch Bob exceptionally high due to the wobbly collision physics, allowing you to grab the high crane roof directly.
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-hidden-easter-eggs"&gt;🏆 Hidden Easter Eggs
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;🔥 Burn Them All&lt;/strong&gt;: Shovel the secret gas canisters found in the backyard into the furnace. Burning three canisters will cause the boiler to shoot fireballs out of its smokestack, unlocking a special achievement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🛞 Ferris Wheel Ride&lt;/strong&gt;: Climb to the top of the rotating steam turbine wheel and hold on for one full rotation without falling off to unlock the &amp;ldquo;Joyride&amp;rdquo; easter egg.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="-level-telemetry"&gt;📊 Level Telemetry
+&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;Parameter Checklist&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;Data Value&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;Recommended Action&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Est. Duration&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;25 - 30 Mins&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Walk in circles when turning valves to prevent losing grip&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Speedrun Record&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;45.2 Seconds&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Direct launch skip over the boiler wall&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Mechanics Used&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Gas Pressure, Levers&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Align pipe connections precisely before letting go&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Guides version: v1.2 | Signal synced&amp;hellip; Next Level: &lt;a class="link" href="https://www.mrm777.win/guides/ice/" &gt;Level 13: Ice&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
+THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
+BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+--&gt;
+&lt;hr&gt;
+&lt;h2 id="-continue-your-run"&gt;🔗 Continue Your Run
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;Previous:&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/guides/dark/" &gt;11 Dark Level Walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;Next:&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/guides/ice/" &gt;13 Ice Level Walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Stuck on the physics?&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-tips/" &gt;Physics Tips &amp;amp; Movement Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Playing with friends?&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/multiplayer/" &gt;Multiplayer Co-op Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Human: Fall Flat Steampunk Party Walkthrough - Tips &amp; Secrets</title><link>https://www.mrm777.win/guides/steampunk-party/</link><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><guid>https://www.mrm777.win/guides/steampunk-party/</guid><description>&lt;h1 id="steampunk-party-level-walkthrough--steam-engines-guide"&gt;Steampunk Party Level Walkthrough &amp;amp; Steam Engines Guide
+&lt;/h1&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 &lt;strong&gt;Level Snapshot&lt;/strong&gt; | Difficulty: ★★★★☆ | Est. Duration: 45 Mins | Complexity: High&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;Full guide for Human: Fall Flat Steampunk Party, featuring steam brass pipes, pressure valves, airships, and party achievements.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-level-overview"&gt;1. Level Overview
+&lt;/h2&gt;&lt;p&gt;Steampunk Party brings Victorian industrial aesthetic to life with brass steam pipes, pressure safety valves, clockwork gears, and flying steam airships.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2-walkthrough-steps"&gt;2. Walkthrough Steps
+&lt;/h2&gt;&lt;h3 id="section-1-brass-pipe-pressure-balancing"&gt;Section 1: Brass Pipe Pressure Balancing
+&lt;/h3&gt;&lt;p&gt;Connect brass steam pipes between the boiler and pressure regulator to build up 100 PSI of steam power.&lt;/p&gt;
+&lt;h3 id="section-2-clockwork-gear-tower"&gt;Section 2: Clockwork Gear Tower
+&lt;/h3&gt;&lt;p&gt;Use high-pressure steam jets to turn giant brass clockwork gears, forming a staircase to the upper airship dock.&lt;/p&gt;
+&lt;h3 id="section-3-steam-airship-flight"&gt;Section 3: Steam Airship Flight
+&lt;/h3&gt;&lt;p&gt;Board the Victorian steam airship. Turn the furnace valve to inflate the balloon and steer the rudder to fly into the clocktower exit.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3-speedrun-steam-jet-skips"&gt;3. Speedrun Steam Jet Skips
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Steam Geyser Rocket:&lt;/strong&gt; Stand directly over an open high-pressure steam pipe when opening the main boiler valve to get launched 50 meters into the air onto the airship dock!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="4-achievements-guide"&gt;4. Achievements Guide
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Steam Powered:&lt;/strong&gt; Clear the level without venting steam into the open air more than once.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Airship Captain:&lt;/strong&gt; Fly the steam airship under all 3 brass bridges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id="-continue-your-run"&gt;🔗 Continue Your Run
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⬅️ &lt;strong&gt;Previous:&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/guides/red-rock/" &gt;&amp;amp; Magnet Canyons Guide Level Walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;➡️ &lt;strong&gt;Next:&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/guides/test-chamber/" &gt;&amp;amp; Portal Laser Guide Level Walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Stuck on the physics?&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/gameplay/physics-tips/" &gt;Physics Tips &amp;amp; Movement Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Playing with friends?&lt;/strong&gt; &lt;a class="link" href="https://www.mrm777.win/multiplayer/" &gt;Multiplayer Co-op Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
