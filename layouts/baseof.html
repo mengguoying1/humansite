@@ -7,6 +7,7 @@
     {{ $isHomeOrList := or .IsHome (or .IsSection (or (eq .Kind "taxonomy") (eq .Kind "term"))) }}
     <body class="{{ block `body-class` . }}{{ end }}{{ if .IsHome }} homepage-layout{{ end }}{{ if $isHomeOrList }} list-layout{{ end }}">
         <canvas id="particleCanvas"></canvas>
+        <div class="aurora-bg" aria-hidden="true"></div>
         <div class="custom-cursor" id="customCursor"></div>
         {{- partial "head/colorScheme" . -}}
 
@@ -238,10 +239,10 @@
                     mouse.y = -1000;
                 });
 
-                const particleCount = Math.min(Math.floor((width * height) / 15000), 80);
+                const particleCount = Math.min(Math.floor((width * height) / 22000), 60);
                 const particles = [];
 
-                const colors = ['rgba(0, 245, 255, ', 'rgba(255, 0, 228, ', 'rgba(0, 255, 102, '];
+                const colors = ['rgba(124, 92, 255, ', 'rgba(34, 211, 238, ', 'rgba(244, 114, 182, '];
 
                 for (let i = 0; i < particleCount; i++) {
                     particles.push({
@@ -251,7 +252,7 @@
                         vy: (Math.random() - 0.5) * 0.8,
                         radius: Math.random() * 2 + 1,
                         colorPrefix: colors[Math.floor(Math.random() * colors.length)],
-                        baseAlpha: Math.random() * 0.5 + 0.3
+                        baseAlpha: Math.random() * 0.3 + 0.15
                     });
                 }
 
@@ -282,11 +283,11 @@
                             const dist = Math.sqrt(dx * dx + dy * dy);
 
                             if (dist < 130) {
-                                const alpha = (1 - dist / 130) * 0.25;
+                                const alpha = (1 - dist / 130) * 0.22;
                                 ctx.beginPath();
                                 ctx.moveTo(p.x, p.y);
                                 ctx.lineTo(p2.x, p2.y);
-                                ctx.strokeStyle = 'rgba(0, 245, 255, ' + alpha + ')';
+                                ctx.strokeStyle = 'rgba(124, 92, 255, ' + alpha + ')';
                                 ctx.lineWidth = 0.8;
                                 ctx.stroke();
                             }
@@ -300,7 +301,7 @@
                             ctx.beginPath();
                             ctx.moveTo(p.x, p.y);
                             ctx.lineTo(mouse.x, mouse.y);
-                            ctx.strokeStyle = 'rgba(255, 0, 228, ' + mAlpha + ')';
+                            ctx.strokeStyle = 'rgba(34, 211, 238, ' + mAlpha + ')';
                             ctx.lineWidth = 1.2;
                             ctx.stroke();
                         }

@@ -110,7 +110,7 @@
                     let p2 = projected[line[1]];
                     let avgZ = (p1.z + p2.z) / 2;
                     let alpha = Math.max(0.01, Math.min(0.2, 1 - (avgZ + 100) / 200));
-                    ctx.strokeStyle = `rgba(0, 245, 255, ${alpha})`;
+                    ctx.strokeStyle = `rgba(124, 92, 255, ${alpha})`;
                     ctx.beginPath();
                     ctx.moveTo(p1.x, p1.y);
                     ctx.lineTo(p2.x, p2.y);
@@ -120,7 +120,7 @@
                 // Draw nodes
                 for (let p of projected) {
                     let alpha = Math.max(0.01, Math.min(0.3, 1 - (p.z + 100) / 200));
-                    ctx.fillStyle = `rgba(255, 0, 228, ${alpha})`;
+                    ctx.fillStyle = `rgba(34, 211, 238, ${alpha})`;
                     ctx.beginPath();
                     ctx.arc(p.x, p.y, 2, 0, Math.PI * 2);
                     ctx.fill();
@@ -223,7 +223,7 @@
             {{ range first 6 $recentGuides }}
                 <div class="hud-board-item" style="display: flex; gap: 1rem; align-items: center;">
                     {{ if .File }}
-                    <a href="{{ .RelPermalink }}" style="flex-shrink: 0; display: block; width: 90px; height: 55px; border-radius: 6px; overflow: hidden; border: 1px solid rgba(0, 245, 255, 0.3); box-shadow: 0 0 8px rgba(0, 245, 255, 0.15);">
+                    <a href="{{ .RelPermalink }}" style="flex-shrink: 0; display: block; width: 90px; height: 55px; border-radius: 6px; overflow: hidden; border: 1px solid rgba(124, 92, 255, 0.4); box-shadow: 0 0 10px rgba(124, 92, 255, 0.2);">
                         <img src="/img/{{ .File.TranslationBaseName }}.jpg" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.src='/img/cover.jpg';">
                     </a>
                     {{ end }}
@@ -334,11 +334,11 @@
                     this.radius = radius;
 
                     const colors = [
-                        { c1: '#00f5ff', c2: 'rgba(0, 245, 255, 0.45)' },
-                        { c1: '#ff00e4', c2: 'rgba(255, 0, 228, 0.45)' },
-                        { c1: '#00ff66', c2: 'rgba(0, 255, 102, 0.45)' },
-                        { c1: '#ffcc00', c2: 'rgba(255, 204, 0, 0.45)' },
-                        { c1: '#ff6b00', c2: 'rgba(255, 107, 0, 0.45)' }
+                        { c1: '#7c5cff', c2: 'rgba(124, 92, 255, 0.45)' },
+                        { c1: '#22d3ee', c2: 'rgba(34, 211, 238, 0.45)' },
+                        { c1: '#f472b6', c2: 'rgba(244, 114, 182, 0.45)' },
+                        { c1: '#34d399', c2: 'rgba(52, 211, 153, 0.45)' },
+                        { c1: '#fbbf24', c2: 'rgba(251, 191, 36, 0.45)' }
                     ];
                     let col = colors[Math.floor(Math.random() * colors.length)];
                     this.color1 = col.c1;
@@ -515,7 +515,7 @@
                 pCtx.clearRect(0, 0, pCanvas.width, pCanvas.height);
 
                 // Draw background grid lines
-                pCtx.strokeStyle = 'rgba(0, 245, 255, 0.025)';
+                pCtx.strokeStyle = 'rgba(124, 92, 255, 0.04)';
                 pCtx.lineWidth = 1;
                 const gridSpacing = 40;
                 for (let x = 0; x < pCanvas.width; x += gridSpacing) {
