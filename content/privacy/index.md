@@ -7,7 +7,9 @@ layout: "single"
 
 # Privacy Policy
 
-**Effective Date:** August 25, 2026
+**Effective Date:** September 28, 2026
+
+*Related policies: [Editorial Policy](/editorial-policy/) · [Corrections](/corrections/) · [About](/about/)*
 
 Welcome to the **Human: Fall Flat Walkthrough Portal** (accessible at `https://www.mrm777.win/`). We respect your privacy and are committed to protecting the personal information you may provide while using our website. This Privacy Policy explains how information about you is collected, used, and disclosed by us and our advertising partners.
 

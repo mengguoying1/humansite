@@ -79,10 +79,18 @@ languages:
           name: "About"
           url: /about/
           weight: 7
+        - identifier: editorial
+          name: "Editorial Policy"
+          url: /editorial-policy/
+          weight: 8
+        - identifier: corrections
+          name: "Corrections"
+          url: /corrections/
+          weight: 9
         - identifier: privacy
           name: "Privacy Policy"
           url: /privacy/
-          weight: 8
+          weight: 10
   zh-cn:
     label: 简体中文
     locale: zh-cn
@@ -127,7 +135,15 @@ languages:
           name: "关于"
           url: /zh-cn/about/
           weight: 7
+        - identifier: editorial
+          name: "编辑政策"
+          url: /zh-cn/editorial-policy/
+          weight: 8
+        - identifier: corrections
+          name: "勘误记录"
+          url: /zh-cn/corrections/
+          weight: 9
         - identifier: privacy
           name: "隐私政策"
           url: /zh-cn/privacy/
-          weight: 8
+          weight: 10

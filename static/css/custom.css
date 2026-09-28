@@ -1128,6 +1128,13 @@ a:hover {
   box-shadow: 0 0 10px rgba(255, 0, 228, 0.4);
 }
 
+/* Article verification meta */
+.article-verified {
+  color: var(--game-success) !important;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 0.85rem;
+}
+
 /* ==========================================================================
    MISC AND UTILITY CLASSES
    ========================================================================== */

@@ -1,28 +1,29 @@
 ---
-title: "🎮 Human: Fall Flat Walkthrough Portal"
-description: "Human: Fall Flat Guide Portal - Gameplay tips, level walkthroughs, and multiplayer cooperation guides."
+title: "Human: Fall Flat Walkthrough & Physics Guide Hub"
+description: "Player-tested walkthroughs, physics technique guides, and co-op strategies for Human: Fall Flat. Every route is verified in-game and version-locked."
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 ---
 
-《**Human: Fall Flat**》is a hilarious physics-based puzzle platformer where you control **Bob**, a wobbly human made of soft jelly, on his dreamlike quest to reach the exit of each surreal level. Every movement — grabbing, climbing, swinging, throwing — is governed by a fully simulated physics engine, which means no two playthroughs ever look the same.
+《**Human: Fall Flat**》is a physics-based puzzle platformer where every grab, swing, and throw is governed by a real-time simulation. That means two players can clear the same level in completely different ways — one slow and careful, the other launching across the map with a well-timed momentum skip.
 
-This fan-made portal collects **step-by-step walkthroughs for every official level**, from the tutorial Mansion to the trickiest late-game stages, along with gameplay technique guides, multiplayer cooperation tips, and curated highlight videos. Whether you are stuck on a specific puzzle, hunting for hidden achievements, or chasing speedrun records, you will find the shortcut here.
+This hub documents **both** approaches. Every level guide is tested on the current Steam build, version-locked so you know if a route still works after a patch, and paired with a physics technique section that explains *why* a shortcut works, not just which buttons to press.
 
-## 🕹️ What You'll Find Here
+## What you'll find
 
-*   **[Gameplay Guide](/gameplay/)** — Master Bob's physics movement: basic grabbing, wall climbing, throwing, and controller mapping setups.
-*   **[Level Guides](/guides/)** — Step-by-step walkthroughs for all official levels, packed with map graphics, unique shortcuts, and achievement locations.
-*   **[Multiplayer Hub](/multiplayer/)** — Cooperational physics, team shortcuts, and the funniest 8-player lobby glitches.
-*   **[Media Center](/media/)** — Highlight videos playable directly in your browser, including official trailers and funny clips.
+* **[Level Guides](/guides/)** — Step-by-step routes for every official level, including the standard path and documented community skips.
+* **[Gameplay Techniques](/gameplay/)** — How momentum, grab points, and ragdoll state work under the hood.
+* **[Multiplayer Strategies](/multiplayer/)** — Co-op carries, lever puzzles, and 8-player lobby coordination.
+* **[Media Center](/media/)** — Curated community highlights and official trailers, credited to their creators.
 
-## 🆕 Latest Updates
+## Why this guide is different
 
-*   🏭 **[Level Guide Updated](/guides/factory/)** — Level 2: Factory deep-dive guide is now live. Learn belt-shifting and crane-launching shortcuts!
-*   💪 **[Physics Tricks Unlocked](/gameplay/physics-tips/)** — Advanced guide detailing swing jumps, throwing methods, and the single-hand wall climb!
-*   🎬 **[Media Stream Integrated](/media/)** — Media Center updated with Bilibili players for lag-free in-browser playback.
-*   🏰 **[Level Guide Updated](/guides/mansion/)** — Level 1: Mansion speedrun paths and the hidden soccer easter egg location guide!
+Most Human: Fall Flat walkthroughs stop at "go here, grab this, climb there." We add three things that matter if you actually want to get better at the game:
+
+1. **Physics first.** We explain the mechanic behind a skip so you can adapt it to other levels, not just repeat one sequence.
+2. **Version notes.** Game updates change physics. We mark the last patch each guide was verified against.
+3. **Source credits.** Community-discovered skips are linked back to the original creator when possible. See our [editorial policy](/editorial-policy/) and public [corrections log](/corrections/).
 
 <div class="disclaimer" style="text-align: center; padding: 1.5rem; margin-top: 3rem; background: rgba(0,245,255,0.03); border: 1px solid rgba(0,245,255,0.08); border-radius: 12px; font-size: 0.8rem; color: var(--game-text-muted);">
-  ⚡ This is a fan-made guide site for the Human: Fall Flat community.<br>
-  Human: Fall Flat ® and all related assets are trademarks of No Brakes Games / Curve Digital.<br>
-  Level screenshots on this site are official promotional images sourced from the Steam store, used here for non-commercial fan documentation.
+  *Human: Fall Flat* is a registered trademark of No Brakes Games / Curve Digital. This is an independent fan site with no affiliation to the developers.
 </div>
