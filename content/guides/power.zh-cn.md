@@ -84,9 +84,6 @@ complexity: "High"
 *攻略版本：v1.2 | 本地脑电波同步成功... 准备前往 [下一关卡：阿兹特克 (Aztec)](/guides/aztec/)*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################

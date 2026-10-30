@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy and AdSense Data Disclosure for Human: Fall Flat Walkthrough Portal"
+description: "Privacy policy for the Human: Fall Flat fan guide website."
 date: 2026-08-25T00:00:00Z
 layout: "single"
 ---
@@ -11,38 +11,31 @@ layout: "single"
 
 *Related policies: [Editorial Policy](/editorial-policy/) · [Corrections](/corrections/) · [About](/about/)*
 
-Welcome to the **Human: Fall Flat Walkthrough Portal** (accessible at `https://www.mrm777.win/`). We respect your privacy and are committed to protecting the personal information you may provide while using our website. This Privacy Policy explains how information about you is collected, used, and disclosed by us and our advertising partners.
+Welcome to the **Human: Fall Flat Walkthrough Portal** (accessible at `https://www.mrm777.win/`). This policy explains what information may be processed when you visit the site.
 
 ---
 
 ## 1. Information We Collect
 
 ### A. Log Data & Analytics
-Like most standard website servers, we automatically log information when you access our site, including:
-* Your IP address
-* Browser type and language
-* Referring/exit pages and URLs
-* Operating system
-* Date and time stamps
+The hosting provider may process technical request data, such as IP address, browser information, requested URLs, and timestamps, to deliver and protect the site. The exact data retained depends on the hosting provider's configuration.
 
 ### B. Cookies and Web Beacons
-We use cookies to enhance user experience, analyze site performance, and serve relevant advertisements. Cookies are small data files stored on your browser.
+The site includes Google AdSense code. Google may use cookies or similar technologies when its code runs. The site does not currently use a separate first-party analytics service.
 
 ---
 
 ## 2. Google AdSense & Third-Party Advertising
 
-We use **Google AdSense** to serve advertisements on our website. Google, as a third-party vendor, uses cookies to serve ads based on your prior visits to our website or other websites on the Internet.
+Google AdSense code is present on the site, but ad serving depends on Google's review and account status. Google may process information under its own privacy terms when the code loads.
 
-* **Google's use of advertising cookies** enables it and its partners to serve ads to users based on their visit to our sites and/or other sites on the Internet.
-* Users may opt out of personalized advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads).
-* Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info).
+For information about Google's data use and advertising controls, see [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites) and [Ads Settings](https://myadcenter.google.com/).
 
 ---
 
 ## 3. Third-Party Privacy Policies
 
-Our Privacy Policy does not apply to other advertisers or websites. We advise you to consult the respective Privacy Policies of these third-party ad servers (such as Google AdSense) for more detailed information on their practices and instructions about how to opt out of certain options.
+External links may lead to websites governed by their own privacy policies. We do not control those sites.
 
 ---
 

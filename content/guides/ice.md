@@ -98,9 +98,6 @@ This puzzle teaches players how to melt ice blocks using thermal focusing.
 *Guides version: v1.2 | Signal synced... Next Level: [Level 14: Thermal](/guides/thermal/)*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################

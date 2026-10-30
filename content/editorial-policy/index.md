@@ -11,14 +11,13 @@ This page explains how content on this site is produced, checked, and corrected.
 
 ## What we cover
 
-We publish player-tested guides for *Human: Fall Flat*. Coverage includes level walkthroughs, movement techniques, co-op strategies, speedrun notes, and community media references. We do not publish third-party cheats, modified game files, or tools that alter the game client.
+This is an independent fan reference site about *Human: Fall Flat*. Guides do not all include a recorded test date or game version. Unless a page explicitly states when and on which version a route was verified, treat its steps as unverified notes and confirm them in your own game.
 
 ## Sourcing hierarchy
 
-1. **In-game verification.** The strongest source is the current Steam build of the game. A route must be reproducible before it is published as the default path.
-2. **Official patch notes.** When a level or physics behavior changes, the developer's changelog is the authoritative reference.
-3. **Community discovery with credit.** Documented skips or techniques discovered by players are credited by name or video link when possible.
-4. **Video evidence.** For difficult skips, we link to a community video that demonstrates the timing.
+1. **Official information.** Use developer materials for statements about official features, updates, and achievements.
+2. **Gameplay observations.** Clearly distinguish a route observation from an official fact and include a version/date when verified.
+3. **Community material.** Credit creators and link the original source when discussing another player's discovery.
 
 ## Correction policy
 
@@ -32,4 +31,4 @@ Editorial decisions are made independently of advertising. No guide, rating, or 
 
 ## Updates and versioning
 
-Guides are version-locked to the game build they were tested on. When the game receives a major update, affected guides are retested and their `lastmod` date is updated.
+Guides are not automatically version-locked. A page should only claim a route was tested when its verification date and game version are recorded on that page.

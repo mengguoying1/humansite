@@ -100,9 +100,6 @@ The final puzzle requires you to power up a steam-powered elevator and ride a ca
 *Guides version: v1.2 | Signal synced... Next Level: [Level 12: Steam](/guides/steam/)*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################

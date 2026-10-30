@@ -497,6 +497,6 @@ Welcome to the dreamscape missions console. We have cataloged difficulty levels,
 ---
 
 <div class="unlock-tip-box" style="background:rgba(255,107,0,0.05) !important; border-color:var(--game-accent) !important; box-shadow:0 0 15px rgba(255,107,0,0.15) !important;">
-  <strong style="color:var(--game-accent);">【Hidden Achievements warning】</strong><br>
-  Every level features official achievements (e.g., scoring a goal in Mansion, or clearing Factory without using conveyor belts). When walking through, make sure to explore off-road corners to unlock these special achievements!
+  <strong style="color:var(--game-accent);">Guide note</strong><br>
+  Achievement conditions vary by level and game version. Check the achievement list in your game before following an achievement route.
 </div>

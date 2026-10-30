@@ -49,28 +49,13 @@ complexity: "Medium"
 
 ---
 
-## 🏆 Hidden Easter Eggs
-1.  **Conveyor Skipping**: Clear the entire Factory floor without touching any of the moving conveyor belts. This unlocks the special official achievement for speedrunners.
-2.  **Bob Cannon**: In co-op mode, one player can stand inside the vacuum pipe while the other pulls the pressure release lever, launching the player out of the pipe like a wobbly cannonball!
-
----
-
-## 📊 Level Telemetry
-
-| Parameter Checklist | Data Value | Recommended Action |
-| :--- | :--- | :--- |
-| **Est. Duration** | 12 - 20 Mins | Keep your balance on overhead pipes using crouches |
-| **Speedrun Record** | 41.5 Seconds | Execute a super jump off the interlocking gears |
-| **Mechanics Used** | Friction Acceleration | Keep boxes centered on plates to prevent slips |
+The steps above describe one possible route. Verify object placement and controls in your game version; this guide does not claim an official speedrun record or achievement unlock.
 
 ---
 
 *Guides version: v1.2 | Signal synced... Next Level: [Guides Console](/guides/)*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################

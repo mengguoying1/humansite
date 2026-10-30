@@ -81,9 +81,6 @@ complexity: "Medium"
 *Guides version: v1.2 | Signal synced... Next Level: [Level 7: Castle](/guides/castle/)*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################

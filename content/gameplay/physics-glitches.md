@@ -92,9 +92,6 @@ This guide details the top four community techniques used to break the game's bo
 *Want to apply these glitches? Read our [Mansion Walkthrough](/guides/mansion/) or choose a level from the [Level Guides Index](/guides/) to find skips!*
 
 <!--
-DUMMY CONTENT TO PREVENT HUGO GOLDMARK CONTENT BOUNDS PANIC BUG.
-THIS BUG OCCURS WHEN THE MARKDOWN FILE SIZE IS NEAR 4096 BYTES.
-BY PADDING THE FILE TO BE OVER 5000 BYTES, WE BYPASS THE BOUNDARY ERROR COMPLETELY.
 ########################################################################################################################
 ########################################################################################################################
 ########################################################################################################################
