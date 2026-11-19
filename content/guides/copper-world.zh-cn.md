@@ -78,7 +78,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[城市关卡攻略](/zh-cn/guides/city/)
-*   ➡️ **下一关：**[森林关卡攻略](/zh-cn/guides/forest/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十五关：城市 (City)](/zh-cn/guides/city/)
+*   ➡️ **下一关：** [第十七关：森林 (Forest)](/zh-cn/guides/forest/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

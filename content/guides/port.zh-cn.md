@@ -76,7 +76,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[微观世界关卡攻略](/zh-cn/guides/miniature/)
-*   ➡️ **下一关：**[红岩关卡攻略](/zh-cn/guides/red-rock/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第二十二关：微观世界 (Miniature)](/zh-cn/guides/miniature/)
+*   ➡️ **下一关：** [第二十四关：红岩 (Red Rock)](/zh-cn/guides/red-rock/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

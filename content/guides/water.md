@@ -104,7 +104,7 @@ complexity: "High"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [7 Castle Level Walkthrough](/guides/castle/)
-*   ➡️ **Next:** [9 Power Level Walkthrough](/guides/power/)
+*   ⬅️ **Previous:** [Castle Walkthrough](/guides/castle/)
+*   ➡️ **Next:** [Power Plant Walkthrough](/guides/power/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

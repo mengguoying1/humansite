@@ -99,7 +99,7 @@ complexity: "Low"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [2 Factory Level Walkthrough](/guides/factory/)
-*   ➡️ **Next:** [4 Carry Level Walkthrough](/guides/carry/)
+*   ⬅️ **Previous:** [Factory Walkthrough](/guides/factory/)
+*   ➡️ **Next:** [Carry Walkthrough](/guides/carry/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

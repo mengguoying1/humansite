@@ -124,7 +124,7 @@ complexity: "Low"
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[火车关卡攻略](/zh-cn/guides/train/)
-*   ➡️ **下一关：**[山巅关卡攻略](/zh-cn/guides/mountain/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第三关：火车 (Train)](/zh-cn/guides/train/)
+*   ➡️ **下一关：** [第五关：山巅 (Mountain)](/zh-cn/guides/mountain/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

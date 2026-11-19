@@ -116,7 +116,7 @@ This puzzle teaches players how to melt ice blocks using thermal focusing.
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [12 Steam Level Walkthrough](/guides/steam/)
-*   ➡️ **Next:** [& Secrets Guide Level Walkthrough](/guides/candyland/)
+*   ⬅️ **Previous:** [Steam Walkthrough](/guides/steam/)
+*   ➡️ **Next:** [Candyland Walkthrough](/guides/candyland/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -46,18 +46,37 @@ Climb the rotating mint candy wheels. Time your hand grips carefully as the mint
 
 ---
 
-## 4. Hidden Achievements Guide
+## 4. Hidden Achievements & Trophies
 
-- **Sweet Tooth:** Eat/Interact with 5 giant candy canes hidden behind the wafer bridge.
-- **Sugar Rush:** Clear the peppermint gear tower in under 45 seconds without falling into the liquid caramel.
+- **Stay Puft:** Bounce on the giant marshmallow at the candy river without falling off.
+- **Route Canal:** Sail the waffle boat down the chocolate river without sinking.
+- **Dodgeball:** Avoid getting knocked off by rolling gumdrops in the final ascent.
+- **Sweet Dreams:** Complete the Candyland level.
 
 ---
+
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Marshmallow & Gummy Rebound**: There is no built-in 'high jump' key in Human: Fall Flat. Gaining massive air off soft gummies comes from deformation rebound: grab the edges with both hands, wiggle forward and backward with WASD to squish the soft body down, and let go right when it rebounds upward while pressing Space. Timing the release at maximum upward expansion gives triple the height of a normal bounce.
+
+**Chocolate River Traversal**: Waffle rafts tilt and sink under your weight. When crossing, look straight down with your mouse to lower Bob's center of gravity. Move with short, deliberate steps rather than sprinting. If you're carrying a prop across, keep both hands glued to the object's center.
+
+**Rotating Peppermint Gears**: Never grab a fast-spinning gear with both hands simultaneously—the angular momentum will yank your arms and fling you off. Instead, latch on with one hand (Right Mouse Button), ride the arc upward, and release just past the peak while tucking your legs with Space.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Constantly sliding off caramel banks: Keep your camera level or slightly down. Looking up shifts Bob's torso backward, causing his feet to slide on slick slopes.
+* Waffle bridges flipping over: Always lay wafer planks crosswise across both banks. Tossing them at an angle will cause them to pivot and dump you when stepped on.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [13 Ice Level Walkthrough](/guides/ice/)
-*   ➡️ **Next:** [& Drones Guide Level Walkthrough](/guides/city/)
+*   ⬅️ **Previous:** [Ice Walkthrough](/guides/ice/)
+*   ➡️ **Next:** [City Walkthrough](/guides/city/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

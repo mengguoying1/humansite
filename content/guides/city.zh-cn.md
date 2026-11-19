@@ -48,8 +48,10 @@ tags:
 
 ## 四、 隐藏成就解锁指南
 
-- **全中！(Strike!)：** 在楼顶保龄球球道上一球击倒全部 10 个保龄球瓶。
-- **空中快递 (Airborne Express)：** 站在无人机上连续飞行超过 30 秒而不跌落。
+- **Sports Fan：** 顺利通关城市关卡。
+- **Tip-Top Ten Pin：** 成功完成楼顶保龄球馆全部4条球道的全中或击倒。
+- **Hitchhiker：** 搭乘移动载具或无人机平台持续行驶超过10秒。
+- **Temper Tantrum：** 找到藏在摩天大楼天台的3个人形假人并全部扔下大楼。
 
 ---
 
@@ -78,7 +80,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[糖果乐园关卡攻略](/zh-cn/guides/candyland/)
-*   ➡️ **下一关：**[铜界关卡攻略](/zh-cn/guides/copper-world/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十四关：糖果乐园 (Candyland)](/zh-cn/guides/candyland/)
+*   ➡️ **下一关：** [第十六关：铜界 (Copper World)](/zh-cn/guides/copper-world/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

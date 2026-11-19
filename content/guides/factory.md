@@ -72,7 +72,7 @@ The steps above describe one possible route. Verify object placement and control
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [1 Mansion Level Walkthrough](/guides/mansion/)
-*   ➡️ **Next:** [3 Train Level Walkthrough](/guides/train/)
+*   ⬅️ **Previous:** [Mansion Walkthrough](/guides/mansion/)
+*   ➡️ **Next:** [Train Walkthrough](/guides/train/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -52,12 +52,28 @@ Solve the trident pressure plate puzzle inside the sunken temple to drain the wa
 - **Submarine Captain:** Park the yellow submarine inside the drydock without crashing into rocks.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Buoyancy & Weight Distribution**: Objects behave differently submerged. Heavy stones sink fast, while hollow tanks provide strong upward lift. Use air canisters as portable flotation devices.
+
+**Submarine Ballast Control**: Flood ballast tanks to dive down and blow tanks with compressed air to surface. Steer with gentle propeller pulses to avoid scraping cave ceilings.
+
+**Sunken Vault Pressure Plates**: Submerged pressure plates require heavier weights to compensate for water buoyancy. Stack multiple ballast stones to trigger ancient door locks.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Getting pinned under sinking stone slabs: Clear drop zones before releasing underwater winches.
+* Drifting off into open ocean currents: Stay near the seabed and trench walls where water currents are manageable.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Spire Climbing Guide Level Walkthrough](/guides/tower/)
-*   ➡️ **Next:** [& Longship Guide Level Walkthrough](/guides/viking/)
+*   ⬅️ **Previous:** [Tower Walkthrough](/guides/tower/)
+*   ➡️ **Next:** [Viking Walkthrough](/guides/viking/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

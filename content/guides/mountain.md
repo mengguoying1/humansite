@@ -103,7 +103,7 @@ complexity: "Medium"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [4 Carry Level Walkthrough](/guides/carry/)
-*   ➡️ **Next:** [6 Demolition Level Walkthrough](/guides/demolition/)
+*   ⬅️ **Previous:** [Carry Walkthrough](/guides/carry/)
+*   ➡️ **Next:** [Demolition Walkthrough](/guides/demolition/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

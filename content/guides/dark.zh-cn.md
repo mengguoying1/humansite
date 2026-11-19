@@ -141,7 +141,7 @@ complexity: "High"
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[阿兹特克关卡攻略](/zh-cn/guides/aztec/)
-*   ➡️ **下一关：**[蒸汽关卡攻略](/zh-cn/guides/steam/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十关：阿兹特克 (Aztec)](/zh-cn/guides/aztec/)
+*   ➡️ **下一关：** [第十二关：蒸汽 (Steam)](/zh-cn/guides/steam/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

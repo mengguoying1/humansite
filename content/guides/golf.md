@@ -52,12 +52,28 @@ Drive the electric golf cart down the fairway, hit the ramp at top speed, and le
 - **Cart Racer:** Drive the golf cart through all 3 speed arches in under 20 seconds.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Pendulum Club Swinging**: Hold the club handle firmly with both hands. Walk backward two steps, then sprint forward while swinging your camera smoothly in the direction of the hit. Let momentum do the work.
+
+**Wind Tunnel Draft Hovering**: In vertical air vents, keep your arms spread wide. Tilting your camera tilts your torso, allowing you to glide horizontally within the upward air column.
+
+**Golf Cart Hill Climbs**: The electric cart loses speed on steep grass inclines. Take zig-zag diagonal angles up hills rather than driving straight up.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Body-checking the ball: Touching the golf ball with your character's body can void putting achievements like 'Birdie'. Keep your distance and swing only with the club head.
+* Overshooting greens: High wind tunnels will carry you off the map if you don't steer back toward the center of the green.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Heavy Machinery Guide Level Walkthrough](/guides/forest/)
-*   ➡️ **Next:** [& Mountain Climbing Guide Level Walkthrough](/guides/hike/)
+*   ⬅️ **Previous:** [Forest Walkthrough](/guides/forest/)
+*   ➡️ **Next:** [Hike Walkthrough](/guides/hike/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

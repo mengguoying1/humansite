@@ -52,12 +52,28 @@ Board the Victorian steam airship. Turn the furnace valve to inflate the balloon
 - **Airship Captain:** Fly the steam airship under all 3 brass bridges.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Steam Pressure Balancing**: Watch pressure gauges carefully. Open relief valves sequentially to direct high-pressure steam into targeted piston cylinders without tripping boiler overpressure.
+
+**Clockwork Gear Interlocking**: Mesh gear teeth properly before applying steam power. Misaligned teeth will jam the mechanism and stall the elevator.
+
+**Airship Rudder & Ballast Control**: Steam airships steer slowly due to high air resistance. Plan turns well ahead of docking pylons.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Standing over unvented pipe nozzles: Scalding steam jets will launch your ragdoll character into the sky if valves open beneath you.
+* Ignoring loose valves: Check side alleys for hidden valves to complete level mechanics and secrets.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Magnet Canyons Guide Level Walkthrough](/guides/red-rock/)
-*   ➡️ **Next:** [& Portal Laser Guide Level Walkthrough](/guides/test-chamber/)
+*   ⬅️ **Previous:** [Red Rock Walkthrough](/guides/red-rock/)
+*   ➡️ **Next:** [Test Chamber Walkthrough](/guides/test-chamber/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -52,12 +52,28 @@ Climb the final vertical rock face using two-handed wall flapping. Hop on the ae
 - **Take a Hike:** Complete the level in under 10 minutes.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Alpine Wall Flapping**: For sheer rock walls with no handholds, use the alternate hand release technique: look up, hold left hand on the wall, release right hand, pivot your torso slightly, grab higher with right hand, then repeat with left.
+
+**Wooden Supply Cart Positioning**: Chock the cart wheels with small rocks on slopes before using it as a climbing platform, otherwise it will roll backward right as you leap.
+
+**Cable Tram Car Timing**: Jump onto moving cable cars from the front boarding gate; leaping from the side often clips your limbs on the doorway frame.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Rolling boulders rolling over you: When clearing boulder roadblocks, push from the uphill side and immediately step laterally out of the fall line.
+* Slipping on glacial frost: Snow-dusted rocks have lower friction than dry granite; take shorter strides.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Giant Club Guide Level Walkthrough](/guides/golf/)
-*   ➡️ **Next:** [Guide & Anti-Gravity Physics Level Walkthrough](/guides/laboratory/)
+*   ⬅️ **Previous:** [Golf Walkthrough](/guides/golf/)
+*   ➡️ **Next:** [Laboratory Walkthrough](/guides/laboratory/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

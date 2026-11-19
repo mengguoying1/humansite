@@ -52,12 +52,28 @@ Connect four copper rods in series to complete the grand circuit. The giant copp
 - **Master Electrician:** Complete all circuit connections without dropping any cable into the molten copper pit.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Cable Management & Socket Polarity**: Always run cables along clean floor paths. Avoid twisting cords around handrails or machinery shafts where they can get snagged. Match positive and negative terminals to close circuits cleanly.
+
+**Electromagnet Crane Control**: The crane cab controls feel heavy for a reason: the arm has real mass and inertia. Counter-steer slightly before your target point to bring the magnetic head to a stop right over the scrap pile.
+
+**Flywheel Momentum Timing**: Once the giant copper flywheels spin up, their rim speed is fast. Latch on near the hub where rotational speed is slower, then work your way out to the perimeter before releasing into a jump.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Cables pulling out mid-elevator ride: Make sure there is plenty of slack in the power cord before stepping into hydraulic lifts.
+* Accidental magnetic self-pinning: Don't stand directly underneath the crane's magnetic plate when flipping the power switch.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Drones Guide Level Walkthrough](/guides/city/)
-*   ➡️ **Next:** [& Heavy Machinery Guide Level Walkthrough](/guides/forest/)
+*   ⬅️ **Previous:** [City Walkthrough](/guides/city/)
+*   ➡️ **Next:** [Forest Walkthrough](/guides/forest/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

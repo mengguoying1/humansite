@@ -52,12 +52,28 @@ Roll 3 bowling balls onto the pressure plate to lower the bridge gate. Mount the
 - **Airborne Express:** Ride the flying drone continuously for more than 30 seconds without falling off.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Drone Handling & Rotor Lift**: The dual-joystick drone remote takes some practice. Push forward on the lift stick to build steady upward thrust. If the drone starts oscillating wildly, release the sticks for a second to let physics settle rather than over-correcting.
+
+**Bowling Alley Ball Momentum**: Bowling balls in this level are heavy and carry significant momentum. Grab them with both hands at waist height, walk forward two steps to build inertia, then look up and release both mouse buttons at the apex of your arm swing.
+
+**Rooftop Catapult Tension**: When cocking the rooftop ballista catapult, crank the ratchet lever all the way back until you hear the distinct mechanical lock click. Releasing early won't generate enough launch velocity to clear the gap.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Drones crashing into railings: Give yourself at least two meters of clear clearance before applying full rotor thrust.
+* Falling between buildings on zip-lines: Don't jump off the zip-line early. Ride it until your feet literally touch the landing ramp, then let go.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Secrets Guide Level Walkthrough](/guides/candyland/)
-*   ➡️ **Next:** [Guide & Electric Circuit Puzzles Level Walkthrough](/guides/copper-world/)
+*   ⬅️ **Previous:** [Candyland Walkthrough](/guides/candyland/)
+*   ➡️ **Next:** [Copper World Walkthrough](/guides/copper-world/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

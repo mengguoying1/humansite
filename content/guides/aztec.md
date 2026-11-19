@@ -103,7 +103,7 @@ complexity: "High"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [9 Power Level Walkthrough](/guides/power/)
-*   ➡️ **Next:** [11 Dark Level Walkthrough](/guides/dark/)
+*   ⬅️ **Previous:** [Power Plant Walkthrough](/guides/power/)
+*   ➡️ **Next:** [Dark Walkthrough](/guides/dark/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -52,12 +52,28 @@ Ride the overhead log crane hook across the waterfall gorge into the lumber stor
 - **Waterwheel Surfer:** Complete 3 full rotations while standing on top of the spinning waterwheel.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Waterwheel Riding**: Step onto the ascending paddles of the waterwheel near the axle where linear speed is lowest, then walk toward the outer rim as it nears the top.
+
+**Sawmill Plank Slicing**: Feed whole tree trunks squarely into the circular saw. Guide them from the rear; pushing from the side will bind the blade.
+
+**Crane Cable Ziplining**: When riding overhead crane hooks, use both hands and keep your camera looking forward along the cable line to minimize pendulum sway.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Getting caught by spinning saw teeth: Stay well clear of the blade's rotation plane when loading lumber onto the feed rollers.
+* Jumping into river rapids without a raft: The sawmill current is fast and will quickly sweep you off the map edge.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [Guide & Anti-Gravity Physics Level Walkthrough](/guides/laboratory/)
-*   ➡️ **Next:** [& Giant House Guide Level Walkthrough](/guides/miniature/)
+*   ⬅️ **Previous:** [Laboratory Walkthrough](/guides/laboratory/)
+*   ➡️ **Next:** [Miniature Walkthrough](/guides/miniature/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

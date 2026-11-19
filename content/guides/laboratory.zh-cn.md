@@ -76,7 +76,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[远足关卡攻略](/zh-cn/guides/hike/)
-*   ➡️ **下一关：**[木材关卡攻略](/zh-cn/guides/lumber/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十九关：远足 (Hike)](/zh-cn/guides/hike/)
+*   ➡️ **下一关：** [第二十一关：木材 (Lumber)](/zh-cn/guides/lumber/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

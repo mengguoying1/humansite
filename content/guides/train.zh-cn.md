@@ -122,7 +122,7 @@ complexity: "Low"
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[工厂关卡攻略](/zh-cn/guides/factory/)
-*   ➡️ **下一关：**[搬运关卡攻略](/zh-cn/guides/carry/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第二关：工厂 (Factory)](/zh-cn/guides/factory/)
+*   ➡️ **下一关：** [第四关：搬运 (Carry)](/zh-cn/guides/carry/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

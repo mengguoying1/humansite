@@ -118,7 +118,7 @@ This puzzle teaches players how to use raw pressure to gain vertical elevation.
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [11 Dark Level Walkthrough](/guides/dark/)
-*   ➡️ **Next:** [13 Ice Level Walkthrough](/guides/ice/)
+*   ⬅️ **Previous:** [Dark Walkthrough](/guides/dark/)
+*   ➡️ **Next:** [Ice Walkthrough](/guides/ice/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

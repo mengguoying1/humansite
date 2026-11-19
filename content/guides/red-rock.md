@@ -52,12 +52,28 @@ Hold the magnetic handle against the overhead metal rail. Turn on the magnet to 
 - **Bullseye:** Launch the catapult stone directly into the center breach in Section 2 on your first try.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Electromagnetic Attraction Rails**: Activate handheld magnets only when positioned within range of overhead metal girders. The magnetic pull is instantaneous and strong.
+
+**Sandstone Catapult Calibration**: Load stone blocks directly into the catapult bucket center. Offset loads will skew the launch angle and miss the cliff opening.
+
+**Canyon Wind Gliding**: When sliding down magnetic zip-rails, lean into the turn by shifting Bob's weight to prevent swinging into canyon walls.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Magnets sticking to wrong surfaces: Keep magnets stowed away until you are directly facing your intended target plate.
+* Wandering into desert cactus patches: Spikes cause ragdoll recoil that can push you off narrow cliff trails.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Container Ship Guide Level Walkthrough](/guides/port/)
-*   ➡️ **Next:** [& Steam Engines Guide Level Walkthrough](/guides/steampunk-party/)
+*   ⬅️ **Previous:** [Port Walkthrough](/guides/port/)
+*   ➡️ **Next:** [Steampunk Party Walkthrough](/guides/steampunk-party/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

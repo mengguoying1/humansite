@@ -101,7 +101,7 @@ complexity: "Medium"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [5 Mountain Level Walkthrough](/guides/mountain/)
-*   ➡️ **Next:** [7 Castle Level Walkthrough](/guides/castle/)
+*   ⬅️ **Previous:** [Mountain Walkthrough](/guides/mountain/)
+*   ➡️ **Next:** [Castle Walkthrough](/guides/castle/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

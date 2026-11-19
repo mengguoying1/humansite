@@ -76,7 +76,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[港口关卡攻略](/zh-cn/guides/port/)
-*   ➡️ **下一关：**[蒸汽朋克派对关卡攻略](/zh-cn/guides/steampunk-party/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第二十三关：港口 (Port)](/zh-cn/guides/port/)
+*   ➡️ **下一关：** [第二十五关：蒸汽朋克派对 (Steampunk Party)](/zh-cn/guides/steampunk-party/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

@@ -101,7 +101,7 @@ complexity: "Low"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [3 Train Level Walkthrough](/guides/train/)
-*   ➡️ **Next:** [5 Mountain Level Walkthrough](/guides/mountain/)
+*   ⬅️ **Previous:** [Train Walkthrough](/guides/train/)
+*   ➡️ **Next:** [Mountain Walkthrough](/guides/mountain/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

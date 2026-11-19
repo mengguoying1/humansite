@@ -52,12 +52,28 @@ Move the giant Queen chess piece onto the black square to open the cabinet door,
 - **Tiny Adventurer:** Clear the Miniature level without falling into the kitchen sink water.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Everyday Object Scaling**: Small items like pencils and rulers make surprisingly sturdy bridging planks. Test their balance on both ends before committing your full weight.
+
+**Power Drill & Tool Interactions**: Heavy tools like drills have high torque. Expect strong rotational kickback when flipping tool power switches.
+
+**Sink & Countertop Traversal**: Floating sponges make reliable boats. Paddle with a stray spoon or small stick to steer toward the drain basin.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Touching the red floor carpet: In the living room section, treat red floor tiles as dangerous obstacles if you're going for clean runs.
+* Getting sucked into vacuum vents: Stay clear of intake nozzles while motors are running.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Sawmill Guide Level Walkthrough](/guides/lumber/)
-*   ➡️ **Next:** [& Container Ship Guide Level Walkthrough](/guides/port/)
+*   ⬅️ **Previous:** [Lumber Walkthrough](/guides/lumber/)
+*   ➡️ **Next:** [Port Walkthrough](/guides/port/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

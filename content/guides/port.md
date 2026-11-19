@@ -52,12 +52,28 @@ Climb the stacked shipping containers using wall flapping techniques to reach th
 - **Cargo Master:** Stack 3 shipping containers vertically using the crane.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Gantry Crane Container Stacking**: Lower shipping containers smoothly onto target pads. Make sure all four bottom corner castings line up before releasing hoist cables.
+
+**Tugboat Rudder Momentum**: Ships don't stop on a dime. Cut your throttle early and apply reverse thrust well before entering the lock gate.
+
+**Container Wall Climbing**: Shipping container ribs provide horizontal grip ridges every half meter. Use them as reliable stepping points when ascending.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Swinging containers into crane legs: Keep hoist speed steady; rapid stops cause wide pendulums that knock your character off.
+* Falling between dock and boat hull: Never step across harbor gaps until the vessel is firmly tied or pushed flush against the dock fender.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Giant House Guide Level Walkthrough](/guides/miniature/)
-*   ➡️ **Next:** [& Magnet Canyons Guide Level Walkthrough](/guides/red-rock/)
+*   ⬅️ **Previous:** [Miniature Walkthrough](/guides/miniature/)
+*   ➡️ **Next:** [Red Rock Walkthrough](/guides/red-rock/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

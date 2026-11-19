@@ -102,7 +102,7 @@ complexity: "Medium"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [6 Demolition Level Walkthrough](/guides/demolition/)
-*   ➡️ **Next:** [8 Water Level Walkthrough](/guides/water/)
+*   ⬅️ **Previous:** [Demolition Walkthrough](/guides/demolition/)
+*   ➡️ **Next:** [Water Walkthrough](/guides/water/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

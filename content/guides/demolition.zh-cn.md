@@ -124,7 +124,7 @@ complexity: "Medium"
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[山巅关卡攻略](/zh-cn/guides/mountain/)
-*   ➡️ **下一关：**[城堡关卡攻略](/zh-cn/guides/castle/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第五关：山巅 (Mountain)](/zh-cn/guides/mountain/)
+*   ➡️ **下一关：** [第七关：城堡 (Castle)](/zh-cn/guides/castle/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

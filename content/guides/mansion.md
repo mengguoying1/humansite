@@ -96,7 +96,7 @@ This is the core puzzle of the Mansion map, which often stumps new players.
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Longship Guide Level Walkthrough](/guides/viking/)
-*   ➡️ **Next:** [2 Factory Level Walkthrough](/guides/factory/)
+*   ⬅️ **Previous:** [Viking Walkthrough](/guides/viking/)
+*   ➡️ **Next:** [Factory Walkthrough](/guides/factory/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -52,12 +52,28 @@ Operate the diesel mining drill to breach the rock wall, then swing across the l
 - **Lava Surfer:** Swing across the lava lake without touching the liquid rock.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Geyser Eruption Timing**: Geothermal vents erupt on periodic cycles. Step onto venting platforms right as the hiss builds, crouching slightly to absorb the initial blast before riding the upward surge.
+
+**Ice Block Melt Control**: Position ice blocks over hot steam vents to melt them down gradually to retrieve frozen keys without shattering the ice into unreachable crevices.
+
+**Mining Drill Operation**: Engage the drill feed lever steadily. Forcing the bit too fast can stall the diesel motor.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Touching molten lava crust: Lava pools cause instant respawn; always test stepping stones before leaping.
+* Dropping gold bars in deep vents: Keep a two-handed grip on bullion bars when navigating narrow rock ledges.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Portal Laser Guide Level Walkthrough](/guides/test-chamber/)
-*   ➡️ **Next:** [& Spire Climbing Guide Level Walkthrough](/guides/tower/)
+*   ⬅️ **Previous:** [Test Chamber Walkthrough](/guides/test-chamber/)
+*   ➡️ **Next:** [Tower Walkthrough](/guides/tower/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

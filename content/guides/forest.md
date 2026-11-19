@@ -52,12 +52,28 @@ Light the campfire torch to burn the wooden bridge supports, dropping the bridge
 - **Campfire Stories:** Light all 3 torches around the woodland campsite.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Bulldozer Throttle & Blade Control**: The bulldozer tracks steer via differential levers. Push both levers forward for straight drive, or pull one back to spin in place. Lower the blade low to the ground to catch tree trunks and statues squarely.
+
+**Log Rafting Dynamics**: Logs roll underneath your feet in water. To stay balanced, face perpendicular to the log's length and tap opposite movement keys as it rolls to keep your center of mass centered.
+
+**Sapling Catapulting**: Young bendable pine trees have elastic spring physics. Grab the crown, back up to bend the trunk down, and release while jumping to launch across ravines.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Bulldozer getting high-centered on rocks: Avoid driving directly over tall boulders; skirt around them or use the blade to push them aside.
+* Letting the ice block melt in the sun: Move the ice block through shaded paths under trees whenever possible.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [Guide & Electric Circuit Puzzles Level Walkthrough](/guides/copper-world/)
-*   ➡️ **Next:** [& Giant Club Guide Level Walkthrough](/guides/golf/)
+*   ⬅️ **Previous:** [Copper World Walkthrough](/guides/copper-world/)
+*   ➡️ **Next:** [Golf Walkthrough](/guides/golf/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

@@ -48,8 +48,10 @@ tags:
 
 ## 四、 隐藏成就解锁指南
 
-- **甜食控 (Sweet Tooth)：** 在威化饼干桥下方的隐蔽小洞中找到 5 根隐藏的巨型棒棒糖并进行互动。
-- **糖分超标 (Sugar Rush)：** 在不跌入焦糖池的前提下，45 秒内快速攀登通过薄荷糖齿轮高塔。
+- **Stay Puft：** 在棉花糖表面持续弹跳不跌落。
+- **Route Canal：** 乘坐威化小船完整顺着巧克力河道漂流。
+- **Dodgeball：** 登顶终点时躲避所有滚落的大糖球。
+- **Sweet Dreams：** 顺利通过糖果乐园关卡。
 
 ---
 
@@ -78,7 +80,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[冰关卡攻略](/zh-cn/guides/ice/)
-*   ➡️ **下一关：**[城市关卡攻略](/zh-cn/guides/city/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十三关：冰 (Ice)](/zh-cn/guides/ice/)
+*   ➡️ **下一关：** [第十五关：城市 (City)](/zh-cn/guides/city/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

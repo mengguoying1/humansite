@@ -52,12 +52,28 @@ Charge the magnetic coils by connecting energy battery cells. Step onto the magn
 - **Zero Gravity:** Spend more than 3 minutes walking on the ceiling in Section 1.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Gravity Inversion Orientation**: When gravity flips, your controls invert relative to the room. Take a second to re-orient your camera before walking along ceiling conduits.
+
+**Optical Mirror Alignment**: Position laser mirrors using both hands on the pedestal base rather than grabbing the mirror glass itself to prevent accidental angular jitter.
+
+**Plasma Orb Transport**: Energy spheres carry inertia. Walk at a steady pace; sudden sharp turns will cause the sphere to slip from your grip.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Dropping orbs into floor vents: Check floor gratings before carrying unshielded plasma spheres across the room.
+* Triggering laser tripwires: Duck and crawl under high beams rather than trying to jump over them.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Mountain Climbing Guide Level Walkthrough](/guides/hike/)
-*   ➡️ **Next:** [& Sawmill Guide Level Walkthrough](/guides/lumber/)
+*   ⬅️ **Previous:** [Hike Walkthrough](/guides/hike/)
+*   ➡️ **Next:** [Lumber Walkthrough](/guides/lumber/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

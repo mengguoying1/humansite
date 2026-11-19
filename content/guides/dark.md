@@ -118,7 +118,7 @@ The final puzzle requires you to power up a steam-powered elevator and ride a ca
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [10 Aztec Level Walkthrough](/guides/aztec/)
-*   ➡️ **Next:** [12 Steam Level Walkthrough](/guides/steam/)
+*   ⬅️ **Previous:** [Aztec Walkthrough](/guides/aztec/)
+*   ➡️ **Next:** [Steam Walkthrough](/guides/steam/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

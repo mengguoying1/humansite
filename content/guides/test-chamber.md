@@ -52,12 +52,28 @@ Fall from a high ledge into the momentum accelerator portal to gain terminal vel
 - **Speed of Sound:** Reach maximum momentum in the accelerator ramp portal loop.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Portal Momentum Conservation**: Terminal velocity is preserved through portal transitions. The faster you enter a portal, the further you will launch out the exit side.
+
+**Laser Prism Splitting**: Align glass prisms along marked floor tracks to refract beams through multiple security sensors simultaneously.
+
+**Vent Crawling Technique**: Drop to a low crawl by looking straight down and holding duck keys while crawling through narrow wall ducts.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Miscalculating portal exit trajectories: Always check where the exit portal faces before diving into a high-speed drop.
+* Blocking laser paths with your body: Stand clear of optical paths after positioning mirror pedestals.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Steam Engines Guide Level Walkthrough](/guides/steampunk-party/)
-*   ➡️ **Next:** [& Ice Cave Guide Level Walkthrough](/guides/thermal/)
+*   ⬅️ **Previous:** [Steampunk Party Walkthrough](/guides/steampunk-party/)
+*   ➡️ **Next:** [Thermal Walkthrough](/guides/thermal/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

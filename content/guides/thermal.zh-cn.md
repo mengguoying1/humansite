@@ -76,7 +76,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[测试室关卡攻略](/zh-cn/guides/test-chamber/)
-*   ➡️ **下一关：**[高塔关卡攻略](/zh-cn/guides/tower/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第二十六关：测试室 (Test Chamber)](/zh-cn/guides/test-chamber/)
+*   ➡️ **下一关：** [第二十八关：高塔 (Tower)](/zh-cn/guides/tower/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)

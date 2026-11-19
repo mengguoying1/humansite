@@ -52,12 +52,28 @@ Blow the giant Viking war horn to trigger an avalanche, then launch yourself fro
 - **Viking Rower:** Row the longship across the fjord in under 60 seconds.
 
 ---
+## 5. Core Physics Mechanics & Pro Techniques
+
+**Longship Rowing Coordination**: Rowing requires synchronizing oar strokes: pull backward together with both arms for straight propulsion, or alternate oars to make tight turns in fjord channels.
+
+**Battle Axe Chopping Physics**: Hold heavy axes near the handle base to maximize swinging leverage when cutting through bridge ropes or wooden barricades.
+
+**War Horn Avalanche Triggers**: Interacting with giant bronze horns sends sonic shockwaves across the canyon. Stand behind protective rock outcrops to avoid descending snowdrifts.
+
+---
+
+## 6. Rookie Mistakes & How to Avoid Them
+
+* Capsizing the longship in shallow water: Keep rowing speed steady when approaching shorelines to avoid beaching the keel on hidden rocks.
+* Throwing battle axes into deep water: Always secure your grip before swinging near open water edges.
+
+> 💡 Looking for general climbing, swinging, and momentum skills? Check out our [Physics Tips & Tricks](/gameplay/physics-tips/) guide.
 
 ---
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [& Submarine Guide Level Walkthrough](/guides/underwater/)
-*   ➡️ **Next:** [1 Mansion Level Walkthrough](/guides/mansion/)
+*   ⬅️ **Previous:** [Underwater Walkthrough](/guides/underwater/)
+*   ➡️ **Next:** [Mansion Walkthrough](/guides/mansion/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

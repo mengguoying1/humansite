@@ -104,7 +104,7 @@ complexity: "High"
 
 ## 🔗 Continue Your Run
 
-*   ⬅️ **Previous:** [8 Water Level Walkthrough](/guides/water/)
-*   ➡️ **Next:** [10 Aztec Level Walkthrough](/guides/aztec/)
+*   ⬅️ **Previous:** [Water Walkthrough](/guides/water/)
+*   ➡️ **Next:** [Aztec Walkthrough](/guides/aztec/)
 *   🧠 **Stuck on the physics?** [Physics Tips & Movement Tricks](/gameplay/physics-tips/)
 *   👥 **Playing with friends?** [Multiplayer Co-op Guide](/multiplayer/)

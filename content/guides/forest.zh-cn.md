@@ -78,7 +78,7 @@ tags:
 
 ## 🔗 继续下一关
 
-*   ⬅️ **上一关：**[铜界关卡攻略](/zh-cn/guides/copper-world/)
-*   ➡️ **下一关：**[高尔夫关卡攻略](/zh-cn/guides/golf/)
-*   🧠 **操作卡关？**[物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
-*   👥 **和朋友开黑？**[联机组队指南](/zh-cn/multiplayer/)
+*   ⬅️ **上一关：** [第十六关：铜界 (Copper World)](/zh-cn/guides/copper-world/)
+*   ➡️ **下一关：** [第十八关：高尔夫 (Golf)](/zh-cn/guides/golf/)
+*   🧠 **操作卡关？** [物理技巧与身法大全](/zh-cn/gameplay/physics-tips/)
+*   👥 **和朋友开黑？** [联机组队指南](/zh-cn/multiplayer/)
