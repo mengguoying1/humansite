@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Miniature Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Miniature level, featuring giant household objects, oversized vacuum cleaners, chessboards, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 22
 difficulty: "★★★★☆"
 duration: "40 Mins"

@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 维京 (Viking) 通关攻略"
 description: "《人类一败涂地》维京关卡图文攻略，详解维京龙首战船驾驶、战斧砍破木门、号角与维京成就通关。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 30
 difficulty: "★★★★☆"
 duration: "40 Mins"

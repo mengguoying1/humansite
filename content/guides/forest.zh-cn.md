@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 森林 (Forest) 通关攻略"
 description: "《人类一败涂地》森林关卡图文攻略，详解重型挖掘机驾驶、顺水木筏漂流、营地篝火与隐藏成就通关。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 17
 difficulty: "★★★☆☆"
 duration: "40 Mins"

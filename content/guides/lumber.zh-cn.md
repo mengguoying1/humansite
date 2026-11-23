@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 木材 (Lumber) 通关攻略"
 description: "《人类一败涂地》木材关卡图文攻略，详解巨型水车运转、圆盘电锯切割、吊木天车与木材厂成就。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 21
 difficulty: "★★★☆☆"
 duration: "35 Mins"

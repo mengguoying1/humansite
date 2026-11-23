@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Golf Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Golf level, featuring giant golf clubs, wind tunnels, carts, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 18
 difficulty: "★★★☆☆"
 duration: "35 Mins"

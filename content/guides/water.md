@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Water Walkthrough - Level 8 Guide"
 description: "Human: Fall Flat Water full level guide - boat steering, water canal locks, lighthouse beacons, and surfing skips."
-date: 2026-07-04
+date: 2025-07-04
 tags: [Walkthrough, Level-8, Water, Buoyancy]
 weight: 8
 difficulty: "★★★☆☆"

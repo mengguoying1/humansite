@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Beginner FAQ - 8 Common Questions Answered"
 description: "Human: Fall Flat beginner FAQ: why Bob is wobbly, how to grab, why you can't climb walls, fall damage, save system, level unlocks, controller vs keyboard, solo vs co-op, Steam Workshop."
-date: 2026-09-20
+date: 2025-09-20
 tags: [beginner, faq, basics]
 weight: 0
 ---

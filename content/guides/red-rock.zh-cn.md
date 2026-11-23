@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 红岩 (Red Rock) 通关攻略"
 description: "《人类一败涂地》红岩关卡图文攻略，详解荒野沙漠红岩峡谷、电磁铁装置、砂岩投石机与成就通关。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 24
 difficulty: "★★★★☆"
 duration: "45 Mins"

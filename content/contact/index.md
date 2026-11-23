@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: "Get in touch with the Human: Fall Flat Walkthrough Portal team - feedback, corrections, and cooperation."
-date: 2026-09-17T00:00:00Z
+date: 2025-09-17T00:00:00Z
 layout: "single"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Aztec Walkthrough - Level 10 Guide"
 description: "Human: Fall Flat Aztec full level guide - stone levers, counter-weight cages, pendulum courses, rolling ball balance, and statue exploits."
-date: 2026-07-04
+date: 2025-07-04
 tags: [Walkthrough, Level-10, Aztec, Ruins]
 weight: 10
 difficulty: "★★★★☆"

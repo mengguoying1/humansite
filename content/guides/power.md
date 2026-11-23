@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Power Walkthrough - Level 9 Guide"
 description: "Human: Fall Flat Power full level guide - electricity wiring, forklifts, dump trucks, coal hauling, and fan jump skips."
-date: 2026-07-04
+date: 2025-07-04
 tags: [Walkthrough, Level-9, Power, Electricity]
 weight: 9
 difficulty: "★★★☆☆"

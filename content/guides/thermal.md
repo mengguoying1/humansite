@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Thermal Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Thermal level, featuring thermal geysers, ice melting, mining drills, and thermal achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 27
 difficulty: "★★★★☆"
 duration: "40 Mins"

@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Steampunk Party Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Steampunk Party, featuring steam brass pipes, pressure valves, airships, and party achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 25
 difficulty: "★★★★☆"
 duration: "45 Mins"

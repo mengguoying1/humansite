@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Forest Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Forest level, featuring excavator driving, log flume rides, campfires, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 17
 difficulty: "★★★☆☆"
 duration: "40 Mins"

@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat City Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat City level, featuring drone flying mechanics, bowling alleys, rooftop catapults, and city achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 15
 difficulty: "★★★★☆"
 duration: "45 Mins"

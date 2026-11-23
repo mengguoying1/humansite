@@ -1,13 +1,13 @@
 ---
 title: "Privacy Policy"
 description: "Privacy policy for the Human: Fall Flat fan guide website."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 layout: "single"
 ---
 
 # Privacy Policy
 
-**Effective Date:** September 28, 2026
+**Effective Date:** September 28, 2025
 
 *Related policies: [Editorial Policy](/editorial-policy/) · [Corrections](/corrections/) · [About](/about/)*
 

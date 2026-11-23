@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Test Chamber Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Test Chamber level, featuring portal platforms, laser sensors, gravity chambers, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 26
 difficulty: "★★★★★"
 duration: "50 Mins"

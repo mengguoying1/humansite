@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Red Rock Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Red Rock level, featuring giant magnets, desert canyons, sandstone catapults, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 24
 difficulty: "★★★★☆"
 duration: "45 Mins"

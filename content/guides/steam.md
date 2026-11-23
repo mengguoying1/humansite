@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Steam Walkthrough - Level 12 Guide"
 description: "Human: Fall Flat Steam level guide - valve mechanics, pipe connection puzzles, and piston jumping."
-date: 2026-07-04
+date: 2025-07-04
 tags: [Walkthrough, Level-12, Steam, Industrial]
 weight: 12
 difficulty: "★★★☆☆"

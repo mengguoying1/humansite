@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 微观世界 (Miniature) 通关攻略"
 description: "《人类一败涂地》微观世界关卡图文攻略，详解巨人房间放大物件解谜、巨型吸尘器、国际象棋与成就通关。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 22
 difficulty: "★★★★☆"
 duration: "40 Mins"

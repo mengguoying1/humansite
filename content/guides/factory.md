@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Factory Walkthrough - Level 2 Guide"
 description: "Human: Fall Flat Factory full level guide - conveyor belt rides, heavy crane pivots, and shortcut tips."
-date: 2026-07-04
+date: 2025-07-04
 tags: [Walkthrough, Level-2, Factory, Advanced]
 weight: 2
 difficulty: "★★☆☆☆"

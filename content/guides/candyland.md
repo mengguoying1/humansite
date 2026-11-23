@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Candyland Walkthrough - Tips & Secrets"
 description: "Complete step-by-step walkthrough for Human: Fall Flat Candyland level, including jelly bouncy mechanics, chocolate falls, speedrun shortcuts, and hidden achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 14
 difficulty: "★★★☆☆"
 duration: "35 Mins"

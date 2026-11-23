@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Underwater Walkthrough - Tips & Secrets"
 description: "Full guide for Human: Fall Flat Underwater level, featuring yellow submarines, oxygen tanks, buoyancy physics, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 29
 difficulty: "★★★★☆"
 duration: "45 Mins"

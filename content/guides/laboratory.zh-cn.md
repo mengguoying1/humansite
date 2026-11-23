@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 实验室 (Laboratory) 通关攻略"
 description: "《人类一败涂地》实验室关卡全流程图文攻略，详解重力颠倒控制杆、电磁线圈、激光反射与科幻成就。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 20
 difficulty: "★★★★★"
 duration: "55 Mins"

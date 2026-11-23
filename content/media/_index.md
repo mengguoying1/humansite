@@ -68,7 +68,7 @@ Below are the trailers and sneak peeks for the newly released maps:
     <iframe src="//player.bilibili.com/player.html?bvid=BV1v34y187Tq&high_quality=1&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
   </div>
   <div class="video-footer">
-    <span class="video-author">Release: March 2026 | Featuring: Dave the Diver Collab</span>
+    <span class="video-author">Release: March 2025 | Featuring: Dave the Diver Collab</span>
     <a href="https://www.bilibili.com/video/BV1v34y187Tq" target="_blank" class="video-platform-link">
       <span>Watch on Bilibili</span>
       <svg class="icon-external" viewBox="0 0 24 24"><path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z"/></svg>

@@ -1,13 +1,13 @@
 ---
 title: "隐私政策"
 description: "人类一败涂地玩家攻略站隐私政策"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 layout: "single"
 ---
 
 # 隐私政策 (Privacy Policy)
 
-**生效日期：** 2026年9月28日
+**生效日期：** 2025年9月28日
 
 *相关政策：[编辑政策](/zh-cn/editorial-policy/) · [勘误记录](/zh-cn/corrections/) · [关于本站](/zh-cn/about/)*
 

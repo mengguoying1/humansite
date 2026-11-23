@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 铜界 (Copper World) 通关攻略"
 description: "《人类一败涂地》铜界关卡图文攻略，详解导线电缆接线、工业电磁铁吊车操作、齿轮发电机与成就通关。"
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 16
 difficulty: "★★★★☆"
 duration: "50 Mins"

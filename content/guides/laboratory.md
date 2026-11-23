@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Laboratory Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Laboratory level, featuring gravity inversion levers, magnet coils, laser beams, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 20
 difficulty: "★★★★★"
 duration: "55 Mins"

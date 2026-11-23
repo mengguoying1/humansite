@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Copper World Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Copper World, featuring electric cable connections, giant industrial wheels, magnet cranes, and achievements."
-date: 2026-08-25T00:00:00Z
+date: 2025-08-25T00:00:00Z
 weight: 16
 difficulty: "★★★★☆"
 duration: "50 Mins"
