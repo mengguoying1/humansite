@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Dark Walkthrough - Level 11 Guide"
 description: "Human: Fall Flat Dark level guide - electrical wiring, clock tower gears, and generator zipline skips."
-date: 2025-07-04
+date: 2026-07-04
 tags: [Walkthrough, Level-11, Dark, Electricity]
 weight: 11
 difficulty: "★★★★☆"

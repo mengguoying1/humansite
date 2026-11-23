@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 蒸汽朋克派对 (Steampunk Party) 通关攻略"
 description: "《人类一败涂地》蒸汽朋克派对关卡图文攻略，详解黄铜蒸汽管道连接、压力阀门、飞艇驾驶与成就通关。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 25
 difficulty: "★★★★☆"
 duration: "45 Mins"

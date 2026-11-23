@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 测试室 (Test Chamber) 通关攻略"
 description: "《人类一败涂地》测试室关卡图文攻略，详解传送门测试平台、激光传感器、重力转换与成就通关。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 26
 difficulty: "★★★★★"
 duration: "50 Mins"

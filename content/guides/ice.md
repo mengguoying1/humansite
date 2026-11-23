@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Ice Walkthrough - Level 13 Guide"
 description: "Human: Fall Flat Ice level guide - ice melting puzzles, ski lifts, and snowy slope speedruns."
-date: 2025-07-04
+date: 2026-07-04
 tags: [Walkthrough, Level-13, Ice, Winter]
 weight: 13
 difficulty: "★★★☆☆"

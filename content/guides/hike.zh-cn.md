@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 远足 (Hike) 通关攻略"
 description: "《人类一败涂地》远足关卡图文攻略，详解高山攀岩、徒步露营装备使用、木车推运与高山成就。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 19
 difficulty: "★★☆☆☆"
 duration: "30 Mins"

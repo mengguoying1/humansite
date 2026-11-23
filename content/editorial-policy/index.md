@@ -1,8 +1,8 @@
 ---
 title: "Editorial Policy"
 description: "How Human: Fall Flat Guide Hub creates, verifies, and corrects content."
-date: 2025-09-28T00:00:00Z
-lastmod: 2025-09-28T00:00:00Z
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 ---
 
 # Editorial Policy

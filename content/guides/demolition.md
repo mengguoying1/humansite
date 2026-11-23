@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Demolition Walkthrough - Level 6 Guide"
 description: "Human: Fall Flat Demolition full level guide - wrecking balls, breaking glass, avalanche triggers, and wall-skipping shortcuts."
-date: 2025-07-04
+date: 2026-07-04
 tags: [Walkthrough, Level-6, Demolition, Destruction]
 weight: 6
 difficulty: "★★★☆☆"

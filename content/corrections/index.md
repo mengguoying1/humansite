@@ -1,15 +1,15 @@
 ---
 title: "Corrections"
 description: "Public record of corrections made to Human: Fall Flat Guide Hub content."
-date: 2025-09-28T00:00:00Z
-lastmod: 2025-09-28T00:00:00Z
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 ---
 
 # Corrections
 
 This page lists factual changes made to the site after publication. The date shown is when the correction was applied.
 
-## 2025
+## 2026
 
 * **October 30** — *Homepage*: removed unsupported claims that every route was tested on the current Steam build and narrowed the stated guide coverage.
 * **October 30** — *Factory guide*: removed unsupported speedrun and achievement claims.

@@ -1,8 +1,8 @@
 ---
 title: "Human: Fall Flat Fan Guide"
 description: "Community notes and walkthroughs for Human: Fall Flat levels, controls, and multiplayer."
-date: 2025-09-28T00:00:00Z
-lastmod: 2025-09-28T00:00:00Z
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 ---
 
 《**Human: Fall Flat**》is a physics-based puzzle platformer where every grab, swing, and throw is governed by a real-time simulation. That means two players can clear the same level in completely different ways — one slow and careful, the other launching across the map with a well-timed momentum skip.

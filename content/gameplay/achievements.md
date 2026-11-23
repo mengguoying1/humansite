@@ -1,7 +1,7 @@
 ---
-title: "Human: Fall Flat Achievements Guide - All 151 Steam Achievements (2025)"
+title: "Human: Fall Flat Achievements Guide - All 151 Steam Achievements (2026)"
 description: "Complete 2026 achievements guide: 51 base game + 100 DLC achievements. Base 100% in 15-20h, full DLC ~46h. Rarest 0.1% hidden achievements, stat-grind achievements, and per-level completion achievements explained."
-date: 2025-09-20
+date: 2026-09-20
 tags: [achievements, speedrun, completionist, steam]
 weight: 3
 ---

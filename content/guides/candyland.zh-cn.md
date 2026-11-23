@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 糖果乐园 (Candyland) 通关攻略"
 description: "《人类一败涂地》糖果乐园关卡图文攻略，涵盖果冻弹跳物理、巧克力瀑布解谜、速通逃课路线与隐藏成就解锁方法。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 14
 difficulty: "★★★☆☆"
 duration: "35 Mins"

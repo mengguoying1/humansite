@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 地热 (Thermal) 通关攻略"
 description: "《人类一败涂地》地热关卡图文攻略，详解热汽温泉间歇泉、冰块融化、钻孔采矿机与地热成就通关。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 27
 difficulty: "★★★★☆"
 duration: "40 Mins"

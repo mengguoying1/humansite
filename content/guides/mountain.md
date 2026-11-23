@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Mountain Walkthrough - Level 5 Guide"
 description: "Human: Fall Flat Mountain full level guide - stone cliff climbs, cave gems, rope swings, and swing climbing exploits."
-date: 2025-07-04
+date: 2026-07-04
 tags: [Walkthrough, Level-5, Mountain, Climbing]
 weight: 5
 difficulty: "★★★☆☆"

@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 水下 (Underwater) 通关攻略"
 description: "《人类一败涂地》水下关卡图文攻略，详解黄色潜水艇驾驶、氧气瓶重力浮力物理、海底遗迹与成就通关。"
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 29
 difficulty: "★★★★☆"
 duration: "45 Mins"

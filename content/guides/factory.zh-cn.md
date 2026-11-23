@@ -1,7 +1,7 @@
 ---
 title: "人类一败涂地 第二关：工厂 (Factory) 通关攻略"
 description: "《人类一败涂地》工厂关卡的一条通关路线笔记。"
-date: 2025-07-04
+date: 2026-07-04
 tags: [攻略, 第二关, 工厂, 新手]
 weight: 2
 difficulty: "★★☆☆☆"

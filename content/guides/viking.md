@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Viking Walkthrough - Tips & Secrets"
 description: "Complete guide for Human: Fall Flat Viking level, featuring Viking longships, axes, wooden catapults, horn blowers, and achievements."
-date: 2025-08-25T00:00:00Z
+date: 2026-08-25T00:00:00Z
 weight: 30
 difficulty: "★★★★☆"
 duration: "40 Mins"

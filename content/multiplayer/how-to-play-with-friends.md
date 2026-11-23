@@ -1,14 +1,14 @@
 ---
 title: "How to Play Human: Fall Flat with Friends - Steam, Remote Play, Crossplay & 8-Player Co-op Guide"
-description: "Complete 2025 multiplayer guide: Steam invites, Remote Play Together (friends play free), crossplay limits, Switch split-screen, 8-player public lobbies, and connection troubleshooting."
-date: 2025-09-20
+description: "Complete 2026 multiplayer guide: Steam invites, Remote Play Together (friends play free), crossplay limits, Switch split-screen, 8-player public lobbies, and connection troubleshooting."
+date: 2026-09-20
 tags: [multiplayer, steam, remote-play, crossplay]
 weight: 1
 ---
 
 # How to Play Human: Fall Flat with Friends — Full Multiplayer Guide
 
-Human: Fall Flat supports up to **8 players online**, and co-op turns the physics engine into pure chaos — coordinated carrying, mutual throwing, human ladders up walls. But getting friends in involves three separate systems: Steam invites, Remote Play Together, and crossplay limits. This guide covers the 2025 state of each.
+Human: Fall Flat supports up to **8 players online**, and co-op turns the physics engine into pure chaos — coordinated carrying, mutual throwing, human ladders up walls. But getting friends in involves three separate systems: Steam invites, Remote Play Together, and crossplay limits. This guide covers the 2026 state of each.
 
 ## 1. Steam Online Co-op (up to 8 players)
 

@@ -1,7 +1,7 @@
 ---
 title: "Human: Fall Flat Mansion Walkthrough - Level 1 Guide"
 description: "Human: Fall Flat Mansion full level guide - detailed solutions, speedrun tricks, and soccer easter egg."
-date: 2025-07-04
+date: 2026-07-04
 tags: [Walkthrough, Level-1, Mansion, Tutorial]
 weight: 1
 difficulty: "★☆☆☆☆"

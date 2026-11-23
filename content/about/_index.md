@@ -1,8 +1,8 @@
 ---
 title: "About the Human: Fall Flat Guide Hub"
 description: "Who runs this Human: Fall Flat guide site, how walkthroughs are written and verified, and how to report corrections."
-date: 2025-09-28T00:00:00Z
-lastmod: 2025-09-28T00:00:00Z
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 ---
 
 # About the Hub
